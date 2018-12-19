@@ -1,0 +1,6 @@
+{
+    "name": "root/app",
+    "require": {
+        "laravel/lumen-framework": "^5.5"
+    }
+}
