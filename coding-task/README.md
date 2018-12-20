@@ -14,6 +14,7 @@ We want our `app` to provide a simple UI for the user to be able to store a give
 and later retrieve it. Service requires an API token to be passed via `X-Token` request header. Token's value is provided
 below in "Service API" section. You should store it securely and not expose it to the front-end layer of our application.
 Hence, your task is to implement a PHP client that will act as a bridge between our user and the 3rd party service.
+You will also need to implement a simple UI with AJAX interactions using jQuery.
 
 We are aware that 3rd party service is a bit unreliable and sometimes responds with HTTP 502 error.
 You need to handle that as well. After all, we do not want to annoy our users, do we? :)
@@ -29,7 +30,7 @@ The service listens on port `8080` and you can communicate with it using HTTP pr
 All responses are JSON encoded. HTTP 401 response will be served when `X-Token` header is missing or is invalid.
 HTTP 502 indicates that the server was not able to process the request and the client should retry it.
 
-**Our token**: ``0d5f153fb24410ec8c83092b976ac8205cd4a302`.
+**Our token**: `0d5f153fb24410ec8c83092b976ac8205cd4a302`.
 
 ### `GET /`
 
