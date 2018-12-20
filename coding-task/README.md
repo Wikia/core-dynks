@@ -7,6 +7,7 @@ This repository contains a small PHP application that is run by [`docker-compose
 * `service` container should be treated as a 3rd party service that we want to interact with.
 
 `docker-compose build && docker-compose up` builds and runs our application.
+You can now visit [0.0.0.0:8080](http://0.0.0.0:8080/).
 
 # Your task
 
