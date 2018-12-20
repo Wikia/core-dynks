@@ -11,8 +11,9 @@ services:
     depends_on:
       - app
   app:
-    build:
-      context: app
+    image: php:7.3-fpm-alpine
+    volumes:
+      - ./app:/var/www/html
   service:
     build:
       context: service
