@@ -18,5 +18,3 @@ services:
       context: service
     ports:
       - "8088:80"
-    volumes:
-      - ./tmp:/tmp
