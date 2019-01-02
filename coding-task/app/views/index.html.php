@@ -9,7 +9,15 @@
 			<a class="navbar-brand" href="/">Coding task</a>
 		</div>
 	</nav>
-	<div class="container">
+
+    <section class="jumbotron text-center">
+        <div class="container">
+            <h1 class="jumbotron-heading">Coding task</h1>
+            <p class="lead text-muted">Please refer to <tt>README.md</tt> for instructions. Good luck!</p>
+        </div>
+    </section>
+
+	<div class="container" style="margin: 8em auto">
 		<form>
             <div class="form-group row">
                 <label for="message" class="col-4 col-form-label">Your message</label>
@@ -33,7 +41,7 @@
 		</form>
 	</div>
 
-	<footer class="bg-light bd-footer">
+	<footer class="bg-light jumbotron">
 		<div class="container">Running using service v<?= $version ?></div>
 	</footer>
 
