@@ -4,29 +4,36 @@
 	<title>Coding task - Fandom</title>
 </head>
 <body>
-	<nav class="navbar bg-light">
+	<nav class="nav navbar bg-light">
 		<div class="container">
 			<a class="navbar-brand" href="/">Coding task</a>
 		</div>
 	</nav>
 	<div class="container">
 		<form>
-			<label for="message">Your message</label>
-			<input type="text" id="message">
+            <div class="form-group row">
+                <label for="message" class="col-4 col-form-label">Your message</label>
+                <div class="col-6">
+                    <input type="text" id="message" class="form-control">
+                </div>
+                <div class="col-2">
+                    <button id="send" class="form-control btn btn-primary">Send</button>
+                </div>
+            </div>
 
-			<button id="send">Send</button>
-
-			<br>
-			<br>
-
-			<label for="message">Your message</label>
-			<input type="text" id="read" readonly>
-
-			<button id="read">Read</button>
+            <div class="form-group row">
+                <label for="read" class="col-4 col-form-label">Message from the service</label>
+                <div class="col-6">
+                    <input type="text" id="read" class="form-control" readonly>
+                </div>
+                <div class="col-2">
+                    <button id="read" class="form-control btn btn-secondary">Read</button>
+                </div>
+            </div>
 		</form>
 	</div>
 
-	<footer class="bg-light">
+	<footer class="bg-light bd-footer">
 		<div class="container">Running using service v<?= $version ?></div>
 	</footer>
 
