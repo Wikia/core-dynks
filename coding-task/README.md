@@ -7,13 +7,15 @@ This repository contains a small PHP application that is run by [`docker-compose
 * `service` container should be treated as a 3rd party service that we want to interact with.
 
 `docker-compose build && docker-compose up` builds and runs our application.
-You can now visit [0.0.0.0:8080](http://0.0.0.0:8080/).
+You can now visit [0.0.0.0:8080](http://0.0.0.0:8080/) - a simple UI should render.
 
 # Your task
 
-We want our `app` to provide a simple UI for the user to be able to store a given message in 3rd party service
-and later retrieve it. Service requires an API token to be passed via `X-Token` request header. Token's value is provided
-below in "Service API" section. You should store it securely and not expose it to the front-end layer of our application.
+We want our `app` to provide (a simple UI for the user)(http://0.0.0.0:8080/) to be able to store a given message in
+3rd party service and later retrieve it. Service requires an API token to be passed via `X-Token` request header.
+Token's value is provided below in "Service API" section. You should store it securely and not expose it to the
+front-end layer of our application.
+
 Hence, your task is to implement a PHP client that will act as a bridge between our user and the 3rd party service.
 You will also need to implement a simple UI with AJAX interactions using jQuery.
 
