@@ -6,6 +6,7 @@ This script for each wiki:
 
 - takes 50 most used portable infoboxes
 - analyzes the names of template parameters
+- takes parameters for those from up to 500 articles for each infobox
 
 It also writes values.txt file with all values taken from infoboxes.
 """
@@ -132,6 +133,7 @@ def get_portable_infoboxes(wikis):
     # raw values as we get them
     # they will be stored in "values.txt" file for further processing
     template_values = []
+    articles_analyzed = 0
 
     for wiki_domain in wikis:
         site = get_site(wiki_domain)
@@ -166,6 +168,7 @@ def get_portable_infoboxes(wikis):
             articles = get_articles_with_infobox(site, infobox, 50)
 
             for article in articles:
+                articles_analyzed += 1
                 data = get_infoboxes_from_article(site, article)
                 # print(data)
 
@@ -199,7 +202,8 @@ def get_portable_infoboxes(wikis):
         for value in template_values:
             fp.write(value + "\n")
 
-    logger.info('values.txt file written - %d lines', len(template_values))
+    logger.info('values.txt file written - %d lines (from %d articles)',
+                len(template_values), articles_analyzed)
 
 
 if __name__ == '__main__':
@@ -217,7 +221,7 @@ muppet.fandom.com
 tardis.fandom.com
 vampirediaries.fandom.com
 hero.fandom.com
-        """.strip().split('\n')[:2]
+        """.strip().split('\n')
     )
 
     """
