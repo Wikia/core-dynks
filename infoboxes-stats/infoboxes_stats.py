@@ -6,9 +6,10 @@ This script for each wiki:
 
 - takes 50 most used portable infoboxes
 - analyzes the names of template parameters
-"""
-from __future__ import print_function
 
+It also writes values.txt file with all values taken from infoboxes.
+"""
+import json
 import logging
 
 from collections import Counter, defaultdict
@@ -58,7 +59,7 @@ def get_portable_infobox_params(site: Site, template_name: str):
     :type template_name str
     :rtype: list[str]
     """
-    logging.info('Getting %s infobox parameters ...', template_name)
+    logging.info('Getting "%s" infobox parameters ...', template_name)
 
     # http://poznan.wikia.com/api.php?action=templateparameters&titles=Szablon:Ulica_infobox&format=json
     res = site.get(action='templateparameters', titles=template_name)
@@ -68,6 +69,51 @@ def get_portable_infobox_params(site: Site, template_name: str):
         return item['params']
 
     return []
+
+
+def get_articles_with_infobox(site: Site, template: str, limit: int = 500):
+    """
+    :type site Site
+    :type template str
+    :type limit int
+    :rtype list[str]
+    """
+    # http://poznan.wikia.com/api.php?action=query&list=embeddedin&eititle=Szablon:Ulica_infobox&eilimit=500
+    res = site.get(action='query', list='embeddedin', eititle=template, eilimit=limit)
+    return [
+        # <ei pageid="3915" ns="0" title="Czartoria" />
+        entry['title']
+        for entry in res['query']['embeddedin']
+        if entry['ns'] == 0  # NS_MAIN only
+    ]
+
+
+def get_infoboxes_from_article(site: Site, title: str):
+    """
+    :type site Site
+    :type title str
+    :rtype: list[str, dict]
+    """
+    logger = logging.getLogger('get_infoboxes_from_article')
+    logger.info('Article: %s', title)
+
+    # https://nfs.fandom.com/wikia.php?controller=TemplatesApiController&method=getMetadata&title=Ferrari_355_F1
+    res = json.loads(site.raw_call(
+        http_method='GET',
+        script='wikia',
+        data={
+            'controller': 'TemplatesApiController',
+            'method': 'getMetadata',
+            'title': title
+        }
+    ))
+
+    return [
+        # Ulica infobox -> Template:Ulica infobox
+        ('Template:{}'.format(template['name']), template['parameters'])
+        for template in res['templates']
+        if template['type'] == 'infobox'
+    ]
 
 
 def get_portable_infoboxes(wikis):
@@ -82,6 +128,10 @@ def get_portable_infoboxes(wikis):
 
     # how frequently is a given parameter used in this template across wikis?
     template_parameters = defaultdict(Counter)
+
+    # raw values as we get them
+    # they will be stored in "values.txt" file for further processing
+    template_values = []
 
     for wiki_domain in wikis:
         site = get_site(wiki_domain)
@@ -104,12 +154,32 @@ def get_portable_infoboxes(wikis):
             if template in all_infoboxes and template not in non_portable
         ][:50]
 
+        # process each portable infobox
         for infobox in infoboxes:
             params = get_portable_infobox_params(site, infobox)
             # print(wiki_domain, infobox, params)
 
             # update per template params statistics
             template_parameters[infobox].update(set(params))
+
+            # now get article that use a given infobox
+            articles = get_articles_with_infobox(site, infobox, 50)
+
+            for article in articles:
+                data = get_infoboxes_from_article(site, article)
+                # print(data)
+
+                for template_name, parameter in data:
+                    # ignore data coming from other templates and infoboxes
+                    if template_name != infobox:
+                        continue
+
+                    template_values += [
+                        str(value).strip().replace("\n", '\\n')
+                        for value in parameter.values()
+                    ]
+
+        # print(wiki_domain, "\n".join(template_values)); exit(1)
 
         # print(wiki_domain, infoboxes)
 
@@ -123,6 +193,13 @@ def get_portable_infoboxes(wikis):
         logger.info('Most common parameters for %s (used on %d wikis): %s',
                     infobox, usage_count,
                     template_parameters[infobox].most_common())
+
+    # write collected values to a file
+    with open('values.txt', 'wt') as fp:
+        for value in template_values:
+            fp.write(value + "\n")
+
+    logger.info('values.txt file written - %d lines', len(template_values))
 
 
 if __name__ == '__main__':
@@ -140,7 +217,7 @@ muppet.fandom.com
 tardis.fandom.com
 vampirediaries.fandom.com
 hero.fandom.com
-        """.strip().split('\n')
+        """.strip().split('\n')[:2]
     )
 
     """
