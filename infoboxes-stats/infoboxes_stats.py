@@ -9,6 +9,8 @@ This script for each wiki:
 - takes parameters for those from up to 500 articles for each infobox
 
 It also writes values.txt file with all values taken from infoboxes.
+
+templates.md file will be generated as well.
 """
 import json
 import logging
@@ -67,7 +69,7 @@ def get_portable_infobox_params(site: Site, template_name: str):
 
     if res['pages']:
         item = next(iter(res['pages'].items()))[1]
-        return item['params']
+        return map(str, item['params'])
 
     return []
 
@@ -135,6 +137,11 @@ def get_portable_infoboxes(wikis):
     template_values = []
     articles_analyzed = 0
 
+    # write templates.md
+    templates_md = open('templates.md', 'wt')
+    templates_md.write('# Templates\n')
+    templates_md.write('> Wikis below: {}\n\n'.format(len(wikis)))
+
     for wiki_domain in wikis:
         site = get_site(wiki_domain)
 
@@ -156,13 +163,26 @@ def get_portable_infoboxes(wikis):
             if template in all_infoboxes and template not in non_portable
         ][:50]
 
+        templates_md.write('\n## {}\n'.format(wiki_domain))
+        templates_md.write('> Portable infoboxes: {}\n\n'.format(len(infoboxes)))
+
         # process each portable infobox
         for infobox in infoboxes:
             params = get_portable_infobox_params(site, infobox)
             # print(wiki_domain, infobox, params)
 
+            templates_md.write('\n### [{}](http://{}/wiki/{})\n'.
+                               format(infobox, wiki_domain, infobox.replace(' ', '_')))
+
+            templates_md.writelines([
+                '* `{}`\n'.format(param)
+                for param in sorted(params)
+            ])
+
             # update per template params statistics
             template_parameters[infobox].update(set(params))
+
+            # continue  # skip the process of analyzing values
 
             # now get article that use a given infobox
             articles = get_articles_with_infobox(site, infobox, 50)
@@ -188,6 +208,8 @@ def get_portable_infoboxes(wikis):
 
         for infobox in infoboxes:
             global_templates.update((infobox,))
+
+    templates_md.close()
 
     logger.info('%d unique template', len(global_templates.keys()))
 
