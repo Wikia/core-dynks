@@ -69,7 +69,7 @@ def get_portable_infobox_params(site: Site, template_name: str):
 
     if res['pages']:
         item = next(iter(res['pages'].items()))[1]
-        return map(str, item['params'])
+        return list(map(str, item['params']))
 
     return []
 
@@ -132,6 +132,9 @@ def get_portable_infoboxes(wikis):
     # how frequently is a given parameter used in this template across wikis?
     template_parameters = defaultdict(Counter)
 
+    # in now many templates is given attribute used (lowercase)?
+    parameter_templates = defaultdict(Counter)
+
     # raw values as we get them
     # they will be stored in "values.txt" file for further processing
     template_values = []
@@ -182,6 +185,10 @@ def get_portable_infoboxes(wikis):
             # update per template params statistics
             template_parameters[infobox].update(set(params))
 
+            # update per parameter statistics of in which templates it's used
+            for param in params:
+                parameter_templates[param.lower()].update((infobox,))
+
             # continue  # skip the process of analyzing values
 
             # now get article that use a given infobox
@@ -211,6 +218,7 @@ def get_portable_infoboxes(wikis):
 
     templates_md.close()
 
+    # templates
     logger.info('%d unique template', len(global_templates.keys()))
 
     # get info about most common ones
@@ -218,6 +226,23 @@ def get_portable_infoboxes(wikis):
         logger.info('Most common parameters for %s (used on %d wikis): %s',
                     infobox, usage_count,
                     template_parameters[infobox].most_common())
+
+    # template params
+    logger.info('%d unique parameters', len(parameter_templates.keys()))
+
+    # get info about most common ones
+    with open('parameters.md', 'wt') as fp:
+        fp.write('# Parameters\n')
+
+        for parameter in sorted(parameter_templates.keys()):
+            templates = parameter_templates[parameter]
+
+            fp.write('\n## `{}` parameter\n> Used in {} templates\n\n'.format(parameter, len(templates.keys())))
+            # https://docs.python.org/2/library/collections.html#collections.Counter.most_common
+            fp.writelines([
+                "* `{}` ({} times)\n".format(template, count)
+                for template, count in templates.most_common()
+            ])
 
     # write collected values to a file
     with open('values.txt', 'wt') as fp:
