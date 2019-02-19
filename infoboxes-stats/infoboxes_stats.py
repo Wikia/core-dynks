@@ -194,20 +194,48 @@ def get_portable_infoboxes(wikis):
             # now get article that use a given infobox
             articles = get_articles_with_infobox(site, infobox, 50)
 
+            parameters_usage_stats = {
+                "wiki": wiki_domain,
+                "infobox": infobox,
+                "parameters": {
+                    param: dict(
+                        _not_set_in=0,
+                        _set_in=0
+                    )
+                    for param in params
+                }
+            }
+
             for article in articles:
                 articles_analyzed += 1
                 data = get_infoboxes_from_article(site, article)
                 # print(data)
 
-                for template_name, parameter in data:
+                for template_name, template_params in data:
                     # ignore data coming from other templates and infoboxes
                     if template_name != infobox:
                         continue
 
                     template_values += [
                         str(value).strip().replace("\n", '\\n')
-                        for value in parameter.values()
+                        for value in template_params.values()
                     ]
+
+                    for param in params:
+                        # this param is used in this template on this page
+                        if param in template_params:
+                            value = str(template_params.get(param))
+
+                            parameters_usage_stats['parameters'][param]['_set_in'] += 1
+                            parameters_usage_stats['parameters'][param][article] = value
+                        else:
+                            parameters_usage_stats['parameters'][param]['_not_set_in'] += 1
+                            # parameters_usage_stats['parameters'][param][article] = None
+
+            # store per infobox stats regarding missing values in articles that use it
+            with open('templates/{}_{}.json'.format(wiki_domain, infobox.replace('/', '_')), 'wt') as fp:
+                json.dump(parameters_usage_stats, fp=fp, indent=True)
+                logger.info('Saved %s', fp.name)
 
         # print(wiki_domain, "\n".join(template_values)); exit(1)
 
@@ -234,10 +262,10 @@ def get_portable_infoboxes(wikis):
     with open('parameters.md', 'wt') as fp:
         fp.write('# Parameters\n')
 
-        for parameter in sorted(parameter_templates.keys()):
-            templates = parameter_templates[parameter]
+        for template_parameters in sorted(parameter_templates.keys()):
+            templates = parameter_templates[template_parameters]
 
-            fp.write('\n## `{}` parameter\n> Used in {} templates\n\n'.format(parameter, len(templates.keys())))
+            fp.write('\n## `{}` parameter\n> Used in {} templates\n\n'.format(template_parameters, len(templates.keys())))
             # https://docs.python.org/2/library/collections.html#collections.Counter.most_common
             fp.writelines([
                 "* `{}` ({} times)\n".format(template, count)
