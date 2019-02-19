@@ -1,0 +1,82 @@
+{
+ "wiki": "walkingdead.fandom.com",
+ "infobox": "Template:Mission",
+ "parameters": {
+  "title": {
+   "_not_set_in": 5,
+   "_set_in": 0
+  },
+  "number": {
+   "_not_set_in": 0,
+   "_set_in": 5,
+   "Battle Tutorial": " 1\n",
+   "Camp Supplies": " 2\n",
+   "Arming The Camp": " 3\n",
+   "Tents for Camp": " 4",
+   "Setting up Defenses": " 5"
+  },
+  "chapter": {
+   "_not_set_in": 0,
+   "_set_in": 5,
+   "Battle Tutorial": " 1\n",
+   "Camp Supplies": " 1\n",
+   "Arming The Camp": " 1\n",
+   "Tents for Camp": " 1",
+   "Setting up Defenses": " 1"
+  },
+  "image": {
+   "_not_set_in": 0,
+   "_set_in": 5,
+   "Battle Tutorial": " AMC The Walking Dead Social Game on Facebook.png\n",
+   "Camp Supplies": " Mission2 CampSupplies.jpg\n",
+   "Arming The Camp": " AMC The Walking Dead Social Game on Facebook1.png\n",
+   "Tents for Camp": " AMC The Walking Dead Social Game on Facebook(6).png",
+   "Setting up Defenses": " AMC The Walking Dead Social Game on Facebook9.png"
+  },
+  "given": {
+   "_not_set_in": 0,
+   "_set_in": 5,
+   "Battle Tutorial": " [[Shane Walsh (Social Game)|Shane]]\n",
+   "Camp Supplies": " [[Greg (Social Game)|Greg]]\n",
+   "Arming The Camp": " [[Greg (Social Game)|Greg]]\n",
+   "Tents for Camp": " [[Kara]]",
+   "Setting up Defenses": " [[Kara]]"
+  },
+  "requirements": {
+   "_not_set_in": 0,
+   "_set_in": 5,
+   "Battle Tutorial": " 15 Supplies<br> 15 Energy (1st Play)<br> 50 Supplies<br> 10 Energy (Replay)\n",
+   "Camp Supplies": " 15 Supplies<br> 15 Energy (1st Play)<br> 50 Supplies<br> 10 Energy (Replay)\n",
+   "Arming The Camp": " 15 Supplies<br> 15 Energy (1st Play)<br> 50 Supplies<br> 10 Energy (Replay)\n",
+   "Tents for Camp": " 15 Supplies<br> 15 Energy (1st Play)<br> 50 Supplies<br> 10 Energy (Replay)",
+   "Setting up Defenses": " 15 Supplies\n15 Energy (1st Play)\n50 Supplies\n10 Energy (Replay)"
+  },
+  "reward": {
+   "_not_set_in": 0,
+   "_set_in": 5,
+   "Battle Tutorial": " 5 XP<br> 5 Coins<br> 10-13 Supplies<span title=\"Estimate\" style=\"cursor:help;>*</span>\n",
+   "Camp Supplies": " 10 XP<br> 500 Coins<br> 10-13 Supplies<span title=\"Estimate\" style=\"cursor:help;>*</span>\n",
+   "Arming The Camp": " 25 XP<br> 100 Coins<br> 10-13 Supplies\n",
+   "Tents for Camp": " 25 XP<br> 100 Coins<br> 10-13 Supplies",
+   "Setting up Defenses": " 25 XP\n100 Coins\n10-13 Supplies"
+  },
+  "previous": {
+   "_not_set_in": 0,
+   "_set_in": 5,
+   "Battle Tutorial": " N/A\n",
+   "Camp Supplies": " [[Battle Tutorial]]\n",
+   "Arming The Camp": " [[Camp Supplies]]\n",
+   "Tents for Camp": " [[Arming The Camp]]",
+   "Setting up Defenses": " [[Tents for Camp]]"
+  },
+  "next": {
+   "_not_set_in": 0,
+   "_set_in": 5,
+   "Battle Tutorial": " [[Camp Supplies]]",
+   "Camp Supplies": " [[Arming The Camp]]",
+   "Arming The Camp": " [[Tents for Camp]]",
+   "Tents for Camp": " [[Setting up Defenses]]",
+   "Setting up Defenses": " [[Helping A Friend]]"
+  }
+ }
+}

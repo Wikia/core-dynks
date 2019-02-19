@@ -1,0 +1,177 @@
+{
+ "wiki": "powerrangers.fandom.com",
+ "infobox": "Template:SentaiTeamInfo",
+ "parameters": {
+  "season": {
+   "_not_set_in": 0,
+   "_set_in": 14,
+   "Jaden Sentai Neziranger": " Denji Sentai Megaranger\n",
+   "Boso Sentai Zokuranger": " Gekisou Sentai Carranger\n",
+   "Renaissance Trinoid Jamei Sentai Evoranger": " Bakuryuu Sentai Abaranger",
+   "Ginga Sentai Gingaman": " Chikyuu Sentai Fiveman\n",
+   "Shadow Jetman": " Choujin Sentai Jetman\n",
+   "Copy Sentai Copyranger": " Hyakujuu Sentai Gaoranger\n",
+   "Shade Rangers": " Hyakujuu Sentai Gaoranger\n",
+   "Fake Zyuranger": " Kyoryu Sentai Zyuranger\n",
+   "Copy Dairangers": " Gosei Sentai Dairanger\n",
+   "Evil Magirangers": " Mahou Sentai Magiranger\n",
+   "Evil Boukengers": " GoGo Sentai Boukenger\n",
+   "S.P.D. Fire Squad": " Tokusou Sentai Dekaranger\n",
+   "Ranger Key Clones": " Kaizoku Sentai Gokaiger\n",
+   "Super Sentai 199": " Kaizoku Sentai Gokaiger\n"
+  },
+  "seasons": {
+   "_not_set_in": 14,
+   "_set_in": 0
+  },
+  "image": {
+   "_not_set_in": 0,
+   "_set_in": 14,
+   "Jaden Sentai Neziranger": " gallery\nJaden Sentai Neziranger.png\n</gallery>\n",
+   "Boso Sentai Zokuranger": " Crash and the Creeps.jpg\n",
+   "Renaissance Trinoid Jamei Sentai Evoranger": "Jamei Sentai Evoranger.jpg",
+   "Ginga Sentai Gingaman": " Five9.png\n",
+   "Shadow Jetman": " Red Hawk vs. Shadow Red Hawk.jpg\n",
+   "Copy Sentai Copyranger": " Copy Sentai Copyranger.jpg\n",
+   "Shade Rangers": " Shade Rangers.jpg\n",
+   "Fake Zyuranger": " Evil Zyurangers.PNG\n",
+   "Copy Dairangers": " CopyDaiRanger.png\n",
+   "Evil Magirangers": " Evil Magiranger.jpg\n",
+   "Evil Boukengers": " Evil Boukengers.jpg\n",
+   "S.P.D. Fire Squad": " 20060102134645.jpg\n",
+   "Ranger Key Clones": " \n",
+   "Super Sentai 199": "199 Heroes.PNG\n"
+  },
+  "leader": {
+   "_not_set_in": 1,
+   "_set_in": 13,
+   "Jaden Sentai Neziranger": " NeziRed\n",
+   "Boso Sentai Zokuranger": " SS Pamaan\n",
+   "Ginga Sentai Gingaman": " Baikanian Ginga Red\n",
+   "Shadow Jetman": " Light Armadillo\n",
+   "Copy Sentai Copyranger": " Copy Org\n",
+   "Shade Rangers": " Duke Org DoroDoro\n",
+   "Fake Zyuranger": " Dora Mirage\n",
+   "Copy Dairangers": " Copy Empress\n",
+   "Evil Magirangers": " Hades Warrior God Toad\n",
+   "Evil Boukengers": " Ouga\n",
+   "S.P.D. Fire Squad": " Gyoku Rou\n",
+   "Ranger Key Clones": " Basco\n",
+   "Super Sentai 199": " Tsuyoshi Kaijo\n"
+  },
+  "leader2": {
+   "_not_set_in": 12,
+   "_set_in": 2,
+   "S.P.D. Fire Squad": " Banban Akaza\n",
+   "Ranger Key Clones": " Black Cross King"
+  },
+  "mentor": {
+   "_not_set_in": 12,
+   "_set_in": 2,
+   "Jaden Sentai Neziranger": " Dr. Hinelar",
+   "Renaissance Trinoid Jamei Sentai Evoranger": " Creative Messenger Mikela"
+  },
+  "mentors": {
+   "_not_set_in": 14,
+   "_set_in": 0
+  },
+  "base": {
+   "_not_set_in": 12,
+   "_set_in": 2,
+   "Jaden Sentai Neziranger": " Grand Neziro\n",
+   "Renaissance Trinoid Jamei Sentai Evoranger": " Invasion Garden Palace"
+  },
+  "location": {
+   "_not_set_in": 13,
+   "_set_in": 1,
+   "Evil Magirangers": " Marudeyouna\n"
+  },
+  "villains": {
+   "_not_set_in": 12,
+   "_set_in": 2,
+   "S.P.D. Fire Squad": " [[Space Criminals Alienizer]]\n",
+   "Super Sentai 199": " [[Space Empire Zangyack]], [[Shocker-Zangyack Alliance]]\n"
+  },
+  "coexistedwith": {
+   "_not_set_in": 12,
+   "_set_in": 2,
+   "S.P.D. Fire Squad": " Dekarangers\n",
+   "Super Sentai 199": " \n"
+  },
+  "coexist2": {
+   "_not_set_in": 13,
+   "_set_in": 1,
+   "S.P.D. Fire Squad": " \n"
+  },
+  "battledrangers": {
+   "_not_set_in": 0,
+   "_set_in": 14,
+   "Jaden Sentai Neziranger": " [[Megarangers]]\n",
+   "Boso Sentai Zokuranger": " [[Carrangers]]\n",
+   "Renaissance Trinoid Jamei Sentai Evoranger": " [[AbareKiller]]",
+   "Ginga Sentai Gingaman": " [[Fiveman]]\n",
+   "Shadow Jetman": " [[Jetman]]\n",
+   "Copy Sentai Copyranger": " [[Gaoranger]]\n",
+   "Shade Rangers": " [[Gaorangers]]\n",
+   "Fake Zyuranger": " [[Zyuranger]]\n",
+   "Copy Dairangers": " [[Dairanger]]\n",
+   "Evil Magirangers": " [[Magirangers]]\n",
+   "Evil Boukengers": " [[Boukengers]]\n",
+   "S.P.D. Fire Squad": " \n",
+   "Ranger Key Clones": " [[Gokaigers]]\n[[Goseigers]]\n",
+   "Super Sentai 199": " \n"
+  },
+  "teamup": {
+   "_not_set_in": 12,
+   "_set_in": 2,
+   "S.P.D. Fire Squad": " \n",
+   "Super Sentai 199": " [[Gokaigers]], [[Goseigers]]\n"
+  },
+  "teamup2": {
+   "_not_set_in": 12,
+   "_set_in": 2,
+   "S.P.D. Fire Squad": " \n",
+   "Super Sentai 199": " [[Go-Busters (team)|Go-Busters]], KRAll RidersKamen Riders\n"
+  },
+  "soloteamup": {
+   "_not_set_in": 12,
+   "_set_in": 2,
+   "S.P.D. Fire Squad": " [[Geki Jumonji|Space Sheriff Gavan Type G]], [[Kyurangers]]\n",
+   "Super Sentai 199": " \n"
+  },
+  "prodpreviousteam": {
+   "_not_set_in": 1,
+   "_set_in": 13,
+   "Jaden Sentai Neziranger": " Boso Sentai Zokuranger\n",
+   "Boso Sentai Zokuranger": " Flowery Kunoichi Team\n",
+   "Renaissance Trinoid Jamei Sentai Evoranger": " Fake Rangers",
+   "Ginga Sentai Gingaman": " Fake Bioman\n",
+   "Shadow Jetman": " Galaxy Sentai Gingaman\n",
+   "Copy Sentai Copyranger": " Copy Timeranger\n",
+   "Shade Rangers": " Copy Sentai Copyranger\n",
+   "Fake Zyuranger": " Shadow Jetman\n",
+   "Copy Dairangers": " Fake Zyuranger\n",
+   "Evil Magirangers": " Renaissance Trinoid Jamei Sentai Evoranger\n",
+   "Evil Boukengers": " Evil Magirangers",
+   "S.P.D. Fire Squad": " Lightning Speed Gouraiger\n",
+   "Ranger Key Clones": " Evil Boukengers"
+  },
+  "prodnextteam": {
+   "_not_set_in": 1,
+   "_set_in": 13,
+   "Jaden Sentai Neziranger": " Copy Timeranger",
+   "Boso Sentai Zokuranger": " Jaden Sentai Neziranger",
+   "Renaissance Trinoid Jamei Sentai Evoranger": " Evil Magirangers",
+   "Ginga Sentai Gingaman": " Shadow Jetman",
+   "Shadow Jetman": " Fake Zyuranger",
+   "Copy Sentai Copyranger": " Shade Rangers\n",
+   "Shade Rangers": " Fake Rangers\n",
+   "Fake Zyuranger": " Copy Dairangers",
+   "Copy Dairangers": " Flowery Kunoichi Team",
+   "Evil Magirangers": " Evil Boukengers",
+   "Evil Boukengers": " Ranger Key Clones",
+   "S.P.D. Fire Squad": " RinJyuKen Warriors\n",
+   "Ranger Key Clones": " Filmloid's fake Go-Busters"
+  }
+ }
+}

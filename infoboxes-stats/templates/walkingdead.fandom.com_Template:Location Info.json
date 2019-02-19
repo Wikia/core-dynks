@@ -1,0 +1,58 @@
+{
+ "wiki": "walkingdead.fandom.com",
+ "infobox": "Template:Location Info",
+ "parameters": {
+  "image": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "imagecaption": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "image2": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "image2caption": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "image3": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "image3caption": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "name": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "type": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "state": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "status": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "series": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "episode": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "IRL": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  }
+ }
+}

@@ -1,0 +1,121 @@
+{
+ "wiki": "walkingdead.fandom.com",
+ "infobox": "Template:Vehicle",
+ "parameters": {
+  "name": {
+   "_not_set_in": 2,
+   "_set_in": 7,
+   "Dale Horvath's Recreational Vehicle": " 1973 D-27C Winnebago Chieftain\n",
+   "2011 Hyundai Tucson": " 2011 Hyundai Tucson \n",
+   "2009 Dodge Challenger": " 2009 Dodge Challenger R/T",
+   "1994 Buick Roadmaster": " 1994 Buick Roadmaster",
+   "TruWest Airlines Flight 462": " TruWest Airlines Flight 462\n",
+   "1985 Coachmen Senator": " 1985 Coachmen Senator",
+   "1995 Isuzu NPR": " 1995 Isuzu NPR"
+  },
+  "image": {
+   "_not_set_in": 0,
+   "_set_in": 9,
+   "Dale Horvath's Recreational Vehicle": " File:RV.jpg\n",
+   "2011 Hyundai Tucson": " File:Kmplayer2013-03-0600-37-55-53.jpg\n",
+   "1987-1991 Jeep Wrangler": " File:Jeep.JPG\n",
+   "M60 Patton \"Lil' Louie\"": " File:TFG Patton Cover.png\n",
+   "2009 Dodge Challenger": " File: T350779.jpg",
+   "1994 Buick Roadmaster": " File:I848868.jpg",
+   "TruWest Airlines Flight 462": " File:462.png",
+   "1985 Coachmen Senator": " File:Kmplayer2016-01-2215-36-12-68.jpg",
+   "1995 Isuzu NPR": " I837367.jpg"
+  },
+  "status": {
+   "_not_set_in": 0,
+   "_set_in": 9,
+   "Dale Horvath's Recreational Vehicle": " Destroyed <small>''(Burned by the [[Beside the Dying Fire|barn fire]]) (TV series)''</small><br>Disabled <small>''(Comic series)''</small>",
+   "2011 Hyundai Tucson": " Abandoned",
+   "1987-1991 Jeep Wrangler": " Abandoned\n",
+   "M60 Patton \"Lil' Louie\"": " Destroyed\n",
+   "2009 Dodge Challenger": " Stripped, Abandoned",
+   "1994 Buick Roadmaster": " Shot up, Crashed, Abandoned",
+   "TruWest Airlines Flight 462": " Crashed\n",
+   "1985 Coachmen Senator": " Destroyed ",
+   "1995 Isuzu NPR": " Not In Use"
+  },
+  "manufacturer": {
+   "_not_set_in": 0,
+   "_set_in": 9,
+   "Dale Horvath's Recreational Vehicle": " [[Wikipedia:Winnebago Industries|Winnebago Industries]]\n",
+   "2011 Hyundai Tucson": " [[Wikipedia:Hyundai Motor Company|Hyundai]]\n",
+   "1987-1991 Jeep Wrangler": " [[Wikipedia:Chrysler|Chrysler]]\n",
+   "M60 Patton \"Lil' Louie\"": " [[Wikipedia:Detroit Arsenal Tank Plant|Detroit Arsenal Tank Plant]]<br>\n[[Wikipedia:Chrysler|Chrysler]]\n",
+   "2009 Dodge Challenger": " Chrysler/Fiat Chrysler Automobiles",
+   "1994 Buick Roadmaster": " [https://en.wikipedia.org/wiki/General_Motors General Motors]",
+   "TruWest Airlines Flight 462": " Airbus\n",
+   "1985 Coachmen Senator": " Coachmen",
+   "1995 Isuzu NPR": " [https://en.wikipedia.org/wiki/Isuzu_Motors Isuzu Motors]"
+  },
+  "production": {
+   "_not_set_in": 0,
+   "_set_in": 9,
+   "Dale Horvath's Recreational Vehicle": " \"1969\" to Present\n",
+   "2011 Hyundai Tucson": " \"2009\" to 2015\n",
+   "1987-1991 Jeep Wrangler": " 1987-1991\n",
+   "M60 Patton \"Lil' Louie\"": " 1960\u20131987\n",
+   "2009 Dodge Challenger": " 2008 - Present",
+   "1994 Buick Roadmaster": " 1936\u20131958, 1991\u20131996",
+   "TruWest Airlines Flight 462": " Unknown\n",
+   "1985 Coachmen Senator": " Coachmen RV",
+   "1995 Isuzu NPR": " 1990 - Present"
+  },
+  "modelyears": {
+   "_not_set_in": 0,
+   "_set_in": 9,
+   "Dale Horvath's Recreational Vehicle": " \"1969\" to Present\n",
+   "2011 Hyundai Tucson": " \"2010\" to 2015\n",
+   "1987-1991 Jeep Wrangler": " 1987-1991\n",
+   "M60 Patton \"Lil' Louie\"": " 1960\u20131987\n",
+   "2009 Dodge Challenger": " 2009",
+   "1994 Buick Roadmaster": " 1994",
+   "TruWest Airlines Flight 462": " Unknown\n",
+   "1985 Coachmen Senator": " 1985",
+   "1995 Isuzu NPR": " 1995"
+  },
+  "user": {
+   "_not_set_in": 0,
+   "_set_in": 9,
+   "Dale Horvath's Recreational Vehicle": " Dale (Horvath) <small>''(Comic/Television)''</small><br>Rick Grimes <small>''(Comic/Television)''</small><br>Andrea <small>''(Comic/Television)''</small><br>Tyreese <small>''(Comic)''</small><br>Glenn Rhee <small>''(Television)''</small><br>Jimmy <small>''(Television)''</small>\n",
+   "2011 Hyundai Tucson": " [[Rick Grimes (TV Series)|Rick Grimes]]<br>[[Michonne (TV Series)|Michonne]]<br>[[Shane Walsh (TV Series)|Shane Walsh]]<br>[[Andrea (TV Series)|Andrea]]<br>[[Randall (TV Series)|Randall]]<br>[[Maggie Greene (TV Series)|Maggie Greene]]<br>[[Glenn Rhee (TV Series)|Glenn Rhee]]<br>[[Hershel Greene (TV Series)|Hershel Greene]]<br>[[Sasha]]<br>[[Theodore Douglas (TV Series)|Theodore Douglas]]<br>[[Karina]]<br>[[Paul (Webisodes)|Paul]]\n",
+   "1987-1991 Jeep Wrangler": " [[Woodbury Army]]\n\n[[Rick Grimes (TV Series)|Rick Grimes]] \n\n[[Daryl Dixon (TV Series)|Daryl Dixon]] \n\n[[Michonne]]\n",
+   "M60 Patton \"Lil' Louie\"": " [[U.S. Military|The Military]] <br>\n[[Mitch Dolgen (TV Series)|Mitch Dolgen]]\n",
+   "2009 Dodge Challenger": " [[Glenn Rhee]]",
+   "1994 Buick Roadmaster": " \n\n[[Rick Grimes (TV Series)|Rick Grimes]]\n\n[[Aaron]]\n\n[[Sasha Williams (TV Series)|Sasha Williams]]",
+   "TruWest Airlines Flight 462": " TruWest Airlines",
+   "1985 Coachmen Senator": " [[Rick Grimes (TV Series)|Rick Grimes]]\n\n[[Abraham Ford (TV Series)|Abraham Ford]] \n\n[[Eugene Porter (TV Series)|Eugene Porter]]  \n\n[[Michonne (TV Series)|Michonne]]\n\n[[Negan (TV Series)|Negan]]",
+   "1995 Isuzu NPR": " \n[[Daryl Dixon (TV Series)|Daryl Dixon]] (formerly, abandoned in Atlanta) \n[[The Saviors]] members"
+  },
+  "class": {
+   "_not_set_in": 0,
+   "_set_in": 9,
+   "Dale Horvath's Recreational Vehicle": " Recreational vehicle\n",
+   "2011 Hyundai Tucson": " Compact Crossover Wagon\n",
+   "1987-1991 Jeep Wrangler": " Compact FWD SUV\n",
+   "M60 Patton \"Lil' Louie\"": " Main Battle Tank\n",
+   "2009 Dodge Challenger": " Pony car/Muscle car",
+   "1994 Buick Roadmaster": " Sedan",
+   "TruWest Airlines Flight 462": " Plane (Airbus A320)\n",
+   "1985 Coachmen Senator": " Recreational vehicle",
+   "1995 Isuzu NPR": " 3, 4, and 5 Medium Duty"
+  },
+  "style": {
+   "_not_set_in": 0,
+   "_set_in": 9,
+   "Dale Horvath's Recreational Vehicle": " 3-door Motorhome\n",
+   "2011 Hyundai Tucson": " 5-door Wagon\n",
+   "1987-1991 Jeep Wrangler": " 2-door SUV",
+   "M60 Patton \"Lil' Louie\"": " 105 mm Gun Full Tracked Combat Tank",
+   "2009 Dodge Challenger": " 2-door coupe",
+   "1994 Buick Roadmaster": " 4-door sedan",
+   "TruWest Airlines Flight 462": " Narrow-body twin-engine jet airliner\n",
+   "1985 Coachmen Senator": " 3-door Motorhome",
+   "1995 Isuzu NPR": " 2 Door Cabover Truck"
+  }
+ }
+}

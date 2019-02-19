@@ -1,0 +1,46 @@
+{
+ "wiki": "powerrangers.fandom.com",
+ "infobox": "Template:TokuTeamInfo",
+ "parameters": {
+  "season": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "seasons": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "image": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "leader": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "leader2": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "coexistedwith": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "battledrangers": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "teamup": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "teamup2": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "soloteamup": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  }
+ }
+}

@@ -1,0 +1,231 @@
+{
+ "wiki": "walkingdead.fandom.com",
+ "infobox": "Template:Infobox publisher",
+ "parameters": {
+  "name": {
+   "_not_set_in": 7,
+   "_set_in": 2,
+   "Juice Films": " Juice Films\n",
+   "Bandai Namco": " Bandai Namco Entertainment"
+  },
+  "image": {
+   "_not_set_in": 0,
+   "_set_in": 9,
+   "Image Comics": " Image-comics-logo.png\n",
+   "Skybound Entertainment": " Skybound.png\n",
+   "Juice Films": " Juice_Films.png\n",
+   "Funko": " Funko.png\n",
+   "The Walking Dead Caf\u00e9": " The Waking Dead Caf\u00e9 logo.png\n",
+   "The Woodbury Shoppe": " The Woodbury Shoppe.png\n",
+   "The Walking Dead: A Decade of Dead Gallery": " The Waking Dead - A Decade of Dead Gallery.jpg\n",
+   "Trends International": " Trends International.png\n",
+   "Bandai Namco": " BandaiNamco.png"
+  },
+  "caption": {
+   "_not_set_in": 8,
+   "_set_in": 1,
+   "Bandai Namco": " \"More Fun for Everyone\""
+  },
+  "parent": {
+   "_not_set_in": 7,
+   "_set_in": 2,
+   "Image Comics": " \n",
+   "Skybound Entertainment": " Image Comics (technically a sister company)\n"
+  },
+  "status": {
+   "_not_set_in": 1,
+   "_set_in": 8,
+   "Image Comics": " \n",
+   "Skybound Entertainment": " \n",
+   "Funko": " \n",
+   "The Walking Dead Caf\u00e9": " Open\n",
+   "The Woodbury Shoppe": " Open\n",
+   "The Walking Dead: A Decade of Dead Gallery": " Closed\n",
+   "Trends International": " Open\n",
+   "Bandai Namco": " Active"
+  },
+  "predecessor": {
+   "_not_set_in": 9,
+   "_set_in": 0
+  },
+  "founded": {
+   "_not_set_in": 0,
+   "_set_in": 9,
+   "Image Comics": " 1992\n",
+   "Skybound Entertainment": " 2010\n",
+   "Juice Films": " 2009\n",
+   "Funko": " 1998\n",
+   "The Walking Dead Caf\u00e9": " October 31, 2014\n",
+   "The Woodbury Shoppe": " May 1, 2013\n",
+   "The Walking Dead: A Decade of Dead Gallery": " October 10, 2013ref name=\"date\"[http://dailydead.com/walking-dead-decade-dead-art-gallery-announced/ The Walking Dead: A Decade of Dead Art Gallery Announced]</ref>\n",
+   "Trends International": " 1987\n",
+   "Bandai Namco": " June 1, 1955; 63 years ago"
+  },
+  "founder": {
+   "_not_set_in": 1,
+   "_set_in": 8,
+   "Image Comics": " \n",
+   "Skybound Entertainment": " Robert Kirkman\n",
+   "Funko": " Mike Becker\n",
+   "The Walking Dead Caf\u00e9": " \n",
+   "The Woodbury Shoppe": " Carrie Cottrillref[http://blogs.amctv.com/the-walking-dead/2013/12/qa-carrie-cottrill-owner-of-the-woodbury-shoppe-a-k-a-the-walking-dead-store/ Q&A \u2013 Carrie Cottrill, Owner of The Woodbury Shoppe (a.k.a. The Walking Dead Store)]</ref>\n",
+   "The Walking Dead: A Decade of Dead Gallery": " [[Skybound Entertainment|Skybound]]<br>Hyundai<br>Future US\n",
+   "Trends International": " \n",
+   "Bandai Namco": " Masaya Nakamura"
+  },
+  "successor": {
+   "_not_set_in": 2,
+   "_set_in": 7,
+   "Image Comics": " \n",
+   "Skybound Entertainment": " \n",
+   "Funko": " \n",
+   "The Walking Dead Caf\u00e9": " \n",
+   "The Woodbury Shoppe": " \n",
+   "The Walking Dead: A Decade of Dead Gallery": " \n",
+   "Trends International": " \n"
+  },
+  "country": {
+   "_not_set_in": 0,
+   "_set_in": 9,
+   "Image Comics": " United States\n",
+   "Skybound Entertainment": " \n",
+   "Juice Films": " United States\n",
+   "Funko": " \n",
+   "The Walking Dead Caf\u00e9": " United States\n",
+   "The Woodbury Shoppe": " United States\n",
+   "The Walking Dead: A Decade of Dead Gallery": " United States\n",
+   "Trends International": " United States\n",
+   "Bandai Namco": " Japan"
+  },
+  "headquarters": {
+   "_not_set_in": 0,
+   "_set_in": 9,
+   "Image Comics": " Berkeley, California\n",
+   "Skybound Entertainment": " \n",
+   "Juice Films": " San Francisco/ Bay Area, California\n",
+   "Funko": " Lynnwood,Washington USA\n",
+   "The Walking Dead Caf\u00e9": " 48 Main St.<br>Senoia, GA 30276\n",
+   "The Woodbury Shoppe": " 48 Main St.<br>Senoia, GA\n",
+   "The Walking Dead: A Decade of Dead Gallery": " Pillars 37<br>Manhattan, NY<br>517 West 37th Street<br>between 10th and 11th Avenues\n",
+   "Trends International": " 5188 West 74th Street<br>Indianapolis, Indiana 46268\n",
+   "Bandai Namco": " Minato-ku, Tokyo, Japan"
+  },
+  "distribution": {
+   "_not_set_in": 2,
+   "_set_in": 7,
+   "Image Comics": " \n",
+   "Skybound Entertainment": " \n",
+   "Funko": " \n",
+   "The Walking Dead Caf\u00e9": " \n",
+   "The Woodbury Shoppe": " \n",
+   "The Walking Dead: A Decade of Dead Gallery": " \n",
+   "Trends International": " \n"
+  },
+  "keypeople": {
+   "_not_set_in": 1,
+   "_set_in": 8,
+   "Image Comics": " Todd McFarlane<br />Rob Liefeld<br />Jim Lee<br />Marc Silvestri<br />Erik Larsen<br />Jim Valentino<br />Whilce Portacio<br />[[Robert Kirkman]]<br />Eric Stephenson<br />Larry Marder<br />Hank Kanalz<br />Chris Claremont<br/>Tony Lobito<br/ >Joe Keatinge\n",
+   "Skybound Entertainment": " Robert Kirkman<br />J. J Didde<br />Sean Mackiewicz<br />Shawn Kirkham\n",
+   "Juice Films": " [[Jake Strider Hughes]]\n",
+   "Funko": " Brian Mariotti\n",
+   "The Walking Dead Caf\u00e9": " \n",
+   "The Woodbury Shoppe": " [[Robert Kirkman]]<br>Scott Tigchelaar<br>Brian Jagt <small>(Chief Executive Manager)</small> \n",
+   "The Walking Dead: A Decade of Dead Gallery": " \n",
+   "Trends International": " \n"
+  },
+  "publications": {
+   "_not_set_in": 1,
+   "_set_in": 8,
+   "Image Comics": " Comic books, books\n",
+   "Skybound Entertainment": " ''The Walking Dead''<br />''Invincible''<br />''Outcast''\n",
+   "Juice Films": " Motion comics\n",
+   "Funko": " \n",
+   "The Walking Dead Caf\u00e9": " \n",
+   "The Woodbury Shoppe": " \n",
+   "The Walking Dead: A Decade of Dead Gallery": " \n",
+   "Trends International": " \n"
+  },
+  "topics": {
+   "_not_set_in": 2,
+   "_set_in": 7,
+   "Image Comics": " \n",
+   "Skybound Entertainment": " \n",
+   "Funko": " \n",
+   "The Walking Dead Caf\u00e9": " \n",
+   "The Woodbury Shoppe": " \n",
+   "The Walking Dead: A Decade of Dead Gallery": " \n",
+   "Trends International": " \n"
+  },
+  "genre": {
+   "_not_set_in": 2,
+   "_set_in": 7,
+   "Image Comics": " \n",
+   "Skybound Entertainment": " \n",
+   "Funko": " \n",
+   "The Walking Dead Caf\u00e9": " \n",
+   "The Woodbury Shoppe": " \n",
+   "The Walking Dead: A Decade of Dead Gallery": " \n",
+   "Trends International": " \n"
+  },
+  "imprints": {
+   "_not_set_in": 2,
+   "_set_in": 7,
+   "Image Comics": " Highbrow Entertainment<br />ShadowLine<br />[[Skybound Entertainment|Skybound]]<br />Todd McFarlane Productions<br />Top Cow Productions<br />Image Central<br />Joe's Comics\n",
+   "Skybound Entertainment": " \n",
+   "Funko": " \n",
+   "The Walking Dead Caf\u00e9": " \n",
+   "The Woodbury Shoppe": " \n",
+   "The Walking Dead: A Decade of Dead Gallery": " \n",
+   "Trends International": " \n"
+  },
+  "revenue": {
+   "_not_set_in": 2,
+   "_set_in": 7,
+   "Image Comics": " \n",
+   "Skybound Entertainment": " \n",
+   "Funko": " \n",
+   "The Walking Dead Caf\u00e9": " \n",
+   "The Woodbury Shoppe": " \n",
+   "The Walking Dead: A Decade of Dead Gallery": " \n",
+   "Trends International": " \n"
+  },
+  "owner": {
+   "_not_set_in": 9,
+   "_set_in": 0
+  },
+  "numemployees": {
+   "_not_set_in": 2,
+   "_set_in": 7,
+   "Image Comics": " \n",
+   "Skybound Entertainment": " \n",
+   "Funko": " \n",
+   "The Walking Dead Caf\u00e9": " \n",
+   "The Woodbury Shoppe": " \n",
+   "The Walking Dead: A Decade of Dead Gallery": " \n",
+   "Trends International": " \n"
+  },
+  "nasdaq": {
+   "_not_set_in": 2,
+   "_set_in": 7,
+   "Image Comics": " \n",
+   "Skybound Entertainment": " \n",
+   "Funko": " \n",
+   "The Walking Dead Caf\u00e9": " \n",
+   "The Woodbury Shoppe": " \n",
+   "The Walking Dead: A Decade of Dead Gallery": " \n",
+   "Trends International": " \n"
+  },
+  "url": {
+   "_not_set_in": 1,
+   "_set_in": 8,
+   "Image Comics": " http://www.imagecomics.com\n",
+   "Skybound Entertainment": " http://www.skybound.com\n",
+   "Juice Films": " http://juicefilms.com/\n",
+   "Funko": " http://www.funko.com\n",
+   "The Walking Dead Caf\u00e9": " [https://www.facebook.com/pages/The-Waking-Dead-Cafe/ Facebook]\n",
+   "The Woodbury Shoppe": " [http://www.woodburyshoppe.com/ Official Site]\n",
+   "The Walking Dead: A Decade of Dead Gallery": " \n",
+   "Trends International": " [http://www.trendsinternational.com/ Official Site]\n"
+  }
+ }
+}

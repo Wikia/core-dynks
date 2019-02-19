@@ -1,0 +1,25 @@
+{
+ "wiki": "powerrangers.fandom.com",
+ "infobox": "Template:WeaponInfo",
+ "parameters": {
+  "season": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Spiral Saber": "In Space\n"
+  },
+  "image": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Spiral Saber": "Pris-ar-spiral.jpg\n"
+  },
+  "name": {
+   "_not_set_in": 1,
+   "_set_in": 0
+  },
+  "wielder": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Spiral Saber": "Red Space Ranger\n"
+  }
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "wiki": "powerrangers.fandom.com",
+ "infobox": "Template:ZordSystemInfo",
+ "parameters": {
+  "metaseries": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "rangers": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "season": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "coremachines": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "specialdevices": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "previous": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "next": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  }
+ }
+}

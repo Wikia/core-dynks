@@ -1,0 +1,86 @@
+{
+ "wiki": "walkingdead.fandom.com",
+ "infobox": "Template:Infobox album",
+ "parameters": {
+  "name": {
+   "_not_set_in": 0,
+   "_set_in": 6,
+   "The Walking Dead: AMC Original Soundtrack, Vol. 1": " The Walking Dead: AMC Original Soundtrack, Vol. 1\n",
+   "The Walking Dead: AMC Original Soundtrack, Vol. 2": " The Walking Dead: AMC Original Soundtrack, Vol. 2\n",
+   "Songs of Survival": " Songs of Survival\n",
+   "Songs of Survival Vol. 2": " Songs of Survival\n",
+   "The Walking Dead: Original Game Score": " The Walking Dead: Original Game Score\n",
+   "The Walking Dead: Original Television Soundtrack": " The Walking Dead: Original Television Soundtrack\n"
+  },
+  "image": {
+   "_not_set_in": 0,
+   "_set_in": 6,
+   "The Walking Dead: AMC Original Soundtrack, Vol. 1": " image:MI0003492481.jpg\n",
+   "The Walking Dead: AMC Original Soundtrack, Vol. 2": " Image:AMCSoundVol2.jpg\n",
+   "Songs of Survival": " image:The-Walking-Dead-Tercera-Temporada-CD-Soundtrack-Vol2.jpg\n",
+   "Songs of Survival Vol. 2": " image:SongsofSurvivalVol2.jpg\n",
+   "The Walking Dead: Original Game Score": " image:WDG Season 1 Original Score.png\n",
+   "The Walking Dead: Original Television Soundtrack": " File:TWD_Score.jpg\n"
+  },
+  "artist": {
+   "_not_set_in": 0,
+   "_set_in": 6,
+   "The Walking Dead: AMC Original Soundtrack, Vol. 1": " Various Artists\n",
+   "The Walking Dead: AMC Original Soundtrack, Vol. 2": " Various Artists\n",
+   "Songs of Survival": " Various Artists\n",
+   "Songs of Survival Vol. 2": " Various Artists\n",
+   "The Walking Dead: Original Game Score": " [[Jared Emerson-Johnson]]\n",
+   "The Walking Dead: Original Television Soundtrack": " [[Bear McCreary]]\n"
+  },
+  "released": {
+   "_not_set_in": 0,
+   "_set_in": 6,
+   "The Walking Dead: AMC Original Soundtrack, Vol. 1": " March 17, 2013\n",
+   "The Walking Dead: AMC Original Soundtrack, Vol. 2": " March 25, 2014\n",
+   "Songs of Survival": " August 27, 2013\n",
+   "Songs of Survival Vol. 2": " August 26, 2014\n",
+   "The Walking Dead: Original Game Score": " November 19, 2013ref name=\"mb\"[https://musicbrainz.org/release/c0ec4320-f9f1-4614-b75e-3dfd20d8ee84 The Walking Dead Original Game Score]</ref>ref name=\"vg\"\n",
+   "The Walking Dead: Original Television Soundtrack": " October 20, 2017\n"
+  },
+  "recorded": {
+   "_not_set_in": 0,
+   "_set_in": 6,
+   "The Walking Dead: AMC Original Soundtrack, Vol. 1": " \n",
+   "The Walking Dead: AMC Original Soundtrack, Vol. 2": " \n",
+   "Songs of Survival": " \n",
+   "Songs of Survival Vol. 2": " \n",
+   "The Walking Dead: Original Game Score": " \n",
+   "The Walking Dead: Original Television Soundtrack": " 2010 - 2017\n"
+  },
+  "length": {
+   "_not_set_in": 0,
+   "_set_in": 6,
+   "The Walking Dead: AMC Original Soundtrack, Vol. 1": " 28:57\n",
+   "The Walking Dead: AMC Original Soundtrack, Vol. 2": " 17:26 \n",
+   "Songs of Survival": " \n",
+   "Songs of Survival Vol. 2": " \n",
+   "The Walking Dead: Original Game Score": " 2:35:31\n",
+   "The Walking Dead: Original Television Soundtrack": " 74:00\n"
+  },
+  "label": {
+   "_not_set_in": 0,
+   "_set_in": 6,
+   "The Walking Dead: AMC Original Soundtrack, Vol. 1": " Universal Republic Records\n",
+   "The Walking Dead: AMC Original Soundtrack, Vol. 2": " Republic Records\n",
+   "Songs of Survival": " Universal Republic Records\n",
+   "Songs of Survival Vol. 2": " Universal Republic Records\n",
+   "The Walking Dead: Original Game Score": " [[Telltale Games]]\n",
+   "The Walking Dead: Original Television Soundtrack": " Lakeshore Records\n"
+  },
+  "producer": {
+   "_not_set_in": 0,
+   "_set_in": 6,
+   "The Walking Dead: AMC Original Soundtrack, Vol. 1": " Jamie N Commons, Thomas Golubic, Voxhaul Broadcast, Butch Walker, Greg Wells",
+   "The Walking Dead: AMC Original Soundtrack, Vol. 2": " Lee DeWyze, Thomas Golubic, Zeke Hutchins, Dough Keith, Chris Maxwell, Portugal. The Man, Sharon Van Etten, Phil Palazzolo      ",
+   "Songs of Survival": " Thomas Golubic and SMVref name=\"twd\"\n",
+   "Songs of Survival Vol. 2": " \n",
+   "The Walking Dead: Original Game Score": " ",
+   "The Walking Dead: Original Television Soundtrack": " Bear McCreary"
+  }
+ }
+}

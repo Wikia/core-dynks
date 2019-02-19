@@ -1,0 +1,98 @@
+{
+ "wiki": "powerrangers.fandom.com",
+ "infobox": "Template:VillainTeamInfo",
+ "parameters": {
+  "season": {
+   "_not_set_in": 1,
+   "_set_in": 1,
+   "Pollution Ministers": " Go-onger\n"
+  },
+  "seasons": {
+   "_not_set_in": 2,
+   "_set_in": 0
+  },
+  "image": {
+   "_not_set_in": 0,
+   "_set_in": 2,
+   "United Alliance of Evil": " IS UAE.jpg\n",
+   "Pollution Ministers": " Pollution Ministers.jpg\n"
+  },
+  "leader": {
+   "_not_set_in": 0,
+   "_set_in": 2,
+   "United Alliance of Evil": " Dark Specter\n",
+   "Pollution Ministers": " \n"
+  },
+  "leader2": {
+   "_not_set_in": 0,
+   "_set_in": 2,
+   "United Alliance of Evil": " Astronema\n",
+   "Pollution Ministers": " \n"
+  },
+  "generals": {
+   "_not_set_in": 0,
+   "_set_in": 2,
+   "United Alliance of Evil": " [[Darkonda]]<br>[[Ecliptor]]<br>[[Lord Zedd]]<br>[[Rita Repulsa]]<br>[[Master Vile]]<br>[[King Mondo]]<br>[[Queen Machina]]<br>[[Divatox]]<br>[[General Havoc]]<br>[[Psycho Rangers]]\n",
+   "Pollution Ministers": " [[Yogostein]], [[Kegalesia]], [[Kitaneidas]]\n"
+  },
+  "monsters": {
+   "_not_set_in": 1,
+   "_set_in": 1,
+   "Pollution Ministers": " [[Barbaric Machine Beasts|Banki Beasts]]\n"
+  },
+  "base": {
+   "_not_set_in": 1,
+   "_set_in": 1,
+   "Pollution Ministers": " [[Hellgaile Palace]] (Go-Onger)<br>[[Sanzu River]] (Shinkenger vs. Go-onger)<br>\n"
+  },
+  "allies": {
+   "_not_set_in": 2,
+   "_set_in": 0
+  },
+  "grunts": {
+   "_not_set_in": 0,
+   "_set_in": 2,
+   "United Alliance of Evil": " [[Piranhatrons]]<br>[[Quantrons]]\n",
+   "Pollution Ministers": " [[Ugatz]]\n"
+  },
+  "heroes": {
+   "_not_set_in": 0,
+   "_set_in": 2,
+   "United Alliance of Evil": " [[Space Rangers]]<br>[[Aquitar Rangers]]<br>[[Blue Senturion]]<br>[[Phantom Ranger]]<br>[[Trey of Triforia|Gold Ranger]]<br>[[HyperForce Rangers]]<br>[[Aisha Campbell|Yellow Ranger]]<br>[[Gem|Ranger Operator Series Gold]]<br>[[Lina Song|Green S.P.D Ranger]]<br>[[Merlin]]\n",
+   "Pollution Ministers": " [[Go-Ongers]] (formerly)\n"
+  },
+  "coexistedwith": {
+   "_not_set_in": 2,
+   "_set_in": 0
+  },
+  "battledvillains": {
+   "_not_set_in": 1,
+   "_set_in": 1,
+   "Pollution Ministers": " [[Space Empire Zangyack]], [[Eleki Clan Zontark]]\n"
+  },
+  "teamup": {
+   "_not_set_in": 1,
+   "_set_in": 1,
+   "Pollution Ministers": " [[Meka]], [[Go-ongers]]\n"
+  },
+  "teamup2": {
+   "_not_set_in": 2,
+   "_set_in": 0
+  },
+  "soloteamup": {
+   "_not_set_in": 1,
+   "_set_in": 1,
+   "Pollution Ministers": " \n"
+  },
+  "prodpreviousteam": {
+   "_not_set_in": 1,
+   "_set_in": 1,
+   "United Alliance of Evil": " General Havoc's Army\n"
+  },
+  "prodnextteam": {
+   "_not_set_in": 1,
+   "_set_in": 1,
+   "United Alliance of Evil": " Scorpius' Army\n"
+  }
+ }
+}

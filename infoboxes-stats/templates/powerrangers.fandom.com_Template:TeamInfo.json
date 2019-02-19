@@ -1,0 +1,235 @@
+{
+ "wiki": "powerrangers.fandom.com",
+ "infobox": "Template:TeamInfo",
+ "parameters": {
+  "season": {
+   "_not_set_in": 6,
+   "_set_in": 6,
+   "Zeo Rangers (Shattered Grid)": " Shattered Grid\n",
+   "Ninja Steel Rangers (Shattered Grid)": " \n",
+   "B-Squad Rangers (Shattered Grid)": " \n",
+   "Samurai Rangers (Shattered Grid)": " \n",
+   "Time Force Rangers (Shattered Grid)": " \n",
+   "Rocket Storm Rangers": " Rocket Storm\n"
+  },
+  "seasons": {
+   "_not_set_in": 3,
+   "_set_in": 9,
+   "Space Rangers (Shattered Grid)": " [[Shattered Grid]]\n",
+   "Ninja Steel Rangers (Shattered Grid)": " [[Shattered Grid]]",
+   "B-Squad Rangers (Shattered Grid)": " [[Shattered Grid]]",
+   "A-Squad Rangers (Shattered Grid)": " [[Shattered Grid]]\n",
+   "Ranger Operators (Shattered Grid)": " [[Shattered Grid]]\n",
+   "Samurai Rangers (Shattered Grid)": " [[Shattered Grid]]",
+   "Time Force Rangers (Shattered Grid)": " [[Shattered Grid]]",
+   "Aquitar Rangers (World of the Coinless)": "[[Mighty Morphin Power Rangers (Boom! Studios)]]\n",
+   "Mighty Morphin Power Rangers (World of the Coinless)": "[[Mighty Morphin Power Rangers (Boom! Studios)]]\n"
+  },
+  "image": {
+   "_not_set_in": 0,
+   "_set_in": 12,
+   "Emissaries Three": "EmissariesOfTheMorphinMasters.png\n",
+   "Zeo Rangers (Shattered Grid)": "sg-zeo.jpg\n",
+   "Space Rangers (Shattered Grid)": " sg-space.jpg\n",
+   "Ninja Steel Rangers (Shattered Grid)": "sg-ninjasteel.jpg\n",
+   "B-Squad Rangers (Shattered Grid)": "sg-spd.jpg\n",
+   "A-Squad Rangers (Shattered Grid)": " A_Squad_Rangers_Comics.png\n",
+   "Ranger Operators (Shattered Grid)": " RPM_Rangers_Comics.png\n",
+   "Samurai Rangers (Shattered Grid)": "sg-samurai.jpg\n",
+   "Time Force Rangers (Shattered Grid)": "sg-timeforce.jpg\n",
+   "Rocket Storm Rangers": " Rocket Storm Rangers.png\n",
+   "Aquitar Rangers (World of the Coinless)": "Alien_and_Turbo_(Boom!).png\n",
+   "Mighty Morphin Power Rangers (World of the Coinless)": "\n"
+  },
+  "leader": {
+   "_not_set_in": 1,
+   "_set_in": 11,
+   "Emissaries Three": "Red Ranger\n",
+   "Zeo Rangers (Shattered Grid)": " Tommy Oliver\n",
+   "Space Rangers (Shattered Grid)": " Andros (2016 comic)\n",
+   "Ninja Steel Rangers (Shattered Grid)": " Brody Romero (2016 comic)\n",
+   "B-Squad Rangers (Shattered Grid)": " Chief Anubis \"Doggie\" Cruger\n",
+   "A-Squad Rangers (Shattered Grid)": " Charlie (2016 comic)\n",
+   "Ranger Operators (Shattered Grid)": " Scott Truman (2016 comic)\n",
+   "Samurai Rangers (Shattered Grid)": " Lauren Shiba (2016 comic)\n",
+   "Time Force Rangers (Shattered Grid)": " Jen Scotts\n",
+   "Aquitar Rangers (World of the Coinless)": "Delphine\n",
+   "Mighty Morphin Power Rangers (World of the Coinless)": "Jason Lee Scott (World of the Coinless)\n"
+  },
+  "leader2": {
+   "_not_set_in": 7,
+   "_set_in": 5,
+   "Zeo Rangers (Shattered Grid)": " \n",
+   "Ninja Steel Rangers (Shattered Grid)": " \n",
+   "B-Squad Rangers (Shattered Grid)": " \n",
+   "Samurai Rangers (Shattered Grid)": " \n",
+   "Time Force Rangers (Shattered Grid)": " \n"
+  },
+  "mentor": {
+   "_not_set_in": 4,
+   "_set_in": 8,
+   "Emissaries Three": "Morphin Masters\n",
+   "Zeo Rangers (Shattered Grid)": " Zordon (2016 comic)\n",
+   "Ninja Steel Rangers (Shattered Grid)": " Mick Kanic\n",
+   "B-Squad Rangers (Shattered Grid)": " \n",
+   "Samurai Rangers (Shattered Grid)": " \n",
+   "Time Force Rangers (Shattered Grid)": " \n",
+   "Aquitar Rangers (World of the Coinless)": "\n",
+   "Mighty Morphin Power Rangers (World of the Coinless)": "Zordon (World of the Coinless)\n"
+  },
+  "base": {
+   "_not_set_in": 4,
+   "_set_in": 8,
+   "Emissaries Three": "Morphin Grid\n",
+   "Zeo Rangers (Shattered Grid)": " Power Chamber\n",
+   "Ninja Steel Rangers (Shattered Grid)": " Summer Cove High School\n",
+   "B-Squad Rangers (Shattered Grid)": " \n",
+   "Samurai Rangers (Shattered Grid)": " Shiba House\n",
+   "Time Force Rangers (Shattered Grid)": " \n",
+   "Aquitar Rangers (World of the Coinless)": "\n",
+   "Mighty Morphin Power Rangers (World of the Coinless)": "Command Center\n"
+  },
+  "bases": {
+   "_not_set_in": 12,
+   "_set_in": 0
+  },
+  "location": {
+   "_not_set_in": 4,
+   "_set_in": 8,
+   "Emissaries Three": "Morphin Grid\n",
+   "Zeo Rangers (Shattered Grid)": " Angel Grove\n",
+   "Ninja Steel Rangers (Shattered Grid)": " Summer Cove\n",
+   "B-Squad Rangers (Shattered Grid)": " Delta Base\n",
+   "Samurai Rangers (Shattered Grid)": " \n",
+   "Time Force Rangers (Shattered Grid)": " Outpost One\n",
+   "Aquitar Rangers (World of the Coinless)": "[[Aquitar]]\n",
+   "Mighty Morphin Power Rangers (World of the Coinless)": "[[Angel Grove]]\n"
+  },
+  "villains": {
+   "_not_set_in": 2,
+   "_set_in": 10,
+   "Emissaries Three": "\n",
+   "Zeo Rangers (Shattered Grid)": " [[Machine Empire]]\n",
+   "Ninja Steel Rangers (Shattered Grid)": " [[Galaxy Warriors]]<br>[[Galactic Ninjas]]\n",
+   "B-Squad Rangers (Shattered Grid)": " [[Emperor Gruumm]]\n",
+   "A-Squad Rangers (Shattered Grid)": " [[B-Squad Rangers (Shattered Grid)]]\n",
+   "Samurai Rangers (Shattered Grid)": " \n",
+   "Time Force Rangers (Shattered Grid)": "\n",
+   "Rocket Storm Rangers": " [[Enemies (Rocket Storm)|Enemies]]\n",
+   "Aquitar Rangers (World of the Coinless)": "[[New Power Coallition]]\n",
+   "Mighty Morphin Power Rangers (World of the Coinless)": "[[New Power Coallition]]\n"
+  },
+  "coexistedwith": {
+   "_not_set_in": 1,
+   "_set_in": 11,
+   "Emissaries Three": "[[:Category:Power Rangers Team|Power Rangers Teams]] \n",
+   "Zeo Rangers (Shattered Grid)": " All Rangers in Shattered Grid\n",
+   "Space Rangers (Shattered Grid)": " All Rangers in Shattered Grid\n",
+   "Ninja Steel Rangers (Shattered Grid)": " All Rangers in Shattered Grid\n",
+   "B-Squad Rangers (Shattered Grid)": " All Rangers in Shattered Grid\n",
+   "A-Squad Rangers (Shattered Grid)": " All Rangers in Shattered Grid\n",
+   "Ranger Operators (Shattered Grid)": " All Rangers in Shattered Grid\n",
+   "Samurai Rangers (Shattered Grid)": " All Rangers in Shattered Grid\n",
+   "Time Force Rangers (Shattered Grid)": " All Rangers in Shattered Grid\n",
+   "Aquitar Rangers (World of the Coinless)": "[[Mighty Morphin Power Rangers (World of the Coinless)]]\n",
+   "Mighty Morphin Power Rangers (World of the Coinless)": "[[Aquitar Rangers (World of the Coinless)|Aquitar Rangers]]\n"
+  },
+  "coexist2": {
+   "_not_set_in": 12,
+   "_set_in": 0
+  },
+  "battledrangers": {
+   "_not_set_in": 4,
+   "_set_in": 8,
+   "Emissaries Three": " \n",
+   "Zeo Rangers (Shattered Grid)": " \n",
+   "Ninja Steel Rangers (Shattered Grid)": " \n",
+   "B-Squad Rangers (Shattered Grid)": " \n",
+   "Samurai Rangers (Shattered Grid)": " \n",
+   "Time Force Rangers (Shattered Grid)": " \n",
+   "Aquitar Rangers (World of the Coinless)": " \n",
+   "Mighty Morphin Power Rangers (World of the Coinless)": "\n"
+  },
+  "teamup": {
+   "_not_set_in": 4,
+   "_set_in": 8,
+   "Emissaries Three": " \n",
+   "Zeo Rangers (Shattered Grid)": " \n",
+   "Ninja Steel Rangers (Shattered Grid)": " \n",
+   "B-Squad Rangers (Shattered Grid)": " \n",
+   "Samurai Rangers (Shattered Grid)": " \n",
+   "Time Force Rangers (Shattered Grid)": " \n",
+   "Aquitar Rangers (World of the Coinless)": "[[Mighty Morphin Power Rangers (World of the Coinless)]], [[Phantom Ranger (World of the Coinless)|Phantom Ranger]]\n",
+   "Mighty Morphin Power Rangers (World of the Coinless)": "[[Aquitar Rangers (World of the Coinless)|Aquitar Rangers]], [[Phantom Ranger (World of the Coinless)|Phantom Ranger]], [[Mighty Morphin Power Rangers (2016 comic)|Mighty Morphin Power Rangers]]\n"
+  },
+  "soloteamup": {
+   "_not_set_in": 6,
+   "_set_in": 6,
+   "Emissaries Three": "\n",
+   "Zeo Rangers (Shattered Grid)": " \n",
+   "Ninja Steel Rangers (Shattered Grid)": " \n",
+   "B-Squad Rangers (Shattered Grid)": " \n",
+   "Samurai Rangers (Shattered Grid)": " \n",
+   "Time Force Rangers (Shattered Grid)": " \n"
+  },
+  "prodpreviousteam": {
+   "_not_set_in": 6,
+   "_set_in": 6,
+   "Emissaries Three": " \n",
+   "Zeo Rangers (Shattered Grid)": " \n",
+   "Ninja Steel Rangers (Shattered Grid)": " \n",
+   "B-Squad Rangers (Shattered Grid)": " \n",
+   "Samurai Rangers (Shattered Grid)": " \n",
+   "Time Force Rangers (Shattered Grid)": " \n"
+  },
+  "prodnextteam": {
+   "_not_set_in": 6,
+   "_set_in": 6,
+   "Emissaries Three": "\n",
+   "Zeo Rangers (Shattered Grid)": "\n",
+   "Ninja Steel Rangers (Shattered Grid)": " \n",
+   "B-Squad Rangers (Shattered Grid)": " \n",
+   "Samurai Rangers (Shattered Grid)": " \n",
+   "Time Force Rangers (Shattered Grid)": " \n"
+  },
+  "chronopreviousteam": {
+   "_not_set_in": 7,
+   "_set_in": 5,
+   "Zeo Rangers (Shattered Grid)": " \n",
+   "Ninja Steel Rangers (Shattered Grid)": " \n",
+   "B-Squad Rangers (Shattered Grid)": " \n",
+   "Samurai Rangers (Shattered Grid)": " \n",
+   "Time Force Rangers (Shattered Grid)": " \n"
+  },
+  "chrononextteam": {
+   "_not_set_in": 7,
+   "_set_in": 5,
+   "Zeo Rangers (Shattered Grid)": " \n",
+   "Ninja Steel Rangers (Shattered Grid)": "\n",
+   "B-Squad Rangers (Shattered Grid)": "\n",
+   "Samurai Rangers (Shattered Grid)": "\n",
+   "Time Force Rangers (Shattered Grid)": "\n"
+  },
+  "became": {
+   "_not_set_in": 11,
+   "_set_in": 1,
+   "Zeo Rangers (Shattered Grid)": " \n"
+  },
+  "chronopreviousteam2": {
+   "_not_set_in": 8,
+   "_set_in": 4,
+   "Ninja Steel Rangers (Shattered Grid)": " \n",
+   "B-Squad Rangers (Shattered Grid)": " \n",
+   "Samurai Rangers (Shattered Grid)": " \n",
+   "Time Force Rangers (Shattered Grid)": " \n"
+  },
+  "chrononextteam2": {
+   "_not_set_in": 8,
+   "_set_in": 4,
+   "Ninja Steel Rangers (Shattered Grid)": " \n",
+   "B-Squad Rangers (Shattered Grid)": " \n",
+   "Samurai Rangers (Shattered Grid)": " \n",
+   "Time Force Rangers (Shattered Grid)": " \n"
+  }
+ }
+}

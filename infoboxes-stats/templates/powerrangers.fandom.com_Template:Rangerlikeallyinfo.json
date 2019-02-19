@@ -1,0 +1,187 @@
+{
+ "wiki": "powerrangers.fandom.com",
+ "infobox": "Template:Rangerlikeallyinfo",
+ "parameters": {
+  "season": {
+   "_not_set_in": 0,
+   "_set_in": 10,
+   "Ninjor": " Mighty Morphin 3\n",
+   "Magna Defender": "Lost Galaxy\n",
+   "Clare": "Mystic Force\n",
+   "Niella": " Mystic Force",
+   "Blue Senturion": " Turbo\n",
+   "Auric the Conqueror": " Zeo",
+   "Mike Corbett": " Lost Galaxy",
+   "Sentinel Knight": "Operation Overdrive\n",
+   "Camille": "Jungle Fury\n",
+   "Jarrod": " Jungle Fury"
+  },
+  "pic": {
+   "_not_set_in": 10,
+   "_set_in": 0
+  },
+  "sex": {
+   "_not_set_in": 7,
+   "_set_in": 3,
+   "Auric the Conqueror": " Male",
+   "Mike Corbett": " Male",
+   "Jarrod": " Male"
+  },
+  "image": {
+   "_not_set_in": 0,
+   "_set_in": 10,
+   "Ninjor": " MMPR Ninjor.jpg\n",
+   "Magna Defender": "LG Magna Defender.jpg\n",
+   "Clare": "Claire.jpg\n",
+   "Niella": " MF Niella.jpg",
+   "Blue Senturion": " Turbo Blue Senturion.jpg\n",
+   "Auric the Conqueror": " Zeo Auric.jpg",
+   "Mike Corbett": " mike_profile.jpg",
+   "Sentinel Knight": "Sentinel_Knight1.jpg\n",
+   "Camille": "PRJF-Camille.jpg\n",
+   "Jarrod": " PRJF-Jarrod.jpg"
+  },
+  "name": {
+   "_not_set_in": 0,
+   "_set_in": 10,
+   "Ninjor": " <div style=\"background-color:royalblue\"><font color=\"gold\">'''Ninjor'''</font></div>\n",
+   "Magna Defender": "<div style=\"background-color:black\"><font color=\"white\">'''Magna Defender'''</font></div>\n",
+   "Clare": "<div style=\"background-color:purple\"><font color=\"white\">'''Clare'''</font>\n",
+   "Niella": " <div style=\"background-color:purple\"><font color=\"white\">'''Niella'''</font>",
+   "Blue Senturion": " <div style=\"background-color:blue\"><font color=\"white\">'''Blue Senturion'''</font></div>\n",
+   "Auric the Conqueror": " <div style=\"background-color:navy\"><font color=\"red\">'''Auric the Conqueror'''</font>",
+   "Mike Corbett": " <div style=\"background-color:black\"><font color=\"white\">'''Michael Corbett'''</font></div>",
+   "Sentinel Knight": "<div style=\"background-color:goldenrod\"><font color=\"black\">'''Sentinel Knight'''</font></div>\n",
+   "Camille": "<div style=\"background-color:darkgreen\"><font color=\"purple\">'''Camille'''</font>\n",
+   "Jarrod": " <div style=\"background-color:black\"><font color=\"goldenrod\">'''Jarrod'''</font></div>"
+  },
+  "fullname": {
+   "_not_set_in": 9,
+   "_set_in": 1,
+   "Auric the Conqueror": " "
+  },
+  "gender": {
+   "_not_set_in": 3,
+   "_set_in": 7,
+   "Ninjor": " Male\n",
+   "Magna Defender": "Male\n",
+   "Clare": "Female\n",
+   "Niella": " Female",
+   "Blue Senturion": " Male\n",
+   "Sentinel Knight": "Male\n",
+   "Camille": "Female\n"
+  },
+  "color": {
+   "_not_set_in": 0,
+   "_set_in": 10,
+   "Ninjor": " Blue\n",
+   "Magna Defender": "Black\n",
+   "Clare": "Purple\n",
+   "Niella": " Purple",
+   "Blue Senturion": " Blue\n",
+   "Auric the Conqueror": " Blue",
+   "Mike Corbett": " Black",
+   "Sentinel Knight": "Gold\n",
+   "Camille": "Green\n",
+   "Jarrod": " Black"
+  },
+  "homeworld": {
+   "_not_set_in": 0,
+   "_set_in": 10,
+   "Ninjor": " unknown\n",
+   "Magna Defender": "Unnamed Gray Planet\n",
+   "Clare": "Earth\n",
+   "Niella": " [[Earth]]",
+   "Blue Senturion": " unknown\n",
+   "Auric the Conqueror": " [[Earth]]",
+   "Mike Corbett": " [[Earth]] (Formerly)\n[[Mirinoi]] (Currently)",
+   "Sentinel Knight": "Unknown\n",
+   "Camille": "[[Earth]]\n",
+   "Jarrod": " [[Earth]]"
+  },
+  "firstepisode": {
+   "_not_set_in": 0,
+   "_set_in": 10,
+   "Ninjor": " [[Ninja Quest|Ninja Quest Part III]]\n",
+   "Magna Defender": "[[The Magna Defender]]\n",
+   "Clare": "[[Broken Spell]]\n",
+   "Niella": " [[The Gatekeeper (episode)|The Gatekeeper]]: Part 1",
+   "Blue Senturion": " [[The Millennium Message]]\n",
+   "Auric the Conqueror": " [[The Lore of Auric]]",
+   "Mike Corbett": " [[Quasar Quest]] (1)",
+   "Sentinel Knight": "[[Kick into Overdrive]]\n",
+   "Camille": "[[Welcome to the Jungle]]\n",
+   "Jarrod": " [[Welcome to the Jungle]] (1)"
+  },
+  "lastepisode": {
+   "_not_set_in": 0,
+   "_set_in": 10,
+   "Ninjor": " [[Power Rangers Legacy Wars - Street Fighter Showdown]]\n",
+   "Magna Defender": "[[Escape The Lost Galaxy]]\n",
+   "Clare": "[[Mystic Fate]]\n",
+   "Niella": " [[ Heir Apparent]]: Part 1",
+   "Blue Senturion": " [[Power Rangers Soul of the Dragon]]\n",
+   "Auric the Conqueror": " [[Rangers of Two Worlds]]",
+   "Mike Corbett": " [[Legendary Battle]]",
+   "Sentinel Knight": "[[Rebirth... Kind Of]]\n",
+   "Camille": "[[Now the Final Fury]]\n",
+   "Jarrod": " [[Now the Final Fury]]"
+  },
+  "numberofepisodes": {
+   "_not_set_in": 0,
+   "_set_in": 10,
+   "Ninjor": " 12\n",
+   "Magna Defender": "9 (Lost Galaxy)\n",
+   "Clare": "32\n",
+   "Niella": " 2",
+   "Blue Senturion": " 20\n",
+   "Auric the Conqueror": " 3",
+   "Mike Corbett": " 27 (Lost Galaxy)<br> 1 (Super Megaforce)<br>28 (Overall)",
+   "Sentinel Knight": "14 (Overdrive)<br>3 (HyperForce)\n",
+   "Camille": "32\n",
+   "Jarrod": " 32"
+  },
+  "cast": {
+   "_not_set_in": 2,
+   "_set_in": 8,
+   "Ninjor": " Kim Strauss\n",
+   "Magna Defender": "Kerrigan Mahan\n",
+   "Niella": " Antonia Prebble",
+   "Blue Senturion": " David Walsh\n",
+   "Auric the Conqueror": " Derek Stephen Prince",
+   "Mike Corbett": " Russell Lawrence",
+   "Camille": "Holly Shanahan",
+   "Jarrod": " Bede Skinner"
+  },
+  "casts": {
+   "_not_set_in": 8,
+   "_set_in": 2,
+   "Clare": "[[Antonia Prebble]] <br> [[Ayahi Takagaki]] (Japanese Dub)\n",
+   "Sentinel Knight": " [[Nic Sampson]] (Overdrive)<br>[[Malika Lim]] (HyperForce)\n"
+  },
+  "label": {
+   "_not_set_in": 2,
+   "_set_in": 8,
+   "Ninjor": " <div style=\"background-color:royalblue\"><font color=\"gold\">'''Ninjor Battle Mode'''</font></div>\n",
+   "Magna Defender": "\n",
+   "Clare": "<div style=\"background-color:purple\"><font color=\"white\">'''The Gatekeeper (II)'''</font>\n",
+   "Niella": " <div style=\"background-color:purple\"><font color=\"white\">'''The Gatekeeper (I)'''</font>",
+   "Mike Corbett": " <div style=\"background-color:black\"><font color=\"white\">'''Magna Defender (II)'''</font></div>",
+   "Sentinel Knight": "<div style=\"background-color:goldenrod\"><font color=\"black\">'''Super Mode'''</font></div>",
+   "Camille": "<div style=\"background-color:darkgreen\"><font color=\"purple\">'''Green Chameleon Warrior'''</font>\n",
+   "Jarrod": " <div style=\"background-color:black\"><font color=\"goldenrod\">'''Black Lion Warrior'''</font></div>"
+  },
+  "image2": {
+   "_not_set_in": 2,
+   "_set_in": 8,
+   "Ninjor": " MMPR Ninjor2.jpg\n",
+   "Magna Defender": "\n",
+   "Clare": "MF Clare.jpg",
+   "Niella": " ",
+   "Mike Corbett": " LG Magna Defender.jpg",
+   "Sentinel Knight": "SentinelKnightbattle.jpg\n",
+   "Camille": "4287_prjf-14556.jpg\n",
+   "Jarrod": " 2596_prjf-12685.jpg"
+  }
+ }
+}

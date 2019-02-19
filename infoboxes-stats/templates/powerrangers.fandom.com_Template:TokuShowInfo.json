@@ -1,0 +1,48 @@
+{
+ "wiki": "powerrangers.fandom.com",
+ "infobox": "Template:TokuShowInfo",
+ "parameters": {
+  "image": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Chouseishin GranSazer": " GranSazer Logo.jpg"
+  },
+  "pic": {
+   "_not_set_in": 1,
+   "_set_in": 0
+  },
+  "name": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Chouseishin GranSazer": " Chouseishin GranSazer\n"
+  },
+  "nr": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Chouseishin GranSazer": " 1 (SeiShin Series)"
+  },
+  "episodes": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Chouseishin GranSazer": " 51\n"
+  },
+  "start-ep": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Chouseishin GranSazer": " Awaken! The Warrior of the Stars\n"
+  },
+  "premiere": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Chouseishin GranSazer": " October 4, 2003"
+  },
+  "airdate": {
+   "_not_set_in": 1,
+   "_set_in": 0
+  },
+  "poster": {
+   "_not_set_in": 1,
+   "_set_in": 0
+  }
+ }
+}

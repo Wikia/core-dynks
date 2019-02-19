@@ -1,0 +1,158 @@
+{
+ "wiki": "walkingdead.fandom.com",
+ "infobox": "Template:FTWD Episode",
+ "parameters": {
+  "number": {
+   "_not_set_in": 0,
+   "_set_in": 8,
+   "Another Day in the Diamond": " 2\n",
+   "What's Your Story?": " 1\n",
+   "Good Out Here": " 3\n",
+   "Buried": " 4\n",
+   "Laura (Episode)": " 5\n",
+   "Just in Case": " 6\n",
+   "The Wrong Side of Where You Are Now": " 7\n",
+   "No One's Gone": " 8\n"
+  },
+  "title": {
+   "_not_set_in": 0,
+   "_set_in": 8,
+   "Another Day in the Diamond": " Another Day in the Diamond\n",
+   "What's Your Story?": " What's Your Story?\n",
+   "Good Out Here": " Good Out Here\n",
+   "Buried": " Buried\n",
+   "Laura (Episode)": " Laura\n",
+   "Just in Case": " Just in Case\n",
+   "The Wrong Side of Where You Are Now": " The Wrong Side of Where You Are Now\n",
+   "No One's Gone": " No One's Gone\n"
+  },
+  "season": {
+   "_not_set_in": 0,
+   "_set_in": 8,
+   "Another Day in the Diamond": " 4\n",
+   "What's Your Story?": " 4\n",
+   "Good Out Here": " 4\n",
+   "Buried": " 4\n",
+   "Laura (Episode)": " 4\n",
+   "Just in Case": " 4\n",
+   "The Wrong Side of Where You Are Now": " 4\n",
+   "No One's Gone": " 4\n"
+  },
+  "image": {
+   "_not_set_in": 0,
+   "_set_in": 8,
+   "Another Day in the Diamond": " 402.jpg\n",
+   "What's Your Story?": " FTWD 401.jpg\n",
+   "Good Out Here": " FTWD 403.jpg\n",
+   "Buried": " FTWD 404.jpg\n",
+   "Laura (Episode)": " FTWD 405.jpg\n",
+   "Just in Case": " FTWD 406.jpg\n",
+   "The Wrong Side of Where You Are Now": " 407.jpg\n",
+   "No One's Gone": " [[FTWD 408.jpg|thumb]]\n"
+  },
+  "airdate": {
+   "_not_set_in": 0,
+   "_set_in": 8,
+   "Another Day in the Diamond": " April 22, 2018\n",
+   "What's Your Story?": " April 15, 2018\n",
+   "Good Out Here": " April 29, 2018\n",
+   "Buried": " May 6, 2018\n",
+   "Laura (Episode)": " May 13, 2018\n",
+   "Just in Case": " May 20, 2018\n",
+   "The Wrong Side of Where You Are Now": " June 3, 2018\n",
+   "No One's Gone": " June 10, 2018\n"
+  },
+  "releasedate": {
+   "_not_set_in": 8,
+   "_set_in": 0
+  },
+  "postdate": {
+   "_not_set_in": 8,
+   "_set_in": 0
+  },
+  "writer": {
+   "_not_set_in": 0,
+   "_set_in": 8,
+   "Another Day in the Diamond": " [[Andrew Chambliss]]<br>[[Ian Goldberg]]\n",
+   "What's Your Story?": " [[Scott Gimple]]<br>[[Andrew Chambliss]]<br>[[Ian Goldberg]]\n",
+   "Good Out Here": " [[Shintaro Shimosawa]]\n",
+   "Buried": " [[Alex Delyle]]\n",
+   "Laura (Episode)": " [[Anna Fishko]]\n",
+   "Just in Case": " [[Richard Naing]]\n",
+   "The Wrong Side of Where You Are Now": " [[Melissa Scrivner Love]]\n",
+   "No One's Gone": " [[Andrew Chambliss]]<br>[[Ian Goldberg]]\n"
+  },
+  "director": {
+   "_not_set_in": 0,
+   "_set_in": 8,
+   "Another Day in the Diamond": " [[Michael Satrazemis]]\n",
+   "What's Your Story?": " [[John Polson]]\n",
+   "Good Out Here": " [[Dan Liu]]\n",
+   "Buried": " [[Magnus Martens]]\n",
+   "Laura (Episode)": " [[Michael Satrazemis]]\n",
+   "Just in Case": " [[Daisy Mayer]]\n",
+   "The Wrong Side of Where You Are Now": " [[Sarah Boyd]]\n",
+   "No One's Gone": " [[Michael Satrazemis]]\n"
+  },
+  "viewers": {
+   "_not_set_in": 0,
+   "_set_in": 8,
+   "Another Day in the Diamond": " 3.07 million\n",
+   "What's Your Story?": " 4.09 million\n",
+   "Good Out Here": " 2.71 million\n",
+   "Buried": " 2.49 million\n",
+   "Laura (Episode)": " 2.46 million\n",
+   "Just in Case": " 2.31 million\n",
+   "The Wrong Side of Where You Are Now": " 1.97 million\n",
+   "No One's Gone": " 2.32 million\n"
+  },
+  "previous": {
+   "_not_set_in": 0,
+   "_set_in": 8,
+   "Another Day in the Diamond": " \"[[What's Your Story?]]\"\n",
+   "What's Your Story?": " \"[[Sleigh Ride]]\"\n",
+   "Good Out Here": " \"[[Another Day in the Diamond]]\"\n",
+   "Buried": " \"[[Good Out Here]]\"\n",
+   "Laura (Episode)": " \"[[Buried]]\"\n",
+   "Just in Case": " \"[[Laura (Episode)|Laura]]\"\n",
+   "The Wrong Side of Where You Are Now": " \"[[Just in Case]]\"\n",
+   "No One's Gone": " \"[[The Wrong Side of Where You Are Now]]\"\n"
+  },
+  "next": {
+   "_not_set_in": 0,
+   "_set_in": 8,
+   "Another Day in the Diamond": " \"[[Good Out Here]]\"\n",
+   "What's Your Story?": " \"[[Another Day in the Diamond]]\"\n",
+   "Good Out Here": " \"[[Buried]]\"\n",
+   "Buried": " \"[[Laura (Episode)|Laura]]\"\n",
+   "Laura (Episode)": " \"[[Just in Case]]\"\n",
+   "Just in Case": " \"[[The Wrong Side of Where You Are Now]]\"\n",
+   "The Wrong Side of Where You Are Now": " \"[[No One's Gone]]\"\n",
+   "No One's Gone": " \"[[People Like Us]]\"\n"
+  },
+  "cast": {
+   "_not_set_in": 0,
+   "_set_in": 8,
+   "Another Day in the Diamond": " [[Kim Dickens]] as [[Madison Clark (Fear The Walking Dead)|Madison Clark]]**<br>[[Frank Dillane]] as [[Nicholas Clark (Fear The Walking Dead)|Nicholas Clark]]<br>[[Alycia Debnam-Carey]] as [[Alicia Clark (Fear The Walking Dead)|Alicia Clark]]<br>[[Maggie Grace]] as [[Althea (Fear The Walking Dead)|Althea]]<br>[[Colman Domingo]] as [[Victor Strand (Fear The Walking Dead)|Victor Strand]]<br>[[Danay Garcia|Danay Garc\u00eda]] as [[Luciana Galvez (Fear The Walking Dead)|Luciana Galvez]]<br>[[Garret Dillahunt]] as [[John Dorie (Fear The Walking Dead)|John Dorie]]<br>[[Jenna Elfman]] as [[June (Fear The Walking Dead)|June]]**<br>[[Lennie James]] as [[Morgan Jones (Fear The Walking Dead)|Morgan Jones]]\n",
+   "What's Your Story?": " [[Kim Dickens]] as [[Madison Clark (Fear The Walking Dead)|Madison Clark]]*<br>[[Frank Dillane]] as [[Nicholas Clark (Fear The Walking Dead)|Nicholas Clark]]<br>[[Alycia Debnam-Carey]] as [[Alicia Clark (Fear The Walking Dead)|Alicia Clark]]<br>[[Maggie Grace]] as [[Althea (Fear The Walking Dead)|Althea]]<br>[[Colman Domingo]] as [[Victor Strand (Fear The Walking Dead)|Victor Strand]]<br>[[Danay Garcia|Danay Garc\u00eda]] as [[Luciana Galvez (Fear The Walking Dead)|Luciana Galvez]]**<br>[[Garret Dillahunt]] as [[John Dorie (Fear The Walking Dead)|John Dorie]]<br>[[Lennie James]] as [[Morgan Jones (Fear The Walking Dead)|Morgan Jones]]\n",
+   "Good Out Here": " [[Kim Dickens]] as [[Madison Clark (Fear The Walking Dead)|Madison Clark]]**<br>[[Frank Dillane]] as [[Nicholas Clark (Fear The Walking Dead)|Nicholas Clark]]<br>[[Alycia Debnam-Carey]] as [[Alicia Clark (Fear The Walking Dead)|Alicia Clark]]<br>[[Maggie Grace]] as [[Althea (Fear The Walking Dead)|Althea]]<br>[[Colman Domingo]] as [[Victor Strand (Fear The Walking Dead)|Victor Strand]]<br>[[Danay Garcia|Danay Garcia]] as [[Luciana Galvez (Fear The Walking Dead)|Luciana Galvez]]<br>[[Garret Dillahunt]] as [[John Dorie (Fear The Walking Dead)|John Dorie]]<br>[[Jenna Elfman]] as [[June (Fear The Walking Dead)|June]]*<br>[[Lennie James]] as [[Morgan Jones (Fear The Walking Dead)|Morgan Jones]]\n",
+   "Buried": " [[Kim Dickens]] as [[Madison Clark (Fear The Walking Dead)|Madison Clark]]*** <br>[[Frank Dillane]] as [[Nicholas Clark (Fear The Walking Dead)|Nicholas Clark]]* ***<br>[[Alycia Debnam-Carey]] as [[Alicia Clark (Fear The Walking Dead)|Alicia Clark]]<br>[[Maggie Grace]] as [[Althea (Fear The Walking Dead)|Althea]]<br>[[Colman Domingo]] as [[Victor Strand (Fear The Walking Dead)|Victor Strand]]<br>[[Danay Garcia|Danay Garc\u00eda]] as [[Luciana Galvez (Fear The Walking Dead)|Luciana Galvez]]<br>[[Garret Dillahunt]] as [[John Dorie (Fear The Walking Dead)|John Dorie]]<br>[[Jenna Elfman]] as [[June (Fear The Walking Dead)|June]]***<br>[[Lennie James]] as [[Morgan Jones (Fear The Walking Dead)|Morgan Jones]]\n",
+   "Laura (Episode)": " [[Kim Dickens]] as [[Madison Clark (Fear The Walking Dead)|Madison Clark]]* <br>[[Alycia Debnam-Carey]] as [[Alicia Clark (Fear The Walking Dead)|Alicia Clark]]*<br>[[Maggie Grace]] as [[Althea (Fear The Walking Dead)|Althea]]*<br>[[Colman Domingo]] as [[Victor Strand (Fear The Walking Dead)|Victor Strand]]*<br>[[Danay Garcia|Danay Garc\u00eda]] as [[Luciana Galvez (Fear The Walking Dead)|Luciana Galvez]]*<br>[[Garret Dillahunt]] as [[John Dorie (Fear The Walking Dead)|John Dorie]]<br>[[Jenna Elfman]] as [[June (Fear The Walking Dead)|June]]**<br>[[Lennie James]] as [[Morgan Jones (Fear The Walking Dead)|Morgan Jones]]<br><small>* does not appear</small><br><small>** flashback</small>\n",
+   "Just in Case": " [[Kim Dickens]] as [[Madison Clark (Fear The Walking Dead)|Madison Clark]]*<br>[[Frank Dillane]] as [[Nicholas Clark (Fear The Walking Dead)|Nicholas Clark]]*<br>[[Alycia Debnam-Carey]] as [[Alicia Clark (Fear The Walking Dead)|Alicia Clark]]<br>[[Maggie Grace]] as [[Althea (Fear The Walking Dead)|Althea]]<br>[[Colman Domingo]] as [[Victor Strand (Fear The Walking Dead)|Victor Strand]]<br>[[Danay Garcia|Danay Garc\u00eda]] as [[Luciana Galvez (Fear The Walking Dead)|Luciana Galvez]]<br>[[Garret Dillahunt]] as [[John Dorie (Fear The Walking Dead)|John Dorie]]<br>[[Jenna Elfman]] as [[June (Fear The Walking Dead)|June]]<br>[[Lennie James]] as [[Morgan Jones (Fear The Walking Dead)|Morgan Jones]]\n",
+   "The Wrong Side of Where You Are Now": " [[Kim Dickens]] as [[Madison Clark (Fear The Walking Dead)|Madison Clark]]*<br>[[Frank Dillane]] as [[Nicholas Clark (Fear The Walking Dead)|Nicholas Clark]]*<br>[[Alycia Debnam-Carey]] as [[Alicia Clark (Fear The Walking Dead)|Alicia Clark]]<br>[[Maggie Grace]] as [[Althea (Fear The Walking Dead)|Althea]]<br>[[Colman Domingo]] as [[Victor Strand (Fear The Walking Dead)|Victor Strand]]<br>[[Danay Garcia|Danay Garc\u00eda]] as [[Luciana Galvez (Fear The Walking Dead)|Luciana Galvez]]<br>[[Garret Dillahunt]] as [[John Dorie (Fear The Walking Dead)|John Dorie]]<br>[[Jenna Elfman]] as [[June (Fear The Walking Dead)|June]]<br>[[Lennie James]] as [[Morgan Jones (Fear The Walking Dead)|Morgan Jones]]\n",
+   "No One's Gone": " [[Kim Dickens]] as [[Madison Clark (Fear The Walking Dead)|Madison Clark]]*<br>[[Frank Dillane]] as [[Nicholas Clark (Fear The Walking Dead)|Nicholas Clark]]*<br>[[Alycia Debnam-Carey]] as [[Alicia Clark (Fear The Walking Dead)|Alicia Clark]]<br>[[Maggie Grace]] as [[Althea (Fear The Walking Dead)|Althea]]<br>[[Colman Domingo]] as [[Victor Strand (Fear The Walking Dead)|Victor Strand]]<br>[[Danay Garcia|Danay Garc\u00eda]] as [[Luciana Galvez (Fear The Walking Dead)|Luciana Galvez]]<br>[[Garret Dillahunt]] as [[John Dorie (Fear The Walking Dead)|John Dorie]]<br>[[Jenna Elfman]] as [[June (Fear The Walking Dead)|June]]<br>[[Lennie James]] as [[Morgan Jones (Fear The Walking Dead)|Morgan Jones]]\n"
+  },
+  "guests": {
+   "_not_set_in": 0,
+   "_set_in": 8,
+   "Another Day in the Diamond": "[[Kevin Zegers]] as [[Melvin (Fear The Walking Dead)|Mel]]**<br>[[Sebastian Sozzi]] as [[Cole (Fear The Walking Dead)|Cole]]**<br>[[Evan Gamble]] as [[Ennis (Fear The Walking Dead)|Ennis]]* **<br>[[Rhoda Griffis]] as [[Vivian (Fear The Walking Dead)|Vivian]]**<br><small>* no lines </small>  <br> <small> ** flashback </small>\n",
+   "What's Your Story?": " [[Andrew Lincoln]] as [[Rick Grimes (TV Series)|Rick Grimes]]***<br>[[Melissa McBride]] as [[Carol Peletier (TV Series)|Carol Peletier]]***<br>[[Tom Payne]] as [[Paul Rovia (TV Series)|Paul Rovia]]***<br>[[Clint James]] as [[Leland (Fear The Walking Dead)|Leland]]<br><small>* does not appear in this episode <br>  ** no lines <br> *** Flashback </small> \n",
+   "Good Out Here": "[[Kevin Zegers]] as [[Melvin (Fear The Walking Dead)|Mel]]**<br>[[Evan Gamble]] as [[Ennis (Fear The Walking Dead)|Ennis]]<br><small>* does not appear in this episode</small>  <br> <small> ** flashback </small>\n",
+   "Buried": " [[Kevin Zegers]] as [[Melvin (Fear The Walking Dead)|Mel]]***<br>[[Sebastian Sozzi]] as [[Cole (Fear The Walking Dead)|Cole]]***<br>[[Evan Gamble]] as [[Ennis (Fear The Walking Dead)|Ennis]]** ***<br><small>* corpse</small><br><small>** zombified</small><br><small>*** flashback</small>\n",
+   "Laura (Episode)": "\n",
+   "Just in Case": " [[Kevin Zegers]] as [[Melvin (Fear The Walking Dead)|Mel]]<br>[[Sebastian Sozzi]] as [[Cole (Fear The Walking Dead)|Cole]]*<br>[[Evan Gamble]] as [[Ennis (Fear The Walking Dead)|Ennis]]* **<br>[[Rhoda Griffis]] as [[Vivian (Fear The Walking Dead)|Vivian]]*\n<small>* flashback</small> <br> <small>** no lines</small>\n",
+   "The Wrong Side of Where You Are Now": "[[Kevin Zegers]] as [[Melvin (Fear The Walking Dead)|Melvin]]<br>[[Alexa Nisenson]] as [[Charlie (Fear The Walking Dead)|Charlie]]<br>[[Evan Gamble]] as [[Ennis (Fear The Walking Dead)|Ennis]]*<br>[[Sebastian Sozzi]] as [[Cole (Fear The Walking Dead)|Cole]]*<br>[[Rhoda Griffis]] as [[Vivian (Fear The Walking Dead)|Vivian]]*\n<small>* flashback</small>\n",
+   "No One's Gone": "[[Kevin Zegers]] as [[Melvin (Fear The Walking Dead)|Melvin]]* **<br>[[Alexa Nisenson]] as [[Charlie (Fear The Walking Dead)|Charlie]]<br>[[Sebastian Sozzi]] as [[Cole (Fear The Walking Dead)|Cole]]* **<br>[[Rhoda Griffis]] as [[Vivian (Fear The Walking Dead)|Vivian]]* **<br><small>* flashback</small> <br><small>** no lines</small>\n"
+  }
+ }
+}

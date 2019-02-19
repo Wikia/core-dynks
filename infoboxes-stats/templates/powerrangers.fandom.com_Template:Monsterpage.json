@@ -1,0 +1,74 @@
+{
+ "wiki": "powerrangers.fandom.com",
+ "infobox": "Template:Monsterpage",
+ "parameters": {
+  "pic": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "image": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "caption": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "name": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "season": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "seasons": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "height": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "giantheight": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "weight": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "giantweight": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "firstepisode": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "lastepisode": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "episode": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "episodes": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "numberofepisodes": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "voiceactor": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "voiceactors": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  }
+ }
+}

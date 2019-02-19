@@ -1,0 +1,63 @@
+{
+ "wiki": "powerrangers.fandom.com",
+ "infobox": "Template:MechCombo",
+ "parameters": {
+  "image": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Gigant Horse": " TSG-Big_Machine.jpg\n"
+  },
+  "name": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Gigant Horse": " Big Machine"
+  },
+  "zords": {
+   "_not_set_in": 1,
+   "_set_in": 0
+  },
+  "mechs": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Gigant Horse": " Gigant Horse<br>Crisis Fortress\n"
+  },
+  "season": {
+   "_not_set_in": 1,
+   "_set_in": 0
+  },
+  "seasons": {
+   "_not_set_in": 1,
+   "_set_in": 0
+  },
+  "movie": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Gigant Horse": " Kamen Rider \u00d7 Super Sentai: Super Hero Taisen\n"
+  },
+  "length": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Gigant Horse": " \n"
+  },
+  "width": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Gigant Horse": " \n"
+  },
+  "height": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Gigant Horse": " \n"
+  },
+  "weight": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Gigant Horse": " \n"
+  },
+  "speed": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Gigant Horse": " \n"
+  }
+ }
+}

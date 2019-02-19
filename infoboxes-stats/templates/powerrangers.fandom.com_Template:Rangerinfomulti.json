@@ -1,0 +1,237 @@
+{
+ "wiki": "powerrangers.fandom.com",
+ "infobox": "Template:Rangerinfomulti",
+ "parameters": {
+  "fullname": {
+   "_not_set_in": 4,
+   "_set_in": 5,
+   "Mia Watanabe": " Mia Watanabe\n",
+   "Kevin Baron": " Kevin Baron \n",
+   "Emily": " Emily\n",
+   "Antonio Garcia": " Antonio Garcia\n",
+   "Mike (Samurai)": " Mike\n"
+  },
+  "pic": {
+   "_not_set_in": 9,
+   "_set_in": 0
+  },
+  "sex": {
+   "_not_set_in": 8,
+   "_set_in": 1,
+   "Nick Russell": " Male\n"
+  },
+  "name": {
+   "_not_set_in": 0,
+   "_set_in": 9,
+   "Karone": " <div style=\"background-color:hotpink\"><font color=\"black\">'''Karone'''</font></div>\n",
+   "Nick Russell": " <div style=\"linear-gradientleft#FF0000, darkslateblue\"><font color=\"white\">'''Nick Russell&nbsp;/&nbsp;Bowen'''</font></div>\n",
+   "Mia Watanabe": " <div style=\"background-color:hotpink\"><font color=\"black\">Mia Watanabe</font></div>\n",
+   "Kevin Baron": " Kevin Baron\n",
+   "Emily": " <font color=\"black\">Emily</font>\n",
+   "Antonio Garcia": " <font color=\"navy\">Antonio Garcia</font>\n",
+   "Mike (Samurai)": " <font color=\"white\">Mike</font>\n",
+   "Joe Shih": " <div style=\"linear-gradientleftsilver, green\"><font color=\"white\">Joe Shih</font></div>\n",
+   "Saber-One": " Saber-One\n"
+  },
+  "image": {
+   "_not_set_in": 0,
+   "_set_in": 9,
+   "Karone": " Karone Super Megaforce.png\n",
+   "Nick Russell": " 500full-power-rangers-mystic-force-photo.jpg\n",
+   "Mia Watanabe": " EmilyWatanabe.jpg",
+   "Kevin Baron": " KevinSS.jpg\n",
+   "Emily": " EmilySamurai.jpg\n",
+   "Antonio Garcia": " Antonio-garcia.jpg",
+   "Mike (Samurai)": " MikeSS.jpg",
+   "Joe Shih": " JoeShih.png\n",
+   "Saber-One": " Saber-One.png\n"
+  },
+  "label": {
+   "_not_set_in": 0,
+   "_set_in": 9,
+   "Karone": " <div style=\"background-color:hotpink\"><font color=\"black\">'''Pink Galaxy Ranger (II)'''</font></div>\n",
+   "Nick Russell": " <div style=\"background-color:red\"><font color=\"white\">'''Red Mystic Ranger'''</font></div><div style=\"background-color:darkslateblue\"><font color=\"white\">'''Koragg, The Knight Wolf (2)'''</font></div>\n",
+   "Mia Watanabe": " <div style=\"background-color:hotpink\"><font color=\"black\">Samurai Ranger Sky (XVIII), <br>Pink Samurai Ranger (XVIII)</font></div><!--NOTE:Both official titles used.--><br>\n",
+   "Kevin Baron": " Samurai Ranger Water (XVIII)<br>Blue Samurai Ranger (XVIII)<!--NOTE:Both official titles used.-->\n",
+   "Emily": " <font color=\"black\">Samurai Ranger Earth (18), <br>Yellow Samurai Ranger (18)</font><!--NOTE:Both official titles used.--><br>\n",
+   "Antonio Garcia": "<font color=\"navy\">Samurai Ranger Light,<br>Gold Samurai Ranger</font><!--NOTE:Both Official Titles Used-->\n",
+   "Mike (Samurai)": " <font color=\"white\">Samurai Ranger Forest (XVIII), <br>Green Samurai Ranger (XVIII)</font><!--NOTE:Both official titles used.-->\n",
+   "Joe Shih": " <div style=\"background-color:silver\"><font color=\"black\">Time Force Silver</font></div><div style=\"background-color:green\"><font color=\"White\n\">HyperForce Green</font></div>\n",
+   "Saber-One": " Sabertooth Sentry\n"
+  },
+  "gender": {
+   "_not_set_in": 1,
+   "_set_in": 8,
+   "Karone": " Female\n",
+   "Mia Watanabe": " Female\n",
+   "Kevin Baron": " Male\n",
+   "Emily": " Female\n",
+   "Antonio Garcia": " Male\n",
+   "Mike (Samurai)": " Male\n",
+   "Joe Shih": " Male\n",
+   "Saber-One": " ?\n"
+  },
+  "season": {
+   "_not_set_in": 0,
+   "_set_in": 9,
+   "Karone": " [[Power Rangers in Space|In Space]]\n[[Power Rangers Lost Galaxy|Lost Galaxy]]\n",
+   "Nick Russell": " [[Mystic Force]]\n",
+   "Mia Watanabe": "  [[Samurai]]<br>[[Super Samurai]]\n",
+   "Kevin Baron": "  [[Samurai]], [[Super Samurai]]\n",
+   "Emily": "  [[Samurai]], [[Super Samurai]]\n",
+   "Antonio Garcia": " [[Samurai]], [[Super Samurai]]\n",
+   "Mike (Samurai)": " [[Samurai]], [[Super Samurai]]\n",
+   "Joe Shih": " [[Power Rangers HyperForce]]\n",
+   "Saber-One": " [[Mighty Morphin Power Rangers (Boom! Studios)]]\n"
+  },
+  "color": {
+   "_not_set_in": 0,
+   "_set_in": 9,
+   "Karone": " Pink\n",
+   "Nick Russell": " Red\n",
+   "Mia Watanabe": " Pink\n",
+   "Kevin Baron": " Blue\n",
+   "Emily": " Yellow\n",
+   "Antonio Garcia": " Gold\n",
+   "Mike (Samurai)": " Green\n",
+   "Joe Shih": " Silver, Green\n",
+   "Saber-One": " Yellow\n"
+  },
+  "homeworld": {
+   "_not_set_in": 0,
+   "_set_in": 9,
+   "Karone": " [[KO-35]] (Formerly)\n[[Mirinoi]] (Currently)\n",
+   "Nick Russell": " [[Earth]] (Magic World)\n",
+   "Mia Watanabe": " Earth\n",
+   "Kevin Baron": " Earth\n",
+   "Emily": " Earth\n",
+   "Antonio Garcia": " [[Earth]]\n",
+   "Mike (Samurai)": " Earth\n",
+   "Joe Shih": " [[Kaien]]\n",
+   "Saber-One": " [[Earth]] ([[World of the Coinless]]\n"
+  },
+  "firstepisode": {
+   "_not_set_in": 0,
+   "_set_in": 9,
+   "Karone": " [[From Out of Nowhere]] (1)\n",
+   "Nick Russell": " [[Broken Spell]] (1)\n",
+   "Mia Watanabe": " [[Origins]]\n",
+   "Kevin Baron": " [[Origins]]\n",
+   "Emily": " [[Origins]]\n",
+   "Antonio Garcia": " [[Unexpected Arrival]]\n",
+   "Mike (Samurai)": " [[Origins]]\n",
+   "Joe Shih": " [[Family]] (Illusion)\n[[Save Marv]] (Actual Appearance)\n",
+   "Saber-One": " [[Mighty Morphin Power Rangers (Boom! Studios) Issue 26]]\n"
+  },
+  "lastepisode": {
+   "_not_set_in": 0,
+   "_set_in": 9,
+   "Karone": " [[Legendary Battle]]\n",
+   "Nick Russell": " [[Legendary Battle]]\n",
+   "Mia Watanabe": " [[Legendary Battle]]\n",
+   "Kevin Baron": " [[Legendary Battle]]\n",
+   "Emily": " [[Legendary Battle]]\n",
+   "Antonio Garcia": " [[Dimensions in Danger]]\n",
+   "Mike (Samurai)": "[[Legendary Battle]]\n",
+   "Joe Shih": " [[Season Finale]]\n",
+   "Saber-One": " Mighty Morphin Power Rangers (Boom! Studios) Issue 26\n"
+  },
+  "numberofepisodes": {
+   "_not_set_in": 0,
+   "_set_in": 9,
+   "Karone": " 43 (In Space)<br>14 (Lost Galaxy)<br>1 (Super Megaforce)<br>58 (Overall)\n",
+   "Nick Russell": " 32 (Mystic Force)<br>1 (Super Megaforce)<br>33 (Overall)\n",
+   "Mia Watanabe": " 44\n",
+   "Kevin Baron": " 44\n",
+   "Emily": " 43",
+   "Antonio Garcia": " 10 (Samurai)<br>23 (Super Samurai)<br>2 (Super Megaforce)<br>1 (Super Ninja Steel)<br>Total:36\n",
+   "Mike (Samurai)": " 44\n",
+   "Joe Shih": " 10 (Hyperforce)\n",
+   "Saber-One": " 1 comic issue\n"
+  },
+  "cast": {
+   "_not_set_in": 9,
+   "_set_in": 0
+  },
+  "casts": {
+   "_not_set_in": 0,
+   "_set_in": 9,
+   "Karone": " [[Melody Perkins]]\n",
+   "Nick Russell": " [[Firass Dirani]] <br> [[Takahiro Sakurai]] (Japanese Dub)\n",
+   "Mia Watanabe": " [[Erika Fong]]<br>[[Sachiko Kojima]] (JP dub)refhttp://www.toei.co.jp/release/tv/1201985_963.html</ref>\n",
+   "Kevin Baron": " [[Najee De-Tiege]]<br>[[Tsuguo Mogami]] (JP dub)\n",
+   "Emily": " [[Brittany Anne Pirtle]]<br>[[Ayaka Shimoyamada]] (JP Dub)refhttp://www.toei.co.jp/release/tv/1201985_963.html</ref>\n",
+   "Antonio Garcia": " [[Steven Skyler]]<br>[[Jeremy Birchall]] ([[Clash of the Red Rangers - The Movie]]; voice only)<br>[[Connor Kerrigan]] (child)",
+   "Mike (Samurai)": " [[Hector David, Jr.]]<br>[[Wataru Hatano]] (JP Dub)refhttp://www.toei.co.jp/release/tv/1201985_963.html</ref>\n",
+   "Joe Shih": " [[Yoshi Sudarso]]<br>[[Malika Lim]] (''Illusion'')\n",
+   "Saber-One": " N/A\n"
+  },
+  "image2": {
+   "_not_set_in": 2,
+   "_set_in": 7,
+   "Karone": " LG Pink Galaxy Ranger.jpg\n",
+   "Nick Russell": " <center>tabber\n|-|Red Ranger=\n{{#tag:tabber|\nRanger=\n{{#tag:tabber|\n1= {{{1|{{Side crop|image=Tumblr nb59lmInxS1s5uxaeo7 250.png|size={{{width|250}}}|width=250|height=170|position=center|left=0}}}}}\n<div style=\"background-color:red\"><font color=\"white\">'''Red Mystic Ranger'''<br>'''Red Legend Warrior'''<br>'''Red Dragon Fire Ranger'''</font></div>\n{{!}}-{{!}}\n2={{{2|{{Side crop|image=Tumblr_nbdnynRJ7N1s5uxaeo8_1280.png|size={{{width|250}}}|width=250|height=170|position=center|left=0}}}}}\n<div style=\"background-color:red\"><font color=\"white\">'''Red Legend Warrior'''</font></div>\n{{!}}-{{!}}\n3={{{2|{{Side crop|image=MF_Red_Dragon_Fire_Ranger.jpg|size={{{width|250}}}|width=250|height=170|position=center|left=0}}}}}\n<div style=\"background-color:red\"><font color=\"white\">'''Red Dragon Fire Ranger'''</font></div>\n}}\n{{!}}-{{!}}\nTitan=\n{{#tag:tabber|\n1= {{Side crop|image=Prmf-phoenix.jpg|size={{{width|250}}}|width=250|height=170|position=center|left=0}}\n<div style=\"background-color:red\"><font color=\"white\">'''Mystic Phoenix'''</font></div>\n{{!}}-{{!}}\n2={{{2|{{Side crop|image=Prmf-firebird.JPG|size={{{width|250}}}|width=250|height=170|position=center|left=0}}}}}\n<div style=\"background-color:red\"><font color=\"white\">'''Mystic Firebird'''</font></div>\n}}\n}}\n|-|Knight Wolf=[[File:SerieTV-Power-Rangers-Mystic-Force-1x31-Il-Segno-del-Destino-Parte1.avi 000588080.jpg|250px]]\n<div style=\"background-color:darkslateblue\"><font color=\"white\">'''Koragg, The Knight Wolf (2)'''</font></div>\n</tabber></center>\n",
+   "Mia Watanabe": " Samurai Pink Ranger 01.png",
+   "Kevin Baron": " Samurai Blue Ranger 01.png",
+   "Emily": " YellowSamuraiRanger.jpg\n",
+   "Antonio Garcia": "Samurai Gold Ranger 01.png\n",
+   "Mike (Samurai)": " Samurai Green Ranger 01.png"
+  },
+  "rangerimage1": {
+   "_not_set_in": 9,
+   "_set_in": 0
+  },
+  "ranger1": {
+   "_not_set_in": 9,
+   "_set_in": 0
+  },
+  "rangerimage2": {
+   "_not_set_in": 9,
+   "_set_in": 0
+  },
+  "ranger2": {
+   "_not_set_in": 9,
+   "_set_in": 0
+  },
+  "rangerimage3": {
+   "_not_set_in": 9,
+   "_set_in": 0
+  },
+  "ranger3": {
+   "_not_set_in": 9,
+   "_set_in": 0
+  },
+  "rangerimage4": {
+   "_not_set_in": 9,
+   "_set_in": 0
+  },
+  "ranger4": {
+   "_not_set_in": 9,
+   "_set_in": 0
+  },
+  "rangerimage5": {
+   "_not_set_in": 9,
+   "_set_in": 0
+  },
+  "ranger5": {
+   "_not_set_in": 9,
+   "_set_in": 0
+  },
+  "rangerimage6": {
+   "_not_set_in": 9,
+   "_set_in": 0
+  },
+  "ranger6": {
+   "_not_set_in": 9,
+   "_set_in": 0
+  },
+  "rangerimage7": {
+   "_not_set_in": 9,
+   "_set_in": 0
+  },
+  "ranger7": {
+   "_not_set_in": 9,
+   "_set_in": 0
+  }
+ }
+}

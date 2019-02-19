@@ -1,0 +1,31 @@
+{
+ "wiki": "powerrangers.fandom.com",
+ "infobox": "Template:ArsenalInfo",
+ "parameters": {
+  "rangers": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Arsenal (MMPR Movie)": " [[Mighty Morphin Power Rangers (movie team)]]\n"
+  },
+  "season": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Arsenal (MMPR Movie)": " Mighty Morphin Power Rangers: The Movie\n"
+  },
+  "specialdevices": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Arsenal (MMPR Movie)": " Power Coins\n"
+  },
+  "previous": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Arsenal (MMPR Movie)": " \n"
+  },
+  "next": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Arsenal (MMPR Movie)": " Arsenal (PR Movie)\n"
+  }
+ }
+}
