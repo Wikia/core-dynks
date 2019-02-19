@@ -1,0 +1,74 @@
+{
+ "wiki": "hero.fandom.com",
+ "infobox": "Template:Alicia Clark (Fear the Walking Dead)",
+ "parameters": {
+  "title1": {
+   "_not_set_in": 1,
+   "_set_in": 0
+  },
+  "image1": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Alicia Clark": " [[File:Season_four_alicia_clark.png|thumb]]\n"
+  },
+  "caption1": {
+   "_not_set_in": 1,
+   "_set_in": 0
+  },
+  "full_name": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Alicia Clark": " Alicia Clark\n"
+  },
+  "alias": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Alicia Clark": " Licia\n"
+  },
+  "origin": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Alicia Clark": " Fear the Walking Dead\n"
+  },
+  "occupation": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Alicia Clark": " High School Student\n"
+  },
+  "powers/skills": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Alicia Clark": " Survival skills\n"
+  },
+  "hobby": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Alicia Clark": " Surviving alongside her fellow allies\n"
+  },
+  "goals": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Alicia Clark": " To survive the post-apocalyptic world alongside her allies\n"
+  },
+  "family": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Alicia Clark": " [[Madison Clark]] (mother) (deceased)\n[[Nick Clark]] (brother) (deceased)\nStephen Clark (father) (deceased)\n"
+  },
+  "friends/allies": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Alicia Clark": " [[Travis Manawa]] (deceased)\n[[Morgan Jones]]\nMatt Sale (boyfriend) (deceased)\nLuciana Gomez\nJake Otto (boyfriend) (deceased)\nJohn, Atlea, June\n"
+  },
+  "enemies": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Alicia Clark": " Chris Manawa, Andrew, Charlie\n"
+  },
+  "type_of_hero": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Alicia Clark": " Lead Heroine\n"
+  }
+ }
+}

@@ -1,0 +1,29 @@
+{
+ "wiki": "hero.fandom.com",
+ "infobox": "Template:Hero",
+ "parameters": {
+  "title1": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Tygra (Better Publications)": " Tygra"
+  },
+  "image1": {
+   "_not_set_in": 1,
+   "_set_in": 0
+  },
+  "caption1": {
+   "_not_set_in": 1,
+   "_set_in": 0
+  },
+  "full_name": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Tygra (Better Publications)": " Lynn Thomas"
+  },
+  "aliases": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Tygra (Better Publications)": " Tygra"
+  }
+ }
+}

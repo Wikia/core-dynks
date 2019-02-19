@@ -1,0 +1,74 @@
+{
+ "wiki": "hero.fandom.com",
+ "infobox": "Template:Jem / Jerrica Benton",
+ "parameters": {
+  "title1": {
+   "_not_set_in": 1,
+   "_set_in": 0
+  },
+  "image1": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Jem/Jerrica Benton": " Jem-0.jpg"
+  },
+  "caption1": {
+   "_not_set_in": 1,
+   "_set_in": 0
+  },
+  "full_name": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Jem/Jerrica Benton": " Jerrica Benton"
+  },
+  "alias": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Jem/Jerrica Benton": " Jem"
+  },
+  "origin": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Jem/Jerrica Benton": " Jem"
+  },
+  "occupation": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Jem/Jerrica Benton": " Lead Singer,\nRock Star"
+  },
+  "powers/skills": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Jem/Jerrica Benton": " N/A"
+  },
+  "hobby": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Jem/Jerrica Benton": " N/A"
+  },
+  "goals": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Jem/Jerrica Benton": " N/A"
+  },
+  "family": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Jem/Jerrica Benton": " Emmett Benton (father) (deceased),<br>[[Kimber Benton]] (younger sister),<br>Jacqui Benton (mother) (deceased)"
+  },
+  "friends": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Jem/Jerrica Benton": " [[Rio Pacheco]] (boyfriend),<br>[[Shana Elmsford]],<br>[[Aja Leith]],<br>[[Carmen 'Raya' Alonso | Raya Alonso]]"
+  },
+  "enemies": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Jem/Jerrica Benton": " The Misfits,The Stingers,Eric Raymond"
+  },
+  "type_of_hero": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Jem/Jerrica Benton": " Rock Star, Heroine"
+  }
+ }
+}

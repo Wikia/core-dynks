@@ -1,0 +1,55 @@
+{
+ "wiki": "ttte.fandom.com",
+ "infobox": "Template:Infobox Character Ponkickies",
+ "parameters": {
+  "title": {
+   "_not_set_in": 0,
+   "_set_in": 3,
+   "Ponkickies Characters": "Connie\n"
+  },
+  "image": {
+   "_not_set_in": 0,
+   "_set_in": 3,
+   "Ponkickies Characters": "Connie.png\n"
+  },
+  "caption": {
+   "_not_set_in": 2,
+   "_set_in": 1,
+   "Ponkickies Characters": "Gachapin and Mukku\n"
+  },
+  "name": {
+   "_not_set_in": 0,
+   "_set_in": 3,
+   "Ponkickies Characters": "Connie Note\u30b3\u30cb\u30fc\n"
+  },
+  "nickname": {
+   "_not_set_in": 1,
+   "_set_in": 2,
+   "Ponkickies Characters": "Connie-Chan Note\u30b3\u30cb\u30fc\u3061\u3083\u3093\n"
+  },
+  "age": {
+   "_not_set_in": 1,
+   "_set_in": 2,
+   "Ponkickies Characters": "8\n"
+  },
+  "gender": {
+   "_not_set_in": 3,
+   "_set_in": 0
+  },
+  "birthday": {
+   "_not_set_in": 0,
+   "_set_in": 3,
+   "Ponkickies Characters": "2nd May\n"
+  },
+  "place of birth": {
+   "_not_set_in": 0,
+   "_set_in": 3,
+   "Ponkickies Characters": "flagus [[United States]]\n"
+  },
+  "creator": {
+   "_not_set_in": 0,
+   "_set_in": 3,
+   "Ponkickies Characters": "Y\u014dsuke Kihara\n"
+  }
+ }
+}

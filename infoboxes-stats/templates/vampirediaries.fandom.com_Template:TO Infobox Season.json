@@ -1,0 +1,86 @@
+{
+ "wiki": "vampirediaries.fandom.com",
+ "infobox": "Template:TO Infobox Season",
+ "parameters": {
+  "Season": {
+   "_not_set_in": 0,
+   "_set_in": 6,
+   "Season Two (The Originals)": " Two\n",
+   "Season One (The Originals)": " One\n",
+   "The Originals: The Awakening": " One\n",
+   "Season Three (The Originals)": " Three\n",
+   "Season Four (The Originals)": " Four\n",
+   "Season Five (The Originals)": " Five\n"
+  },
+  "Image": {
+   "_not_set_in": 0,
+   "_set_in": 6,
+   "Season Two (The Originals)": " Originalss2.jpg\n",
+   "Season One (The Originals)": " Poster promotional The Originals.jpg\n",
+   "The Originals: The Awakening": " Toawakening.PNG\n",
+   "Season Three (The Originals)": " 3Poster.png\n",
+   "Season Four (The Originals)": " TO Season 4 Poster.jpg\n",
+   "Season Five (The Originals)": " TO Season 5 Poster.jpg\n"
+  },
+  "Episodes": {
+   "_not_set_in": 0,
+   "_set_in": 6,
+   "Season Two (The Originals)": "22\n",
+   "Season One (The Originals)": "  22\n",
+   "The Originals: The Awakening": " 4\n",
+   "Season Three (The Originals)": " 22 refhttp://www.spoilertv.com/2015/06/cw-episode-orders-20152016.html</ref>\n",
+   "Season Four (The Originals)": " 13\n",
+   "Season Five (The Originals)": " 13\n"
+  },
+  "Airdate": {
+   "_not_set_in": 0,
+   "_set_in": 6,
+   "Season Two (The Originals)": " October 6, 2014 - May 11, 2015\n",
+   "Season One (The Originals)": " April 25, 2013 <small>(backdoor pilot)</small> <br>\nOctober 3, 2013 <small>(pilot)</small>\n",
+   "The Originals: The Awakening": " November 10, 2014 - Dec 8, 2014\n",
+   "Season Three (The Originals)": " October 8, 2015 - May 20, 2016 \n",
+   "Season Four (The Originals)": " March 17, 2017 - June 23, 2017\n",
+   "Season Five (The Originals)": " April 18, 2018 - August 1, 2018\n"
+  },
+  "Premiere": {
+   "_not_set_in": 0,
+   "_set_in": 6,
+   "Season Two (The Originals)": " ''[[Rebirth]]''\n",
+   "Season One (The Originals)": " ''[[Always and Forever]]''\n",
+   "The Originals: The Awakening": "  1.01\n",
+   "Season Three (The Originals)": " ''[[For the Next Millennium]]''\n",
+   "Season Four (The Originals)": " ''[[Gather Up the Killers]]''\n",
+   "Season Five (The Originals)": " ''[[Where You Left Your Heart]]''\n"
+  },
+  "Finale": {
+   "_not_set_in": 0,
+   "_set_in": 6,
+   "Season Two (The Originals)": "  ''[[Ashes to Ashes]]''\n",
+   "Season One (The Originals)": " ''[[From a Cradle to a Grave]]'' \n",
+   "The Originals: The Awakening": " 1.04\n",
+   "Season Three (The Originals)": " ''[[The Bloody Crown]]''\n",
+   "Season Four (The Originals)": " ''[[The Feast of All Sinners]]''\n",
+   "Season Five (The Originals)": " ''[[When The Saints Go Marching In]]''\n"
+  },
+  "Slogan": {
+   "_not_set_in": 0,
+   "_set_in": 6,
+   "Season Two (The Originals)": " ''Eat, drink, and be wary''\n",
+   "Season One (The Originals)": " ''Bad Blood''\n",
+   "The Originals: The Awakening": " /\n",
+   "Season Three (The Originals)": " ''Sins Of The Past Will Hunt Them''\n",
+   "Season Four (The Originals)": " ''Evil Walks with Us...Always and Forever''\n",
+   "Season Five (The Originals)": " Family. Always and Forever.\n"
+  },
+  "Cast": {
+   "_not_set_in": 0,
+   "_set_in": 6,
+   "Season Two (The Originals)": " [[Joseph Morgan]] as [[Niklaus Mikaelson]]<br>[[Daniel Gillies]] as [[Elijah Mikaelson]]<br>[[Phoebe Tonkin]] as [[Hayley Marshall-Kenner|Hayley Marshall]]<br>[[Charles Michael Davis]] as [[Marcel Gerard]]<br>[[Leah Pipes]] as [[Camille O'Connell]]<br>[[Danielle Campbell]] as [[Davina Claire]]<br>[[Yusuf Gatewood]] as [[Vincent Griffith]]/[[Finn Mikaelson]]<br>",
+   "Season One (The Originals)": " [[Joseph Morgan]] as [[Niklaus Mikaelson]]<br>[[Daniel Gillies]] as [[Elijah Mikaelson]]<br>[[Claire Holt]] as [[Rebekah Mikaelson]]<br>[[Phoebe Tonkin]] as [[Hayley Marshall-Kenner|Hayley Marshall]]<br>[[Charles Michael Davis]] as [[Marcel Gerard]]<br>[[Daniella Pineda]] as [[Sophie Deveraux]]<br>[[Leah Pipes]] as [[Camille O'Connell]]<br>[[Danielle Campbell]] as [[Davina Claire]]<br>\n",
+   "The Originals: The Awakening": " [[Nathaniel Buzolic]] as [[Kol Mikaelson]]\n[[Keri Lynn Pratt]] as [[Mary-Alice Claire]]<br>\n[[Aleeah Rogers]] as [[Astrid Malchance]]",
+   "Season Three (The Originals)": " [[Joseph Morgan]] as [[Niklaus Mikaelson]] <br>[[Daniel Gillies]] as [[Elijah Mikaelson]] <br>[[Phoebe Tonkin]] as [[Hayley Marshall-Kenner]]<br>[[Charles Michael Davis]] as [[Marcel Gerard]] <br>[[Leah Pipes]] as [[Camille O'Connell]]<br>[[Danielle Campbell]] as [[Davina Claire]]<br>[[Yusuf Gatewood]] as [[Vincent Griffith]] <br>[[Riley Voelkel]] as [[Freya Mikaelson]]<br>\n",
+   "Season Four (The Originals)": " [[Joseph Morgan]] as [[Niklaus Mikaelson]]<br>[[Daniel Gillies]] as [[Elijah Mikaelson]]<br>[[Phoebe Tonkin]] as [[Hayley Marshall-Kenner]]<br>[[Charles Michael Davis]] as [[Marcel Gerard]]<br>[[Yusuf Gatewood]] as [[Vincent Griffith]]<br>[[Riley Voelkel]] as [[Freya Mikaelson]]",
+   "Season Five (The Originals)": " [[Joseph Morgan]] as [[Niklaus Mikaelson]]<br>[[Daniel Gillies]] as [[Elijah Mikaelson]]<br>[[Phoebe Tonkin]] as [[Hayley Marshall-Kenner]]<br>[[Charles Michael Davis]] as [[Marcel Gerard]]<br>[[Yusuf Gatewood]] as [[Vincent Griffith]]<br>[[Riley Voelkel]] as [[Freya Mikaelson]]<br>[[Danielle Rose Russell]] as [[Hope Mikaelson]]<br>[[Steven Krueger]] as [[Joshua Rosza|Josh Rosza]]\n"
+  }
+ }
+}

@@ -1,0 +1,192 @@
+{
+ "wiki": "hero.fandom.com",
+ "infobox": "Template:Heroic Organization2",
+ "parameters": {
+  "title1": {
+   "_not_set_in": 2,
+   "_set_in": 2,
+   "Taiyang Xiao Long": " Taiyang Xiao Long",
+   "The AV Club": " Hawkins Middle AV Club"
+  },
+  "image1": {
+   "_not_set_in": 1,
+   "_set_in": 3,
+   "Taiyang Xiao Long": " Taiyang Vol 4.png",
+   "MI6": " MI6 Logo.png\n",
+   "The AV Club": " AV Club poster.png"
+  },
+  "caption1": {
+   "_not_set_in": 3,
+   "_set_in": 1,
+   "MI6": " The MI6 Logo\n"
+  },
+  "full_name": {
+   "_not_set_in": 0,
+   "_set_in": 4,
+   "Schoolgirl Strikers": " Schoolgirl Strikers",
+   "Taiyang Xiao Long": " Taiyang Xiao Long",
+   "MI6": " Military Intelligence Section 6\n",
+   "The AV Club": " Hawkins Middle AV Club"
+  },
+  "alias": {
+   "_not_set_in": 2,
+   "_set_in": 2,
+   "Taiyang Xiao Long": " Tai (by Qrow)",
+   "MI6": " SIS (Secret Intelligence Service)\n"
+  },
+  "type": {
+   "_not_set_in": 3,
+   "_set_in": 1,
+   "MI6": " Foreign intelligence agency\n"
+  },
+  "headquarters": {
+   "_not_set_in": 3,
+   "_set_in": 1,
+   "MI6": " Whitehall, London, England (''Dr.No'' - ''Goldeneye'', ''Skyfall''- )\n\nVauxhall Bridge, London, England (''Goldeneye'' - ''Skyfall'')\n"
+  },
+  "origin": {
+   "_not_set_in": 1,
+   "_set_in": 3,
+   "Schoolgirl Strikers": " ''Schoolgirl Strikers''",
+   "Taiyang Xiao Long": " RWBY",
+   "MI6": " '' James Bond '' by Ian Fleming\n"
+  },
+  "apears_in": {
+   "_not_set_in": 3,
+   "_set_in": 1,
+   "The AV Club": " Stranger Things"
+  },
+  "leader(s)": {
+   "_not_set_in": 2,
+   "_set_in": 2,
+   "MI6": " M\n",
+   "The AV Club": " Mike Wheeler"
+  },
+  "high-ranking_members": {
+   "_not_set_in": 2,
+   "_set_in": 2,
+   "MI6": " M\n\nQ (Major Boothroyd)\n\nBill Tanner\n",
+   "The AV Club": " Eleven"
+  },
+  "known_members": {
+   "_not_set_in": 2,
+   "_set_in": 2,
+   "MI6": " James Bond\n\nEve Moneypenny\n\nBill Tanner\n\nR\n\nVillers\n\nLoelia Ponsonby\n",
+   "The AV Club": " Dustin Henderson\nLucas Sinclair\nWill Byers"
+  },
+  "sub-groups": {
+   "_not_set_in": 3,
+   "_set_in": 1,
+   "MI6": " 00 Section\n\nQ Branch (Q Division)\n"
+  },
+  "teams": {
+   "_not_set_in": 2,
+   "_set_in": 2,
+   "Schoolgirl Strikers": " [[Altair Torte]], [[Procyon Pudding]], [[Coconut Vega]], [[Biscuit Sirius]], [[Chocolate Mira]], [[Almond - Fomalhaut]], [[Other Schoolgirl Strikers|Others]]",
+   "Taiyang Xiao Long": " STRQ"
+  },
+  "allies": {
+   "_not_set_in": 2,
+   "_set_in": 2,
+   "MI6": " CIA, Deuxi\u00e8me Bureau, DGSE\n",
+   "The AV Club": " Max"
+  },
+  "enemies": {
+   "_not_set_in": 2,
+   "_set_in": 2,
+   "MI6": " SPECTRE, SMERSH, KGB",
+   "The AV Club": " Department of Energy"
+  },
+  "super_powers": {
+   "_not_set_in": 3,
+   "_set_in": 1,
+   "Schoolgirl Strikers": " "
+  },
+  "magic": {
+   "_not_set_in": 4,
+   "_set_in": 0
+  },
+  "supernatural_abilities": {
+   "_not_set_in": 4,
+   "_set_in": 0
+  },
+  "weapons": {
+   "_not_set_in": 3,
+   "_set_in": 1,
+   "The AV Club": " Slingshot, Hockey stick."
+  },
+  "equipment": {
+   "_not_set_in": 4,
+   "_set_in": 0
+  },
+  "other_abilities": {
+   "_not_set_in": 3,
+   "_set_in": 1,
+   "Schoolgirl Strikers": " Cross through different dimesions, Travel to parrallel universes"
+  },
+  "tv_series": {
+   "_not_set_in": 4,
+   "_set_in": 0
+  },
+  "web_series": {
+   "_not_set_in": 3,
+   "_set_in": 1,
+   "The AV Club": " Stranger Things"
+  },
+  "movie": {
+   "_not_set_in": 4,
+   "_set_in": 0
+  },
+  "comic": {
+   "_not_set_in": 4,
+   "_set_in": 0
+  },
+  "novel": {
+   "_not_set_in": 4,
+   "_set_in": 0
+  },
+  "light_novel": {
+   "_not_set_in": 4,
+   "_set_in": 0
+  },
+  "manga": {
+   "_not_set_in": 4,
+   "_set_in": 0
+  },
+  "anime": {
+   "_not_set_in": 4,
+   "_set_in": 0
+  },
+  "video_game": {
+   "_not_set_in": 4,
+   "_set_in": 0
+  },
+  "visual_novel": {
+   "_not_set_in": 4,
+   "_set_in": 0
+  },
+  "audio_drama": {
+   "_not_set_in": 4,
+   "_set_in": 0
+  },
+  "hobby(s)": {
+   "_not_set_in": 3,
+   "_set_in": 1,
+   "Taiyang Xiao Long": " Being a father"
+  },
+  "goal(s)": {
+   "_not_set_in": 1,
+   "_set_in": 3,
+   "Schoolgirl Strikers": " Defend Earth from the Oburi",
+   "Taiyang Xiao Long": " Be there for his daughters",
+   "The AV Club": " To get eleven back."
+  },
+  "type_of_heroes": {
+   "_not_set_in": 1,
+   "_set_in": 3,
+   "Schoolgirl Strikers": " Heroines, Empowered Heroes, Military Heroes, Proctectors of the Innocent",
+   "Taiyang Xiao Long": " Parent",
+   "MI6": " Intelligence Agency Heros / Bigger Good\n"
+  }
+ }
+}

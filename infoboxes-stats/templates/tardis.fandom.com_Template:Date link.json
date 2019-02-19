@@ -1,0 +1,698 @@
+{
+ "wiki": "tardis.fandom.com",
+ "infobox": "Template:Date link",
+ "parameters": {
+  "0": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "1": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "name": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "image": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "caption": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "image2": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "caption2": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "novelisation of": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "novelisation": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "adapted from": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "adapted into": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "script": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "scripturl": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "scripturl2": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "doctor": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "companions": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "companion": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "companion2": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "companion3": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "companion4": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "companion5": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "companion6": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "companion7": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "companion8": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "companion9": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "companion10": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "team": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "main character": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "main character2": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "main character3": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "main character4": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "main character5": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "main character6": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "main character7": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "main character8": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "main character9": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "main character10": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "featuring": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "featuring2": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "featuring3": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "featuring4": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "featuring5": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "featuring6": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "featuring7": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "featuring8": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "featuring9": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "featuring10": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "enemy": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "year": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "setting": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "publisher": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "publisher2": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "publisher3": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "developer": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "editor": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "writer": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "lead writer": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "other writers": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "director": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "producer": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "music": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "sound": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "post production": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "read by": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "illustrator": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "cover": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "cover penciller": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "cover inker": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "cover colourist": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "designer": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "artist": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "penciller": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "inker": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "colourist": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "reprint colourist": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "letterer": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "animator": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "type": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "platform": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "genre": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "story number": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "epcount": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "number": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "broadcast date": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "broadcast date2": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "broadcast date3": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "broadcast date4": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "broadcast date5": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "broadcast date6": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "price": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "beta release date": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "premiere": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "premiere venue": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "other venues": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "network": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "anthology": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "publication": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "release date": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "release date2": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "release date3": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "release date4": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "release date5": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "release date6": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "release date7": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "release date8": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "release date9": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "release date10": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "cover date": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "reprint": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "reprint2": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "reprint3": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "reprint4": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "reprint5": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "reprint6": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "reprint7": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "reprint8": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "reprint9": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "reprint10": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "traded": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "website": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "format": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "production code": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "confidential": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "confidential2": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "dwi": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "dwi2": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "thwr": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "thwr2": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "thwr3": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "thwr4": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "thwr5": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "thwr6": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "thwr7": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "thwr8": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "thwr9": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "thwr10": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "isbn": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "ibook": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "4print": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "4title": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "4date": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "4date2": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "4date3": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "4date4": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "4date5": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "4art": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "trailer": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "trailer2": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "clip": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "clip2": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "clip3": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "fullvid": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "bts": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "bts2": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "bts3": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "scene analysis": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "soundcloudtrailer": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "soundcloudtrailer2": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "soundcloudclip": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "soundcloudclip2": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "musicsuite": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "sample": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "soundcloudbts": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "audio commentary": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "fullaud": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "prev": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "next": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "prev2": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "next2": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "made prev": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "made next": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "prev3": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "next3": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  }
+ }
+}

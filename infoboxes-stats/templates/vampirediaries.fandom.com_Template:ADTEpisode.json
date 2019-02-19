@@ -1,0 +1,73 @@
+{
+ "wiki": "vampirediaries.fandom.com",
+ "infobox": "Template:ADTEpisode",
+ "parameters": {
+  "season": {
+   "_not_set_in": 0,
+   "_set_in": 4,
+   "A Darker Truth (Part 1)": " 1\n",
+   "A Darker Truth (Part 2)": " 1\n",
+   "A Darker Truth (Part 3)": " 1\n",
+   "A Darker Truth (Part 4)": " 1\n"
+  },
+  "number": {
+   "_not_set_in": 0,
+   "_set_in": 4,
+   "A Darker Truth (Part 1)": " 1\n",
+   "A Darker Truth (Part 2)": " 2\n",
+   "A Darker Truth (Part 3)": " 3\n",
+   "A Darker Truth (Part 4)": " 4\n"
+  },
+  "episode number": {
+   "_not_set_in": 1,
+   "_set_in": 3,
+   "A Darker Truth (Part 1)": "  1\n",
+   "A Darker Truth (Part 2)": "  1\n",
+   "A Darker Truth (Part 3)": "  1\n"
+  },
+  "image": {
+   "_not_set_in": 0,
+   "_set_in": 4,
+   "A Darker Truth (Part 1)": " waitress.png\n",
+   "A Darker Truth (Part 2)": "diaryep2.png\n",
+   "A Darker Truth (Part 3)": " stefandarkertruth.png\n",
+   "A Darker Truth (Part 4)": " damonhand.png\n"
+  },
+  "airdate": {
+   "_not_set_in": 0,
+   "_set_in": 4,
+   "A Darker Truth (Part 1)": " August 25, 2009\n",
+   "A Darker Truth (Part 2)": " September 1, 2009\n",
+   "A Darker Truth (Part 3)": " September 3, 2009\n",
+   "A Darker Truth (Part 4)": " September 8, 2009\n"
+  },
+  "viewers": {
+   "_not_set_in": 4,
+   "_set_in": 0
+  },
+  "writer": {
+   "_not_set_in": 4,
+   "_set_in": 0
+  },
+  "director": {
+   "_not_set_in": 4,
+   "_set_in": 0
+  },
+  "previous": {
+   "_not_set_in": 0,
+   "_set_in": 4,
+   "A Darker Truth (Part 1)": " \n",
+   "A Darker Truth (Part 2)": " [[A Darker Truth (Part 1)]]\n",
+   "A Darker Truth (Part 3)": " [[A Darker Truth (Part 2)]]\n",
+   "A Darker Truth (Part 4)": " [[A Darker Truth (Part 3)]]\n"
+  },
+  "next": {
+   "_not_set_in": 0,
+   "_set_in": 4,
+   "A Darker Truth (Part 1)": " [[A Darker Truth (Part 2)]]\n",
+   "A Darker Truth (Part 2)": " [[A Darker Truth (Part 3)]]\n",
+   "A Darker Truth (Part 3)": " [[A Darker Truth (Part 4)]]\n",
+   "A Darker Truth (Part 4)": " [[Pilot]]"
+  }
+ }
+}

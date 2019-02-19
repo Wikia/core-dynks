@@ -1,0 +1,42 @@
+{
+ "wiki": "vampirediaries.fandom.com",
+ "infobox": "Template:Actor",
+ "parameters": {
+  "Title": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "Image": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "Name": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "Birthplace": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "Birth date": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "Job": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "Played": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "Status": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "Season": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  }
+ }
+}

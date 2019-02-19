@@ -1,0 +1,62 @@
+{
+ "wiki": "ttte.fandom.com",
+ "infobox": "Template:Infobox User 2.0",
+ "parameters": {
+  "title1": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "image1": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "caption1": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "name": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "born": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "age": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "language(s)": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "username": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "date_joined": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "favourite_characters": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "favourite_rws_book(s)": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "favourite_episode(s)": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "favourite_special(s)": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "favourite_season(s)": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  }
+ }
+}

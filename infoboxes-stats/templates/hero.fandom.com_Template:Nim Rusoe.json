@@ -1,0 +1,49 @@
+{
+ "wiki": "hero.fandom.com",
+ "infobox": "Template:Nim Rusoe",
+ "parameters": {
+  "title1": {
+   "_not_set_in": 1,
+   "_set_in": 0
+  },
+  "image1": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Nim Rusoe": " Abigail-Breslin-as-Nim-Rusoe-in-Nim-s-Island-abigail-breslin-39098318-900-600.jpg"
+  },
+  "caption1": {
+   "_not_set_in": 1,
+   "_set_in": 0
+  },
+  "full_name": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Nim Rusoe": " Nim Rusoe"
+  },
+  "goals": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Nim Rusoe": " To protect and save her island (succeeded)"
+  },
+  "family": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Nim Rusoe": " Emily Rusoe (mother; deceased)\n\nJack Rusoe (father)"
+  },
+  "friends": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Nim Rusoe": " Selkie the Sea Lion\n\nFred the Bearded Dragon\n\nChica the Sea Turtle\n\nGalileo the Pelican\n\nAlexandra Rover (Nim's Island)\n\nEdmund (Return to Nim's Island)"
+  },
+  "enemies": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Nim Rusoe": " Buccaneers"
+  },
+  "type_of_hero": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Nim Rusoe": " Kid"
+  }
+ }
+}

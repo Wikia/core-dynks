@@ -1,0 +1,44 @@
+{
+ "wiki": "hero.fandom.com",
+ "infobox": "Template:Shane Fahey",
+ "parameters": {
+  "title1": {
+   "_not_set_in": 1,
+   "_set_in": 0
+  },
+  "image1": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Shane Fahey": " Firehousedog-01.jpg"
+  },
+  "caption1": {
+   "_not_set_in": 1,
+   "_set_in": 0
+  },
+  "full_name": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Shane Fahey": " Shane Fahey"
+  },
+  "family": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Shane Fahey": " Connor Fahey (father)\nMark Fahey (uncle; deceased)\n\nRexxx/Dewey (dog)"
+  },
+  "friends": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Shane Fahey": " Rexxx/Dewey\nJasmine JJ Presley\n\nZach Hayden (formerly)\n\nFirefighters of Engine 55"
+  },
+  "enemies": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Shane Fahey": " Zach Hayden (currently)\nCorbin Sellars (currently)"
+  },
+  "type_of_hero": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Shane Fahey": " Kid"
+  }
+ }
+}

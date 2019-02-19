@@ -1,0 +1,105 @@
+{
+ "wiki": "supernatural.fandom.com",
+ "infobox": "Template:Infobox Comic",
+ "parameters": {
+  "Title": {
+   "_not_set_in": 0,
+   "_set_in": 7,
+   "Supernatural: Rising Son Issue 1": "'' Supernatural: Rising Son #1''\n",
+   "Supernatural: Rising Son Issue 2": "'' Supernatural: Rising Son #2''\n",
+   "Supernatural: Rising Son Issue 3": "'' Supernatural: Rising Son #3''\n",
+   "Supernatural: Rising Son Issue 4": "'' Supernatural: Rising Son #4''\n",
+   "Supernatural: Rising Son Issue 5": "'' Supernatural: Rising Son #5''\n",
+   "Supernatural: Rising Son Issue 6": " ''Supernatural: Rising Son #6''\n",
+   "Supernatural: Origins Issue 1": "'' Supernatural: Origins #1''\n"
+  },
+  "Image": {
+   "_not_set_in": 0,
+   "_set_in": 7,
+   "Supernatural: Rising Son Issue 1": " [[File:SPNRisingSon1.jpg|250px]]\n",
+   "Supernatural: Rising Son Issue 2": " [[File:SPNRisingSon2.jpg|250px]]\n",
+   "Supernatural: Rising Son Issue 3": " [[File:SPNRisingSon3.jpg|250px]]\n",
+   "Supernatural: Rising Son Issue 4": " [[File:SPNRisingSon4.jpg|250px]]\n",
+   "Supernatural: Rising Son Issue 5": " [[File:SPNRisingSon5.jpg|250px]]\n",
+   "Supernatural: Rising Son Issue 6": " [[File:SPNRisingSon6.jpg|250px]]\n",
+   "Supernatural: Origins Issue 1": " [[File:SNOriginscover.jpg|250px]]\n"
+  },
+  "Edition": {
+   "_not_set_in": 0,
+   "_set_in": 7,
+   "Supernatural: Rising Son Issue 1": " 1\n",
+   "Supernatural: Rising Son Issue 2": " 2\n",
+   "Supernatural: Rising Son Issue 3": " 3\n",
+   "Supernatural: Rising Son Issue 4": " 4\n",
+   "Supernatural: Rising Son Issue 5": " 5\n",
+   "Supernatural: Rising Son Issue 6": " 6\n",
+   "Supernatural: Origins Issue 1": " 1\n"
+  },
+  "Published": {
+   "_not_set_in": 0,
+   "_set_in": 7,
+   "Supernatural: Rising Son Issue 1": " April 23, 2008\n",
+   "Supernatural: Rising Son Issue 2": " May 28, 2008\n",
+   "Supernatural: Rising Son Issue 3": " June 25, 2008\n",
+   "Supernatural: Rising Son Issue 4": " July 23, 2008\n",
+   "Supernatural: Rising Son Issue 5": " August 27, 2008\n",
+   "Supernatural: Rising Son Issue 6": " August 27, 2008\n",
+   "Supernatural: Origins Issue 1": " July, 2007\n"
+  },
+  "Writer": {
+   "_not_set_in": 0,
+   "_set_in": 7,
+   "Supernatural: Rising Son Issue 1": " [[Peter Johnson]] <br> [[Rebecca Dessertine]]\n",
+   "Supernatural: Rising Son Issue 2": " [[Peter Johnson]] <br> [[Rebecca Dessertine]]\n",
+   "Supernatural: Rising Son Issue 3": " [[Peter Johnson]] <br> [[Rebecca Dessertine]]\n",
+   "Supernatural: Rising Son Issue 4": " [[Peter Johnson]] <br> [[Rebecca Dessertine]]\n",
+   "Supernatural: Rising Son Issue 5": " [[Peter Johnson]] <br> [[Rebecca Dessertine]]\n",
+   "Supernatural: Rising Son Issue 6": " [[Peter Johnson]]<br>[[Rebecca Dessertine]]\n",
+   "Supernatural: Origins Issue 1": " [[Peter Johnson]] <br> [[Geoff Johns]] cback-up history\n"
+  },
+  "Artists": {
+   "_not_set_in": 0,
+   "_set_in": 7,
+   "Supernatural: Rising Son Issue 1": " [[Diego Olmos]] <br> [[Dustin Nguyen]] ccover\n",
+   "Supernatural: Rising Son Issue 2": " [[Diego Olmos]] <br> Ben Oliver ccover\n",
+   "Supernatural: Rising Son Issue 3": " [[Diego Olmos]] <br> [[Dustin Nguyen]] ccover\n",
+   "Supernatural: Rising Son Issue 4": " [[Diego Olmos]] <br> [[Dustin Nguyen]] ccover\n",
+   "Supernatural: Rising Son Issue 5": " [[Diego Olmos]] <br> [[Dustin Nguyen]] ccover\n",
+   "Supernatural: Rising Son Issue 6": " [[Diego Olmos]]<br>[[Dustin Nguyen]] ccover\n",
+   "Supernatural: Origins Issue 1": " Matthew Dow Smith <br>nowiki[Tim Bradstreet </nowiki>ccover<br>Phil Hester cback-up history\n"
+  },
+  "Editor": {
+   "_not_set_in": 0,
+   "_set_in": 7,
+   "Supernatural: Rising Son Issue 1": " Ben Abernathy<br>Kristy Quin\n",
+   "Supernatural: Rising Son Issue 2": " Ben Abernathy<br>Kristy Quin\n",
+   "Supernatural: Rising Son Issue 3": " Ben Abernathy<br>Kristy Quin\n",
+   "Supernatural: Rising Son Issue 4": " Ben Abernathy<br>Kristy Quin\n",
+   "Supernatural: Rising Son Issue 5": " Ben Abernathy<br>Kristy Quin\n",
+   "Supernatural: Rising Son Issue 6": " Ben Abernathy<br>Kristy Quin\n",
+   "Supernatural: Origins Issue 1": " Ben Abernathy\n"
+  },
+  "Previous": {
+   "_not_set_in": 0,
+   "_set_in": 7,
+   "Supernatural: Rising Son Issue 1": " None\n",
+   "Supernatural: Rising Son Issue 2": " [[Supernatural: Rising Son Issue 1|''Supernatural: Rising Son'' #1]]\n",
+   "Supernatural: Rising Son Issue 3": " [[Supernatural: Rising Son Issue 2|''Supernatural: Rising Son'' #2]]\n",
+   "Supernatural: Rising Son Issue 4": " [[Supernatural: Rising Son Issue 3|''Supernatural: Rising Son'' #3]]\n",
+   "Supernatural: Rising Son Issue 5": " [[Supernatural: Rising Son Issue 4|''Supernatural: Rising Son'' #4]]\n",
+   "Supernatural: Rising Son Issue 6": " [[Supernatural: Rising Son Issue 5|''Supernatural: Rising Son'' #5]]\n",
+   "Supernatural: Origins Issue 1": " None\n"
+  },
+  "Next": {
+   "_not_set_in": 0,
+   "_set_in": 7,
+   "Supernatural: Rising Son Issue 1": " [[Supernatural: Rising Son Issue 2|''Supernatural: Rising Son'' #2]]\n",
+   "Supernatural: Rising Son Issue 2": " [[Supernatural: Rising Son Issue 3|''Supernatural: Rising Son'' #3]]\n",
+   "Supernatural: Rising Son Issue 3": " [[Supernatural: Rising Son Issue 4|''Supernatural: Rising Son'' #4]]\n",
+   "Supernatural: Rising Son Issue 4": " [[Supernatural: Rising Son Issue 5|''Supernatural: Rising Son'' #5]]\n",
+   "Supernatural: Rising Son Issue 5": " [[Supernatural: Rising Son Issue 6|''Supernatural: Rising Son'' #6]]\n",
+   "Supernatural: Rising Son Issue 6": " -\n",
+   "Supernatural: Origins Issue 1": " ''Supernatural: Origins'' #2\n"
+  }
+ }
+}

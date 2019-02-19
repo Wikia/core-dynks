@@ -1,0 +1,41 @@
+{
+ "wiki": "vampirediaries.fandom.com",
+ "infobox": "Template:Letter",
+ "parameters": {
+  "image": {
+   "_not_set_in": 0,
+   "_set_in": 23,
+   "Letters": "\n"
+  },
+  "name": {
+   "_not_set_in": 0,
+   "_set_in": 23,
+   "Letters": " Hope's Letter\n"
+  },
+  "sender": {
+   "_not_set_in": 0,
+   "_set_in": 23,
+   "Letters": " [[Hope Mikaelson]]\n"
+  },
+  "addressee": {
+   "_not_set_in": 0,
+   "_set_in": 23,
+   "Letters": " [[Niklaus Mikaelson|Klaus Mikaelson]]\n"
+  },
+  "date": {
+   "_not_set_in": 4,
+   "_set_in": 19,
+   "Letters": " 2028\n"
+  },
+  "subject": {
+   "_not_set_in": 0,
+   "_set_in": 23,
+   "Letters": " Remembrance Day"
+  },
+  "delivered": {
+   "_not_set_in": 21,
+   "_set_in": 2,
+   "Letters": " [[Timeline|February 12, 2018]]\n"
+  }
+ }
+}

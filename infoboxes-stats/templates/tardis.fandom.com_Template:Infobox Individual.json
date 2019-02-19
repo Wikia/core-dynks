@@ -1,0 +1,2138 @@
+{
+ "wiki": "tardis.fandom.com",
+ "infobox": "Template:Infobox Individual",
+ "parameters": {
+  "name": {
+   "_not_set_in": 48,
+   "_set_in": 1,
+   "Susan Foreman": " \"Susan Foreman\"\n"
+  },
+  "image": {
+   "_not_set_in": 6,
+   "_set_in": 43,
+   "Bruce (Doctor Who)": " Bruce Doctor Who not possessed.jpg\n",
+   "Ian Chesterton": " IanHaggardAUC.jpg\n",
+   "Barbara Wright": " BarbaraLooksLeftROT.jpg\n",
+   "Susan Foreman": " SusanTheEscape.jpg\n",
+   "Vicki Pallister": " Vicki looks left The Rescue.jpg\n",
+   "K9": " K9 in the TARDIS.jpg\n",
+   "Jamie McCrimmon": " JamieLooksLeftTAS.jpg\n",
+   "Ace": " AceCloseUpLookLeftSurvival.jpg\n",
+   "Steven Taylor": " StevenHeadOnTheBomb.jpg\n",
+   "Jo Grant": " Jo Grant close.jpg\n",
+   "Katarina": " KatarinaDMP.jpg\n",
+   "Jacanda": "\n",
+   "Dodo Chaplet": "DodoSmilesGunfighters.jpg \n",
+   "Ssard": " Ssard.Jpg\n",
+   "Fourth Doctor": " FourSeriousLooksRightPOE.jpg\n               <!--Please do NOT use FourLooksLeftFOE.jpg here.\n               FourLooksLeft is the one used at [[the Doctor]]\n               to represent the Fourth Doctor.  The image here\n               should be different.  \n                -- CzechOut  -->\n",
+   "First Doctor": " OneThinks.jpg\n",
+   "Second Doctor": " TwoFingerPoint.jpg\n",
+   "Third Doctor": " ThreeInMiniscopeLeft.jpg\n",
+   "Fifth Doctor": " FiveOnFilmTA.jpg\n",
+   "Sixth Doctor": " SixSternFilmTMOTR.jpg\n",
+   "Seventh Doctor": " SevenLooksLeftROTD.jpg\n",
+   "Eighth Doctor": " Eight.jpg\n",
+   "Ninth Doctor": " NineDalekConfrontation.jpg\n",
+   "Tenth Doctor": " TenSpecsBiggerSmileLeftSITL.jpg<!--This picture may not be changed without community discussion, because it is the result of extensive community involvement at [[Talk:Tenth Doctor]]. It is not eligible for removal until 11 December 2012-->\n",
+   "Polly Wright": " PollyFO.jpg\n",
+   "Ben Jackson": "BenJacksonTWM4.jpg  \n",
+   "Ninth Doctor (Scream of the Shalka)": " Doctor Who scream.jpg\n",
+   "Grace Holloway": " Grace Holloway.jpg\n",
+   "Florence Sundvik": " SundvikTombstone.jpg\n",
+   "Mary Eliza Millington": " SundvikTombstone.jpg\n",
+   "Victoria Waterfield": " VictoriaTTotC.jpg \n",
+   "Zoe Heriot": " ZoeWindswept.jpg\n",
+   "Richelieu": " Richelieu (Terror of the Cabinet Noir).jpg\n",
+   "Matthew Hopkins": " Matthew Hopkins.jpg\n",
+   "George Jeffreys": " \n",
+   "John Aubrey": " \n",
+   "Susan (Dr. Who and the Daleks)": " SuzyDalekMovies.jpg\n",
+   "Vislor Turlough": " TurloughHeroShotEnlightenment.jpg\n",
+   "Jack Harkness": " Captain Jack looks left Rendition.jpg <!-- \n\nPlease don't change this image without discussion. It's been chosen specifically to \"defeat\" other images on the page, particularly that of young Jack, from being selected as the representative image on mobile web. Thanks. :) \n\n--> \n",
+   "Alistair Gordon Lethbridge-Stewart": " BrigSeriousInvasion.jpg\n",
+   "John Benton": " John Benton.jpg\n",
+   "Tobias Vaughn": "Tobias Vaughn.jpg\n",
+   "Sarah Jane Smith": " SarahJaneSmirkTHOF.jpg\n"
+  },
+  "caption": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "image2": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "caption2": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "timelord": {
+   "_not_set_in": 46,
+   "_set_in": 3,
+   "The Doctor": " Docpic <!-- This template facilitates an automatic slideshow of all Doctors, per community consensus on the talk page. -->\n",
+   "The Master": " masterpic\n",
+   "Borusa": " borusapic\n"
+  },
+  "slitheen": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "aka": {
+   "_not_set_in": 44,
+   "_set_in": 5,
+   "Susan Foreman": " Arkytior, Lady Larn, Susan English, Susan Campbell\n",
+   "Jo Grant": " Greyhound Four\n",
+   "Borusa": " Boris\n",
+   "Jack Harkness": " Javic Piotr Thane, the [[Face of Boe]], James Harper\n",
+   "Sarah Jane Smith": " [[Lavinia Smith]], Marie Samuels\n"
+  },
+  "alias": {
+   "_not_set_in": 12,
+   "_set_in": 37,
+   "Bruce (Doctor Who)": " \n",
+   "The Doctor": " [[The Doctor's aliases|'''''see list''''']]\n",
+   "The Master": " '''''[[The Master's aliases|see list]]'''''\n",
+   "Ian Chesterton": "Heron \n",
+   "Barbara Wright": "\n",
+   "Vicki Pallister": " Cressida, Victor\n",
+   "K9": " ilK-9K\u20229\n",
+   "Ace": " ilDoroth\u00e9eTime's VigilanteThe Rebel QueenElizabeth[[Liz Shaw]]Miss Symmetric\n",
+   "Steven Taylor": " Steven Regret, Diomede\n",
+   "Jacanda": "\n",
+   "Dodo Chaplet": "  \n",
+   "Ssard": " \n",
+   "Fourth Doctor": " '''''[[The Doctor's aliases|see list]]'''''\n",
+   "First Doctor": " [[The Doctor's aliases|'''''see list''''']]\n",
+   "Second Doctor": " '''''[[The Doctor's aliases|see list]]'''''\n",
+   "Third Doctor": " '''''[[The Doctor's aliases|see list]]'''''\n",
+   "Fifth Doctor": " '''''[[The Doctor's aliases|see list]]'''''\n",
+   "Sixth Doctor": " '''''[[The Doctor's aliases|see list]]'''''\n",
+   "Seventh Doctor": " [[The Doctor's aliases|'''''see list''''']]\n",
+   "Eighth Doctor": " [[The Doctor's aliases|'''''see list''''']]\n",
+   "Ninth Doctor": " '''''[[The Doctor's aliases|see list]]'''''\n",
+   "Tenth Doctor": " '''''[[The Doctor's aliases|see list]]'''''\n",
+   "Polly Wright": " \n",
+   "Ben Jackson": "\n",
+   "Grace Holloway": "\n",
+   "Mary Eliza Millington": "\n",
+   "Victoria Waterfield": " \n",
+   "Zoe Heriot": " The Mistress, Chicken, Zoe Gond\n",
+   "Richelieu": " \n",
+   "Matthew Hopkins": " Witchfinder General\n",
+   "George Jeffreys": " The Hanging Judge\n",
+   "John Aubrey": "\n",
+   "Susan (Dr. Who and the Daleks)": "\n",
+   "Vislor Turlough": "\n",
+   "Alistair Gordon Lethbridge-Stewart": " [[Greyhound|Greyhound One, Greyhound Leader, Greyhound]]\n",
+   "John Benton": " Greyhound Four\n",
+   "Tobias Vaughn": "\n"
+  },
+  "main alias": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "species": {
+   "_not_set_in": 0,
+   "_set_in": 49,
+   "Bruce (Doctor Who)": " Human\n",
+   "The Doctor": " Gallifreyan\n",
+   "The Master": " Time Lord\n",
+   "Ian Chesterton": " Human\n",
+   "Barbara Wright": " Human\n",
+   "Susan Foreman": " Gallifreyan\n",
+   "Vicki Pallister": " Human\n",
+   "K9": " Robot\n",
+   "Jamie McCrimmon": " Human\n",
+   "Ace": " Human\n",
+   "Steven Taylor": " Human\n",
+   "Jo Grant": " Human\n",
+   "Empress (Marco Polo)": " Human\n",
+   "Katarina": " Human\n",
+   "Jacanda": " Thal \n",
+   "Dodo Chaplet": "Human \n",
+   "Ssard": " Ice Warrior\n",
+   "Fourth Doctor": " Time Lord\n",
+   "First Doctor": " Time Lord\n",
+   "Second Doctor": " Time Lord\n",
+   "Third Doctor": " Time Lord\n",
+   "Fifth Doctor": " Time Lord\n",
+   "Sixth Doctor": " Time Lord\n",
+   "Seventh Doctor": " Time Lord\n",
+   "Eighth Doctor": " Time Lord\n",
+   "Ninth Doctor": " Time Lord\n",
+   "Tenth Doctor": " Time Lord\n",
+   "Polly Wright": " Human\n",
+   "Ben Jackson": "Human \n",
+   "Ninth Doctor (Scream of the Shalka)": " Time Lord\n",
+   "Grace Holloway": " Human\n",
+   "Florence Sundvik": "Human\n",
+   "Mary Eliza Millington": "Human \n",
+   "Victoria Waterfield": "Human\n",
+   "Zoe Heriot": " Human\n",
+   "Richelieu": " Human\n",
+   "Matthew Hopkins": "Human \n",
+   "George Jeffreys": "Human \n",
+   "Charles I": "Human\n",
+   "John Aubrey": "Human \n",
+   "Susan (Dr. Who and the Daleks)": " Human\n",
+   "Borusa": " Time Lord\n",
+   "Vislor Turlough": " Trion (species)\n",
+   "Jack Harkness": " Human<!-- Said definitively in TV: The New World, he's \"just a plain old human.\" -->\n",
+   "Alistair Gordon Lethbridge-Stewart": " Human\n",
+   "Policeman (An Unearthly Child)": " Human\n",
+   "John Benton": " Human\n",
+   "Tobias Vaughn": "Human\n",
+   "Sarah Jane Smith": " Human\n"
+  },
+  "species2": {
+   "_not_set_in": 46,
+   "_set_in": 3,
+   "The Doctor": " Human\n",
+   "Ace": " Time Lord\n",
+   "Alistair Gordon Lethbridge-Stewart": " Cyberman (Mondas)\n"
+  },
+  "species3": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "job": {
+   "_not_set_in": 33,
+   "_set_in": 16,
+   "The Doctor": " Scientific advisor!UNIT scientific advisor\n",
+   "Ian Chesterton": " Teacher\n",
+   "Barbara Wright": " Teacher\n",
+   "Fourth Doctor": " Lord President\n",
+   "First Doctor": " Scrutationary Archivist\n",
+   "Third Doctor": " Scientific advisor\n",
+   "Fifth Doctor": " Keeper of Traken\n",
+   "Seventh Doctor": " Cleaner\n",
+   "Tenth Doctor": " Teacher\n",
+   "Ben Jackson": " Sailor\n",
+   "Zoe Heriot": " Astrometricist\n",
+   "Matthew Hopkins": " Witch hunter\n",
+   "Borusa": " Chancellor\n",
+   "Alistair Gordon Lethbridge-Stewart": " Colonel\n",
+   "Policeman (An Unearthly Child)": " Police officer\n",
+   "Sarah Jane Smith": " Journalist\n"
+  },
+  "job2": {
+   "_not_set_in": 43,
+   "_set_in": 6,
+   "The Doctor": " Lord President\n",
+   "First Doctor": " Tutor\n",
+   "Fifth Doctor": " Lord President\n",
+   "Zoe Heriot": " Astrophysicist\n",
+   "Borusa": " Lord Cardinal\n",
+   "Alistair Gordon Lethbridge-Stewart": " Brigadier\n"
+  },
+  "job3": {
+   "_not_set_in": 46,
+   "_set_in": 3,
+   "The Doctor": " President of Earth\n",
+   "Borusa": " Lord President\n",
+   "Alistair Gordon Lethbridge-Stewart": " General\n"
+  },
+  "affiliation": {
+   "_not_set_in": 31,
+   "_set_in": 18,
+   "The Master": " The Deca\n",
+   "Ian Chesterton": " Coal Hill School\n",
+   "Barbara Wright": " Coal Hill School\n",
+   "Ace": " Celestial Intervention Agency\n",
+   "Fourth Doctor": " UNIT\n",
+   "First Doctor": " The Deca\n",
+   "Second Doctor": " UNIT\n",
+   "Third Doctor": " UNIT\n",
+   "Fifth Doctor": " The Alliance (Warmonger)!The Alliance\n",
+   "Seventh Doctor": " Kang!Kangs\n",
+   "Tenth Doctor": " UNIT\n",
+   "Ben Jackson": " Royal Navy\n",
+   "Zoe Heriot": " Space Station W3\n",
+   "Charles I": " House Stuart\n",
+   "Borusa": " High Council\n",
+   "Jack Harkness": " Time Agency\n",
+   "Alistair Gordon Lethbridge-Stewart": " Scots Guards\n",
+   "Sarah Jane Smith": " Bannerman Road gang\n"
+  },
+  "affiliation2": {
+   "_not_set_in": 39,
+   "_set_in": 10,
+   "The Master": " Dalek Empire\n",
+   "Fourth Doctor": " High Council\n",
+   "First Doctor": " Bureau of Possible Events\n",
+   "Second Doctor": " Celestial Intervention Agency!CIA\n",
+   "Fifth Doctor": " Stockbridge Cricket Club\n",
+   "Seventh Doctor": " UNIT\n",
+   "Tenth Doctor": " Children of Time\n",
+   "Zoe Heriot": " The Company (Echoes of Grey)\n",
+   "Jack Harkness": " Torchwood Three\n",
+   "Alistair Gordon Lethbridge-Stewart": " Home-Army Fifth Operational Corps \n"
+  },
+  "affiliation3": {
+   "_not_set_in": 44,
+   "_set_in": 5,
+   "The Master": " 3W Institute\n",
+   "Fifth Doctor": " High Council\n",
+   "Seventh Doctor": " Royal Society\n",
+   "Jack Harkness": " Torchwood (team)!Torchwood team\n",
+   "Alistair Gordon Lethbridge-Stewart": " UNIT\n"
+  },
+  "origin": {
+   "_not_set_in": 0,
+   "_set_in": 49,
+   "Bruce (Doctor Who)": " [[Earth]]\n",
+   "The Doctor": " [[Gallifrey]]\n",
+   "The Master": " [[Gallifrey]]\n",
+   "Ian Chesterton": " [[London]]\n",
+   "Barbara Wright": " [[London]]\n",
+   "Susan Foreman": " [[Gallifrey]]\n",
+   "Vicki Pallister": " [[Earth]]\n",
+   "K9": " \n",
+   "Jamie McCrimmon": " [[Scottish Highlands]]\n",
+   "Ace": " [[Perivale]], [[London]]\n",
+   "Steven Taylor": " [[Earth]]\n",
+   "Jo Grant": " [[England]]\n",
+   "Empress (Marco Polo)": " [[Earth]]\n",
+   "Katarina": " [[Troy]]\n",
+   "Jacanda": "[[Skaro]] \n",
+   "Dodo Chaplet": "[[England]] \n",
+   "Ssard": " [[Mars]]\n",
+   "Fourth Doctor": " [[Gallifrey]]\n",
+   "First Doctor": " [[Gallifrey]]\n",
+   "Second Doctor": " [[Gallifrey]]\n",
+   "Third Doctor": " [[Gallifrey]]\n",
+   "Fifth Doctor": " [[Gallifrey]] \n",
+   "Sixth Doctor": " [[Gallifrey]] \n",
+   "Seventh Doctor": " [[Gallifrey]]\n",
+   "Eighth Doctor": " [[Gallifrey]]\n",
+   "Ninth Doctor": " [[Gallifrey]]\n",
+   "Tenth Doctor": " [[Gallifrey]]\n",
+   "Polly Wright": " [[London]]\n",
+   "Ben Jackson": "[[England]] \n",
+   "Ninth Doctor (Scream of the Shalka)": " [[Gallifrey]]\n",
+   "Grace Holloway": " [[San Francisco]]\n",
+   "Florence Sundvik": " [[Earth]]\n",
+   "Mary Eliza Millington": "[[Earth]] \n",
+   "Victoria Waterfield": " [[England]]\n",
+   "Zoe Heriot": " [[Earth]]\n",
+   "Richelieu": " [[France]] \n",
+   "Matthew Hopkins": "[[Earth]] \n",
+   "George Jeffreys": "[[England]] \n",
+   "Charles I": "[[Great Britain]]\n",
+   "John Aubrey": "[[Earth]] \n",
+   "Susan (Dr. Who and the Daleks)": " [[Earth]]\n",
+   "Borusa": " [[Gallifrey]]\n",
+   "Vislor Turlough": "[[Trion (planet)|Trion]]\n",
+   "Jack Harkness": " [[Boeshane Peninsula]]\n",
+   "Alistair Gordon Lethbridge-Stewart": " [[Bledoe]]\n",
+   "Policeman (An Unearthly Child)": " [[Earth]]\n",
+   "John Benton": " [[Earth]]\n",
+   "Tobias Vaughn": " [[Earth]]\n",
+   "Sarah Jane Smith": " [[Foxgrove]], [[Great Britain]]\n"
+  },
+  "home planet": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "made by": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "grandparent": {
+   "_not_set_in": 43,
+   "_set_in": 6,
+   "The Doctor": " The Doctor's grandmothers\n",
+   "Susan Foreman": " The Doctor\n",
+   "Ace": " Kathleen Dudman\n",
+   "First Doctor": " The Doctor's grandmothers\n",
+   "Susan (Dr. Who and the Daleks)": " Dr. Who (Dr. Who and the Daleks)\n",
+   "Alistair Gordon Lethbridge-Stewart": " Archibald Hamish Lethbridge-Stewart\n"
+  },
+  "grandparent2": {
+   "_not_set_in": 44,
+   "_set_in": 5,
+   "The Doctor": " the Doctor's grandfather\n",
+   "Susan Foreman": " Patience (Cold Fusion)\n",
+   "Ace": " Frank Dudman\n",
+   "First Doctor": " The Doctor's grandfather\n",
+   "Alistair Gordon Lethbridge-Stewart": " Lillian Lethbridge-Stewart\n"
+  },
+  "grandparent3": {
+   "_not_set_in": 48,
+   "_set_in": 1,
+   "Alistair Gordon Lethbridge-Stewart": " James Gore\n"
+  },
+  "grandparent4": {
+   "_not_set_in": 48,
+   "_set_in": 1,
+   "Alistair Gordon Lethbridge-Stewart": " Freda Gore\n"
+  },
+  "grandparent5": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "grandparent6": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "grandparent7": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "grandparent8": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "grandparent9": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "grandparent10": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "mother": {
+   "_not_set_in": 37,
+   "_set_in": 12,
+   "The Doctor": " The Doctor's mother\n",
+   "The Master": " The Master's mother\n",
+   "Barbara Wright": " Joan Wright\n",
+   "Susan Foreman": " Susan Foreman's mother\n",
+   "Vicki Pallister": " Vicki Pallister's mother!Mother\n",
+   "Ace": " Audrey Dudman\n",
+   "First Doctor": " The Doctor's mother\n",
+   "Victoria Waterfield": " Edith Waterfield\n",
+   "Jack Harkness": " Jack's mother\n",
+   "Alistair Gordon Lethbridge-Stewart": " Mary Gore\n",
+   "John Benton": " John Benton's mother!Mother\n",
+   "Sarah Jane Smith": " Barbara Smith\n"
+  },
+  "mother2": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "mother3": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "mother4": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "mother5": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "mother6": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "mother7": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "mother8": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "mother9": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "mother10": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "father": {
+   "_not_set_in": 34,
+   "_set_in": 15,
+   "The Doctor": " The Doctor's father\n",
+   "The Master": " The Master's father\n",
+   "Susan Foreman": " Pandad VII\n",
+   "Vicki Pallister": " Newton Pallister\n",
+   "Jamie McCrimmon": " Donald McCrimmon\n",
+   "Ace": " Harry McShane\n",
+   "First Doctor": " The Doctor's father\n",
+   "Polly Wright": " Edward Wright\n",
+   "Ben Jackson": " James Jackson\n",
+   "Victoria Waterfield": " Edward Waterfield\n",
+   "Charles I": " James I\n",
+   "Jack Harkness": " Franklin\n",
+   "Alistair Gordon Lethbridge-Stewart": " Gordon Conall Lethbridge-Stewart\n",
+   "John Benton": " John Benton's father!Father\n",
+   "Sarah Jane Smith": " Eddie Smith\n"
+  },
+  "father2": {
+   "_not_set_in": 48,
+   "_set_in": 1,
+   "Susan Foreman": " Susan Foreman's father\n"
+  },
+  "father3": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "father4": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "father5": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "father6": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "father7": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "father8": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "father9": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "father10": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "parent": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "parent2": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "parent3": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "parent4": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "parent5": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "parent6": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "parent7": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "parent8": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "parent9": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "parent10": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster parent": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster parent2": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster parent3": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster parent4": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster parent5": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster parent6": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster parent7": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster parent8": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster parent9": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster parent10": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster mother": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster mother2": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster mother3": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster mother4": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster mother5": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster mother6": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster mother7": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster mother8": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster mother9": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster mother10": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster father": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster father2": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster father3": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster father4": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster father5": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster father6": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster father7": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster father8": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster father9": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster father10": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster grandparent": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster grandparent2": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster grandparent3": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster grandparent4": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster grandparent5": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster grandparent6": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster grandparent7": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster grandparent8": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster grandparent9": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster grandparent10": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "adoptive parent": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "adoptive parent2": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "adoptive parent3": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "adoptive parent4": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "adoptive parent5": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "adoptive parent6": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "adoptive parent7": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "adoptive parent8": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "adoptive parent9": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "adoptive parent10": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "adoptive mother": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "adoptive mother2": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "adoptive mother3": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "adoptive mother4": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "adoptive mother5": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "adoptive mother6": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "adoptive mother7": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "adoptive mother8": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "adoptive mother9": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "adoptive mother10": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "adoptive father": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "adoptive father2": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "adoptive father3": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "adoptive father4": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "adoptive father5": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "adoptive father6": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "adoptive father7": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "adoptive father8": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "adoptive father9": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "adoptive father10": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "adoptive grandparent": {
+   "_not_set_in": 48,
+   "_set_in": 1,
+   "Alistair Gordon Lethbridge-Stewart": " Alistair Lethbridge-Stewart (The Warkeeper's Crown)\n"
+  },
+  "adoptive grandparent2": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "adoptive grandparent3": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "adoptive grandparent4": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "adoptive grandparent5": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "adoptive grandparent6": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "adoptive grandparent7": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "adoptive grandparent8": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "adoptive grandparent9": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "adoptive grandparent10": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "sibling": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "sibling2": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "sibling3": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "sibling4": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "sibling5": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "sibling6": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "sibling7": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "sibling8": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "sibling9": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "sibling10": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "sister": {
+   "_not_set_in": 46,
+   "_set_in": 3,
+   "The Doctor": " The Doctor's sisters\n",
+   "First Doctor": " The Doctor's sisters\n",
+   "John Benton": " John Benton's sister!Sister\n"
+  },
+  "sister2": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "sister3": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "sister4": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "sister5": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "sister6": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "sister7": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "sister8": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "sister9": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "sister10": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "brother": {
+   "_not_set_in": 41,
+   "_set_in": 8,
+   "The Doctor": " Irving Braxiatel\n",
+   "Ace": " Liam McShane\n",
+   "First Doctor": " Irving Braxiatel\n",
+   "Charles I": " Henry Stuart\n",
+   "Vislor Turlough": "Malkon\n",
+   "Jack Harkness": " Gray\n",
+   "Alistair Gordon Lethbridge-Stewart": " James Lethbridge-Stewart\n",
+   "John Benton": " Chris Benton!Christopher Benton\n"
+  },
+  "brother2": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "brother3": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "brother4": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "brother5": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "brother6": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "brother7": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "brother8": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "brother9": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "brother10": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster sibling": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster sibling2": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster sibling3": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster sibling4": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster sibling5": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster sibling6": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster sibling7": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster sibling8": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster sibling9": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster sibling10": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster sister": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster sister2": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster sister3": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster sister4": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster sister5": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster sister6": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster sister7": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster sister8": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster sister9": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster sister10": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster brother": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster brother2": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster brother3": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster brother4": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster brother5": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster brother6": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster brother7": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster brother8": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster brother9": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster brother10": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "adoptive sibling": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "adoptive sibling2": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "adoptive sibling3": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "adoptive sibling4": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "adoptive sibling5": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "adoptive sibling6": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "adoptive sibling7": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "adoptive sibling8": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "adoptive sibling9": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "adoptive sibling10": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "adoptive sister": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "adoptive sister2": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "adoptive sister3": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "adoptive sister4": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "adoptive sister5": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "adoptive sister6": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "adoptive sister7": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "adoptive sister8": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "adoptive sister9": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "adoptive sister10": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "adoptive brother": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "adoptive brother2": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "adoptive brother3": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "adoptive brother4": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "adoptive brother5": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "adoptive brother6": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "adoptive brother7": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "adoptive brother8": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "adoptive brother9": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "adoptive brother10": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "child": {
+   "_not_set_in": 36,
+   "_set_in": 13,
+   "The Doctor": " Jenny (The Doctor's Daughter)\n",
+   "The Master": " The Master's daughter\n",
+   "Ian Chesterton": " Johnny Chess\n",
+   "Barbara Wright": " Johnny Chess\n",
+   "Susan Foreman": " Alex Campbell\n",
+   "Vicki Pallister": " Carla Dalton!Carla\n",
+   "Steven Taylor": " Dodo Taylor\n",
+   "Jo Grant": " Lisa Jones\n",
+   "Tenth Doctor": " Jenny (The Doctor's Daughter)\n",
+   "Charles I": " Charles II\n",
+   "Jack Harkness": " Alice Carter\n",
+   "Alistair Gordon Lethbridge-Stewart": " Kate Stewart\n",
+   "Sarah Jane Smith": " Lauren (Lily)\n"
+  },
+  "child2": {
+   "_not_set_in": 44,
+   "_set_in": 5,
+   "The Doctor": " the Sapling\n",
+   "Vicki Pallister": " Maria Dalton!Maria\n",
+   "Jo Grant": " Matthew Jones (Genocide)\n",
+   "Charles I": " James II\n",
+   "Alistair Gordon Lethbridge-Stewart": " Mariama\n"
+  },
+  "child3": {
+   "_not_set_in": 47,
+   "_set_in": 2,
+   "Vicki Pallister": " Carl Dalton\n",
+   "Alistair Gordon Lethbridge-Stewart": " Albert Wilson\n"
+  },
+  "child4": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "child5": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "child6": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "child7": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "child8": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "child9": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "child10": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "adopted child": {
+   "_not_set_in": 45,
+   "_set_in": 4,
+   "The Doctor": " Miranda Dawkins\n",
+   "Susan Foreman": " Ian Campbell\n",
+   "Eighth Doctor": " Miranda Dawkins\n",
+   "Sarah Jane Smith": " Luke Smith\n"
+  },
+  "adopted child2": {
+   "_not_set_in": 47,
+   "_set_in": 2,
+   "Susan Foreman": " Barbara Campbell\n",
+   "Sarah Jane Smith": " Sky Smith\n"
+  },
+  "adopted child3": {
+   "_not_set_in": 48,
+   "_set_in": 1,
+   "Susan Foreman": " David Campbell Junior\n"
+  },
+  "adopted child4": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "adopted child5": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "adopted child6": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "adopted child7": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "adopted child8": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "adopted child9": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "adopted child10": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster child": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster child2": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster child3": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster child4": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster child5": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster child6": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster child7": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster child8": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster child9": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster child10": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "grandchild": {
+   "_not_set_in": 42,
+   "_set_in": 7,
+   "The Doctor": " Susan Foreman \n",
+   "Steven Taylor": " Sida\n",
+   "Jo Grant": " Santiago Jones\n",
+   "First Doctor": " Susan Foreman\n",
+   "Jack Harkness": " Steven Carter\n",
+   "Alistair Gordon Lethbridge-Stewart": " Gordon Lethbridge-Stewart\n",
+   "Sarah Jane Smith": " Lily (Lily)\n"
+  },
+  "grandchild2": {
+   "_not_set_in": 45,
+   "_set_in": 4,
+   "The Doctor": " John and Gillian!John, Gillian \n",
+   "Jo Grant": " Jo Grant's thirteenth grandchild\n",
+   "First Doctor": " John and Gillian\n",
+   "Alistair Gordon Lethbridge-Stewart": " Kadiatu Lethbridge-Stewart (Remembrance of the Daleks)\n"
+  },
+  "grandchild3": {
+   "_not_set_in": 48,
+   "_set_in": 1,
+   "Alistair Gordon Lethbridge-Stewart": " Kate Stewart's child\n"
+  },
+  "grandchild4": {
+   "_not_set_in": 48,
+   "_set_in": 1,
+   "Alistair Gordon Lethbridge-Stewart": " Lucy Wilson\n"
+  },
+  "grandchild5": {
+   "_not_set_in": 48,
+   "_set_in": 1,
+   "Alistair Gordon Lethbridge-Stewart": " Mariama's son\n"
+  },
+  "grandchild6": {
+   "_not_set_in": 48,
+   "_set_in": 1,
+   "Alistair Gordon Lethbridge-Stewart": " Nick Wilson\n"
+  },
+  "grandchild7": {
+   "_not_set_in": 48,
+   "_set_in": 1,
+   "Alistair Gordon Lethbridge-Stewart": " Conall Lethbridge-Stewart\n"
+  },
+  "grandchild8": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "grandchild9": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "grandchild10": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "adoptive grandchild": {
+   "_not_set_in": 47,
+   "_set_in": 2,
+   "The Doctor": " Zezanne\n",
+   "Eighth Doctor": " Zezanne\n"
+  },
+  "adoptive grandchild2": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "adoptive grandchild3": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "adoptive grandchild4": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "adoptive grandchild5": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "adoptive grandchild6": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "adoptive grandchild7": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "adoptive grandchild8": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "adoptive grandchild9": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "adoptive grandchild10": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster grandchild": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster grandchild2": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster grandchild3": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster grandchild4": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster grandchild5": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster grandchild6": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster grandchild7": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster grandchild8": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster grandchild9": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "foster grandchild10": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "spouse": {
+   "_not_set_in": 33,
+   "_set_in": 16,
+   "Bruce (Doctor Who)": " Miranda Gerhardt\n",
+   "The Doctor": " Patience (Cold Fusion)\n",
+   "The Master": " Lucy Saxon\n",
+   "Ian Chesterton": " Barbara Wright\n",
+   "Barbara Wright": " Ian Chesterton\n",
+   "Susan Foreman": " David Campbell\n",
+   "Jamie McCrimmon": " Kirsty McLaren\n",
+   "Jo Grant": " Clifford Jones\n",
+   "Ssard": " Stacy Townsend\n",
+   "Eighth Doctor": " Scarlette\n",
+   "Tenth Doctor": " Elizabeth I\n",
+   "Polly Wright": " Ben Jackson\n",
+   "Ben Jackson": " Polly Wright\n",
+   "Charles I": " Henrietta Maria\n",
+   "Alistair Gordon Lethbridge-Stewart": " Sally Wright\n",
+   "John Benton": " Mavis (Doctor Who and the D\u00e6mons)\n"
+  },
+  "spouse2": {
+   "_not_set_in": 45,
+   "_set_in": 4,
+   "The Doctor": " Scarlette\n",
+   "The Master": " Bobo Braithwaite\n",
+   "Alistair Gordon Lethbridge-Stewart": " Fiona Lethbridge-Stewart\n",
+   "John Benton": " Margery Phipps\n"
+  },
+  "spouse3": {
+   "_not_set_in": 47,
+   "_set_in": 2,
+   "The Doctor": " Elizabeth I\n",
+   "Alistair Gordon Lethbridge-Stewart": " Doris Lethbridge-Stewart\n"
+  },
+  "spouse4": {
+   "_not_set_in": 48,
+   "_set_in": 1,
+   "The Doctor": " Marilyn Monroe\n"
+  },
+  "spouse5": {
+   "_not_set_in": 48,
+   "_set_in": 1,
+   "The Doctor": " Cleopatra\n"
+  },
+  "spouse6": {
+   "_not_set_in": 48,
+   "_set_in": 1,
+   "The Doctor": " River Song\n"
+  },
+  "spouse7": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "spouse8": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "spouse9": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "spouse10": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "mate": {
+   "_not_set_in": 48,
+   "_set_in": 1,
+   "Alistair Gordon Lethbridge-Stewart": " Vera (Deadly Reunion)\n"
+  },
+  "mate2": {
+   "_not_set_in": 48,
+   "_set_in": 1,
+   "Alistair Gordon Lethbridge-Stewart": " Mariatu\n"
+  },
+  "mate3": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "mate4": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "mate5": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "mate6": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "mate7": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "mate8": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "mate9": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "mate10": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "partner": {
+   "_not_set_in": 48,
+   "_set_in": 1,
+   "Jack Harkness": " John Hart (Kiss Kiss, Bang Bang)\n"
+  },
+  "partner2": {
+   "_not_set_in": 48,
+   "_set_in": 1,
+   "Jack Harkness": " Angelo Colasanto\n"
+  },
+  "partner3": {
+   "_not_set_in": 48,
+   "_set_in": 1,
+   "Jack Harkness": " Estelle Cole\n"
+  },
+  "partner4": {
+   "_not_set_in": 48,
+   "_set_in": 1,
+   "Jack Harkness": " Lucia Moretti\n"
+  },
+  "partner5": {
+   "_not_set_in": 48,
+   "_set_in": 1,
+   "Jack Harkness": " Ianto Jones\n"
+  },
+  "partner6": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "partner7": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "partner8": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "partner9": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "partner10": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "in-law": {
+   "_not_set_in": 44,
+   "_set_in": 5,
+   "The Doctor": " Amy Pond\n",
+   "Jamie McCrimmon": " Colin McLaren\n",
+   "Tenth Doctor": " Henry VIII\n",
+   "Alistair Gordon Lethbridge-Stewart": " Peyton Bryden \n",
+   "Sarah Jane Smith": " Will (Lily)\n"
+  },
+  "in-law2": {
+   "_not_set_in": 47,
+   "_set_in": 2,
+   "The Doctor": " Rory Williams\n",
+   "Jamie McCrimmon": " Alexander McLaren\n"
+  },
+  "in-law3": {
+   "_not_set_in": 48,
+   "_set_in": 1,
+   "The Doctor": " Henry VIII\n"
+  },
+  "in-law4": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "in-law5": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "in-law6": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "in-law7": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "in-law8": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "in-law9": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "in-law10": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "first mention": {
+   "_not_set_in": 47,
+   "_set_in": 2,
+   "The Master": " \n",
+   "Third Doctor": " The War Games (TV story)\n"
+  },
+  "first": {
+   "_not_set_in": 10,
+   "_set_in": 39,
+   "The Doctor": " An Unearthly Child (TV story)\n",
+   "The Master": " Terror of the Autons (TV story)\n",
+   "Ian Chesterton": " An Unearthly Child (TV story)\n",
+   "Barbara Wright": " An Unearthly Child (TV story)\n",
+   "Susan Foreman": " An Unearthly Child (TV story)\n",
+   "Vicki Pallister": " The Rescue (TV story)\n",
+   "K9": " The Invisible Enemy (TV story)\n",
+   "Jamie McCrimmon": " The Highlanders (TV story)\n",
+   "Ace": " Dragonfire (TV story)\n",
+   "Steven Taylor": " The Chase (TV story)\n",
+   "Jo Grant": " Terror of the Autons (TV story)\n",
+   "Katarina": " The Myth Makers (TV story)\n",
+   "Dodo Chaplet": "The Massacre of St Bartholomew's Eve (TV story) \n",
+   "Ssard": " Descendance (comic story)\n",
+   "Fourth Doctor": " Planet of the Spiders (TV story)\n",
+   "First Doctor": " An Unearthly Child (TV story)\n",
+   "Second Doctor": "The Tenth Planet (TV story)\n",
+   "Third Doctor": " Spearhead from Space (TV story)\n",
+   "Fifth Doctor": " Logopolis (TV story)\n",
+   "Sixth Doctor": " The Caves of Androzani (TV story) \n",
+   "Seventh Doctor": " Time and the Rani (TV story)\n",
+   "Eighth Doctor": " Timewyrm: Revelation\n",
+   "Ninth Doctor": " The Tomorrow Windows (novel)\n",
+   "Tenth Doctor": " The Parting of the Ways (TV story)\n",
+   "Polly Wright": " The War Machines (TV story)\n",
+   "Ben Jackson": "The War Machines (TV story)\n",
+   "Ninth Doctor (Scream of the Shalka)": " Scream of the Shalka (webcast)\n",
+   "Grace Holloway": " Doctor Who (TV story)\n",
+   "Victoria Waterfield": " The Evil of the Daleks (TV story)\n",
+   "Zoe Heriot": " The Wheel in Space (TV story)\n",
+   "Richelieu": " The Church and the Crown (audio story)\n",
+   "Susan (Dr. Who and the Daleks)": " Dr. Who and the Daleks\n",
+   "Borusa": " The Deadly Assassin (TV story)\n",
+   "Vislor Turlough": " Mawdryn Undead (TV story)\n",
+   "Jack Harkness": " The Empty Child (TV story)\n",
+   "Alistair Gordon Lethbridge-Stewart": " The Web of Fear (TV story)\n",
+   "John Benton": " The Invasion (TV story)\n",
+   "Tobias Vaughn": " The Invasion (TV story)\n",
+   "Sarah Jane Smith": " The Time Warrior (TV story)\n"
+  },
+  "only": {
+   "_not_set_in": 43,
+   "_set_in": 6,
+   "Bruce (Doctor Who)": " Doctor Who (TV story)\n",
+   "Empress (Marco Polo)": " Marco Polo (TV story)\n",
+   "Jacanda": "The Daleks (TV story)\n",
+   "George Jeffreys": " The Glorious Revolution (audio story)\n",
+   "Charles I": " The Roundheads (novel)\n",
+   "Policeman (An Unearthly Child)": " An Unearthly Child (TV story)\n"
+  },
+  "appearances": {
+   "_not_set_in": 6,
+   "_set_in": 43,
+   "The Doctor": " [[The Doctor - list of appearances|'''''see list''''']]\n",
+   "The Master": " '''''[[The Master - list of appearances|see list]]'''''\n",
+   "Ian Chesterton": " [[Ian Chesterton - list of appearances|'''''see list''''']] \n",
+   "Barbara Wright": " [[Barbara Wright - list of appearances|'''''see list''''']] \n",
+   "Susan Foreman": " [[Susan Foreman - list of appearances|'''''see list''''']]\n",
+   "Vicki Pallister": " [[Vicki Pallister - list of appearances|'''''see list''''']]\n",
+   "K9": " [[K9 - list of appearances|'''''see list''''']]\n",
+   "Jamie McCrimmon": " '''''[[Jamie McCrimmon - list of appearances|see list]]'''''\n",
+   "Ace": " [[Ace - list of appearances|'''''see list''''']]\n",
+   "Steven Taylor": " [[Steven Taylor - list of appearances|'''''see list''''']]\n",
+   "Jo Grant": " '''''[[Jo Grant - list of appearances|see list]]'''''\n",
+   "Katarina": " '''''[[Katarina - list of appearances|see list]]'''''\n",
+   "Dodo Chaplet": " [[Dodo Chaplet - list of appearances|'''''see list''''']] \n",
+   "Ssard": " [[Ssard - list of appearances|'''''see list''''']]\n",
+   "Fourth Doctor": " '''''[[Fourth Doctor - list of appearances|see list]]'''''\n",
+   "First Doctor": " [[First Doctor - list of appearances|'''''see list''''']]\n",
+   "Second Doctor": " '''''[[Second Doctor - list of appearances|see list]]'''''\n",
+   "Third Doctor": " '''''[[Third Doctor - list of appearances|see list]]'''''\n",
+   "Fifth Doctor": " '''''[[Fifth Doctor - list of appearances|see list]]'''''\n",
+   "Sixth Doctor": " '''''[[Sixth Doctor - list of appearances|see list]]'''''\n",
+   "Seventh Doctor": " '''''[[Seventh Doctor - list of appearances|see list]]'''''\n",
+   "Eighth Doctor": " [[Eighth Doctor - list of appearances|'''''see list''''']]\n",
+   "Ninth Doctor": " '''''[[Ninth Doctor - list of appearances|see list]]'''''\n",
+   "Tenth Doctor": " '''''[[Tenth Doctor - list of appearances|see list]]'''''\n",
+   "Polly Wright": " [[Polly Wright - list of appearances|'''''see list''''']]\n",
+   "Ben Jackson": " [[Ben Jackson - list of appearances|'''''see list''''']] \n",
+   "Ninth Doctor (Scream of the Shalka)": " [[NOTVALID]]: ''[[The Feast of the Stone (short story)|The Feast of the Stone]]''\n",
+   "Grace Holloway": " [[Grace Holloway - list of appearances|'''''see list''''']]\n",
+   "Mary Eliza Millington": " \n",
+   "Victoria Waterfield": " [[Victoria Waterfield - list of appearances|'''''see list''''']]\n",
+   "Zoe Heriot": " '''''[[Zoe Heriot - list of appearances|see list]]'''''\n",
+   "Richelieu": " [[COMIC]]: ''[[Terror of the Cabinet Noir (comic story)|Terror of the Cabinet Noir]]''\n",
+   "Matthew Hopkins": " [[PROSE]]: ''[[The Devil Like a Bear (short story)|The Devil Like a Bear]]'', [[COMIC]]: ''[[Witch Hunt (comic story)|Witch Hunt]]''\n",
+   "George Jeffreys": " \n",
+   "John Aubrey": "\n",
+   "Susan (Dr. Who and the Daleks)": " il[[NOTVALID]]: ''[[Daleks' Invasion Earth 2150 A.D.]]''[[NOTVALID]]: ''[[Daleks Versus the Martians (comic story)|Daleks Versus the Martians]]''[[NOTVALID]]: ''[[Dr Who and the House on Oldark Moor (short story)|Dr Who and the House on Oldark Moor]]''\n",
+   "Borusa": " '''''[[Borusa - list of appearances|see list]]'''''\n",
+   "Vislor Turlough": " [[Vislor Turlough - list of appearances|'''''see list''''']]\n",
+   "Jack Harkness": " '''''[[Jack Harkness - list of appearances|see list]]'''''\n",
+   "Alistair Gordon Lethbridge-Stewart": " [[Alistair Gordon Lethbridge-Stewart - list of appearances|'''''see list''''']]\n",
+   "John Benton": " [[John Benton - list of appearances|'''''see list''''']]\n",
+   "Tobias Vaughn": " il[[PROSE]]: ''[[Prelude Iceberg (short story)|Prelude Iceberg]]''[[PROSE]]: ''[[Original Sin (novel)|Original Sin]]''[[AUDIO]]: ''[[Original Sin (audio story)|Original Sin]]''\n",
+   "Sarah Jane Smith": " [[Sarah Jane Smith - list of appearances|'''''see list''''']]\n"
+  },
+  "actor": {
+   "_not_set_in": 7,
+   "_set_in": 42,
+   "Bruce (Doctor Who)": " Eric Roberts \n",
+   "The Master": " Roger Delgado\n",
+   "Ian Chesterton": " William Russell\n",
+   "Barbara Wright": " Jacqueline Hill\n",
+   "Susan Foreman": " Carole Ann Ford\n",
+   "Vicki Pallister": " Maureen O'Brien\n",
+   "Jamie McCrimmon": " Frazer Hines\n",
+   "Ace": " Sophie Aldred\n",
+   "Steven Taylor": " Peter Purves \n",
+   "Jo Grant": " Katy Manning\n",
+   "Empress (Marco Polo)": " Claire Davenport\n",
+   "Katarina": " Adrienne Hill",
+   "Jacanda": " \n",
+   "Dodo Chaplet": " Jackie Lane\n",
+   "Fourth Doctor": " Tom Baker\n<!--\"Other actors\" is reserved for actors who have portrayed this Doctor in the absence of the main actor, not for stunt doubles who stand in for the actor during tough scenes. Doubles can be included if they are assisting the main actor in a duel role.-->\n",
+   "First Doctor": " William Hartnell\n",
+   "Second Doctor": "Patrick Troughton\n<!--\"Other actors\" is reserved for actors who have portrayed this Doctor in the absence of the main actor, not for stunt doubles who stand in for the actor during tough scenes. Doubles can be included if they are assisting the main actor in a duel role.-->\n",
+   "Third Doctor": " Jon Pertwee\n<!--\"Other actors\" is reserved for actors who have portrayed this Doctor in the absence of the main actor, not for stunt doubles who stand in for the actor during tough scenes. Doubles can be included if they are assisting the main actor in a dual role.-->\n",
+   "Fifth Doctor": " Peter Davison\n<!--\"Other actors\" is reserved for actors who have portrayed this Doctor in the absence of the main actor, not for stunt doubles who stand in for the actor during tough scenes. Doubles can be included if they are assisting the main actor in a duel role.-->\n",
+   "Sixth Doctor": " Colin Baker\n<!--\"Other actors\" is reserved for actors who have portrayed this Doctor in the absence of the main actor, not for stunt doubles who stand in for the actor during tough scenes. Doubles can be included if they are assisting the main actor in a duel role.-->\n",
+   "Seventh Doctor": " Sylvester McCoy\n<!--\"Other actors\" is reserved for actors who have portrayed this Doctor in the absence of the main actor, not for stunt doubles who stand in for the actor during tough scenes. Doubles can be included if they are assisting the main actor in a duel role.-->\n",
+   "Eighth Doctor": " Paul McGann\n<!--\"Other actors\" is reserved for actors who have portrayed this Doctor in the absence of the main actor, not for stunt doubles who stand in for the actor during tough scenes. Doubles can be included if they are assisting the main actor in a duel role.-->\n",
+   "Ninth Doctor": " Christopher Eccleston\n<!--\"Other actors\" is reserved for actors who have portrayed this Doctor in the absence of the main actor, not for stunt doubles who stand in for the actor during tough scenes. Doubles can be included if they are assisting the main actor in a duel role.-->\n",
+   "Tenth Doctor": " David Tennant\n",
+   "Polly Wright": " Anneke Wills\n",
+   "Ben Jackson": " Michael Craze\n",
+   "Grace Holloway": " Daphne Ashbrook\n",
+   "Mary Eliza Millington": " \n",
+   "Victoria Waterfield": " Deborah Watling\n",
+   "Zoe Heriot": " Wendy Padbury\n",
+   "Matthew Hopkins": " ",
+   "George Jeffreys": " \n",
+   "John Aubrey": " \n",
+   "Susan (Dr. Who and the Daleks)": " Roberta Tovey\n",
+   "Borusa": " John Arnatt\n",
+   "Vislor Turlough": " Mark Strickson\n",
+   "Jack Harkness": " John Barrowman\n",
+   "Alistair Gordon Lethbridge-Stewart": " Nicholas Courtney\n",
+   "Policeman (An Unearthly Child)": " Reg Cranfield (actor)\n",
+   "John Benton": " John Levene\n",
+   "Tobias Vaughn": " Kevin Stoney (actor)\n",
+   "Sarah Jane Smith": " Elisabeth Sladen\n"
+  },
+  "main actor": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "other actor": {
+   "_not_set_in": 28,
+   "_set_in": 21,
+   "The Master": " Norman Stanley\n",
+   "Jamie McCrimmon": " Hamish Wilson\n",
+   "Jo Grant": " Mildred Brown\n",
+   "Fourth Doctor": " Terry Walsh\n",
+   "First Doctor": " Edmund Warwick\n",
+   "Second Doctor": " Peter Diamond\n",
+   "Third Doctor": " Bill Burridge\n",
+   "Fifth Doctor": " \n",
+   "Sixth Doctor": " Sylvester McCoy\n",
+   "Seventh Doctor": " \n",
+   "Eighth Doctor": " \n",
+   "Ninth Doctor": " \n",
+   "Tenth Doctor": " Colum Regan\n",
+   "Polly Wright": " Lily Travers\n",
+   "Ben Jackson": " Jared Garfield\n",
+   "Borusa": " Angus MacKay\n",
+   "Jack Harkness": " Jack Montgomery\n",
+   "Alistair Gordon Lethbridge-Stewart": " Jeremiah Krage\n",
+   "Policeman (An Unearthly Child)": " Fred Rawlings\n",
+   "John Benton": " Darren Plant\n",
+   "Sarah Jane Smith": " Jessica Ashworth\n"
+  },
+  "other actor2": {
+   "_not_set_in": 44,
+   "_set_in": 5,
+   "The Master": " Peter Pratt\n",
+   "First Doctor": " Gordon Craig \n",
+   "Borusa": " Leonard Sachs\n",
+   "John Benton": " Steven Stanley\n",
+   "Sarah Jane Smith": " Jessica Mogridge\n"
+  },
+  "other actor3": {
+   "_not_set_in": 46,
+   "_set_in": 3,
+   "The Master": " Geoffrey Beevers\n",
+   "First Doctor": " Richard Hurndall\n",
+   "Borusa": " Philip Latham\n"
+  },
+  "other actor4": {
+   "_not_set_in": 47,
+   "_set_in": 2,
+   "The Master": " Anthony Ainley\n",
+   "First Doctor": " Michael Jones\n"
+  },
+  "other actor5": {
+   "_not_set_in": 47,
+   "_set_in": 2,
+   "The Master": " Gordon Tipple\n",
+   "First Doctor": " David Bradley\n"
+  },
+  "other actor6": {
+   "_not_set_in": 48,
+   "_set_in": 1,
+   "The Master": " Eric Roberts\n"
+  },
+  "other actor7": {
+   "_not_set_in": 48,
+   "_set_in": 1,
+   "The Master": " Derek Jacobi\n"
+  },
+  "other actor8": {
+   "_not_set_in": 48,
+   "_set_in": 1,
+   "The Master": " John Simm\n"
+  },
+  "other actor9": {
+   "_not_set_in": 48,
+   "_set_in": 1,
+   "The Master": " William Hughes\n"
+  },
+  "other actor10": {
+   "_not_set_in": 48,
+   "_set_in": 1,
+   "The Master": " Michelle Gomez\n<!--Do NOT put Paul McGann in this list-->\n"
+  },
+  "voice actor": {
+   "_not_set_in": 38,
+   "_set_in": 11,
+   "The Master": " Geoffrey Beevers\n",
+   "Barbara Wright": " Jemma Powell\n",
+   "K9": " John Leeson\n",
+   "First Doctor": " William Russell <!--Do not replace until another actor surpasses their credit count.-->\n<!--Other actors is reserved for actors who have portrayed this Doctor in the absence of the main actor, not for stunt doubles who stand in for the actor during tough scenes. Doubles can be included if they are assisting the main actor in a duel role.-->\n",
+   "Second Doctor": " Frazer Hines\n",
+   "Third Doctor": " Tim Treloar\n",
+   "Ninth Doctor": " Nicholas Briggs\n",
+   "Ben Jackson": " Elliot Chapman\n",
+   "Ninth Doctor (Scream of the Shalka)": " Richard E Grant\n",
+   "Richelieu": " Michael Shallard\n",
+   "Tobias Vaughn": " Philip Voss\n"
+  },
+  "other voice actor": {
+   "_not_set_in": 34,
+   "_set_in": 15,
+   "The Master": " il[[Alex Macqueen]][[Yee Jee Tso]][[Chris Finney]][[James Dreyfus]][[David Bradley]]\n",
+   "Ian Chesterton": " [[Jamie Glover]]\n",
+   "Barbara Wright": " il[[Carole Ann Ford]][[Maureen O'Brien]][[Katherine Mount]]\n",
+   "Susan Foreman": " [[Claudia Grant]]\n",
+   "K9": " [[David Brierley]], [[Roy Skelton]]\n",
+   "Jo Grant": " [[Damian Lynch]]\n",
+   "Fourth Doctor": " il[[Jon Culshaw]][[Pat Ruins]]\n",
+   "First Doctor": " il[[David Coker]][[Joe Bassett]][[John Guilor]][[Peter Purves]]\n",
+   "Second Doctor": " [[David Coker]]\n",
+   "Third Doctor": " il[[Michael Wisher]][[Melvyn Hayes]][[Damian Lynch]][[Katy Manning]]\n",
+   "Sixth Doctor": " il[[Terry Molloy]][[Nicola Bryant]]\n",
+   "Seventh Doctor": " [[Gail Clayton]]\n",
+   "Eighth Doctor": " [[India Fisher]]\n",
+   "Tenth Doctor": " il[[Kieran Hodgson]][[Jacob Dudman]]\n<!--\"Other actors\" is reserved for actors who have portrayed this Doctor in the absence of the main actor, not for stunt doubles who stand in for the actor during tough scenes. Doubles can be included if they are assisting the main actor in a dual role.-->\n",
+   "Jack Harkness": " il[[Philip Bond]][[Alexander Vlahos]][[Kieran Bew]][[Sakuntala Ramanee]]\n"
+  },
+  "trailer": {
+   "_not_set_in": 48,
+   "_set_in": 1,
+   "Tenth Doctor": " Dr. Who The Complete Specials David Tennant Tribute\n"
+  },
+  "trailer2": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "clip": {
+   "_not_set_in": 18,
+   "_set_in": 31,
+   "The Doctor": " No sir, all THIRTEEN! - Peter Capaldi's 1st Scene as Twelfth Doctor - The Day of the Doctor - BBC\n",
+   "The Master": " Rulers of the Galaxy - Doctor Who - Colony in Space - BBC\n",
+   "Ian Chesterton": " First Time Entering the TARDIS - An Unearthly Child - Doctor Who - BBC\n",
+   "Barbara Wright": " First Time Entering the TARDIS - An Unearthly Child - Doctor Who - BBC\n",
+   "Susan Foreman": " The Tardis takes off for first time - Classic Doctor Who - BBC\n",
+   "Vicki Pallister": " The Monk's Tardis is Discovered - Doctor Who - The Time Meddler - BBC",
+   "Jamie McCrimmon": " The TARDIS explodes - The Mind Robber - Doctor Who - BBC\n",
+   "Ace": " Goodbye Mel, Hello Ace! - Doctor Who - Dragonfire - BBC\n",
+   "Steven Taylor": " The Last Move - Doctor Who - The Celestial Toymaker - BBC\n",
+   "Jo Grant": " New assistant, Jo Grant - Dr Who - BBC sci-fi\n",
+   "Dodo Chaplet": " The Post Office Tower - Doctor Who The War Machines - BBC",
+   "Fourth Doctor": " No Doctor I'm the Doctor! - Doctor Who - Robot - BBC\n",
+   "First Doctor": " The Tardis takes off for first time - Classic Doctor Who - BBC\n",
+   "Second Doctor": " Get some sleep - Doctor Who - The Tomb of the Cybermen - BBC\n",
+   "Third Doctor": " The Second Doctor meets the Third Doctor - The Three Doctors - Doctor Who - BBC\n",
+   "Fifth Doctor": " Coming to terms with regeneration - Doctor Who Castrovalva - BBC\n",
+   "Sixth Doctor": " The Doctor Vs Rani and the Master - Doctor Who - Mark of the Rani - BBC\n",
+   "Seventh Doctor": " The ripple effect - Doctor Who - Remembrance of the Daleks - BBC\n",
+   "Eighth Doctor": " Motorcycle chase -The Doctor Vs The Master - Doctor Who the Movie - BBC\n",
+   "Ninth Doctor": " The end of Earth - Doctor Who - Series 1 The End of the World - BBC\n",
+   "Tenth Doctor": " Rose and The Doctor are seperated forever - Doctor Who - Doomsday - Series 2 - BBC\n",
+   "Polly Wright": " Get me Geneva - Quick! - Doctor Who - The Tenth Planet - BBC\n",
+   "Ben Jackson": "New War Machine - Doctor Who The War Machines - BBC\n",
+   "Grace Holloway": " Motorcycle chase -The Doctor Vs The Master - Doctor Who the Movie - BBC\n",
+   "Victoria Waterfield": " Get some sleep - Doctor Who - The Tomb of the Cybermen - BBC\n",
+   "Zoe Heriot": " The TARDIS explodes - The Mind Robber - Doctor Who - BBC\n",
+   "Borusa": " The Doctor's Death sentence - Doctor Who - Arc of Infinity - BBC\n",
+   "Vislor Turlough": " An offer from the Black Guardian - Doctor Who - Mawdryn Undead - BBC\n",
+   "Jack Harkness": " The memory stealer pt 1 - Torchwood - BBC\n",
+   "Alistair Gordon Lethbridge-Stewart": " Brigadier vs the Doctor - Doctor Who - BBC classic sci-fi\n",
+   "Sarah Jane Smith": " Sarah Jane Smith quizzes the Doctor - The Time Warrior - BBC\n"
+  },
+  "clip2": {
+   "_not_set_in": 24,
+   "_set_in": 25,
+   "The Doctor": " Twelve Doctors Stand Together - The Doctor Dreams - Doctor Who - Day of the Doctor - BBC\n",
+   "The Master": " The Doctor and the Master fight - Survival - BBC\n",
+   "Ian Chesterton": " Spying on Napoleon Bonaparte - The Reign of Terror - Doctor Who - BBC\n",
+   "Barbara Wright": " The reincarnation of Yetaxa - Doctor Who - The Aztecs - BBC\n",
+   "Susan Foreman": " Goodbye Susan - The Dalek Invasion of Earth - Doctor Who - BBC\n",
+   "Jamie McCrimmon": " The Doctor Summons the Time Lords - The War Games - Doctor Who - BBC\n",
+   "Ace": " Fear and loathing in Perivale - Doctor Who - Ghost Light - BBC\n",
+   "Jo Grant": " The Second Doctor meets the Third Doctor - The Three Doctors - Doctor Who - BBC\n",
+   "Fourth Doctor": " Until we meet again Sarah - Sarah Jane leaves - The Hand of Fear - Doctor Who - BBC\n",
+   "First Doctor": " Goodbye Susan - The Dalek Invasion of Earth - Doctor Who - BBC\n",
+   "Second Doctor": " Will the Doctor become Salamander? - Doctor Who - BBC\n",
+   "Third Doctor": " A Fond Farewell - The Green Death - Doctor Who - BBC\n",
+   "Fifth Doctor": " The Doctor Plays Cricket - Black Orchid - Doctor Who - BBC\n",
+   "Sixth Doctor": " Marble Arch! On Ravalox? - Doctor Who - Trial of a Timelord - BBC\n",
+   "Seventh Doctor": " Goodbye Mel, Hello Ace! - Doctor Who - Dragonfire - BBC\n",
+   "Eighth Doctor": " The Night of the Doctor A Mini Episode - Doctor Who The Day of the Doctor Prequel - BBC\n",
+   "Ninth Doctor": " You would make a good Dalek - Doctor Who - Dalek - Series 1 - BBC\n",
+   "Tenth Doctor": " The fury of the Timelord - Doctor Who - Human Nature - Series 3 - BBC\n",
+   "Victoria Waterfield": " Victim of the Ice Warriors - The Ice Warriors - Doctor Who - BBC\n",
+   "Zoe Heriot": " The Doctor Summons the Time Lords - The War Games - Doctor Who - BBC\n",
+   "Borusa": " Seeking Immortality - The Five Doctors - BBC\n",
+   "Vislor Turlough": " Peri saved from drowning - Doctor Who - Planet of Fire - BBC\n",
+   "Jack Harkness": " Ianto and Jack die - Torchwood Children of Earth - BBC\n",
+   "Alistair Gordon Lethbridge-Stewart": " The Doctor and a Dandelion - Doctor Who - Robot - BBC\n",
+   "Sarah Jane Smith": " Sarah stuck in the conduit - Doctor Who - The Ark in Space - BBC\n"
+  },
+  "clip3": {
+   "_not_set_in": 30,
+   "_set_in": 19,
+   "The Doctor": " ALL The Doctor's Regenerations (1963 - Present) - Doctor Who - BBC\n",
+   "The Master": " The Master Returns - Utopia - Doctor Who - BBC\n",
+   "Ian Chesterton": " Ian and Barbara leave the Doctor - Doctor Who - The Chase - BBC  \n",
+   "Barbara Wright": " Ian and Barbara leave the Doctor - Doctor Who - The Chase - BBC\n",
+   "Ace": " The truth about Ace - Doctor Who - The Curse of Fenric - BBC\n",
+   "Jo Grant": " A Fond Farewell - The Green Death - Doctor Who - BBC\n",
+   "Fourth Doctor": " Would You Like a Jelly Baby? - Doctor Who - Robots of Death - BBC <!-- Which box is bigger? - Dr Who - BBC sci-fi -->\n",
+   "First Doctor": " Doctor Who at San Diego Comic-Con 2017 Sunday July 23 @ 2pm, Hall H BBC America\n",
+   "Second Doctor": " The Doctor reactivates a Yeti Sphere - Doctor Who - BBC\n",
+   "Third Doctor": " The Doctor fights with a Sontaran - The Time Warrior - BBC\n",
+   "Fifth Doctor": " Fifth Doctor regenerates - Peter Davison to Colin Baker - BBC\n",
+   "Sixth Doctor": " The Doctor in court - Extended Version - Doctor Who - The Trial of a Time Lord - BBC\n",
+   "Seventh Doctor": " Come on Ace, we've got work to do! - Last clip from the original series - Doctor Who - BBC\n",
+   "Eighth Doctor": " \n",
+   "Ninth Doctor": " No weapons, no defences, no plan - Doctor Who - Bad Wolf - Series 1 -BBC\n",
+   "Tenth Doctor": " The Last of The Time Lords - Doctor Who - The Waters of Mars - BBC\n",
+   "Jack Harkness": " Jack makes the ultimate sacrifice - Torchwood - BBC\n",
+   "Alistair Gordon Lethbridge-Stewart": " The Destroyer Vs. The Brigadier - Doctor Who - Battlefield - BBC\n",
+   "Sarah Jane Smith": " Until we meet again Sarah - Sarah Jane leaves - The Hand of Fear - Doctor Who - BBC\n"
+  },
+  "soundcloudclip": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "soundcloudclip2": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "fullvid": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "bts": {
+   "_not_set_in": 34,
+   "_set_in": 15,
+   "The Doctor": " Peter Capaldi Draw My Life - Doctor Who The Fan Show\n",
+   "The Master": " Meet the Master with Michelle Gomez - NewToWho - Doctor Who - BBC\n",
+   "Ian Chesterton": " The Story of Susan Foreman The Women Who Lived Doctor Who\n",
+   "Barbara Wright": " The Story of Susan Foreman The Women Who Lived Doctor Who\n",
+   "Susan Foreman": " The Story of Susan Foreman The Women Who Lived Doctor Who\n",
+   "Ace": " Exclusive First Look What's Great about Ace - Doctor Who Dragonfire - BBC\n",
+   "Fourth Doctor": " Doctor Who The Doctors Revisited - The Origin of The Iconic Scarf\n",
+   "First Doctor": " Special Feature - A Grown up child - Doctor Who - Planet of Giants - BBC\n",
+   "Fifth Doctor": " Doctor Who The Doctors Revisited - Peter Davison's Classic Look",
+   "Sixth Doctor": " Doctor Who The Doctors Revisited - Colin Baker's Quest For Justice\n",
+   "Eighth Doctor": " \n",
+   "Ninth Doctor": " The Story of Rose Tyler The Women Who Lived Doctor Who\n",
+   "Tenth Doctor": " Analysis of the doctor - Dr Who Confidential - BBC sci-fi\n",
+   "Jack Harkness": " Captain Jack is back - Doctor Who Confidential - BBC\n",
+   "Sarah Jane Smith": " The return of Sarah Jane - Dr Who Confidential - BBC sci-fi\n"
+  },
+  "bts2": {
+   "_not_set_in": 45,
+   "_set_in": 4,
+   "The Doctor": " uc:Matt Smith, David Tennant & Steven Moffat on DOCTOR WHO Exclusive 50th Anniversary Insider 1\n",
+   "The Master": " John Simm Returns As The Master - Doctor Who Series 10\n",
+   "First Doctor": " Peter's Memories Of His First Doctor - Doctor Who\n",
+   "Tenth Doctor": " 'I Don't Want To Go' The Alternative takes - Doctor Who Confidential - BBC\n"
+  },
+  "bts3": {
+   "_not_set_in": 46,
+   "_set_in": 3,
+   "The Doctor": " Doctor Who Insider Part 2 -- The Doctor 2011 Behind-the-Scenes\n",
+   "The Master": " Missing Missy - Doctor Who Series 10\n",
+   "First Doctor": " Exclusive First Look Hartnell's perseverance - Doctor Who - The Three Doctors\n"
+  },
+  "leitmotif": {
+   "_not_set_in": 45,
+   "_set_in": 4,
+   "Fourth Doctor": " https://soundcloud.com/jamierobertson/doctor-who-4th-doc-theme-begin\n",
+   "Eighth Doctor": " https://soundcloud.com/jamierobertson/doctor-who-theme-of-the-8th\n",
+   "Ninth Doctor": " \"[[The Doctor's Theme]]\"\n",
+   "Tenth Doctor": " \"[[The Doctor Forever]]\"\n"
+  }
+ }
+}

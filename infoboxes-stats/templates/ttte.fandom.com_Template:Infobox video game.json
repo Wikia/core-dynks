@@ -1,0 +1,58 @@
+{
+ "wiki": "ttte.fandom.com",
+ "infobox": "Template:Infobox video game",
+ "parameters": {
+  "title1": {
+   "_not_set_in": 0,
+   "_set_in": 2,
+   "Hero of the Rails (video game)": "Hero of the Rails\n",
+   "Thomas & Friends: MINIS": "Thomas & Friends: MINIS\n"
+  },
+  "image1": {
+   "_not_set_in": 0,
+   "_set_in": 2,
+   "Hero of the Rails (video game)": "gallery\nFile:HerooftheRailsNintendoWii.jpg|Wii\nFile:HerooftheRailsNintendoDS.jpg|DS\n</gallery>\n",
+   "Thomas & Friends: MINIS": "ThomasandFriendsMINISAppIcon.jpg\n"
+  },
+  "caption1": {
+   "_not_set_in": 2,
+   "_set_in": 0
+  },
+  "developer": {
+   "_not_set_in": 0,
+   "_set_in": 2,
+   "Hero of the Rails (video game)": "[[Silverball Studios]]\n",
+   "Thomas & Friends: MINIS": "[[Budge Studios]]\n"
+  },
+  "publishers": {
+   "_not_set_in": 0,
+   "_set_in": 2,
+   "Hero of the Rails (video game)": "\n* Barnstorm Games <small>(''EU and Oceania'')</small>\n* Majesco Entertainment <small>(''NA; scrapped'')</small>\n",
+   "Thomas & Friends: MINIS": "\n"
+  },
+  "composers": {
+   "_not_set_in": 0,
+   "_set_in": 2,
+   "Hero of the Rails (video game)": "\n* [[Robert Hartshorne]] <small>(''original songs'')</small>\n* [[Ed Welch]] <small>(''original songs'')</small>\n",
+   "Thomas & Friends: MINIS": "\n"
+  },
+  "voice_actors": {
+   "_not_set_in": 0,
+   "_set_in": 2,
+   "Hero of the Rails (video game)": "[[David Holt]]\n",
+   "Thomas & Friends: MINIS": "[[Mark Moraghan]]\n"
+  },
+  "platforms": {
+   "_not_set_in": 0,
+   "_set_in": 2,
+   "Hero of the Rails (video game)": "\n* Nintendo Wii\n* Nintendo DS\n",
+   "Thomas & Friends: MINIS": "iOS\nAndroid\n"
+  },
+  "released": {
+   "_not_set_in": 0,
+   "_set_in": 2,
+   "Hero of the Rails (video game)": "20th August 2010 <small>(''EU and Oceania'')</small>\n",
+   "Thomas & Friends: MINIS": "16th September 2017 <small> (IOS) </small>\n19th March 2018 <small> (Android) </small>\n"
+  }
+ }
+}

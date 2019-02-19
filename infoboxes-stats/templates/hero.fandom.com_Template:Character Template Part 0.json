@@ -1,0 +1,78 @@
+{
+ "wiki": "hero.fandom.com",
+ "infobox": "Template:Character Template Part 0",
+ "parameters": {
+  "title1": {
+   "_not_set_in": 1,
+   "_set_in": 1,
+   "Rory Gilmore": " Lorelai Leigh Gilmore"
+  },
+  "image1": {
+   "_not_set_in": 1,
+   "_set_in": 1,
+   "Danny Williams": " Danny Williams.png"
+  },
+  "caption1": {
+   "_not_set_in": 2,
+   "_set_in": 0
+  },
+  "tv_shows": {
+   "_not_set_in": 0,
+   "_set_in": 2,
+   "Danny Williams": " My little Pony (G1)",
+   "Rory Gilmore": " Gilmore Girls"
+  },
+  "voice": {
+   "_not_set_in": 0,
+   "_set_in": 2,
+   "Danny Williams": " Scott Menville",
+   "Rory Gilmore": " Alexis Bledel"
+  },
+  "title2": {
+   "_not_set_in": 2,
+   "_set_in": 0
+  },
+  "age": {
+   "_not_set_in": 1,
+   "_set_in": 1,
+   "Rory Gilmore": " 16"
+  },
+  "occupation": {
+   "_not_set_in": 1,
+   "_set_in": 1,
+   "Rory Gilmore": " High School Student"
+  },
+  "relatives": {
+   "_not_set_in": 0,
+   "_set_in": 2,
+   "Danny Williams": " Megan Williams (Elder sister) Molly Williams (Younger sister)",
+   "Rory Gilmore": " *Lorelai Gilmore (mother)\n*Christopher Hayden (father)\n*Luke Danes (step-father)\n*Sherry Tinsdale (step-mother)\n*Gigi Hayden (paternal half-sister)\n*Emily Gilmore (maternal grandmother)\n*Richard Gilmore (maternal grandfather)\n*Francine Hayden (paternal grandmother)\n*Straub Hayden (paternal grandfather)\n*Lorelai \"Trix\" Gilmore (maternal great-grandmother)\n*Charles Gilmore (maternal great-grandfather)\n*Hope (maternal great-aunt)\n*Marilyn Gilmore (maternal cousin)\n*Mr. Hayden (paternal great-grandfather)\n*William Danes (maternal step-grandfather)\n*Davey Belleville (godson)"
+  },
+  "allies": {
+   "_not_set_in": 0,
+   "_set_in": 2,
+   "Danny Williams": " All ponies, Spike the Dragon, Bushwoolies, The Moochick, and the Grundles.",
+   "Rory Gilmore": " *Lane Kim\n*Paris Geller\n*Dean Forester\n*Jess Mariano"
+  },
+  "enemies": {
+   "_not_set_in": 0,
+   "_set_in": 2,
+   "Danny Williams": " Hydia and her daughters, Reeka and Draggle, The Smooze, Queen Bumble, Lavan, Grogar",
+   "Rory Gilmore": " Francie Jarvis"
+  },
+  "likes": {
+   "_not_set_in": 1,
+   "_set_in": 1,
+   "Rory Gilmore": " *Books\n*Journalism\n*Pop Culture \n*Junk Food"
+  },
+  "dislikes": {
+   "_not_set_in": 2,
+   "_set_in": 0
+  },
+  "quote": {
+   "_not_set_in": 1,
+   "_set_in": 1,
+   "Rory Gilmore": " \"It's Avril Lavigne's world. We're just living in it.\""
+  }
+ }
+}

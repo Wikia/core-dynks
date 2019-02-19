@@ -1,0 +1,54 @@
+{
+ "wiki": "vampirediaries.fandom.com",
+ "infobox": "Template:Legacies Infobox Season",
+ "parameters": {
+  "Season": {
+   "_not_set_in": 0,
+   "_set_in": 2,
+   "Season One (Legacies)": " One\n",
+   "Season Two (Legacies)": " Two\n"
+  },
+  "Image": {
+   "_not_set_in": 0,
+   "_set_in": 2,
+   "Season One (Legacies)": " Legacies-S1-Poster.jpg\n",
+   "Season Two (Legacies)": " Legacies logo.png\n"
+  },
+  "Episodes": {
+   "_not_set_in": 0,
+   "_set_in": 2,
+   "Season One (Legacies)": " 16ref name=\"Deadline\"https://deadline.com/2018/11/charmed-legacies-all-american-more-episodes-back-orders-full-season-the-cw-1202498491/</ref>\n",
+   "Season Two (Legacies)": " TBA\n"
+  },
+  "Airdate": {
+   "_not_set_in": 0,
+   "_set_in": 2,
+   "Season One (Legacies)": " October 25, 2018 - March 28, 2019refhttps://deadline.com/2019/01/the-cw-spring-premiere-dates-jane-the-virgin-izombie-final-seasons-dcs-legends-of-tomorrow-arrow-1202532950/</ref>\n",
+   "Season Two (Legacies)": " Fall 2019\n"
+  },
+  "Premiere": {
+   "_not_set_in": 0,
+   "_set_in": 2,
+   "Season One (Legacies)": " ''[[This is the Part Where You Run]]''\n",
+   "Season Two (Legacies)": "\n"
+  },
+  "Finale": {
+   "_not_set_in": 0,
+   "_set_in": 2,
+   "Season One (Legacies)": "\n",
+   "Season Two (Legacies)": "\n"
+  },
+  "Slogan": {
+   "_not_set_in": 0,
+   "_set_in": 2,
+   "Season One (Legacies)": " ''Heroes. Villains. Whatever.''\n",
+   "Season Two (Legacies)": "\n"
+  },
+  "Cast": {
+   "_not_set_in": 0,
+   "_set_in": 2,
+   "Season One (Legacies)": " [[Danielle Rose Russell]] as [[Hope Mikaelson]]<br>[[Aria Shahghasemi]] as [[Landon Kirby]]<br>[[Kaylee Bryant]] as [[Josie Saltzman]]<br>[[Jenny Boyd]] as [[Lizzie Saltzman]]<br>[[Quincy Fouse]] as [[Milton Greasley|MG]]<br>[[Peyton Alex Smith]] as [[Rafael Waithe]]<br>[[Matthew Davis|Matt Davis]] as [[Alaric Saltzman]]\n",
+   "Season Two (Legacies)": " [[Danielle Rose Russell]] as [[Hope Mikaelson]]<br>[[Aria Shahghasemi]] as [[Landon Kirby]]<br>[[Kaylee Bryant]] as [[Josie Saltzman]]<br>[[Jenny Boyd]] as [[Lizzie Saltzman]]<br>[[Quincy Fouse]] as [[Milton Greasley|MG]]<br>[[Peyton Alex Smith]] as [[Rafael Waithe]]<br>[[Matthew Davis|Matt Davis]] as [[Alaric Saltzman]]\n"
+  }
+ }
+}

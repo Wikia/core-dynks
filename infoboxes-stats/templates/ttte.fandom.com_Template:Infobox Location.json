@@ -1,0 +1,59 @@
+{
+ "wiki": "ttte.fandom.com",
+ "infobox": "Template:Infobox Location",
+ "parameters": {
+  "title1": {
+   "_not_set_in": 6,
+   "_set_in": 2,
+   "Himalayas": "Himalayas\n",
+   "Zhangye Danxia": "Zhangye Danxia\n"
+  },
+  "image1": {
+   "_not_set_in": 0,
+   "_set_in": 8,
+   "The Great Railway Show Yard": " TheGreatRace616.png\n",
+   "Bridlington Goods Yard": " JourneyBeyondSodor769.png\n",
+   "Dar es Salaam Docks": " File:Dar-es-Salaam-Docks-Promo.jpg\n",
+   "Bonneville Salt Flats": " BigWorld!BigAdventures!1094.png\n",
+   "Morenci Loop": " BigWorld!BigAdventures!874.png\n",
+   "Sailor's Cafe": "File:BigWorld!BigAdventures!1093.png\n",
+   "Himalayas": "File:BigWorld!BigAdventures!1197.png\n",
+   "Zhangye Danxia": "File:BigWorld!BigAdventures!1195.png\n"
+  },
+  "caption1": {
+   "_not_set_in": 8,
+   "_set_in": 0
+  },
+  "location": {
+   "_not_set_in": 4,
+   "_set_in": 4,
+   "Bonneville Salt Flats": " Tooele County, Utah\n",
+   "Sailor's Cafe": "FlagUS [[United States]]",
+   "Himalayas": "flagcn [[China]]\n",
+   "Zhangye Danxia": "flagcn [[China]]\n"
+  },
+  "year_opened": {
+   "_not_set_in": 7,
+   "_set_in": 1,
+   "Morenci Loop": " 1902"
+  },
+  "year_closed": {
+   "_not_set_in": 7,
+   "_set_in": 1,
+   "Morenci Loop": " 1922 <small> (real life) </small>"
+  },
+  "managed_by": {
+   "_not_set_in": 7,
+   "_set_in": 1,
+   "Morenci Loop": " Morenci Southern Railroad"
+  },
+  "manager": {
+   "_not_set_in": 8,
+   "_set_in": 0
+  },
+  "line": {
+   "_not_set_in": 8,
+   "_set_in": 0
+  }
+ }
+}

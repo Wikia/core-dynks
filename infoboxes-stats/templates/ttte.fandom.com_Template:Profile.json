@@ -1,0 +1,58 @@
+{
+ "wiki": "ttte.fandom.com",
+ "infobox": "Template:Profile",
+ "parameters": {
+  "title1": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "image1": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "caption1": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "image4": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "caption4": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "image2": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "caption2": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "name": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "fav_character": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "fav_episode": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "fav_book": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "fav_off-rail_character": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "yt_name": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  }
+ }
+}

@@ -1,0 +1,1396 @@
+{
+ "wiki": "tardis.fandom.com",
+ "infobox": "Template:Infobox Audio Series",
+ "parameters": {
+  "name": {
+   "_not_set_in": 49,
+   "_set_in": 1,
+   "Dead Ringers": " ''Dead Ringers'' (2000\u201307, 2014\u2013)\n"
+  },
+  "release year": {
+   "_not_set_in": 1,
+   "_set_in": 49,
+   "Doctor Who Unbound": " 2003\n",
+   "Bernice Summerfield (series)": " 1998\n",
+   "Excelis Saga": " 2002\n",
+   "Dalek Empire (audio series)": " 2001\n",
+   "Dalek Empire I": " 2001\n",
+   "Dalek Empire II: Dalek War": " 2003\n",
+   "Dalek Empire III": " 2004\n",
+   "Cyberman (audio series)": " 2005\n",
+   "Sarah Jane Smith (audio series)": " 2002\n",
+   "Gallifrey (audio series)": " 2004\n",
+   "UNIT (audio series)": " 2004\n",
+   "I, Davros": " 2006\n",
+   "Dalek Empire IV: The Fearless": " 2007\n",
+   "Kaldor City (audio series)": " 2001\n",
+   "Audiobooks of novelisations": " 2007\n",
+   "Buried Treasures (audio anthology)": " 1999\n",
+   "The Companion Chronicles": " 2007\n",
+   "Adventures in a Pocket Universe (audio series)": " 1999\n",
+   "The Lost Stories": " 2009\n",
+   "Hornets' Nest": " 2009\n",
+   "Jago & Litefoot": " 2010\n",
+   "Graceless (audio series)": " 2010\n",
+   "Cyberman 2": " 2009\n",
+   "Demon Quest": " 2010\n",
+   "Short Trips - Volume I": " 2010\n",
+   "Short Trips - Volume II": " 2011\n",
+   "Short Trips - Volume III": " 2011\n",
+   "Short Trips - Volume IV": " 2011\n",
+   "Serpent Crest": " 2011\n",
+   "Counter-Measures (audio series)": " 2012\n",
+   "Torchwood: The Lost Files": " 2011\n",
+   "Dark Eyes (audio anthology)": " 2012\n",
+   "Destiny of the Doctor": " 2013\n",
+   "New Frontiers (audio anthology)": " 2013\n",
+   "Missing Persons (audio anthology)": " 2013\n",
+   "Legion (audio anthology)": " 2012\n",
+   "Road Trip (audio anthology)": " 2011\n",
+   "Epoch (audio anthology)": " 2011\n",
+   "Dark Eyes 2": " 2014\n",
+   "Charlotte Pollard (audio series)": " 2014\n",
+   "The New Adventures of Bernice Summerfield (audio series)": " 2014\n",
+   "The New Adventures of Bernice Summerfield (audio anthology)": " 2014\n",
+   "The Early Adventures": " 2014\n",
+   "Philip Hinchcliffe Presents (audio anthology)": " 2014\n",
+   "Dark Eyes 3": " 2014\n",
+   "1963 (audio series)": " 2013\n",
+   "The Sarah Jane Adventures (audio series)": " 2007\n",
+   "Dark Eyes 4": " 2015\n",
+   "The First Doctor: Volume One": " 2015\n"
+  },
+  "release year2": {
+   "_not_set_in": 30,
+   "_set_in": 20,
+   "Doctor Who Unbound": " 2008\n",
+   "Bernice Summerfield (series)": " present\n",
+   "Dalek Empire (audio series)": " 2008\n",
+   "Cyberman (audio series)": " 2009\n",
+   "Sarah Jane Smith (audio series)": " 2006\n",
+   "Gallifrey (audio series)": " present\n",
+   "UNIT (audio series)": " 2012\n",
+   "I, Davros": " 2012\n",
+   "Dalek Empire IV: The Fearless": " 2008\n",
+   "Kaldor City (audio series)": " 2012\n",
+   "Audiobooks of novelisations": " present\n",
+   "The Companion Chronicles": " present\n",
+   "The Lost Stories": " 2013\n",
+   "Jago & Litefoot": " 2018\n",
+   "Graceless (audio series)": " 2017\n",
+   "Counter-Measures (audio series)": " 2015\n",
+   "Charlotte Pollard (audio series)": " present\n",
+   "The New Adventures of Bernice Summerfield (audio series)": " 2017\n",
+   "The Early Adventures": " present\n",
+   "The Sarah Jane Adventures (audio series)": " 2011\n"
+  },
+  "image": {
+   "_not_set_in": 0,
+   "_set_in": 50,
+   "Doctor Who Unbound": " Auld Mortality cover.jpg\n",
+   "Bernice Summerfield (series)": " Oh No It Isn't audio cover.jpg\n",
+   "Excelis Saga": " Excelis Dawns cover.jpg\n",
+   "Dalek Empire (audio series)": " Invasion of the Daleks cover.jpg\n",
+   "Dalek Empire I": " Invasion of the Daleks cover.jpg\n",
+   "Dalek Empire II: Dalek War": " Dalek War CH1 cover.jpg\n",
+   "Dalek Empire III": " The Exterminators cover.jpg\n",
+   "Cyberman (audio series)": " Cyberman complete audio series cover.jpg\n",
+   "Sarah Jane Smith (audio series)": " Comeback cover.jpg\n",
+   "Gallifrey (audio series)": " Weapon of Choice cover.jpg\n",
+   "UNIT (audio series)": " The Coup.jpg\n",
+   "I, Davros": " Innocence cover.jpg\n",
+   "Dalek Empire IV: The Fearless": " The Fearless Part 1cover.jpg\n",
+   "Kaldor City (audio series)": " Occams Razor.jpg\n",
+   "Audiobooks of novelisations": " CaveMonstersAudio.jpg\n",
+   "Buried Treasures (audio anthology)": " Buried Treasures.jpg\n",
+   "The Companion Chronicles": " Cc101 frostfire big.jpg\n",
+   "Adventures in a Pocket Universe (audio series)": " The Choice cover.jpg\n",
+   "The Lost Stories": " The Nightmare Fair cover.jpg\n",
+   "Hornets' Nest": " HornestsNest.jpg\n",
+   "Jago & Litefoot": " J&L-1.jpg\n",
+   "Graceless (audio series)": " Graceless series 1.jpg\n",
+   "Cyberman 2": " Cyberman 2.jpg\n",
+   "Demon Quest": " Demon Quest.jpg\n",
+   "Short Trips - Volume I": " Short Trips Volume 1.jpg\n",
+   "Short Trips - Volume II": " ST V2.jpg\n",
+   "Short Trips - Volume III": " Short Trips Volume 3.jpg\n",
+   "Short Trips - Volume IV": " Short Trips Volume 4.jpg\n",
+   "Serpent Crest": " Serpent Crest.jpg\n",
+   "Counter-Measures (audio series)": " CM Series 1.jpg\n",
+   "Torchwood: The Lost Files": " The Devil and Miss Carew.jpg\n",
+   "Dead Ringers": " \n",
+   "Dark Eyes (audio anthology)": " Dark Eyes cover.jpg\n",
+   "Destiny of the Doctor": " Destiny of the Doctor The Complete Adventure.jpg\n",
+   "New Frontiers (audio anthology)": " New Frontiers cover.jpg\n",
+   "Missing Persons (audio anthology)": " Missing Persons.jpg\n",
+   "Legion (audio anthology)": " Legion cover large.jpg\n",
+   "Road Trip (audio anthology)": " Road Trip cover.jpg\n",
+   "Epoch (audio anthology)": " Epoch cover.jpg\n",
+   "Dark Eyes 2": " Dark Eyes 2 cover.jpg\n",
+   "Charlotte Pollard (audio series)": " Charlotte Pollard - Series One cover.jpg\n",
+   "The New Adventures of Bernice Summerfield (audio series)": " The New Adventures of Bernice Summerfield.jpg\n",
+   "The New Adventures of Bernice Summerfield (audio anthology)": " The New Adventures of Bernice Summerfield.jpg\n",
+   "The Early Adventures": " Domain of the Voord cover.jpg\n",
+   "Philip Hinchcliffe Presents (audio anthology)": " Hinchcliffe cover.jpg\n",
+   "Dark Eyes 3": " Dark Eyes 3 (audio anthology).jpg\n",
+   "1963 (audio series)": " Fanfare-for-the-common-men cover.jpg\n",
+   "The Sarah Jane Adventures (audio series)": " Glittering Storm.jpg\n",
+   "Dark Eyes 4": " Dark Eyes 4 cover.jpg\n",
+   "The First Doctor: Volume One": " Dwcc09 cover 1417sq cover large.jpg\n"
+  },
+  "caption": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "image2": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "caption2": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "doctor": {
+   "_not_set_in": 37,
+   "_set_in": 13,
+   "Hornets' Nest": " Fourth Doctor\n",
+   "Demon Quest": " Fourth Doctor\n",
+   "Short Trips - Volume I": " \n",
+   "Short Trips - Volume II": " \n",
+   "Short Trips - Volume III": " \n",
+   "Short Trips - Volume IV": " \n",
+   "Serpent Crest": " Fourth Doctor\n",
+   "Dark Eyes (audio anthology)": " Eighth Doctor\n",
+   "Dark Eyes 2": " Eighth Doctor\n",
+   "Philip Hinchcliffe Presents (audio anthology)": " Fourth Doctor\n",
+   "Dark Eyes 3": " Eighth Doctor\n",
+   "Dark Eyes 4": " Eighth Doctor\n",
+   "The First Doctor: Volume One": " First Doctor\n"
+  },
+  "doc spoil": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "doctor2": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "companion": {
+   "_not_set_in": 41,
+   "_set_in": 9,
+   "Hornets' Nest": " Mike Yates\n",
+   "Demon Quest": " Mike Yates\n",
+   "Serpent Crest": " Wibbsey\n",
+   "Dark Eyes (audio anthology)": " Molly O'Sullivan\n",
+   "Dark Eyes 2": " Molly O'Sullivan\n",
+   "Philip Hinchcliffe Presents (audio anthology)": " Leela\n",
+   "Dark Eyes 3": " Molly O'Sullivan\n",
+   "Dark Eyes 4": " Molly O'Sullivan\n",
+   "The First Doctor: Volume One": " Susan Foreman\n"
+  },
+  "spoil companion": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "companion2": {
+   "_not_set_in": 43,
+   "_set_in": 7,
+   "Hornets' Nest": " Wibbsey\n",
+   "Demon Quest": " Wibbsey\n",
+   "Serpent Crest": " Mike Yates\n",
+   "Dark Eyes 2": " Liv Chenka\n",
+   "Dark Eyes 3": " Liv Chenka\n",
+   "Dark Eyes 4": " Liv Chenka\n",
+   "The First Doctor: Volume One": " Ian Chesterton\n"
+  },
+  "companion3": {
+   "_not_set_in": 49,
+   "_set_in": 1,
+   "The First Doctor: Volume One": " Barbara Wright\n"
+  },
+  "companion4": {
+   "_not_set_in": 49,
+   "_set_in": 1,
+   "The First Doctor: Volume One": " Vicki Pallister\n"
+  },
+  "companion5": {
+   "_not_set_in": 49,
+   "_set_in": 1,
+   "The First Doctor: Volume One": " Steven Taylor\n"
+  },
+  "companion6": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "companion7": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "main character": {
+   "_not_set_in": 22,
+   "_set_in": 28,
+   "Bernice Summerfield (series)": " [[Bernice Summerfield]]\n",
+   "Dalek Empire (audio series)": " \n",
+   "Dalek Empire I": " [[Susan Mendes]], [[Alby Brook]], [[Kalendorf]]\n",
+   "Dalek Empire II: Dalek War": " [[Susan Mendes]], [[Alby Brook]], [[Kalendorf]]\n",
+   "Dalek Empire III": " [[Siy Tarkov]], [[Georgi Selestru]], [[Galanar]]\n",
+   "Cyberman (audio series)": " [[Samantha Thorn]], [[Liam Barnaby]], [[Paul Hunt]]\n",
+   "Sarah Jane Smith (audio series)": " [[Sarah Jane Smith]], [[Josh Townsend|Josh]], [[Natalie Redfern|Natalie]]\n",
+   "Gallifrey (audio series)": " [[Romana II]], [[Leela]]\n",
+   "UNIT (audio series)": " [[Emily Chaudhry|Emily]], [[Robert Dalton|Robert]]\n",
+   "I, Davros": " [[Davros]]\n",
+   "Dalek Empire IV: The Fearless": " [[Agnes Landen]], [[Salus Kade]]\n",
+   "Kaldor City (audio series)": " [[Kaston Iago|Iago]], [[Kiy Uvanov|Uvanov]], [[Carnell]], [[Layly Landerchild|Landerchild]], [[Stenton Rull|Rull]], [[Cotton (Occam's Razor)|Cotton]], [[Justina Kessel|Justina]], [[Elska Blayes|Elska]]\n",
+   "Buried Treasures (audio anthology)": " [[Bernice Summerfield]]\n",
+   "Adventures in a Pocket Universe (audio series)": " [[The Mistress (The Choice)|The Mistress]], [[K9 (The Choice)|K9]]\n",
+   "Jago & Litefoot": " [[Henry Gordon Jago|Jago]], [[George Litefoot|Litefoot]], [[Ellie Higson|Ellie]], [[Percival Quick|Quick]]\n",
+   "Graceless (audio series)": " [[Abby (The Judgement of Isskar)|Abby]], [[Zara]]\n",
+   "Cyberman 2": " [[Samantha Thorn]], [[Liam Barnaby]]\n",
+   "Counter-Measures (audio series)": " [[Ian Gilmore]], [[Rachel Jensen]], [[Allison Williams]], [[Toby Kinsella]]\n",
+   "New Frontiers (audio anthology)": " [[Bernice Summerfield]]\n",
+   "Missing Persons (audio anthology)": " [[Bernice Summerfield]]\n",
+   "Legion (audio anthology)": " [[Bernice Summerfield]]\n",
+   "Road Trip (audio anthology)": " [[Bernice Summerfield]]\n",
+   "Epoch (audio anthology)": " [[Bernice Summerfield]]\n",
+   "Charlotte Pollard (audio series)": " [[Charlotte Pollard|Charley]], [[Robert Buchan|Robert]], [[Bertram (The Lamentation Cipher)|Bertram]]\n",
+   "The New Adventures of Bernice Summerfield (audio series)": " [[Bernice Summerfield]]\n",
+   "The New Adventures of Bernice Summerfield (audio anthology)": " [[Bernice Summerfield]]\n",
+   "The Early Adventures": " [[First Doctor]], [[Second Doctor]]\n",
+   "The Sarah Jane Adventures (audio series)": " [[Sarah Jane Smith|Sarah Jane]], [[Rani Chandra|Rani]], [[Clyde Langer|Clyde]], [[Luke Smith|Luke]], [[Sky Smith|Sky]], [[Maria Jackson|Maria]], [[K9]]\n"
+  },
+  "starring": {
+   "_not_set_in": 39,
+   "_set_in": 11,
+   "Gallifrey (audio series)": " Narvin\n",
+   "UNIT (audio series)": " Alistair Gordon Lethbridge-Stewart!The Brig\n",
+   "Dead Ringers": " Jon Culshaw\n",
+   "New Frontiers (audio anthology)": " Peter Summerfield\n",
+   "Missing Persons (audio anthology)": " Peter Summerfield\n",
+   "Legion (audio anthology)": " Peter Summerfield\n",
+   "Road Trip (audio anthology)": " \n",
+   "Epoch (audio anthology)": " Ruth Leonidas\n",
+   "The New Adventures of Bernice Summerfield (audio series)": " Seventh Doctor\n",
+   "The New Adventures of Bernice Summerfield (audio anthology)": " Seventh Doctor\n",
+   "The Early Adventures": " Susan Foreman!Susan\n"
+  },
+  "starring2": {
+   "_not_set_in": 40,
+   "_set_in": 10,
+   "Gallifrey (audio series)": " K9\n",
+   "UNIT (audio series)": " Will Hoffman!Hoffman\n",
+   "Dead Ringers": " Jan Ravens\n",
+   "New Frontiers (audio anthology)": " Ruth Leonidas\n",
+   "Missing Persons (audio anthology)": " Ruth Leonidas\n",
+   "Legion (audio anthology)": " Ruth Leonidas\n",
+   "Epoch (audio anthology)": " Jack McSpringheel\n",
+   "The New Adventures of Bernice Summerfield (audio series)": " Ace\n",
+   "The New Adventures of Bernice Summerfield (audio anthology)": " Ace\n",
+   "The Early Adventures": " Ian Chesterton!Ian\n"
+  },
+  "starring3": {
+   "_not_set_in": 42,
+   "_set_in": 8,
+   "Gallifrey (audio series)": " Irving Braxiatel\n",
+   "UNIT (audio series)": " Francis Currie!Currie\n",
+   "Dead Ringers": " Phil Cornwell\n",
+   "New Frontiers (audio anthology)": " Jack McSpringheel\n",
+   "Missing Persons (audio anthology)": " Jack McSpringheel\n",
+   "Legion (audio anthology)": " Jack McSpringheel\n",
+   "The New Adventures of Bernice Summerfield (audio series)": " The Doctor (Sympathy for the Devil)!the Doctor\n",
+   "The Early Adventures": " Barbara Wright!Barbara\n"
+  },
+  "starring4": {
+   "_not_set_in": 44,
+   "_set_in": 6,
+   "Gallifrey (audio series)": " Ace\n",
+   "Dead Ringers": " Duncan Wisbey\n",
+   "New Frontiers (audio anthology)": " Irving Braxiatel\n",
+   "Missing Persons (audio anthology)": " Irving Braxiatel\n",
+   "Legion (audio anthology)": " Irving Braxiatel\n",
+   "The Early Adventures": " Steven Taylor!Steven\n"
+  },
+  "starring5": {
+   "_not_set_in": 49,
+   "_set_in": 1,
+   "The Early Adventures": " Sara Kingdom!Sara\n"
+  },
+  "starring6": {
+   "_not_set_in": 49,
+   "_set_in": 1,
+   "The Early Adventures": " Ben Jackson!Ben\n"
+  },
+  "starring7": {
+   "_not_set_in": 49,
+   "_set_in": 1,
+   "The Early Adventures": " Polly Wright!Polly\n"
+  },
+  "starring8": {
+   "_not_set_in": 49,
+   "_set_in": 1,
+   "The Early Adventures": " Jamie McCrimmon!Jamie\n"
+  },
+  "starring9": {
+   "_not_set_in": 49,
+   "_set_in": 1,
+   "The Early Adventures": " Victoria Waterfield!Victoria\n"
+  },
+  "starring10": {
+   "_not_set_in": 49,
+   "_set_in": 1,
+   "The Early Adventures": " Zoe Herriot!Zoe\n"
+  },
+  "exec prod": {
+   "_not_set_in": 16,
+   "_set_in": 34,
+   "Doctor Who Unbound": " \n",
+   "Dalek Empire (audio series)": " \n",
+   "Dalek Empire I": " \n",
+   "Dalek Empire II: Dalek War": " \n",
+   "Dalek Empire III": " \n",
+   "Cyberman (audio series)": " \n",
+   "Gallifrey (audio series)": " \n",
+   "Dalek Empire IV: The Fearless": " \n",
+   "Buried Treasures (audio anthology)": " \n",
+   "Hornets' Nest": " Michael Stevens\n",
+   "Demon Quest": " Michael Stevens\n",
+   "Short Trips - Volume I": " \n",
+   "Short Trips - Volume II": " \n",
+   "Short Trips - Volume III": " \n",
+   "Short Trips - Volume IV": " \n",
+   "Serpent Crest": " Michael Stevens\n",
+   "Counter-Measures (audio series)": " Jason Haigh-Ellery\n",
+   "Torchwood: The Lost Files": " \n",
+   "Dark Eyes (audio anthology)": " \n",
+   "Destiny of the Doctor": " \n",
+   "New Frontiers (audio anthology)": " \n",
+   "Missing Persons (audio anthology)": " \n",
+   "Legion (audio anthology)": " \n",
+   "Road Trip (audio anthology)": " \n",
+   "Epoch (audio anthology)": " \n",
+   "Dark Eyes 2": " \n",
+   "Charlotte Pollard (audio series)": " \n",
+   "The New Adventures of Bernice Summerfield (audio series)": " \n",
+   "The New Adventures of Bernice Summerfield (audio anthology)": " Jason Haigh-Ellery\n",
+   "The Early Adventures": " Jason Haigh-Ellery\n",
+   "Philip Hinchcliffe Presents (audio anthology)": " Jason Haigh-Ellery\n",
+   "Dark Eyes 3": " \n",
+   "1963 (audio series)": " \n",
+   "Dark Eyes 4": " \n"
+  },
+  "exec prod2": {
+   "_not_set_in": 25,
+   "_set_in": 25,
+   "Doctor Who Unbound": " \n",
+   "Dalek Empire (audio series)": " \n",
+   "Dalek Empire I": " \n",
+   "Dalek Empire II: Dalek War": " \n",
+   "Dalek Empire III": " \n",
+   "Cyberman (audio series)": " \n",
+   "Gallifrey (audio series)": " \n",
+   "Dalek Empire IV: The Fearless": " \n",
+   "Buried Treasures (audio anthology)": " \n",
+   "Short Trips - Volume I": " \n",
+   "Short Trips - Volume II": " \n",
+   "Short Trips - Volume III": " \n",
+   "Short Trips - Volume IV": " \n",
+   "Counter-Measures (audio series)": " Nicholas Briggs\n",
+   "Torchwood: The Lost Files": " \n",
+   "Destiny of the Doctor": " \n",
+   "New Frontiers (audio anthology)": " \n",
+   "Missing Persons (audio anthology)": " \n",
+   "Legion (audio anthology)": " \n",
+   "Road Trip (audio anthology)": " \n",
+   "Epoch (audio anthology)": " \n",
+   "The New Adventures of Bernice Summerfield (audio series)": " \n",
+   "The New Adventures of Bernice Summerfield (audio anthology)": " Nicholas Briggs\n",
+   "The Early Adventures": " Nicholas Briggs\n",
+   "Philip Hinchcliffe Presents (audio anthology)": " Nicholas Briggs\n"
+  },
+  "exec prod3": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "exec prod4": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "exec prod5": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "exec prod6": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "exec prod7": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "exec prod8": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "exec prod9": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "exec prod10": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "producer": {
+   "_not_set_in": 19,
+   "_set_in": 31,
+   "Doctor Who Unbound": " \n",
+   "Dalek Empire (audio series)": " \n",
+   "Dalek Empire I": " \n",
+   "Dalek Empire II: Dalek War": " \n",
+   "Dalek Empire III": " \n",
+   "Cyberman (audio series)": " \n",
+   "Gallifrey (audio series)": " \n",
+   "Dalek Empire IV: The Fearless": " \n",
+   "Buried Treasures (audio anthology)": " Gary Russell\n",
+   "Short Trips - Volume I": " \n",
+   "Short Trips - Volume II": " \n",
+   "Short Trips - Volume III": " \n",
+   "Short Trips - Volume IV": " \n",
+   "Counter-Measures (audio series)": " David Richardson\n",
+   "Torchwood: The Lost Files": " \n",
+   "Dark Eyes (audio anthology)": " \n",
+   "Destiny of the Doctor": " \n",
+   "New Frontiers (audio anthology)": " \n",
+   "Missing Persons (audio anthology)": " \n",
+   "Legion (audio anthology)": " \n",
+   "Road Trip (audio anthology)": " \n",
+   "Epoch (audio anthology)": " \n",
+   "Dark Eyes 2": " \n",
+   "Charlotte Pollard (audio series)": " \n",
+   "The New Adventures of Bernice Summerfield (audio series)": " \n",
+   "The New Adventures of Bernice Summerfield (audio anthology)": " James Goss\n",
+   "The Early Adventures": " David Richardson\n",
+   "Philip Hinchcliffe Presents (audio anthology)": " David Richardson\n",
+   "Dark Eyes 3": " \n",
+   "1963 (audio series)": " \n",
+   "Dark Eyes 4": " \n"
+  },
+  "producer2": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "producer3": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "producer4": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "producer5": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "producer6": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "producer7": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "producer8": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "producer9": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "producer10": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "script ed": {
+   "_not_set_in": 17,
+   "_set_in": 33,
+   "Doctor Who Unbound": " \n",
+   "Dalek Empire (audio series)": " \n",
+   "Dalek Empire I": " \n",
+   "Dalek Empire II: Dalek War": " \n",
+   "Dalek Empire III": " \n",
+   "Cyberman (audio series)": " \n",
+   "Gallifrey (audio series)": " \n",
+   "Dalek Empire IV: The Fearless": " \n",
+   "Buried Treasures (audio anthology)": " \n",
+   "Hornets' Nest": " Michael Stevens\n",
+   "Demon Quest": " Michael Stevens\n",
+   "Short Trips - Volume I": " \n",
+   "Short Trips - Volume II": " \n",
+   "Short Trips - Volume III": " \n",
+   "Short Trips - Volume IV": " \n",
+   "Serpent Crest": " Michael Stevens\n",
+   "Counter-Measures (audio series)": " John Dorney\n",
+   "Torchwood: The Lost Files": " \n",
+   "Dark Eyes (audio anthology)": " \n",
+   "Destiny of the Doctor": " \n",
+   "New Frontiers (audio anthology)": " \n",
+   "Missing Persons (audio anthology)": " \n",
+   "Legion (audio anthology)": " \n",
+   "Road Trip (audio anthology)": " \n",
+   "Epoch (audio anthology)": " \n",
+   "Dark Eyes 2": " \n",
+   "Charlotte Pollard (audio series)": " \n",
+   "The New Adventures of Bernice Summerfield (audio series)": " \n",
+   "The New Adventures of Bernice Summerfield (audio anthology)": " James Goss\n",
+   "The Early Adventures": " John Dorney\n",
+   "Philip Hinchcliffe Presents (audio anthology)": " John Dorney\n",
+   "Dark Eyes 3": " \n",
+   "Dark Eyes 4": " \n"
+  },
+  "script ed2": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "script ed3": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "script ed4": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "script ed5": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "script ed6": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "script ed7": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "script ed8": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "script ed9": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "script ed10": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "music": {
+   "_not_set_in": 28,
+   "_set_in": 22,
+   "Bernice Summerfield (series)": " Matthew Cochrane \n",
+   "Sarah Jane Smith (audio series)": " [[David Darlington]], [[Steve Foxon]]\n",
+   "Gallifrey (audio series)": " \n",
+   "UNIT (audio series)": " [[David Darlington]], [[Martin Johnson (composer)|Martin Johnson]]\n",
+   "I, Davros": " [[Steve Foxon]]\n",
+   "Buried Treasures (audio anthology)": " [[Harvey Summers]]\n",
+   "Adventures in a Pocket Universe (audio series)": " \n",
+   "Cyberman 2": " [[Kelly Ellis]] & [[Steve McNichol]]\n",
+   "Short Trips - Volume I": " Nicholas Briggs\n",
+   "Short Trips - Volume II": " Daniel Brett\n",
+   "Short Trips - Volume III": " Daniel Brett\n",
+   "Short Trips - Volume IV": " Daniel Brett\n",
+   "Dark Eyes (audio anthology)": " [[Andy Hardwick]]\n",
+   "New Frontiers (audio anthology)": " [[James Dunlop]]\n",
+   "Missing Persons (audio anthology)": " [[James Dunlop]], [[Steve Foxon]]\n",
+   "Legion (audio anthology)": " [[Matthew Cochrane]]\n",
+   "Road Trip (audio anthology)": " [[Steve Foxon]]\n",
+   "Epoch (audio anthology)": " [[Steve Foxon]]\n",
+   "Dark Eyes 2": " [[Wilfredo Acosta]]\n",
+   "Philip Hinchcliffe Presents (audio anthology)": " [[Howard Carter (composer)|Howard Carter]]\n",
+   "Dark Eyes 3": " [[Wilfredo Acosta]]\n",
+   "Dark Eyes 4": " [[Howard Carter (composer)|Howard Carter]]\n"
+  },
+  "sound": {
+   "_not_set_in": 32,
+   "_set_in": 18,
+   "Bernice Summerfield (series)": " Matthew Cochrane \n",
+   "Gallifrey (audio series)": " \n",
+   "Buried Treasures (audio anthology)": " \n",
+   "Cyberman 2": " [[Kelly Ellis]] & [[Steve McNichol]]\n",
+   "Short Trips - Volume I": " Martin Montague\n",
+   "Short Trips - Volume II": " Martin Montague\n",
+   "Short Trips - Volume III": " Martin Montague\n",
+   "Short Trips - Volume IV": " Martin Montague\n",
+   "Dark Eyes (audio anthology)": " [[Andy Hardwick]]\n",
+   "New Frontiers (audio anthology)": " [[Robbie Dunlop]]\n",
+   "Missing Persons (audio anthology)": " [[Robbie Dunlop]], [[Steve Foxon]]\n",
+   "Legion (audio anthology)": " [[Daniel Brett]], [[Robbie Dunlop]]\n",
+   "Road Trip (audio anthology)": " [[Steve Foxon]]\n",
+   "Epoch (audio anthology)": " [[Steve Foxon]]\n",
+   "Dark Eyes 2": " [[Wilfredo Acosta]]\n",
+   "Philip Hinchcliffe Presents (audio anthology)": " [[Howard Carter (composer)|Howard Carter]]\n",
+   "Dark Eyes 3": " [[Wilfredo Acosta]]\n",
+   "Dark Eyes 4": " [[Howard Carter (composer)|Howard Carter]]\n"
+  },
+  "cover": {
+   "_not_set_in": 21,
+   "_set_in": 29,
+   "Bernice Summerfield (series)": " Adrian Salmon\n",
+   "Excelis Saga": " [[Lee Binding]], [[Adrian Salmon]]\n",
+   "Dalek Empire III": " [[Clayton Hickman]]\n",
+   "Sarah Jane Smith (audio series)": " [[Lee Binding]]\n",
+   "Gallifrey (audio series)": " \n",
+   "UNIT (audio series)": " [[Adrian Salmon]], [[Red Ink]], [[Alex Mallinson]]\n",
+   "I, Davros": " [[Stuart Manning]]\n",
+   "Dalek Empire IV: The Fearless": " [[Alex Mallinson]]\n",
+   "Kaldor City (audio series)": " [[Andy Hopkinson]]\n",
+   "Buried Treasures (audio anthology)": " [[Lee Sullivan]]\n",
+   "Hornets' Nest": " [[Ben Willsher]] and [[Anthony Dry]]\n",
+   "Cyberman 2": " [[Alex Mallinson]]\n",
+   "Demon Quest": " [[Ben Willsher]], [[Anthony Dry]], [[Vince McIndoe]] and [[June Hudson]]\n",
+   "Short Trips - Volume I": " [[Anthony Lamb]]\n",
+   "Short Trips - Volume II": " [[Anthony Lamb]]\n",
+   "Short Trips - Volume III": " [[Anthony Lamb]]\n",
+   "Short Trips - Volume IV": " [[Anthony Lamb]]\n",
+   "Serpent Crest": " [[Brian Williamson]]\n",
+   "Dark Eyes (audio anthology)": " [[Alex Mallinson]]\n",
+   "New Frontiers (audio anthology)": " [[Stuart Manning]]\n",
+   "Missing Persons (audio anthology)": " [[Stuart Manning]]\n",
+   "Legion (audio anthology)": " [[Stuart Manning]]\n",
+   "Road Trip (audio anthology)": " \n",
+   "Epoch (audio anthology)": " [[Alex Mallinson]]\n",
+   "Dark Eyes 2": " [[Damien May]]\n",
+   "The New Adventures of Bernice Summerfield (audio anthology)": " [[Tom Webster]]\n",
+   "Philip Hinchcliffe Presents (audio anthology)": " [[Damien May]]\n",
+   "Dark Eyes 3": " [[Damien May]]\n",
+   "Dark Eyes 4": " [[Tom Webster]]\n"
+  },
+  "first release": {
+   "_not_set_in": 18,
+   "_set_in": 32,
+   "Doctor Who Unbound": " [[May (releases)|May]] [[2003 (releases)|2003]]\n",
+   "Bernice Summerfield (series)": " [[September (releases)|September]] [[1998 (releases)|1998]]\n",
+   "Excelis Saga": " [[February (releases)|February]] [[2002 (releases)|2002]] \n",
+   "Dalek Empire (audio series)": " [[June (releases)|June]] [[2001 (releases)|2001]]\n",
+   "Dalek Empire I": " [[June (releases)|June]] [[2001 (releases)|2001]]\n",
+   "Dalek Empire II: Dalek War": " [[January (releases)|January]] [[2003 (releases)|2003]]\n",
+   "Dalek Empire III": " [[May (releases)|May]] [[2004 (releases)|2004]]\n",
+   "Cyberman (audio series)": " [[September (releases)|September]] [[2005 (releases)|2005]]\n",
+   "Sarah Jane Smith (audio series)": " [[31 July (releases)|31 July]] [[2002 (releases)|2002]]\n",
+   "Gallifrey (audio series)": " [[March (releases)|March]] [[2004 (releases)|2004]]\n",
+   "UNIT (audio series)": " [[9 December (releases)|9 December]] [[2004 (releases)|2004]]\n",
+   "I, Davros": " [[September (releases)|September]] [[2006 (releases)|2006]]\n",
+   "Dalek Empire IV: The Fearless": " [[October (releases)|October]] [[2007 (releases)|2007]]\n",
+   "Kaldor City (audio series)": " [[September (releases)|September]] [[2001 (releases)|2001]]\n",
+   "Audiobooks of novelisations": " [[3 September (releases)|3 September]] [[2007 (releases)|2007]] - present\n",
+   "The Companion Chronicles": " [[January (releases)|January]] [[2007 (releases)|2007]]\n",
+   "Adventures in a Pocket Universe (audio series)": " [[June (releases)|June]] [[1999 (releases)|1999]]\n",
+   "The Lost Stories": " [[November (releases)|November]] [[2009 (releases)|2009]]\n",
+   "Hornets' Nest": " [[3 September (releases)|3 September]] [[2009 (releases)|2009]]\n",
+   "Jago & Litefoot": " [[30 June (releases)|30 June]] [[2010 (releases)|2010]]\n",
+   "Graceless (audio series)": " [[November (releases)|November]] [[2010 (releases)|2010]]\n",
+   "Demon Quest": " [[2 September (releases)|2 September]] [[2010 (releases)|2010]]\n",
+   "Serpent Crest": " [[8 September (releases)|8 September]] [[2011 (releases)|2011]]\n",
+   "Counter-Measures (audio series)": " [[10 July (releases)|10 July]] [[2012 (releases)|2012]]\n",
+   "Torchwood: The Lost Files": " [[11 July (releases)|11 July]] [[2011 (releases)|2011]]\n",
+   "Dead Ringers": " 7 January 2000\n",
+   "Destiny of the Doctor": " [[January (releases)|January]] [[2013 (releases)|2013]]\n",
+   "Charlotte Pollard (audio series)": " [[8 May (releases)|8 May]] [[2014 (releases)|2014]]\n",
+   "The New Adventures of Bernice Summerfield (audio series)": " [[13 June (releases)|13 June]] [[2014 (releases)|2014]]\n",
+   "The Early Adventures": " [[4 September (releases)|4 September]] [[2014 (releases)|2014]]\n",
+   "1963 (audio series)": " [[11 September (releases)|11 September]] [[2013 (releases)|2013]]\n",
+   "The Sarah Jane Adventures (audio series)": " [[5 November (releases)|5 November]] [[2007 (releases)|2007]]\n"
+  },
+  "end release": {
+   "_not_set_in": 20,
+   "_set_in": 30,
+   "Doctor Who Unbound": " [[December (releases)|December]] [[2008 (releases)|2008]]\n",
+   "Excelis Saga": " [[July (releases)|July]] [[2002 (releases)|2002]] \n",
+   "Dalek Empire (audio series)": " [[January (releases)|January]] [[2008 (releases)|2008]]\n",
+   "Dalek Empire I": " [[December (releases)|December]] [[2001 (releases)|2001]]\n",
+   "Dalek Empire II: Dalek War": " [[April (releases)|April]] [[2003 (releases)|2003]]\n",
+   "Dalek Empire III": " [[October (releases)|October]] [[2004 (releases)|2004]]\n",
+   "Cyberman (audio series)": " [[December (releases)|December]] [[2009 (releases)|2009]]\n",
+   "Sarah Jane Smith (audio series)": " [[1 March (releases)|1 March]] [[2006 (releases)|2006]]\n",
+   "Gallifrey (audio series)": " \n",
+   "UNIT (audio series)": " [[23 October (releases)|23 October]] [[2012 (releases)|2012]]\n",
+   "I, Davros": " [[28 January (releases)|28 January]] [[2012 (releases)|2012]]\n",
+   "Dalek Empire IV: The Fearless": " [[January (releases)|January]] [[2008 (releases)|2008]]\n",
+   "Kaldor City (audio series)": " [[July (releases)|July]] [[2012 (releases)|2012]]\n",
+   "The Companion Chronicles": " \n",
+   "Adventures in a Pocket Universe (audio series)": " [[September (releases)|September]] [[1999 (releases)|1999]]\n",
+   "The Lost Stories": " [[18 December (releases)|18 December]] [[2013 (releases)|2013]]\n",
+   "Hornets' Nest": " [[3 December (releases)|3 December]] [[2009 (releases)|2009]]\n",
+   "Jago & Litefoot": " [[24 May (releases)|24 May]] [[2017 (releases)|2018]]\n",
+   "Graceless (audio series)": " [[23 January (releases)|23 January]] [[2017 (releases)|2017]]\n",
+   "Demon Quest": " [[2 December (releases)|2 December]] [[2010 (releases)|2010]]\n",
+   "Serpent Crest": " [[8 December (releases)|8 December]] [[2011 (releases)|2011]]\n",
+   "Counter-Measures (audio series)": " [[10 July (releases)|10 July]] [[2015 (releases)|2015]]\n",
+   "Torchwood: The Lost Files": " [[13 July (releases)|13 July]] [[2011 (releases)|2011]]\n",
+   "Dead Ringers": " \n",
+   "Destiny of the Doctor": " [[October (releases)|October]] [[2013 (releases)|2013]]\n",
+   "Charlotte Pollard (audio series)": " \n",
+   "The New Adventures of Bernice Summerfield (audio series)": " \n",
+   "The Early Adventures": " \n",
+   "1963 (audio series)": " [[15 November (releases)|15 November]] [[2013 (releases)|2013]]\n",
+   "The Sarah Jane Adventures (audio series)": " [[10 November (releases)|10 November]] [[2011 (releases)|2011]]\n"
+  },
+  "only release": {
+   "_not_set_in": 32,
+   "_set_in": 18,
+   "Buried Treasures (audio anthology)": " [[August (releases)|August]] [[1999 (releases)|1999]]\n",
+   "Cyberman 2": " [[December (releases)|December]] [[2009 (releases)|2009]]\n",
+   "Short Trips - Volume I": " [[November (releases)|November]] [[2010 (releases)|2010]] \n",
+   "Short Trips - Volume II": " [[February (releases)|February]] [[2011 (releases)|2011]]  \n",
+   "Short Trips - Volume III": " [[31 May (releases)|31 May]] [[2011 (releases)|2011]]\n",
+   "Short Trips - Volume IV": " [[August (releases)|August]] [[2011 (releases)|2011]]\n",
+   "Dark Eyes (audio anthology)": " [[10 November (releases)|10 November]] [[2012 (releases)|2012]]\n",
+   "New Frontiers (audio anthology)": " [[30 April (releases)|30 April]] [[2013 (releases)|2013]]\n",
+   "Missing Persons (audio anthology)": " [[24 December (releases)|24 December]] [[2013 (releases)|2013]]\n",
+   "Legion (audio anthology)": " [[27 September (releases)|27 September]] [[2012 (releases)|2012]]\n",
+   "Road Trip (audio anthology)": " [[February (releases)|February]] [[2012 (releases)|2012]]\n",
+   "Epoch (audio anthology)": " [[September (releases)|September]] [[2011 (releases)|2011]]\n",
+   "Dark Eyes 2": " [[12 February (releases)|12 February]] [[2014 (releases)|2014]]\n",
+   "The New Adventures of Bernice Summerfield (audio anthology)": " [[13 June (releases)|13 June]] [[2014 (releases)|2014]]\n",
+   "Philip Hinchcliffe Presents (audio anthology)": " [[5 September (releases)|5 September]] [[2014 (releases)|2014]]\n",
+   "Dark Eyes 3": " [[17 November (releases)|17 November]] [[2014 (releases)|2014]]\n",
+   "Dark Eyes 4": " [[2 March (releases)|2 March]] [[2015 (releases)|2015]]\n",
+   "The First Doctor: Volume One": " [[3 June (releases)|3 June]] [[2015 (releases)|2015]]\n"
+  },
+  "publisher": {
+   "_not_set_in": 1,
+   "_set_in": 49,
+   "Doctor Who Unbound": " [[Big Finish Productions]]\n",
+   "Bernice Summerfield (series)": " Big Finish Productions\n",
+   "Excelis Saga": " [[Big Finish Productions]]\n",
+   "Dalek Empire (audio series)": " [[Big Finish Productions]]\n",
+   "Dalek Empire I": " [[Big Finish Productions]]\n",
+   "Dalek Empire II: Dalek War": " [[Big Finish Productions]]\n",
+   "Dalek Empire III": " [[Big Finish Productions]]\n",
+   "Cyberman (audio series)": " [[Big Finish Productions]]\n",
+   "Sarah Jane Smith (audio series)": " [[Big Finish Productions]]\n",
+   "Gallifrey (audio series)": " [[Big Finish Productions]]\n",
+   "UNIT (audio series)": " [[Big Finish Productions]]\n",
+   "I, Davros": " [[Big Finish Productions]]\n",
+   "Dalek Empire IV: The Fearless": " [[Big Finish Productions]]\n",
+   "Kaldor City (audio series)": " [[Magic Bullet Productions]]\n",
+   "Audiobooks of novelisations": " [[AudioGO|BBC Audio]]\n",
+   "Buried Treasures (audio anthology)": " [[Big Finish Productions]]\n",
+   "The Companion Chronicles": " [[Big Finish Productions]]\n",
+   "Adventures in a Pocket Universe (audio series)": " [[BBV Productions]]\n",
+   "The Lost Stories": " [[Big Finish Productions]]\n",
+   "Hornets' Nest": " [[AudioGO]]\n",
+   "Jago & Litefoot": " [[Big Finish Productions]]\n",
+   "Graceless (audio series)": " [[Big Finish Productions]]\n",
+   "Cyberman 2": " [[Big Finish Productions]]\n",
+   "Demon Quest": " [[AudioGO]]\n",
+   "Short Trips - Volume I": " [[Big Finish Productions]]\n",
+   "Short Trips - Volume II": " [[Big Finish Productions]]\n",
+   "Short Trips - Volume III": " [[Big Finish Productions]]\n",
+   "Short Trips - Volume IV": " [[Big Finish Productions]]\n",
+   "Serpent Crest": " [[AudioGO]]\n",
+   "Counter-Measures (audio series)": " [[Big Finish Productions]]\n",
+   "Torchwood: The Lost Files": " [[BBC]]\n",
+   "Dark Eyes (audio anthology)": " [[Big Finish Productions]]\n",
+   "Destiny of the Doctor": " [[Big Finish Productions]], [[AudioGO]]\n",
+   "New Frontiers (audio anthology)": " [[Big Finish Productions]]\n",
+   "Missing Persons (audio anthology)": " [[Big Finish Productions]]\n",
+   "Legion (audio anthology)": " [[Big Finish Productions]]\n",
+   "Road Trip (audio anthology)": " [[Big Finish Productions]]\n",
+   "Epoch (audio anthology)": " [[Big Finish Productions]]\n",
+   "Dark Eyes 2": " [[Big Finish Productions]]\n",
+   "Charlotte Pollard (audio series)": " [[Big Finish Productions]]\n",
+   "The New Adventures of Bernice Summerfield (audio series)": " [[Big Finish Productions]]\n",
+   "The New Adventures of Bernice Summerfield (audio anthology)": " [[Big Finish Productions]]\n",
+   "The Early Adventures": " [[Big Finish Productions]]\n",
+   "Philip Hinchcliffe Presents (audio anthology)": " [[Big Finish Productions]]\n",
+   "Dark Eyes 3": " [[Big Finish Productions]]\n",
+   "1963 (audio series)": " [[Big Finish Productions]]\n",
+   "The Sarah Jane Adventures (audio series)": " [[BBC Audio]]\n",
+   "Dark Eyes 4": " [[Big Finish Productions]]\n",
+   "The First Doctor: Volume One": " [[Big Finish Productions]]\n"
+  },
+  "network": {
+   "_not_set_in": 49,
+   "_set_in": 1,
+   "Dead Ringers": " il[[BBC Radio 4]][[BBC One]][[BBC Two]]\n"
+  },
+  "production codes": {
+   "_not_set_in": 19,
+   "_set_in": 31,
+   "Doctor Who Unbound": " BFPDWUNCD01-BFPDWUNCD08\n",
+   "Dalek Empire (audio series)": " \n",
+   "Dalek Empire I": " BFPCDDE01-BFPCDDE04\n",
+   "Dalek Empire II: Dalek War": " BFPCDDE05-BFPCDDE08\n",
+   "Dalek Empire III": " BFPCDDE09-BFPCDDE14\n",
+   "Cyberman (audio series)": " BFPCYBESCD01-BFPCYBESCD05\n",
+   "Gallifrey (audio series)": " BFPGALLCD01-\n",
+   "Dalek Empire IV: The Fearless": " BFPCDDE15-BFPCDDE18\n",
+   "Buried Treasures (audio anthology)": " BFPBSBOX001\n",
+   "Cyberman 2": " BFPCYBESCD05\n",
+   "Short Trips - Volume I": " \n",
+   "Short Trips - Volume II": " \n",
+   "Short Trips - Volume III": " \n",
+   "Short Trips - Volume IV": " \n",
+   "Counter-Measures (audio series)": " BFPCMBOX001-BFPCMBOX004\n",
+   "Torchwood: The Lost Files": " \n",
+   "Dark Eyes (audio anthology)": " BFPDWCDMG035\n",
+   "Destiny of the Doctor": " BFPDESTCD01-BFPDESTCD11\n",
+   "New Frontiers (audio anthology)": " BFPBSBOX004\n",
+   "Missing Persons (audio anthology)": " BFPBSBOX005\n",
+   "Legion (audio anthology)": " BFPBSBOX003\n",
+   "Road Trip (audio anthology)": " BFPBSBOX002\n",
+   "Epoch (audio anthology)": " BFPBSBOX001\n",
+   "Dark Eyes 2": " BFPDWCDMG036\n",
+   "Charlotte Pollard (audio series)": " \n",
+   "The New Adventures of Bernice Summerfield (audio series)": " \n",
+   "The Early Adventures": " BFPDWEA01-BFPDWEA16\n",
+   "Philip Hinchcliffe Presents (audio anthology)": " BFP9THCCD01\n",
+   "Dark Eyes 3": " BFPDWCDMG037\n",
+   "1963 (audio series)": " BFPDWCD178\u2013BFPDWCD180\n",
+   "Dark Eyes 4": " BFPDWCDMG038\n"
+  },
+  "physical isbn": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "digital isbn": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "runtime": {
+   "_not_set_in": 19,
+   "_set_in": 31,
+   "Doctor Who Unbound": " \n",
+   "Dalek Empire (audio series)": " \n",
+   "Dalek Empire I": " \n",
+   "Dalek Empire II: Dalek War": " \n",
+   "Dalek Empire III": " \n",
+   "Cyberman (audio series)": " \n",
+   "Gallifrey (audio series)": " \n",
+   "Dalek Empire IV: The Fearless": " \n",
+   "Buried Treasures (audio anthology)": " \n",
+   "Cyberman 2": " \n",
+   "Short Trips - Volume I": " \n",
+   "Short Trips - Volume II": " \n",
+   "Short Trips - Volume III": " \n",
+   "Short Trips - Volume IV": " \n",
+   "Counter-Measures (audio series)": " \n",
+   "Torchwood: The Lost Files": " \n",
+   "Dark Eyes (audio anthology)": " \n",
+   "Destiny of the Doctor": " \n",
+   "New Frontiers (audio anthology)": " \n",
+   "Missing Persons (audio anthology)": " \n",
+   "Legion (audio anthology)": " \n",
+   "Road Trip (audio anthology)": " \n",
+   "Epoch (audio anthology)": " \n",
+   "Dark Eyes 2": " \n",
+   "Charlotte Pollard (audio series)": " \n",
+   "The New Adventures of Bernice Summerfield (audio series)": " \n",
+   "The Early Adventures": " \n",
+   "Philip Hinchcliffe Presents (audio anthology)": " \n",
+   "Dark Eyes 3": " \n",
+   "1963 (audio series)": " 2 CDs\n",
+   "Dark Eyes 4": " \n"
+  },
+  "VOR": {
+   "_not_set_in": 42,
+   "_set_in": 8,
+   "Gallifrey (audio series)": " \n",
+   "Buried Treasures (audio anthology)": " \n",
+   "New Frontiers (audio anthology)": " \n",
+   "Missing Persons (audio anthology)": " \n",
+   "Legion (audio anthology)": " \n",
+   "Road Trip (audio anthology)": " \n",
+   "Epoch (audio anthology)": " \n",
+   "The New Adventures of Bernice Summerfield (audio anthology)": " \n"
+  },
+  "VOR2": {
+   "_not_set_in": 49,
+   "_set_in": 1,
+   "Gallifrey (audio series)": " \n"
+  },
+  "VOR3": {
+   "_not_set_in": 49,
+   "_set_in": 1,
+   "Gallifrey (audio series)": " \n"
+  },
+  "VOR4": {
+   "_not_set_in": 49,
+   "_set_in": 1,
+   "Gallifrey (audio series)": " \n"
+  },
+  "VOR5": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "VOR6": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "VOR7": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "VOR8": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "VOR9": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "VOR10": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "VOR11": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "VOR12": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "VOR13": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "VOR14": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "VOR15": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "VOR16": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "VOR17": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "VOR18": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "VOR19": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "VOR20": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "VOR21": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "VOR22": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "VOR23": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "VOR24": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "VOR25": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "BFM": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "BFM2": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "BFM3": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "BFM4": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "BFM5": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "ref book": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "ref book2": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "ref book3": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "ref book4": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "ref book5": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "ref book6": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "doc": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "doc2": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "doc3": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "doc4": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "doc5": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "doc6": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "mythmakers": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "mythmakers2": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "mythmakers3": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "mythmakers4": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "mythmakers5": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "mythmakers6": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "mythmakers7": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "mythmakers8": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "mythmakers9": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "mythmakers10": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "confidential": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "totally": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "thwr": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "thwr2": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "thwr3": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "thwr4": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "thwr5": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "thwr6": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "thwr7": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "thwr8": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "thwr9": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "thwr10": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "trailer": {
+   "_not_set_in": 37,
+   "_set_in": 13,
+   "Gallifrey (audio series)": " GALLIFREY Enemy Lines Trailer\n",
+   "Audiobooks of novelisations": " AudioGo Novelisation Advert\n",
+   "Graceless (audio series)": " Graceless series 4\n",
+   "Demon Quest": " Doctor Who Demon Quest Audio Adventure out September!\n",
+   "Torchwood: The Lost Files": " \n",
+   "Destiny of the Doctor": " \n",
+   "Dark Eyes 2": " Doctor Who Dark Eyes 2 Trailer\n",
+   "Charlotte Pollard (audio series)": " Charlotte Pollard Series Two\n",
+   "The New Adventures of Bernice Summerfield (audio series)": " Doctor Who The New Adventures of Bernice Summerfield - Trailer 003\n",
+   "The New Adventures of Bernice Summerfield (audio anthology)": " Doctor Who The New Adventures of Bernice Summerfield - Trailer 003\n",
+   "The Early Adventures": " Domain Of The Voord\n",
+   "Dark Eyes 3": " The Eighth Doctor in Dark Eyes 3 - Big Finish Audio Adventures - Doctor Who\n",
+   "Dark Eyes 4": " Doctor Who - Dark Eyes 4\n"
+  },
+  "trailer2": {
+   "_not_set_in": 47,
+   "_set_in": 3,
+   "Audiobooks of novelisations": " Listen! Doctor Who Audiobooks Ft. David Tennant, Matt Smith and Many More...\n",
+   "The New Adventures of Bernice Summerfield (audio series)": " TRANSMISSION FROM MARS\n",
+   "The Early Adventures": " Doctor Who The Early Adventures The Doctor's Tale\n"
+  },
+  "trailer3": {
+   "_not_set_in": 48,
+   "_set_in": 2,
+   "The New Adventures of Bernice Summerfield (audio series)": " Doctor Who The New Adventures of Bernice Summerfield - The Unbound Universe\n",
+   "The Early Adventures": " DOCTOR WHO - THE EARLY ADVENTURES THE SONTARANS\n"
+  },
+  "clip": {
+   "_not_set_in": 49,
+   "_set_in": 1,
+   "Dead Ringers": " Tom Baker Doctor Who Eurostar spoof - Dead Ringers - BBC comedy impressions\n"
+  },
+  "clip2": {
+   "_not_set_in": 49,
+   "_set_in": 1,
+   "Dead Ringers": " Christmas Day Doctor Who Style Dead Ringers BBC Comedy Greats\n"
+  },
+  "clip3": {
+   "_not_set_in": 49,
+   "_set_in": 1,
+   "Dead Ringers": " Doctor Who vs The Cybermen spoof - Dead Ringers - BBC comedy\n"
+  },
+  "fullvid": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "bts": {
+   "_not_set_in": 47,
+   "_set_in": 3,
+   "Jago & Litefoot": " Jago and Litefoot at 40\n",
+   "Destiny of the Doctor": " \n",
+   "The Early Adventures": " Doctor Who Early Adventures cast interviews\n"
+  },
+  "bts2": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "bts3": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "ex interview": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "soundcloudtrailer": {
+   "_not_set_in": 15,
+   "_set_in": 35,
+   "Doctor Who Unbound": " \n",
+   "Dalek Empire (audio series)": " \n",
+   "Dalek Empire I": " \n",
+   "Dalek Empire II: Dalek War": " \n",
+   "Dalek Empire III": " \n",
+   "Cyberman (audio series)": " https://soundcloud.com/big-finish/cyberman-the-complete-series-1-2-trailer\n",
+   "Gallifrey (audio series)": " https://soundcloud.com/big-finish/gallifrey-series-1-weapon-of-choice-trailer?in=big-finish/sets/gallifrey\n",
+   "Dalek Empire IV: The Fearless": " \n",
+   "Buried Treasures (audio anthology)": " https://soundcloud.com/big-finish/bernice-summerfield-epoch\n",
+   "The Companion Chronicles": " https://soundcloud.com/big-finish/doctor-who-the-companion-chronicles-the-beginning-trailer\n",
+   "The Lost Stories": " https://soundcloud.com/big-finish/doctor-who-the-lost-stories-the-first-sontarans-trailer\n",
+   "Graceless (audio series)": " https://soundcloud.com/foolcircle/gracetrailer\n",
+   "Cyberman 2": " https://soundcloud.com/foolcircle/cyber2-trailer-1\n",
+   "Short Trips - Volume I": " \n",
+   "Short Trips - Volume II": " \n",
+   "Short Trips - Volume III": " \n",
+   "Short Trips - Volume IV": " \n",
+   "Counter-Measures (audio series)": " https://soundcloud.com/big-finish/counter-measures-series-4-trailer\n",
+   "Torchwood: The Lost Files": " \n",
+   "Dark Eyes (audio anthology)": " https://soundcloud.com/john-banks/dr-who-dark-eyes\n",
+   "Destiny of the Doctor": " \n",
+   "New Frontiers (audio anthology)": " \n",
+   "Missing Persons (audio anthology)": " https://soundcloud.com/big-finish/bernice-summerfield-missing-persons-trailer\n",
+   "Legion (audio anthology)": " \n",
+   "Road Trip (audio anthology)": " https://soundcloud.com/big-finish/bernice-summerfield-road-trip-box-set-trailer\n",
+   "Epoch (audio anthology)": " https://soundcloud.com/big-finish/bernice-summerfield-epoch\n",
+   "Dark Eyes 2": " https://soundcloud.com/big-finish/doctor-who-dark-eyes-2-teaser\n",
+   "Charlotte Pollard (audio series)": " \n",
+   "The New Adventures of Bernice Summerfield (audio series)": " \n",
+   "The New Adventures of Bernice Summerfield (audio anthology)": " https://soundcloud.com/big-finish/the-new-adventures-of-bernice-summerfield-trailer\n",
+   "The Early Adventures": " \n",
+   "Philip Hinchcliffe Presents (audio anthology)": " https://soundcloud.com/big-finish/philip-hinchcliffe-presents-doctor-who-box-set\n",
+   "Dark Eyes 3": " \n",
+   "Dark Eyes 4": " \n",
+   "The First Doctor: Volume One": " https://soundcloud.com/big-finish/doctor-who-the-companion-chronicles-the-first-doctor-boxed-set-trailer\n"
+  },
+  "soundcloudtrailer2": {
+   "_not_set_in": 47,
+   "_set_in": 3,
+   "Gallifrey (audio series)": " https://soundcloud.com/big-finish/gallifrey-the-time-war-trailer\n",
+   "The Companion Chronicles": " https://soundcloud.com/big-finish/doctor-who-the-companion-chronicles-the-prisoner-of-peladon\n",
+   "The Lost Stories": " https://soundcloud.com/big-finish/doctor-who-the-lost-stories-the-fourth-doctor-box-set-trailer\n"
+  },
+  "musicsuite": {
+   "_not_set_in": 47,
+   "_set_in": 3,
+   "I, Davros": " https://soundcloud.com/stevefoxon/01-i-davros-music-suite-2006\n",
+   "Missing Persons (audio anthology)": " https://soundcloud.com/stevefoxon/bs-missing_persons_01\n",
+   "The New Adventures of Bernice Summerfield (audio anthology)": " https://soundcloud.com/stevefoxon/new-adventures-of-bernice-summerfield-vol-01-music-suite-01-2014\n"
+  },
+  "musictheme": {
+   "_not_set_in": 38,
+   "_set_in": 12,
+   "Bernice Summerfield (series)": " https://soundcloud.com/stevefoxon/bs-theme02\n",
+   "Cyberman (audio series)": " https://soundcloud.com/foolcircle/cyber2-theme\n",
+   "Sarah Jane Smith (audio series)": " https://soundcloud.com/stevefoxon/02-sarah-jane-smith-season-2\n",
+   "Gallifrey (audio series)": " \n",
+   "Buried Treasures (audio anthology)": " \n",
+   "Jago & Litefoot": " https://soundcloud.com/big-finish/jago-litefoot-series-10-theme\n",
+   "Graceless (audio series)": " https://soundcloud.com/jamierobertson/graceless-main-theme\n",
+   "New Frontiers (audio anthology)": " \n",
+   "Missing Persons (audio anthology)": " \n",
+   "Legion (audio anthology)": " \n",
+   "Road Trip (audio anthology)": " \n",
+   "Epoch (audio anthology)": " \n"
+  },
+  "sample": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "soundcloudbts": {
+   "_not_set_in": 48,
+   "_set_in": 2,
+   "Dalek Empire III": " https://soundcloud.com/big-finish/dalek-empire-3-behind-the-scenes\n",
+   "Philip Hinchcliffe Presents (audio anthology)": " https://soundcloud.com/big-finish/podcast-september-2014-doctor-who-philip-hinchcliffe-presents-special-podcast\n"
+  },
+  "audio commentary": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "fullaud": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "prev": {
+   "_not_set_in": 31,
+   "_set_in": 19,
+   "Bernice Summerfield (series)": " Virgin Bernice Summerfield New Adventures\n",
+   "Dalek Empire II: Dalek War": " Dalek Empire 1\n",
+   "Dalek Empire III": " Dalek Empire 2\n",
+   "Dalek Empire IV: The Fearless": " Dalek Empire 3\n",
+   "Buried Treasures (audio anthology)": " Just War (audio story)\n",
+   "Cyberman 2": " Series 1 (CYBE)\n",
+   "Demon Quest": " Hornets' Nest\n",
+   "Short Trips - Volume II": " Short Trips - Volume I\n",
+   "Short Trips - Volume III": " Short Trips - Volume II\n",
+   "Short Trips - Volume IV": " Short Trips - Volume III\n",
+   "Serpent Crest": " Demon Quest\n",
+   "New Frontiers (audio anthology)": " Legion (audio anthology)\n",
+   "Missing Persons (audio anthology)": " New Frontiers (audio anthology)\n",
+   "Legion (audio anthology)": " Road Trip (audio anthology)\n",
+   "Road Trip (audio anthology)": " Epoch (audio anthology)\n",
+   "Dark Eyes 2": " Dark Eyes 1\n",
+   "The New Adventures of Bernice Summerfield (audio series)": " Bernice Summerfield (series)\n",
+   "Dark Eyes 3": " Dark Eyes 2\n",
+   "Dark Eyes 4": " Dark Eyes 3\n"
+  },
+  "next": {
+   "_not_set_in": 26,
+   "_set_in": 24,
+   "Bernice Summerfield (series)": " The New Adventures of Bernice Summerfield (audio series)\n",
+   "Dalek Empire I": " Dalek Empire 2\n",
+   "Dalek Empire II: Dalek War": " Dalek Empire 3\n",
+   "Dalek Empire III": " Dalek Empire 4\n",
+   "UNIT (audio series)": " UNIT: The New Series\n",
+   "Buried Treasures (audio anthology)": " Dragons' Wrath (audio story)\n",
+   "Hornets' Nest": " Demon Quest\n",
+   "Demon Quest": " Serpent Crest\n",
+   "Short Trips - Volume I": " Short Trips - Volume II\n",
+   "Short Trips - Volume II": " Short Trips - Volume III\n",
+   "Short Trips - Volume III": " Short Trips - Volume IV\n",
+   "Short Trips - Volume IV": " Series 5 (ST)\n",
+   "Counter-Measures (audio series)": " The New Counter-Measures (audio series)\n",
+   "Dark Eyes (audio anthology)": " Dark Eyes 2\n",
+   "New Frontiers (audio anthology)": " Missing Persons (audio anthology)\n",
+   "Missing Persons (audio anthology)": " The New Adventures of Bernice Summerfield (audio anthology)\n",
+   "Legion (audio anthology)": " New Frontiers (audio anthology)\n",
+   "Road Trip (audio anthology)": " Legion (audio anthology)\n",
+   "Epoch (audio anthology)": " Road Trip (audio anthology)\n",
+   "Dark Eyes 2": " Dark Eyes 3\n",
+   "The New Adventures of Bernice Summerfield (audio anthology)": " The Triumph of Sutekh (audio anthology)\n",
+   "Philip Hinchcliffe Presents (audio anthology)": " The Genesis Chamber (audio story)\n",
+   "Dark Eyes 3": " Dark Eyes 4\n",
+   "The First Doctor: Volume One": " The First Doctor: Volume Two\n"
+  },
+  "prev2": {
+   "_not_set_in": 45,
+   "_set_in": 5,
+   "Dark Eyes (audio anthology)": " Series 4 (8DA)\n",
+   "Epoch (audio anthology)": " Series 11 (BFBS)\n",
+   "The New Adventures of Bernice Summerfield (audio anthology)": " Missing Persons (audio anthology)\n",
+   "Dark Eyes 4": " Dark Eyes 3\n",
+   "The First Doctor: Volume One": " Second Chances (audio story)\n"
+  },
+  "next2": {
+   "_not_set_in": 45,
+   "_set_in": 5,
+   "Dark Eyes (audio anthology)": " Dark Eyes 2\n",
+   "Epoch (audio anthology)": " Road Trip (audio anthology)\n",
+   "The New Adventures of Bernice Summerfield (audio anthology)": " The Worlds of Big Finish (audio anthology)\n",
+   "Dark Eyes 4": " Doom Coalition 1\n",
+   "The First Doctor: Volume One": " The Second Doctor: Volume One\n"
+  },
+  "prev3": {
+   "_not_set_in": 49,
+   "_set_in": 1,
+   "The First Doctor: Volume One": " Series 8 (CC)\n"
+  },
+  "next3": {
+   "_not_set_in": 49,
+   "_set_in": 1,
+   "The First Doctor: Volume One": " The Second Doctor: Volume One\n"
+  }
+ }
+}

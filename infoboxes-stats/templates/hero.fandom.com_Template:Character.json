@@ -1,0 +1,22 @@
+{
+ "wiki": "hero.fandom.com",
+ "infobox": "Template:Character",
+ "parameters": {
+  "image2": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "caption2": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "species:": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "gender:": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  }
+ }
+}

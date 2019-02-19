@@ -1,0 +1,58 @@
+{
+ "wiki": "hero.fandom.com",
+ "infobox": "Template:Portable Infobox",
+ "parameters": {
+  "Box title": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "image": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "caption": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "Row 1 info": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "Row 2 info": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "Row 3 info": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "Row 4 info": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "Row 5 info": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "Row 6 info": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "Row 7 info": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "Row 8 info": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "Row 9 info": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "Row 10 info": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  }
+ }
+}

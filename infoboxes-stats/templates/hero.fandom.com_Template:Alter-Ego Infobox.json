@@ -1,0 +1,56 @@
+{
+ "wiki": "hero.fandom.com",
+ "infobox": "Template:Alter-Ego Infobox",
+ "parameters": {
+  "Box title": {
+   "_not_set_in": 1,
+   "_set_in": 0
+  },
+  "image": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Ghostfreak": "Ghostfreak.jpg\n"
+  },
+  "fullname": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Ghostfreak": "Ghostfreak\n"
+  },
+  "alias": {
+   "_not_set_in": 1,
+   "_set_in": 0
+  },
+  "origin": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Ghostfreak": "''Ben 10''\n"
+  },
+  "occupation": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Ghostfreak": "Omnitrix Alien\n"
+  },
+  "skills": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Ghostfreak": "Intangibility<br>\nInvisibility<br>\nFlight<br>\nPossession<br>\nTentacles\n"
+  },
+  "hobby": {
+   "_not_set_in": 1,
+   "_set_in": 0
+  },
+  "goals": {
+   "_not_set_in": 1,
+   "_set_in": 0
+  },
+  "heroic achievements": {
+   "_not_set_in": 1,
+   "_set_in": 0
+  },
+  "type of alter-ego": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Ghostfreak": "Ghost\n"
+  }
+ }
+}

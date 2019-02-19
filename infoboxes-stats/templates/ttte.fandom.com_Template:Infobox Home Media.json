@@ -1,0 +1,144 @@
+{
+ "wiki": "ttte.fandom.com",
+ "infobox": "Template:Infobox Home Media",
+ "parameters": {
+  "title1": {
+   "_not_set_in": 0,
+   "_set_in": 8,
+   "Calling All Engines!": "Calling All Engines!\n",
+   "Thomas and the Magic Railroad": "Thomas and the Magic Railroad\n",
+   "Christmas on Sodor": " Christmas on Sodor\n",
+   "Thomas' Holiday Collection": "Thomas' Holiday Collection\n",
+   "Danger at the Docks": "Danger at the Docks\n",
+   "On the Go with Thomas": " On the Go with Thomas\n",
+   "Here Comes the Steam Team!": " Here Comes the Steam Team!\n",
+   "Monkey Trouble!": " Monkey Trouble!\n"
+  },
+  "image1": {
+   "_not_set_in": 0,
+   "_set_in": 8,
+   "Calling All Engines!": "File:CallingAllEnginesUSDVD.png\n",
+   "Thomas and the Magic Railroad": "File:ThomasandtheMagicRailroadPoster.png\n",
+   "Christmas on Sodor": " ChristmasOnSodorDVD.jpg\n",
+   "Thomas' Holiday Collection": "Thomas'HolidayCollectionFrontCover.jpg\n",
+   "Danger at the Docks": "File:DangerattheDocks(UKDVD).png\n",
+   "On the Go with Thomas": " OntheGoWithThomas.png\n",
+   "Here Comes the Steam Team!": " File:HereComestheSteamTeamFrontCover.jpg\n",
+   "Monkey Trouble!": " [[File:MonkeyTrouble!.png|250px]]\n"
+  },
+  "caption1": {
+   "_not_set_in": 8,
+   "_set_in": 0
+  },
+  "writer": {
+   "_not_set_in": 6,
+   "_set_in": 2,
+   "Calling All Engines!": "\n*[[Paul Larson]]\n*[[Marc Seal]] Noteadditional material\n",
+   "Thomas and the Magic Railroad": "[[Britt Allcroft]]\n"
+  },
+  "director": {
+   "_not_set_in": 0,
+   "_set_in": 8,
+   "Calling All Engines!": "[[Steve Asquith]]\n",
+   "Thomas and the Magic Railroad": "Britt Allcroft\n",
+   "Christmas on Sodor": " [[Dianna Basso]]\n",
+   "Thomas' Holiday Collection": "[[David Mitton]]<br/>[[Steve Asquith]]<br/>[[Greg Tiernan]]\n",
+   "Danger at the Docks": "[[Dianna Basso]]<br/>[[Don Spencer]] <small>(''co-director; Den and Dart'')</small>\n",
+   "On the Go with Thomas": " [[Dianna Basso]]\n",
+   "Here Comes the Steam Team!": " [[Dianna Basso]]\n",
+   "Monkey Trouble!": " [[Dianna Basso]]\n"
+  },
+  "producer": {
+   "_not_set_in": 0,
+   "_set_in": 8,
+   "Calling All Engines!": "[[Simon Spencer]]\n",
+   "Thomas and the Magic Railroad": "\n* Britt Allcroft\n* [[Phil Fehrle]]\n* [[Mark Jacobson]]\n",
+   "Christmas on Sodor": " * [[Micaela Winter]] <small>(''[[Mattel Creations]]'')</small>\n* [[Ian McCue]] <small>(''[[HiT Entertainment]]'')</small>\n* [[Tracy Blagdon]] <small>(''[[Jam Filled Toronto]]'')</small>\n",
+   "Thomas' Holiday Collection": "[[Britt Allcroft]]<br/>[[David Mitton]]<br/>[[Robert D. Cardona]]<br/>[[Phil Fehrle]]<br/>[[Simon Spencer]]<br/>[[Nicole Stinn]]\n",
+   "Danger at the Docks": "\n* [[Micaela Winter]] <small>(''[[Mattel Creations]]'')</small>\n* [[Tracy Blagdon]] <small>(''[[Jam Filled Toronto]]'')</small>\n* [[Jennifer Hill]] <small>(''[[Arc Productions]]'')</small>\n",
+   "On the Go with Thomas": " * [[Micaela Winter]] Note[[Mattel Creations]]\n* [[Tracy Blagdon]] Note[[Jam Filled Toronto]]\n",
+   "Here Comes the Steam Team!": " * [[Micaela Winter]] Note[[Mattel Creations]] \n* [[Tracy Blagdon]] Note[[Jam Filled Toronto]]\n",
+   "Monkey Trouble!": " * [[Micaela Winter]] Note[[Mattel Creations]] \n* [[Tracy Blagdon]] Note[[Jam Filled Toronto]]\n"
+  },
+  "composer": {
+   "_not_set_in": 0,
+   "_set_in": 8,
+   "Calling All Engines!": "[[Robert Hartshorne]] & [[Ed Welch]]\n",
+   "Thomas and the Magic Railroad": "[[Hummie Mann]]\n",
+   "Christmas on Sodor": " [[Chris Renshaw]]\n",
+   "Thomas' Holiday Collection": "[[Mike O'Donnell]]<br/>[[Junior Campbell]]<br/>[[Robert Hartshorne]]\n",
+   "Danger at the Docks": "* [[Chris Renshaw]]\n* [[Robert Hartshorne]]\n",
+   "On the Go with Thomas": " [[Chris Renshaw]]\n",
+   "Here Comes the Steam Team!": " [[Chris Renshaw]]\n",
+   "Monkey Trouble!": " [[Chris Renshaw]]\n"
+  },
+  "narrator": {
+   "_not_set_in": 2,
+   "_set_in": 6,
+   "Calling All Engines!": "\n*[[Michael Angelis]] NoteUK\n*[[Michael Brandon]] NoteUS\n",
+   "Thomas and the Magic Railroad": "[[Alec Baldwin]]\n",
+   "Christmas on Sodor": " [[Mark Moraghan]]\n",
+   "Thomas' Holiday Collection": "[[George Carlin]]<br/>[[Alec Baldwin]]<br/>[[Michael Brandon]]\n",
+   "Danger at the Docks": "[[Mark Moraghan]]\n",
+   "On the Go with Thomas": " [[Mark Moraghan]]\n"
+  },
+  "distributor": {
+   "_not_set_in": 0,
+   "_set_in": 8,
+   "Calling All Engines!": "\n*[[HiT Entertainment]]\n*[[Twentieth Century Fox]] NoteUS, 2005\n*[[Lionsgate]]\n*[[Universal]] NoteUS, 2014\n*[[2Entertain]] NoteUK\n*[[UHE]] NoteTHA\n*[[Moefie Klub!]] NoteNLD\n*[[Europa Mini]] NoteGER\n*[[Sony Creative Products Inc.]] NoteJPN\n*[[Dynit Kids]] NoteITA\n*[[ABC for Kids]] NoteAUS\n*[[HVN]] NoteMYS\n*[[Barnas Favoritter]] NoteNOR, SWE, DEN & FIN\n",
+   "Thomas and the Magic Railroad": "\n* [[Icon Productions]] NoteUK\n* [[Destination Films]] NoteUS\n* [[ABC Films]] NoteAUS\n",
+   "Christmas on Sodor": " * [[HiT Entertainment]]\n* [[Mattel Creations]] <small>(''UK/US'')</small>\n* [[Universal]] <small>(''US'')</small>\n* [[ABC for Kids]] <small>(''AUS'')</small>\n",
+   "Thomas' Holiday Collection": "\n* [[HiT Entertainment]]\n* [[Mattel Creations]] <small>\n* [[Universal]] <small>\n",
+   "Danger at the Docks": "\n* [[HiT Entertainment]]\n* [[Mattel Creations]]\n",
+   "On the Go with Thomas": " * [[HiT Entertainment]]\n* [[Mattel Creations]]\n",
+   "Here Comes the Steam Team!": " * [[Mattel Creations]] NoteUK\n* [[ABC for Kids]] NoteAUS\n",
+   "Monkey Trouble!": " * [[Mattel Creations]] NoteUK\n"
+  },
+  "runtime": {
+   "_not_set_in": 0,
+   "_set_in": 8,
+   "Calling All Engines!": "60 mins\n",
+   "Thomas and the Magic Railroad": "\n* 85 mins Noteedited\n* 110 mins Noteuncut\n",
+   "Christmas on Sodor": " * 71 mins (''US'')\n* 88 mins (''UK'')\n",
+   "Thomas' Holiday Collection": "\n",
+   "Danger at the Docks": "77 mins\n",
+   "On the Go with Thomas": " 88 mins<br/>77 mins (''Main feature'')\n",
+   "Here Comes the Steam Team!": " 107 minutes\n",
+   "Monkey Trouble!": " 113 minutes\n"
+  },
+  "released": {
+   "_not_set_in": 0,
+   "_set_in": 8,
+   "Calling All Engines!": "\n*6 September 2005 NoteUS\n*3 October 2005 NoteUK\n*2 November 2005 NoteAUS\n*8 September 2006 NoteGER; DVD\n*26 November 2006 NoteHUN\n*7 May 2007 NoteGER; TV\n*24 June 2007 NoteROM; Minimax\n*14 September 2007 NoteDEN\n*24 October 2007 NoteNOR\n*7 November 2007 NoteFIN\n*14 November 2007 NoteSWE\n*5 November 2008 NoteJPN; DVD\n*14 August 2009 NoteJPN; TV\n*26 September 2009 NoteROM; JimJam\n*23 November 2011 NoteITA\n*13 May 2012 NoteTHA\n*14 September 2014 NoteJPN; Theatrical\n",
+   "Thomas and the Magic Railroad": "\n* 14th July 2000 NoteUK/IRE\n* 26th July 2000 NoteUS; theatrical\n* 9th September 2000 NoteJPN\n* 26th October 2000 NoteGER\n* 14th December 2000 NoteAUS\n* 7th April 2001 NoteNZ\n",
+   "Christmas on Sodor": " * 3rd October 2017 NoteUS; Digital HD\n* 17th October 2017 NoteUS; DVD\n* 2nd November 2017 NoteWalmart; US'\n* 13th November 2017 NoteUK\n* 31st October 2018 NoteAUS\n",
+   "Thomas' Holiday Collection": "\n* 21st November 2017 <small>(''Walmart'')\n",
+   "Danger at the Docks": "\n* 8th January 2018 <small>(''UK'')</small>\n",
+   "On the Go with Thomas": " 19th March 2018 NoteUK\n",
+   "Here Comes the Steam Team!": " * 24 September 2018 NoteUK\n* 27 March 2019 NoteAUS\n",
+   "Monkey Trouble!": " 8 April 2019\n"
+  },
+  "previous": {
+   "_not_set_in": 1,
+   "_set_in": 7,
+   "Calling All Engines!": "[[Thomas and the Magic Railroad]]\n",
+   "Christmas on Sodor": " [[Extraordinary Engines]] <small>(US)</small><br/>[[Team Up With Thomas (UK DVD)|Team Up With Thomas]] <small>(UK/AUS)</small>\n",
+   "Thomas' Holiday Collection": "\n",
+   "Danger at the Docks": "[[Christmas on Sodor]]\n",
+   "On the Go with Thomas": " [[Danger at the Docks]]\n",
+   "Here Comes the Steam Team!": " [[On the Go with Thomas]]\n",
+   "Monkey Trouble!": " [[Here Comes the Steam Team!]]\n"
+  },
+  "next": {
+   "_not_set_in": 1,
+   "_set_in": 7,
+   "Calling All Engines!": "[[The Great Discovery]]",
+   "Thomas and the Magic Railroad": "[[Calling All Engines!]]\n",
+   "Christmas on Sodor": " [[Danger at the Docks]] NoteUK<br/>[[Here Comes the Steam Team]] NoteAUS\n",
+   "Thomas' Holiday Collection": "\n",
+   "Danger at the Docks": "[[On the Go with Thomas]]\n",
+   "On the Go with Thomas": " [[Here Comes the Steam Team!]]\n",
+   "Here Comes the Steam Team!": " [[Monkey Trouble!]]\n"
+  }
+ }
+}

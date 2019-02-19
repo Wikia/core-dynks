@@ -1,0 +1,78 @@
+{
+ "wiki": "hero.fandom.com",
+ "infobox": "Template:Organization",
+ "parameters": {
+  "Box title": {
+   "_not_set_in": 3,
+   "_set_in": 0
+  },
+  "image": {
+   "_not_set_in": 0,
+   "_set_in": 3,
+   "Gryffindor": "G final.jpg\n",
+   "Athena's Soldiers": " SoldiersSS2.png\n",
+   "ACME": " [[File:Acme.jpg|thumb]]"
+  },
+  "fullname": {
+   "_not_set_in": 1,
+   "_set_in": 2,
+   "Gryffindor": " Gryffindor\n",
+   "Athena's Soldiers": " Various\n"
+  },
+  "alias": {
+   "_not_set_in": 1,
+   "_set_in": 2,
+   "Gryffindor": " Gryffindor House<br>\nThe House of Gryffindor\n",
+   "Athena's Soldiers": " \n"
+  },
+  "origin": {
+   "_not_set_in": 0,
+   "_set_in": 3,
+   "Gryffindor": " ''Harry Potter and the Sorcerer's Stone''\n",
+   "Athena's Soldiers": " ''Saint Seiya''\n",
+   "ACME": " ''Looney Toons''"
+  },
+  "foundation": {
+   "_not_set_in": 1,
+   "_set_in": 2,
+   "Gryffindor": " Godric Gryffindor\n",
+   "ACME": " Unknown"
+  },
+  "headquarters": {
+   "_not_set_in": 1,
+   "_set_in": 2,
+   "Gryffindor": " Gryffindor Tower\n",
+   "ACME": " ACME laboratories"
+  },
+  "commanders": {
+   "_not_set_in": 1,
+   "_set_in": 2,
+   "Gryffindor": " Albus Dumbledore<br>\nMinerva McGonagall\n",
+   "ACME": " Mr.Chairman"
+  },
+  "agents": {
+   "_not_set_in": 1,
+   "_set_in": 2,
+   "Gryffindor": " *Harry Potter\n*Ginevra Weasley\n*Ron Weasley\n*Hermione Granger\n*Neville Longbottom\n*Dean Thomas\n*Seamus Finnigan\n*Lavender Brown\n*Cormac McLaggen\n*Parvati Patil\n*Albus Dumbledore\n*Minerva McGonagall\n*James Potter\n*Lily J. Potter\n*Sirius Black\n*Peter Pettigrew\n*Remus Lupin\n*Rubeus Hagrid\n*Colin Creevey\n*Dennis Creevey\n*Alicia Spinnet\n*Angelina Johnson\n*Katie Bell\n*Oliver Wood\n*Lee Jordan\n*Demelza Robins\n*Romilda Vane\n*Nicholas de Mimsy-Porpington\n",
+   "ACME": " N/A"
+  },
+  "skills": {
+   "_not_set_in": 1,
+   "_set_in": 2,
+   "Gryffindor": " Bravery<br>\nNerve\n<br>\nChivalry\n<br>\nCourage\n<br>\nDaring\n<br>\nKnowledge and access to magics and sorceries\n",
+   "ACME": " Unlimited resources allowing them to sell anything, such as weapons or explosives\n\nIncredibly efficient delivery system "
+  },
+  "goals": {
+   "_not_set_in": 1,
+   "_set_in": 2,
+   "Gryffindor": " Teach and produce only the bravest prodigies of sorcery.",
+   "Athena's Soldiers": " Protect the Sanctuary and attack with his master saint.\n"
+  },
+  "type of hero": {
+   "_not_set_in": 1,
+   "_set_in": 2,
+   "Athena's Soldiers": " Soldiers",
+   "ACME": " Organization"
+  }
+ }
+}

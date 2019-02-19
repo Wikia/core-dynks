@@ -1,0 +1,486 @@
+{
+ "wiki": "tardis.fandom.com",
+ "infobox": "Template:Infobox Magazine",
+ "parameters": {
+  "name2": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "image": {
+   "_not_set_in": 0,
+   "_set_in": 49,
+   "DWM 1": "DWM 001.jpg\n",
+   "DWM 2": "DWM 002.jpg\n",
+   "DWM 3": "DWM 003.jpg\n",
+   "DWM 4": "DWM 004.jpg\n",
+   "DWM 5": "DWM 005.jpg\n",
+   "DWM 6": "DWM 006.jpg\n",
+   "DWM 7": "DWM 007.jpg\n",
+   "DWM 8": "DWM 008.jpg\n",
+   "DWM 9": "DWM 009.jpg\n",
+   "DWM 10": "DWM 010.jpg\n",
+   "DWM 11": "DWM 011.jpg\n",
+   "DWM 12": "DWM 012.jpg\n",
+   "DWM 13": "DWM 013.jpg\n",
+   "DWM 14": "DWM 014.jpg\n",
+   "DWM 15": "DWM 015.jpg\n",
+   "DWM 16": "DWM 016.jpg\n",
+   "DWM 17": "DWM 017.jpg\n",
+   "DWM 18": "DWM 018.jpg\n",
+   "DWM 19": "DWM 019.jpg\n",
+   "DWM 20": "DWM 020.jpg\n",
+   "DWM 21": "DWM 021.jpg\n",
+   "DWM 22": "DWM 022.jpg\n",
+   "DWM 23": "DWM 023.jpg\n",
+   "DWM 24": "DWM 024.jpg\n",
+   "DWM 25": "DWM 025.jpg\n",
+   "DWM 26": "DWM 026.jpg\n",
+   "DWM 27": "DWM 027.jpg\n",
+   "DWM 28": "DWM 028.jpg\n",
+   "DWM 29": "DWM 029.jpg\n",
+   "DWM 30": "DWM 030.jpg\n",
+   "DWM 31": "DWM 031.jpg\n",
+   "DWM 32": "DWM 032.jpg\n",
+   "DWM 33": "DWM 033.jpg\n",
+   "DWM 34": "DWM 034.jpg\n",
+   "DWM 35": "DWM 035.jpg\n",
+   "DWM 36": "DWM 036.jpg\n",
+   "DWM 37": "DWM 037.jpg\n",
+   "DWM 38": "DWM 038.jpg\n",
+   "DWM 39": "DWM 039.jpg\n",
+   "DWM 40": "DWM 040.jpg\n",
+   "DWM 41": "DWM 041.jpg\n",
+   "DWM 42": "DWM 042.jpg\n",
+   "DWM 43": "DWM 043.jpg\n",
+   "DWM 329": " DWM issue329.jpg\n",
+   "DWM 333": " DWM issue333.jpg\n",
+   "DWM 325": " DWM issue325.jpg\n",
+   "DWCC 1": "DW CC 01.jpg\n",
+   "DWCC 2": "DW CC 02.jpg\n",
+   "DWCC 3": "DW CC 03.jpg\n"
+  },
+  "caption": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "image2": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "caption2": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "issue count": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "issue cat": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "issue cat2": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "story count": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "uk price": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "us price": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "other price": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "cover date": {
+   "_not_set_in": 0,
+   "_set_in": 49,
+   "DWM 1": " [[17 October (releases)|17 October]] [[1979 (releases)|1979]]\n",
+   "DWM 2": " [[24 October (releases)|24 October]] [[1979 (releases)|1979]]\n",
+   "DWM 3": " [[31 October (releases)|31 October]] [[1979 (releases)|1979]]\n",
+   "DWM 4": " [[7 November (releases)|7 November]] [[1979 (releases)|1979]]\n",
+   "DWM 5": " [[14 November (releases)|14 November]] [[1979 (releases)|1979]]\n",
+   "DWM 6": " [[21 November (releases)|21 November]] [[1979 (releases)|1979]]\n",
+   "DWM 7": " [[28 November (releases)|28 November]] [[1979 (releases)|1979]]\n",
+   "DWM 8": " [[5 December (releases)|5 December]] [[1979 (releases)|1979]]\n",
+   "DWM 9": " [[12 December (releases)|12 December]] [[1979 (releases)|1979]]\n",
+   "DWM 10": " [[19 December (releases)|19 December]] [[1979 (releases)|1979]]\n",
+   "DWM 11": " [[26 December (releases)|26 December]] [[1979 (releases)|1979]]\n",
+   "DWM 12": " [[2 January (releases)|2 January]] [[1980 (releases)|1980]]\n",
+   "DWM 13": " [[9 January (releases)|9 January]] [[1980 (releases)|1980]]\n",
+   "DWM 14": " [[16 January (releases)|16 January]] [[1980 (releases)|1980]]\n",
+   "DWM 15": " [[23 January (releases)|23 January]] [[1980 (releases)|1980]]\n",
+   "DWM 16": "[[30 January (releases)|30 January]] [[1980 (releases)|1980]]\n",
+   "DWM 17": " [[6 February (releases)|6 February]], [[1980 (releases)|1980]]\n",
+   "DWM 18": " [[13 February (releases)|13 February]], [[1980 (releases)|1980]]\n",
+   "DWM 19": " [[20 February (releases)|20 February]], [[1980 (releases)|1980]]\n",
+   "DWM 20": " [[27 February (releases)|27 February]], [[1980 (releases)|1980]]\n",
+   "DWM 21": " [[5 March (releases)|5 March]], [[1980 (releases)|1980]]\n",
+   "DWM 22": " [[12 March (releases)|12 March]], [[1980 (releases)|1980]]\n",
+   "DWM 23": " [[19 March (releases)|19 March]], [[1980 (releases)|1980]]\n",
+   "DWM 24": " [[26 March (releases)|26 March]], [[1980 (releases)|1980]]\n",
+   "DWM 25": " [[2 April (releases)|2 April]],  [[1980 (releases)|1980]]\n",
+   "DWM 26": " [[9 April (releases)|9 April]], [[1980 (releases)|1980]]\n",
+   "DWM 27": " [[16 April (releases)|16 April]], [[1980 (releases)|1980]]\n",
+   "DWM 28": " [[23 April (releases)|23 April]] [[1980 (releases)|1980]]\n",
+   "DWM 29": " [[30 April (releases)|30 April]] [[1980 (releases)|1980]]\n",
+   "DWM 30": " [[7 May (releases)|7 May]] [[1980 (releases)|1980]]\n",
+   "DWM 31": " [[14 May (releases)|14 May]] [[1980 (releases)|1980]]\n",
+   "DWM 32": " [[21 May (releases)|21 May]] [[1980 (releases)|1980]]\n",
+   "DWM 33": " [[28 May (releases)|28 May]] [[1980 (releases)|1980]]\n",
+   "DWM 34": " [[5 June (releases)|5 June]] [[1980 (releases)|1980]]\n",
+   "DWM 35": " [[12 June (releases)|12 June]] [[1980 (releases)|1980]]\n",
+   "DWM 36": " [[19 June (releases)|19 June]] [[1980 (releases)|1980]]\n",
+   "DWM 37": " [[26 June (releases)|26 June]] [[1980 (releases)|1980]]\n",
+   "DWM 38": " [[3 July (releases)|3 July]] [[1980 (releases)|1980]]\n",
+   "DWM 39": " [[10 July (releases)|10 July]] [[1980 (releases)|1980]]\n",
+   "DWM 40": " [[17 July (releases)|17 July]] [[1980 (releases)|1980]]\n",
+   "DWM 41": " [[23 July (releases)|23 July]] [[1980 (releases)|1980]]\n",
+   "DWM 42": " [[31 July (releases)|31 July]] [[1980 (releases)|1980]]\n",
+   "DWM 43": " [[7 August (releases)|7 August]] [[1980 (releases)|1980]]\n",
+   "DWM 329": " [[30 April (releases)|30 April]] [[2003 (releases)|2003]]\n",
+   "DWM 333": " [[20 August (releases)|20 August]] [[2003 (releases)|2003]]\n",
+   "DWM 325": " [[8 January (releases)|8 January]] [[2003 (releases)|2003]]\n",
+   "DWCC 1": " [[9 December (releases)|9 December]] [[1992 (releases)|1992]]\n",
+   "DWCC 2": " [[6 January (releases)|6 January]] [[1993 (releases)|1993]]\n",
+   "DWCC 3": " [[3 February (releases)|3 February]] [[1993 (releases)|1993]]\n"
+  },
+  "release date": {
+   "_not_set_in": 6,
+   "_set_in": 43,
+   "DWM 1": " [[11 October (releases)|11 October]] [[1979 (releases)|1979]]\n",
+   "DWM 2": " [[18 October (releases)|18 October]] [[1979 (releases)|1979]]\n",
+   "DWM 3": " [[25 October (releases)|25 October]] [[1979 (releases)|1979]]\n",
+   "DWM 4": " [[1 November (releases)|1 November]] [[1979 (releases)|1979]]\n",
+   "DWM 5": " [[8 November (releases)|8 November]] [[1979 (releases)|1979]]\n",
+   "DWM 6": " [[15 November (releases)|15 November]] [[1979 (releases)|1979]]\n",
+   "DWM 7": " [[22 November (releases)|22 November]] [[1979 (releases)|1979]]\n",
+   "DWM 8": " [[29 November (releases)|29 November]] [[1979 (releases)|1979]]\n",
+   "DWM 9": " [[6 December (releases)|6 December]] [[1979 (releases)|1979]]\n",
+   "DWM 10": " [[13 December (releases)|13 December]] [[1979 (releases)|1979]]\n",
+   "DWM 11": " [[20 December (releases)|20 December]] [[1979 (releases)|1979]]\n",
+   "DWM 12": " [[27 December (releases)|27 December]] [[1979 (releases)|1979]]\n",
+   "DWM 13": " [[3 January (releases)|3 January]] [[1980 (releases)|1980]]\n",
+   "DWM 14": " [[10 January (releases)|10 January]] [[1980 (releases)|1980]]\n",
+   "DWM 15": " [[17 January (releases)|17 January]] [[1980 (releases)|1980]]\n",
+   "DWM 16": " [[24 January (releases)|24 January]] [[1980 (releases)|1980]]\n",
+   "DWM 17": " [[31 January (releases)|31 January]] [[1980 (releases)|1980]]\n",
+   "DWM 18": " [[7 February (releases)|7 February]], [[1980 (releases)|1980]]\n",
+   "DWM 19": " [[14 February (releases)|14 February]], [[1980 (releases)|1980]]\n",
+   "DWM 20": " [[21 February (releases)|21 February]], [[1980 (releases)|1980]]\n",
+   "DWM 21": " [[28 February (releases)|28 February]], [[1980 (releases)|1980]]\n",
+   "DWM 22": " [[6 March (releases)|6 March]], [[1980 (releases)|1980]]\n",
+   "DWM 23": " [[13 March (releases)|13 March]], [[1980 (releases)|1980]]\n",
+   "DWM 24": " [[20 March (releases)|20 March]], [[1980 (releases)|1980]]\n",
+   "DWM 25": " [[27 March (releases)|27 March]], [[1980 (releases)|1980]]\n",
+   "DWM 26": " [[3 April (releases)|3 April]], [[1980 (releases)|1980]]\n",
+   "DWM 27": " [[10 April (releases)|10 April]], [[1980 (releases)|1980]]\n",
+   "DWM 28": " [[17 April (releases)|17 April]], [[1980 (releases)|1980]]\n",
+   "DWM 29": " [[24 April (releases)|24 April]], [[1980 (releases)|1980]]\n",
+   "DWM 30": " [[1 May (releases)|1 May]], [[1980 (releases)|1980]]\n",
+   "DWM 31": " [[8 May (releases)|8 May]], [[1980 (releases)|1980]]\n",
+   "DWM 32": " [[15 May (releases)|15 May]], [[1980 (releases)|1980]]\n",
+   "DWM 33": " [[22 May (releases)|22 May]], [[1980 (releases)|1980]]\n",
+   "DWM 34": " [[29 May (releases)|29 May]], [[1980 (releases)|1980]]\n",
+   "DWM 35": " [[5 June (releases)|5 June]], [[1980 (releases)|1980]]\n",
+   "DWM 36": " [[12 June (releases)|12 June]], [[1980 (releases)|1980]]\n",
+   "DWM 37": " [[19 June (releases)|19 June]], [[1980 (releases)|1980]]\n",
+   "DWM 38": " [[26 June (releases)|26 June]], [[1980 (releases)|1980]]\n",
+   "DWM 39": " [[3 July (releases)|3 July]] [[1980 (releases)|1980]]\n",
+   "DWM 40": " [[10 July (releases)|10 July]] [[1980 (releases)|1980]]\n",
+   "DWM 41": " [[17 July (releases)|17 July]] [[1980 (releases)|1980]]\n",
+   "DWM 42": " [[24 July (releases)|24 July]] [[1980 (releases)|1980]]\n",
+   "DWM 43": " [[31 July (releases)|31 July]] [[1980 (releases)|1980]]\n"
+  },
+  "release date bit": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "format": {
+   "_not_set_in": 0,
+   "_set_in": 49,
+   "DWM 1": " 28 pages stapled\n",
+   "DWM 2": " 28 pages stapled\n",
+   "DWM 3": " 28 pages stapled\n",
+   "DWM 4": " 28 pages stapled\n",
+   "DWM 5": " 28 pages stapled\n",
+   "DWM 6": " 28 pages stapled\n",
+   "DWM 7": " 28 pages stapled\n",
+   "DWM 8": " 28 pages stapled\n",
+   "DWM 9": " 28 pages stapled\n",
+   "DWM 10": " 28 pages stapled\n",
+   "DWM 11": " 28 pages stapled\n",
+   "DWM 12": " 28 pages stapled\n",
+   "DWM 13": " 28 pages stapled\n",
+   "DWM 14": " 28 pages stapled\n",
+   "DWM 15": " 28 pages stapled\n",
+   "DWM 16": " 28 pages stapled\n",
+   "DWM 17": " 28 pages stapled\n",
+   "DWM 18": " 28 pages stapled\n",
+   "DWM 19": " 28 pages stapled\n",
+   "DWM 20": " 28 pages stapled\n",
+   "DWM 21": " 28 pages stapled\n",
+   "DWM 22": " 28 pages stapled\n",
+   "DWM 23": " 28 pages stapled\n",
+   "DWM 24": " 28 pages stapled\n",
+   "DWM 25": " 28 pages stapled\n",
+   "DWM 26": " 28 pages stapled\n",
+   "DWM 27": " 28 pages stapled\n",
+   "DWM 28": " 28pp stapled\n",
+   "DWM 29": " 28pp stapled\n",
+   "DWM 30": " 28pp stapled\n",
+   "DWM 31": " 28pp stapled\n",
+   "DWM 32": " 28pp stapled\n",
+   "DWM 33": " 28pp stapled\n",
+   "DWM 34": " 28pp stapled\n",
+   "DWM 35": " 28pp stapled\n",
+   "DWM 36": " 28pp stapled\n",
+   "DWM 37": " 28pp stapled\n",
+   "DWM 38": " 28pp stapled\n",
+   "DWM 39": " 28pp stapled\n",
+   "DWM 40": " 28pp stapled\n",
+   "DWM 41": " 28pp stapled\n",
+   "DWM 42": " 28pp stapled\n",
+   "DWM 43": " 28pp stapled\n",
+   "DWM 329": " 50 pages, stapled\n",
+   "DWM 333": " 50 pages, stapled\n",
+   "DWM 325": " 50 pages, stapled\n",
+   "DWCC 1": " 52pp stapled\n",
+   "DWCC 2": " 52pp stapled\n",
+   "DWCC 3": " 52pp stapled\n"
+  },
+  "editor": {
+   "_not_set_in": 0,
+   "_set_in": 49,
+   "DWM 1": " [[Dez Skinn]]\n",
+   "DWM 2": " [[Dez Skinn]]\n",
+   "DWM 3": " [[Dez Skinn]]\n",
+   "DWM 4": " [[Dez Skinn]]\n",
+   "DWM 5": " [[Dez Skinn]]\n",
+   "DWM 6": " [[Dez Skinn]]\n",
+   "DWM 7": " [[Dez Skinn]]\n",
+   "DWM 8": " [[Dez Skinn]]\n",
+   "DWM 9": " [[Dez Skinn]]\n",
+   "DWM 10": " [[Dez Skinn]]\n",
+   "DWM 11": " [[Dez Skinn]]\n",
+   "DWM 12": " [[Dez Skinn]]\n",
+   "DWM 13": " [[Dez Skinn]]\n",
+   "DWM 14": " [[Dez Skinn]]\n",
+   "DWM 15": " [[Dez Skinn]]\n",
+   "DWM 16": " [[Dez Skinn]]\n",
+   "DWM 17": " [[Dez Skinn]]\n",
+   "DWM 18": " [[Dez Skinn]]\n",
+   "DWM 19": " [[Dez Skinn]]\n",
+   "DWM 20": " [[Dez Skinn]]\n",
+   "DWM 21": " [[Dez Skinn]]\n",
+   "DWM 22": " [[Dez Skinn]]\n",
+   "DWM 23": " [[Paul Neary]]\n",
+   "DWM 24": " [[Paul Neary]]\n",
+   "DWM 25": " [[Paul Neary]]\n",
+   "DWM 26": " [[Paul Neary]]\n",
+   "DWM 27": " [[Paul Neary]]\n",
+   "DWM 28": " [[Paul Neary]]\n",
+   "DWM 29": " [[Paul Neary]]\n",
+   "DWM 30": " [[Paul Neary]]\n",
+   "DWM 31": " [[Paul Neary]]\n",
+   "DWM 32": " [[Paul Neary]]\n",
+   "DWM 33": " [[Paul Neary]]\n",
+   "DWM 34": " [[Paul Neary]]\n",
+   "DWM 35": " [[Paul Neary]]\n",
+   "DWM 36": " [[Paul Neary]]\n",
+   "DWM 37": " [[Paul Neary]]\n",
+   "DWM 38": " [[Paul Neary]]\n",
+   "DWM 39": " [[Paul Neary]]\n",
+   "DWM 40": " [[Paul Neary]]\n",
+   "DWM 41": " [[Paul Neary]]\n",
+   "DWM 42": " [[Paul Neary]]\n",
+   "DWM 43": " [[Paul Neary]]\n",
+   "DWM 329": " [[Clayton Hickman]]\n",
+   "DWM 333": " [[Clayton Hickman]]\n",
+   "DWM 325": " [[Clayton Hickman]]\n",
+   "DWCC 1": " [[Gary Russell]]\n",
+   "DWCC 2": " [[Gary Russell]]\n",
+   "DWCC 3": " [[Gary Russell]]\n"
+  },
+  "publisher": {
+   "_not_set_in": 0,
+   "_set_in": 49,
+   "DWM 1": " [[Marvel Comics UK]]\n",
+   "DWM 2": " [[Marvel Comics UK]]\n",
+   "DWM 3": " [[Marvel Comics UK]]\n",
+   "DWM 4": " [[Marvel Comics UK]]\n",
+   "DWM 5": " [[Marvel Comics UK]]\n",
+   "DWM 6": " [[Marvel Comics UK]]\n",
+   "DWM 7": " [[Marvel Comics UK]]\n",
+   "DWM 8": " [[Marvel Comics UK]]\n",
+   "DWM 9": " [[Marvel Comics UK]]\n",
+   "DWM 10": " [[Marvel Comics UK]]\n",
+   "DWM 11": " [[Marvel Comics UK]]\n",
+   "DWM 12": " [[Marvel Comics UK]]\n",
+   "DWM 13": " [[Marvel Comics UK]]\n",
+   "DWM 14": " [[Marvel Comics UK]]\n",
+   "DWM 15": " [[Marvel Comics UK]]\n",
+   "DWM 16": " [[Marvel Comics UK]]\n",
+   "DWM 17": " [[Marvel Comics UK]]\n",
+   "DWM 18": " [[Marvel Comics UK]]\n",
+   "DWM 19": " [[Marvel Comics UK]]\n",
+   "DWM 20": " [[Marvel Comics UK]]\n",
+   "DWM 21": " [[Marvel Comics UK]]\n",
+   "DWM 22": " [[Marvel Comics UK]]\n",
+   "DWM 23": " [[Marvel Comics UK]]\n",
+   "DWM 24": " [[Marvel Comics UK]]\n",
+   "DWM 25": " [[Marvel Comics UK]]\n",
+   "DWM 26": " [[Marvel Comics UK]]\n",
+   "DWM 27": " [[Marvel Comics UK]]\n",
+   "DWM 28": " [[Marvel Comics UK]]\n",
+   "DWM 29": " [[Marvel Comics UK]]\n",
+   "DWM 30": " [[Marvel Comics UK]]\n",
+   "DWM 31": " [[Marvel Comics UK]]\n",
+   "DWM 32": " [[Marvel Comics UK]]\n",
+   "DWM 33": " [[Marvel Comics UK]]\n",
+   "DWM 34": " [[Marvel Comics UK]]\n",
+   "DWM 35": " [[Marvel Comics UK]]\n",
+   "DWM 36": " [[Marvel Comics UK]]\n",
+   "DWM 37": " [[Marvel Comics UK]]\n",
+   "DWM 38": " [[Marvel Comics UK]]\n",
+   "DWM 39": " [[Marvel Comics UK]]\n",
+   "DWM 40": " [[Marvel Comics UK]]\n",
+   "DWM 41": " [[Marvel Comics UK]]\n",
+   "DWM 42": " [[Marvel Comics UK]]\n",
+   "DWM 43": " [[Marvel Comics UK]]\n",
+   "DWM 329": " [[Panini Comics]]\n",
+   "DWM 333": " [[Panini Comics]]\n",
+   "DWM 325": " [[Panini Comics]]\n",
+   "DWCC 1": " [[Marvel Comics UK]]\n",
+   "DWCC 2": " [[Marvel Comics UK]]\n",
+   "DWCC 3": " [[Marvel Comics UK]]\n"
+  },
+  "collected in": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "fig": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "fig name": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "dvd": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "dvd2": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "dvd3": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "mit": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "trailer": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "trailer2": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "clip": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "clip2": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "clip3": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "fullvid": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "bts": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "bts2": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "bts3": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "figurine vid": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "soundcloudtrailer": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "soundcloudtrailer2": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "soundcloudclip": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "soundcloudclip2": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "musicsuite": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "sample": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "soundcloudbts": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "audio commentary": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "fullaud": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "previous issue": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "prev override": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "next issue": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  },
+  "next override": {
+   "_not_set_in": 49,
+   "_set_in": 0
+  }
+ }
+}

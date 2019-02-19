@@ -1,0 +1,38 @@
+{
+ "wiki": "ttte.fandom.com",
+ "infobox": "Template:Infobox singer",
+ "parameters": {
+  "title1": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "image1": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "caption1": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "first_song": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "last_song": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "seasons": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "specials": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "movies": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  }
+ }
+}

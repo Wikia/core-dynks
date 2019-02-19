@@ -1,0 +1,146 @@
+{
+ "wiki": "hero.fandom.com",
+ "infobox": "Template:Character-Game-Template",
+ "parameters": {
+  "title1": {
+   "_not_set_in": 2,
+   "_set_in": 7,
+   "White Tubbie": " White Tubbie/Tubby",
+   "Po (Slendytubbies)": " Po",
+   "Laa-Laa": " Laa-Laa",
+   "Dipsy": " Dipsy",
+   "Noo Noo": " Noo Noo",
+   "Cait (Fallout 4)": " Anti-Hero",
+   "Master Mummy": " Master Mummy"
+  },
+  "image1": {
+   "_not_set_in": 1,
+   "_set_in": 8,
+   "Zephyr (Tornado Outbreak)": " Zephyr (Tornado).jpg",
+   "White Tubbie": " White Tubby.png",
+   "Po (Slendytubbies)": " Po-0.png",
+   "Laa-Laa": " Laa Laa2.png",
+   "Dipsy": " Dipsy.png",
+   "Noo Noo": " Noo Noo.png",
+   "Cait (Fallout 4)": " Cait-fidelity-fallout-4-7.jpg",
+   "Master Mummy": " Master Mummy.png"
+  },
+  "caption1": {
+   "_not_set_in": 7,
+   "_set_in": 2,
+   "Cait (Fallout 4)": " Appearences",
+   "Master Mummy": " \"The idol we love to fear!\"- Biff"
+  },
+  "feature_game": {
+   "_not_set_in": 1,
+   "_set_in": 8,
+   "White Tubbie": " ''[https://www.custard.wikia.com/wiki/Slendytubbies_(video_game)&#124; Slendytubbies]''<br>''[https://www.custard.wikia.com/wiki/Slendytubbies_II&#124; Slendytubbies II]''<br>''[https://www.custard.wikia.com/wiki/Slendytubbies_III&#124; Slendytubbies III]''<br>''[https://www.custard.wikia.com/wiki/Slendytubbies_2D&#124; Slendytubbies 2D]''<br>''[https://www.custard.wikia.com/wiki/Slendytubbies:_Anniversary_Edition&#124; Slendytubbies : Annieversary Edition]''",
+   "Po (Slendytubbies)": " ''[https://www.custard.wikia.com/wiki/Slendytubbies_(video_game)&#124; Slendytubbies]''<br>''[https://www.custard.wikia.com/wiki/Slendytubbies_II&#124; Slendytubbies II]''<br>''[https://www.custard.wikia.com/wiki/Slendytubbies_III&#124; Slendytubbies III]''<br>''[https://www.custard.wikia.com/wiki/Slendytubbies_2D&#124; Slendytubbies 2D]''<br>''[https://www.custard.wikia.com/wiki/Slendytubbies:_Anniversary_Edition&#124; Slendytubbies : Annieversary Edition]''",
+   "Laa-Laa": " ''[https://www.custard.wikia.com/wiki/Slendytubbies_(video_game)&#124; Slendytubbies]''<br>''[https://www.custard.wikia.com/wiki/Slendytubbies_II&#124; Slendytubbies II]''<br>''[https://www.custard.wikia.com/wiki/Slendytubbies_III&#124; Slendytubbies III]''<br>''[https://www.custard.wikia.com/wiki/Slendytubbies_2D&#124; Slendytubbies 2D]''<br>''[https://www.custard.wikia.com/wiki/Slendytubbies:_Anniversary_Edition&#124; Slendytubbies : Annieversary Edition]''",
+   "Dipsy": " ''[https://www.custard.wikia.com/wiki/Slendytubbies_(video_game)&#124; Slendytubbies]''<br>''[https://www.custard.wikia.com/wiki/Slendytubbies_II&#124; Slendytubbies II]''<br>''[https://www.custard.wikia.com/wiki/Slendytubbies_III&#124; Slendytubbies III]''<br>''[https://www.custard.wikia.com/wiki/Slendytubbies_2D&#124; Slendytubbies 2D]''<br>''[https://www.custard.wikia.com/wiki/Slendytubbies:_Anniversary_Edition&#124; Slendytubbies : Annieversary Edition]''",
+   "Noo Noo": " ''[https://www.custard.wikia.com/wiki/Slendytubbies_(video_game)&#124; Slendytubbies]''<br>''[https://www.custard.wikia.com/wiki/Slendytubbies_II&#124; Slendytubbies II]''<br>''[https://www.custard.wikia.com/wiki/Slendytubbies_III&#124; Slendytubbies III]''<br>''[https://www.custard.wikia.com/wiki/Slendytubbies:_Anniversary_Edition&#124; Slendytubbies : Annieversary Edition]''",
+   "Cait (Fallout 4)": " ''Fallout 4''",
+   "Master Mummy": " ARMS",
+   "Don Wada": " ''Taiko no Tatsujin'' series"
+  },
+  "created_by": {
+   "_not_set_in": 1,
+   "_set_in": 8,
+   "Zephyr (Tornado Outbreak)": " Loose Cannon Studios",
+   "White Tubbie": " Zeoworks",
+   "Po (Slendytubbies)": " Zeoworks",
+   "Laa-Laa": " Zeoworks",
+   "Dipsy": " Zeoworks",
+   "Noo Noo": " Zeoworks",
+   "Cait (Fallout 4)": " Bethesda Softworks",
+   "Master Mummy": " Nintendo"
+  },
+  "title2": {
+   "_not_set_in": 3,
+   "_set_in": 6,
+   "White Tubbie": " Character Information#1",
+   "Po (Slendytubbies)": " Character Information#1",
+   "Laa-Laa": " Character Information#1",
+   "Dipsy": " Character Information#1",
+   "Noo Noo": " Character Information#1",
+   "Master Mummy": " The Grim Creeper"
+  },
+  "appearance": {
+   "_not_set_in": 4,
+   "_set_in": 5,
+   "White Tubbie": " As his name suggests, he has white fur and he wears a top hat, which resembles Dipsy's one, and he is equipped with a flashlight. (in Slendytubbies)\n\nIn the sequel, he improved his lamp, adding a camera, and his skin texture is fixed. Also, his legs walking texture from 1st game can't be seen anymore. (in Slendytubbies II)",
+   "Po (Slendytubbies)": " Po is identical to her original appearance; Red fur and having an circle antenna on the top of her head. In her situation, she is lifeless, hanged, with her face leaking blood and her screen shattered. Her eyes are closed.",
+   "Laa-Laa": " Laa-Laa is identical to her original appearance; Yellow fur and having an curly antenna on the top of her head. In her situation, she is splattered with blood, and her eyes are cut out.",
+   "Dipsy": " Dipsy is identical to his original appearance; Green fur and having an antenna in peak on the top of his head. In his situation, Dipsy is headless and covered with his own blood. After looking closely, his mouth and his eyes are open.",
+   "Cait (Fallout 4)": " ''Fallout 4''"
+  },
+  "species": {
+   "_not_set_in": 2,
+   "_set_in": 7,
+   "White Tubbie": " Teletubbies",
+   "Po (Slendytubbies)": " Teletubbies",
+   "Laa-Laa": " Teletubbies",
+   "Dipsy": " Teletubbies",
+   "Cait (Fallout 4)": " Human",
+   "Master Mummy": " Undead human",
+   "Don Wada": " Anthropomorphic Taiko Drum"
+  },
+  "gender": {
+   "_not_set_in": 0,
+   "_set_in": 9,
+   "Zephyr (Tornado Outbreak)": " Male",
+   "White Tubbie": " Male (''debatable'')",
+   "Po (Slendytubbies)": " Female",
+   "Laa-Laa": " Female",
+   "Dipsy": " Male",
+   "Noo Noo": " Male",
+   "Cait (Fallout 4)": " Female",
+   "Master Mummy": " Male",
+   "Don Wada": " Male"
+  },
+  "title3": {
+   "_not_set_in": 4,
+   "_set_in": 5,
+   "White Tubbie": " Character Information#2",
+   "Po (Slendytubbies)": " Character Information#2",
+   "Laa-Laa": " Character Information#2",
+   "Dipsy": " Character Information#2",
+   "Noo Noo": " Character Information#2"
+  },
+  "statues": {
+   "_not_set_in": 2,
+   "_set_in": 7,
+   "Zephyr (Tornado Outbreak)": " Alive",
+   "White Tubbie": " Alive",
+   "Po (Slendytubbies)": " Deceased",
+   "Laa-Laa": " Alive & Deceased",
+   "Dipsy": " Deceased",
+   "Noo Noo": " Broken (most likely Deceased or Alive)",
+   "Cait (Fallout 4)": " "
+  },
+  "goal": {
+   "_not_set_in": 5,
+   "_set_in": 4,
+   "Zephyr (Tornado Outbreak)": " Find and return Omegaton's orbs, then return home to Harmonium.",
+   "White Tubbie": " Collect All the Teletubby Custards & Never get Caught by [[Tinky Winky]]",
+   "Cait (Fallout 4)": " Get out of slavery (achieved)<br>Kill her abusive parents (achieved)<br>Serve the [[Sole Survivor]] (ongoing)",
+   "Master Mummy": " Finding his family"
+  },
+  "color": {
+   "_not_set_in": 3,
+   "_set_in": 6,
+   "White Tubbie": " White",
+   "Po (Slendytubbies)": " Red",
+   "Laa-Laa": " Yellow",
+   "Dipsy": " Green",
+   "Noo Noo": " Blue",
+   "Master Mummy": " Purple"
+  },
+  "wearing": {
+   "_not_set_in": 7,
+   "_set_in": 2,
+   "White Tubbie": " Dipsy's Top Hat",
+   "Master Mummy": " Bandaging, wrestling singlet, helmet"
+  }
+ }
+}

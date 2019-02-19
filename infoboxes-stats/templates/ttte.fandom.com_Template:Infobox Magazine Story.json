@@ -1,0 +1,47 @@
+{
+ "wiki": "ttte.fandom.com",
+ "infobox": "Template:Infobox Magazine Story",
+ "parameters": {
+  "title1": {
+   "_not_set_in": 1,
+   "_set_in": 1,
+   "Mountain Marvel!": " Mountain Marvel!"
+  },
+  "image1": {
+   "_not_set_in": 0,
+   "_set_in": 2,
+   "Put the brakes on, Thomas!": " ThomasPutstheBrakesOn91.png\n",
+   "Mountain Marvel!": " File:MountainMarvel11.png"
+  },
+  "caption1": {
+   "_not_set_in": 2,
+   "_set_in": 0
+  },
+  "writer": {
+   "_not_set_in": 0,
+   "_set_in": 2,
+   "Put the brakes on, Thomas!": " [[Mark Robertson]] (''original story'')\n",
+   "Mountain Marvel!": " [[Sharon Miller]] (''original story'')"
+  },
+  "illustrator": {
+   "_not_set_in": 2,
+   "_set_in": 0
+  },
+  "issue": {
+   "_not_set_in": 0,
+   "_set_in": 2,
+   "Put the brakes on, Thomas!": " Thomas & Friends 25\n",
+   "Mountain Marvel!": " Thomas & Friends 25"
+  },
+  "theme": {
+   "_not_set_in": 2,
+   "_set_in": 0
+  },
+  "published": {
+   "_not_set_in": 0,
+   "_set_in": 2,
+   "Put the brakes on, Thomas!": " 2009\n",
+   "Mountain Marvel!": " 2009"
+  }
+ }
+}

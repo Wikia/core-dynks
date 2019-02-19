@@ -1,0 +1,30 @@
+{
+ "wiki": "ttte.fandom.com",
+ "infobox": "Template:Boxward Genral",
+ "parameters": {
+  "title1": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "image1": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "caption1": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "row1": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "row2": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "row3": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  }
+ }
+}

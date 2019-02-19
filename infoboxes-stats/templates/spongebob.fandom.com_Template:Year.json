@@ -1,0 +1,26 @@
+{
+ "wiki": "spongebob.fandom.com",
+ "infobox": "Template:Year",
+ "parameters": {
+  "Year": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "Season": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "Episodes Premiered": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "Previous Year": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "Next Year": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  }
+ }
+}

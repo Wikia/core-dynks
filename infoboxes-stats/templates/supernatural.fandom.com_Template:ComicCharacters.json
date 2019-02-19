@@ -1,0 +1,60 @@
+{
+ "wiki": "supernatural.fandom.com",
+ "infobox": "Template:ComicCharacters",
+ "parameters": {
+  "name": {
+   "_not_set_in": 0,
+   "_set_in": 5,
+   "Nadine Thompson": "Nadine Thompson\n",
+   "Iris Levitan": "Iris Levitan\n",
+   "Julie": "Julie\n",
+   "Chuck (Winchesters' next door neighbor)": "Chuck\n",
+   "Randy (Supernatural: Origins)": "Randy\n"
+  },
+  "image": {
+   "_not_set_in": 0,
+   "_set_in": 5,
+   "Nadine Thompson": " [[File:NadineThompson.jpg|250px]]\n",
+   "Iris Levitan": " [[File:IrisLevitan.jpg|250px]]\n",
+   "Julie": " [[File:Julie1.jpg|250px]]\n",
+   "Chuck (Winchesters' next door neighbor)": " [[File:Chuck2.jpg|250px]]\n",
+   "Randy (Supernatural: Origins)": " [[File:Randy1.jpg|250px]]\n"
+  },
+  "comic book": {
+   "_not_set_in": 0,
+   "_set_in": 5,
+   "Nadine Thompson": " ''[[Supernatural: Rising Son]]''\n",
+   "Iris Levitan": " ''[[Supernatural: Rising Son]]''\n",
+   "Julie": " ''[[Supernatural: Origins]]''\n",
+   "Chuck (Winchesters' next door neighbor)": " ''[[Supernatural: Origins]]''\n",
+   "Randy (Supernatural: Origins)": " ''[[Supernatural: Origins]]''\n"
+  },
+  "category": {
+   "_not_set_in": 0,
+   "_set_in": 5,
+   "Nadine Thompson": " [[Succubi]]\n",
+   "Iris Levitan": " [[Humans|Human]] (Possessed by a [[Demon]])\n",
+   "Julie": " [[Humans|Human]]\n",
+   "Chuck (Winchesters' next door neighbor)": " [[Humans|Human]]\n",
+   "Randy (Supernatural: Origins)": " [[Humans|Human]]\n"
+  },
+  "appearance": {
+   "_not_set_in": 0,
+   "_set_in": 5,
+   "Nadine Thompson": " ''[[Supernatural: Rising Son Issue 1|Rising Son #1]]''\n",
+   "Iris Levitan": " ''[[Supernatural: Rising Son Issue 2|Rising Son #2]]''\n",
+   "Julie": " ''[[Supernatural: Origins Issue 1|Origins #1]]''\n",
+   "Chuck (Winchesters' next door neighbor)": " ''[[Supernatural: Origins Issue 1|Origins #1]]''\n",
+   "Randy (Supernatural: Origins)": " ''[[Supernatural: Origins Issue 1|Origins #1]]''\n"
+  },
+  "status": {
+   "_not_set_in": 0,
+   "_set_in": 5,
+   "Nadine Thompson": " Deceased ckilled by [[John Winchester (Anime Series)|John Winchester]]\n",
+   "Iris Levitan": " Deceased\n",
+   "Julie": " Alive\n",
+   "Chuck (Winchesters' next door neighbor)": " Alive\n",
+   "Randy (Supernatural: Origins)": " Alive\n"
+  }
+ }
+}

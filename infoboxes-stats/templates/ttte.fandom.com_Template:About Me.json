@@ -1,0 +1,110 @@
+{
+ "wiki": "ttte.fandom.com",
+ "infobox": "Template:About Me",
+ "parameters": {
+  "title1": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "image1": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "caption1": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "name": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "youtube_name": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "most_overrated_character:": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "most_underrated_character:": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "favorite_shows": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "country": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "favorite_character": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "favorite_actors": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "favorite_episode": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "favorite_movie": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "favorite_other_movie": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "favorite_episodic_dvd": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "favourite_special:": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "despised_special:": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "favourite_railway_series_book:": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "despised_railway_series_book:": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "favourite_railway_series_story:": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "despised_railway_series_story:": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "favourite_voice_actor:": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "despised_voice_actor:": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "favourite_branch_lines:": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "favourite_railways:": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "despised_branch_lines:": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  }
+ }
+}

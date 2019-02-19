@@ -1,0 +1,75 @@
+{
+ "wiki": "ttte.fandom.com",
+ "infobox": "Template:Infobox Company",
+ "parameters": {
+  "image1": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Nitrogen Studios": "File:NitrogenStudioslogo.png\n"
+  },
+  "caption1": {
+   "_not_set_in": 1,
+   "_set_in": 0
+  },
+  "industry": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Nitrogen Studios": "Animation\n"
+  },
+  "predecessor": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Nitrogen Studios": "\n"
+  },
+  "founder": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Nitrogen Studios": "\n* [[Greg Tiernan]]\n* [[Nicole Stinn]]\n"
+  },
+  "headquarters": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Nitrogen Studios": "Vancouver, Canada\n"
+  },
+  "divisions": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Nitrogen Studios": "\n"
+  },
+  "parent": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Nitrogen Studios": "Cinesite\n"
+  },
+  "year_opened": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Nitrogen Studios": "October 2003\n"
+  },
+  "year_closed": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Nitrogen Studios": "\n"
+  },
+  "external_links": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Nitrogen Studios": "[http://web.archive.org/web/*/http://www.nitrogenstudios.com/ Official website]\n"
+  },
+  "seasons": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Nitrogen Studios": "\n* [[Season 12]]\n* [[Season 13]]\n* [[Season 14]]\n* [[Season 15]]\n* [[Season 16]]\n"
+  },
+  "films": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Nitrogen Studios": "\n* ''[[Hero of the Rails]]''\n* ''[[Misty Island Rescue]]''\n* ''[[Day of the Diesels]]''\n* ''[[Blue Mountain Mystery]]''\n"
+  },
+  "other": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Nitrogen Studios": "\n"
+  }
+ }
+}

@@ -1,0 +1,1777 @@
+{
+ "wiki": "tardis.fandom.com",
+ "infobox": "Template:Infobox Documentary",
+ "parameters": {
+  "name": {
+   "_not_set_in": 49,
+   "_set_in": 1,
+   "Project WHO?": " ''Project: WHO?''\n"
+  },
+  "name override": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "broadcast year": {
+   "_not_set_in": 49,
+   "_set_in": 1,
+   "Doctor Who Confidential": " 2005\n"
+  },
+  "broadcast year2": {
+   "_not_set_in": 49,
+   "_set_in": 1,
+   "Doctor Who Confidential": " 2011\n"
+  },
+  "image": {
+   "_not_set_in": 1,
+   "_set_in": 49,
+   "Doctor Who Confidential": " Doctor-who-confidential-title.jpg\n",
+   "Beyond the Vortex": "\n",
+   "The Hartnell Years": "\n",
+   "The Troughton Years": "\n",
+   "The Pertwee Years": "\n",
+   "The Tom Baker Years": "Tom Baker Years v1 1.jpg\n",
+   "The Colin Baker Years": "\n",
+   "Daleks: The Early Years": "Peter Davison Daleks The Early Years.jpg\n",
+   "Cybermen: The Early Years": "Colin Baker Cybermen the Early Years.jpg\n",
+   "Inside the World of Doctor Who": "\n",
+   "Return to Devil's End": " Return to Devil's End.jpg\n",
+   "30 Years in the TARDIS": " \n",
+   "Whose Doctor Who": "\n",
+   "The Missing Years": " BBC SPECIAL The Missing Years Video.jpg\n",
+   "The Ties That Bind Us": "\n",
+   "Rogue Time Lords": " Rogue Time Lords.jpg\n",
+   "Project WHO?": " ProjectWho .jpg\n",
+   "Doctor Who at the BBC: The Tenth Doctor": " TenthDrCD.jpg\n",
+   "Doctor Who at the BBC: A Legend Reborn": " DW at the BBC A Legend Reborn.jpg \n",
+   "Doctor Who - The Lost Episodes": "\n",
+   "Doctor Who at the BBC": " DW at the BBC 1.jpg \n",
+   "Doctor Who at the BBC Volume 2": " DW at the BBC 2.jpg \n",
+   "Doctor Who at the BBC Volume 3": " DW at the BBC 3.jpg \n",
+   "Doctor Who Greatest Moments": "DW Greatest Moments.jpg\n",
+   "The Doctors: 30 Years of Time Travel and Beyond": " TheDoctorsCover.jpg\n",
+   "Doctor Who at the BBC: The Plays": " DW at the BBC The Plays.jpg \n",
+   "Dalekmania (documentary)": " Dalekmania.jpg\n",
+   "Bidding Adieu: A Video Diary": "McCoy McGann Bidding Adieu.jpg\n",
+   "Who Peter": "\n",
+   "A Brush with Genius (CON episode)": " DWCON_A_Brush_with_Genius_title_card.jpg\n",
+   "Backstage at Christmas (CON episode)": " DWCON_Backstage_at_Christmas_title_card.jpg\n",
+   "Out of Time (CON episode)": " DWCON_Out_of_Time_title_card.jpg\n",
+   "Alien Abduction (CON episode)": " DWCON_Alien_Abduction_title_card.jpg\n",
+   "Extra Time (CON episode)": " DWCON_Extra_Time_title_card.jpg\n",
+   "What Goes on Tour... (CON episode)": " DWCON_What_Goes_on_Tour..._title_card.jpg\n",
+   "After Effects (CON episode)": " DWCON_After_Effects_title_card.jpg\n",
+   "Arthurian Legend (CON episode)": " DWCON_Arthurian_Legend_title_card.jpg\n",
+   "Death in Venice (CON episode)": " DWCON_Death_in_Venice_title_card.jpg\n",
+   "Blinded by the Light (CON episode)": " DWCON_Blinded_by_the_Light_title_card.jpg\n",
+   "Eyes Wide Open (CON episode)": " \n",
+   "War Games (CON episode)": " DWCON_War_Games_title_card.jpg\n",
+   "All About the Girl (CON episode)": " DWCON_All_About_the_Girl_title_card.jpg\n",
+   "Call Me the Doctor (CON episode)": " DWCON_Call_Me_the_Doctor_title_card.jpg\n",
+   "Bringing Back the Doctor (CON episode)": " DWCON_Bringing_Back_the_Doctor_title_card.jpg\n",
+   "Aliens: the Good, the Bad and the Ugly (CON episode)": " \n",
+   "TARDIS Tales (CON episode)": "\n",
+   "I Get a Side-Kick Out of You (CON episode)": "DWCON_I_Get_a_Side-Kick_Out_of_You_title_card.jpg\n",
+   "Why on Earth? (CON episode)": "DWCON_Why_on_Earth_title_card.jpg\n"
+  },
+  "caption": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "image2": {
+   "_not_set_in": 47,
+   "_set_in": 3,
+   "Doctor Who Confidential": " DWCLogo2005.jpg\n",
+   "A Brush with Genius (CON episode)": " TonyCurran.jpg\n",
+   "Backstage at Christmas (CON episode)": " BackstageAtChristmas.jpg\n"
+  },
+  "caption2": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "subject": {
+   "_not_set_in": 31,
+   "_set_in": 19,
+   "Doctor Who Confidential": " The making of ''[[Doctor Who]]'' episodes\n",
+   "Beyond the Vortex": "\"making of\" series 1 and some of series 2 of Big Finish's New Eighth Doctor Adventures\n",
+   "Daleks: The Early Years": "\n",
+   "Cybermen: The Early Years": "Black & White-era Cybermen\n",
+   "Inside the World of Doctor Who": "A live workshop on the production of ''[[Doctor Who]]'', aimed at children\n",
+   "Return to Devil's End": " The Making of ''[[The D\u00e6mons (TV story)|The D\u00e6mons]]''\n",
+   "30 Years in the TARDIS": " Doctor Who\n",
+   "Whose Doctor Who": " Doctor Who\n",
+   "The Missing Years": " [[missing episode]]s\n",
+   "The Ties That Bind Us": " Continuity links in ''The Five Doctors''\n",
+   "Rogue Time Lords": "The history of villainous [[Time Lord]]s\n",
+   "Project WHO?": "\n",
+   "Doctor Who - The Lost Episodes": " [[Missing episode]]s\n",
+   "Doctor Who Greatest Moments": "\n",
+   "The Doctors: 30 Years of Time Travel and Beyond": "\n",
+   "Dalekmania (documentary)": " ''[[Dr. Who and the Daleks]]'', ''[[Daleks' Invasion Earth 2150 A.D.]]''\n",
+   "Bidding Adieu: A Video Diary": "\n",
+   "Who Peter": " The history of the ''[[Blue Peter]]'' and ''[[Doctor Who]]'' relationship\n"
+  },
+  "charity": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "charity2": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "charity url": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "charity2 url": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "charity 2": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "original to DVD": {
+   "_not_set_in": 10,
+   "_set_in": 40,
+   "Beyond the Vortex": "\n",
+   "The Hartnell Years": "\n",
+   "The Troughton Years": "\n",
+   "The Pertwee Years": "\n",
+   "The Tom Baker Years": "\n",
+   "The Colin Baker Years": "\n",
+   "Daleks: The Early Years": "\n",
+   "Cybermen: The Early Years": "\n",
+   "Inside the World of Doctor Who": "\n",
+   "30 Years in the TARDIS": " \n",
+   "Whose Doctor Who": "\n",
+   "The Missing Years": "\n",
+   "The Ties That Bind Us": " The Five Doctors (TV story)\n",
+   "Rogue Time Lords": " The Armageddon Factor\n",
+   "Doctor Who - The Lost Episodes": "\n",
+   "Doctor Who Greatest Moments": "\n",
+   "The Doctors: 30 Years of Time Travel and Beyond": "\n",
+   "Dalekmania (documentary)": " Dr. Who and the Daleks\n",
+   "Bidding Adieu: A Video Diary": "\n",
+   "Who Peter": " Doctor Who (1996) \n",
+   "A Brush with Genius (CON episode)": "\n",
+   "Backstage at Christmas (CON episode)": " Series 1 (Doctor Who)\n",
+   "Out of Time (CON episode)": "\n",
+   "Alien Abduction (CON episode)": "\n",
+   "Extra Time (CON episode)": "\n",
+   "What Goes on Tour... (CON episode)": "\n",
+   "After Effects (CON episode)": "\n",
+   "Arthurian Legend (CON episode)": "\n",
+   "Death in Venice (CON episode)": "\n",
+   "Blinded by the Light (CON episode)": "\n",
+   "Eyes Wide Open (CON episode)": "\n",
+   "War Games (CON episode)": "\n",
+   "All About the Girl (CON episode)": "\n",
+   "Call Me the Doctor (CON episode)": "\n",
+   "Bringing Back the Doctor (CON episode)": "\n",
+   "Aliens: the Good, the Bad and the Ugly (CON episode)": "\n",
+   "TARDIS Tales (CON episode)": "\n",
+   "I Get a Side-Kick Out of You (CON episode)": "\n",
+   "Why on Earth? (CON episode)": "\n"
+  },
+  "original to DVD2": {
+   "_not_set_in": 49,
+   "_set_in": 1,
+   "Dalekmania (documentary)": " Daleks' Invasion Earth 2150 A.D.\n"
+  },
+  "original to VHS": {
+   "_not_set_in": 10,
+   "_set_in": 40,
+   "Beyond the Vortex": "\n",
+   "The Hartnell Years": "\n",
+   "The Troughton Years": "\n",
+   "The Pertwee Years": "\n",
+   "The Tom Baker Years": " The Tom Baker Years\n",
+   "The Colin Baker Years": "\n",
+   "Daleks: The Early Years": "\n",
+   "Cybermen: The Early Years": "\n",
+   "Inside the World of Doctor Who": "\n",
+   "30 Years in the TARDIS": "\n",
+   "Whose Doctor Who": "\n",
+   "The Missing Years": " The Missing Years\n",
+   "The Ties That Bind Us": "\n",
+   "Rogue Time Lords": "\n",
+   "Doctor Who - The Lost Episodes": "\n",
+   "Doctor Who Greatest Moments": "\n",
+   "The Doctors: 30 Years of Time Travel and Beyond": "\n",
+   "Dalekmania (documentary)": "\n",
+   "Bidding Adieu: A Video Diary": "\n",
+   "Who Peter": "\n",
+   "A Brush with Genius (CON episode)": "\n",
+   "Backstage at Christmas (CON episode)": "\n",
+   "Out of Time (CON episode)": "\n",
+   "Alien Abduction (CON episode)": "\n",
+   "Extra Time (CON episode)": "\n",
+   "What Goes on Tour... (CON episode)": "\n",
+   "After Effects (CON episode)": "\n",
+   "Arthurian Legend (CON episode)": "\n",
+   "Death in Venice (CON episode)": "\n",
+   "Blinded by the Light (CON episode)": "\n",
+   "Eyes Wide Open (CON episode)": "\n",
+   "War Games (CON episode)": "\n",
+   "All About the Girl (CON episode)": "\n",
+   "Call Me the Doctor (CON episode)": "\n",
+   "Bringing Back the Doctor (CON episode)": "\n",
+   "Aliens: the Good, the Bad and the Ugly (CON episode)": "\n",
+   "TARDIS Tales (CON episode)": "\n",
+   "I Get a Side-Kick Out of You (CON episode)": "\n",
+   "Why on Earth? (CON episode)": "\n"
+  },
+  "original to VHS2": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "original to CD": {
+   "_not_set_in": 9,
+   "_set_in": 41,
+   "Beyond the Vortex": "\n",
+   "The Hartnell Years": "\n",
+   "The Troughton Years": "\n",
+   "The Pertwee Years": "\n",
+   "The Tom Baker Years": "\n",
+   "The Colin Baker Years": "\n",
+   "Daleks: The Early Years": "\n",
+   "Cybermen: The Early Years": "\n",
+   "Inside the World of Doctor Who": "\n",
+   "30 Years in the TARDIS": "\n",
+   "Whose Doctor Who": "\n",
+   "The Missing Years": "\n",
+   "The Ties That Bind Us": "\n",
+   "Rogue Time Lords": "\n",
+   "Project WHO?": "\n",
+   "Doctor Who - The Lost Episodes": "\n",
+   "Doctor Who Greatest Moments": "\n",
+   "The Doctors: 30 Years of Time Travel and Beyond": "\n",
+   "Dalekmania (documentary)": "\n",
+   "Bidding Adieu: A Video Diary": "\n",
+   "Who Peter": "\n",
+   "A Brush with Genius (CON episode)": "\n",
+   "Backstage at Christmas (CON episode)": "\n",
+   "Out of Time (CON episode)": "\n",
+   "Alien Abduction (CON episode)": "\n",
+   "Extra Time (CON episode)": "\n",
+   "What Goes on Tour... (CON episode)": "\n",
+   "After Effects (CON episode)": "\n",
+   "Arthurian Legend (CON episode)": "\n",
+   "Death in Venice (CON episode)": "\n",
+   "Blinded by the Light (CON episode)": "\n",
+   "Eyes Wide Open (CON episode)": "\n",
+   "War Games (CON episode)": "\n",
+   "All About the Girl (CON episode)": "\n",
+   "Call Me the Doctor (CON episode)": "\n",
+   "Bringing Back the Doctor (CON episode)": "\n",
+   "Aliens: the Good, the Bad and the Ugly (CON episode)": "\n",
+   "TARDIS Tales (CON episode)": "\n",
+   "I Get a Side-Kick Out of You (CON episode)": "\n",
+   "Why on Earth? (CON episode)": "\n"
+  },
+  "original to CD2": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "home video": {
+   "_not_set_in": 32,
+   "_set_in": 18,
+   "Doctor Who Confidential": "\n",
+   "Beyond the Vortex": "\n",
+   "Daleks: The Early Years": "\n",
+   "Cybermen: The Early Years": "\n",
+   "Inside the World of Doctor Who": "\n",
+   "30 Years in the TARDIS": "\n",
+   "Whose Doctor Who": "\n",
+   "The Missing Years": " Lost in Time (DVD box set)!Lost in Time\n",
+   "The Ties That Bind Us": "\n",
+   "Rogue Time Lords": "\n",
+   "Project WHO?": "\n",
+   "Doctor Who - The Lost Episodes": "\n",
+   "Doctor Who Greatest Moments": "\n",
+   "The Doctors: 30 Years of Time Travel and Beyond": "\n",
+   "Dalekmania (documentary)": "\n",
+   "Bidding Adieu: A Video Diary": "\n",
+   "Who Peter": "\n"
+  },
+  "home audio": {
+   "_not_set_in": 31,
+   "_set_in": 19,
+   "Doctor Who Confidential": "\n",
+   "Beyond the Vortex": "\n",
+   "Daleks: The Early Years": "\n",
+   "Cybermen: The Early Years": "\n",
+   "Inside the World of Doctor Who": "\n",
+   "30 Years in the TARDIS": "\n",
+   "Whose Doctor Who": "\n",
+   "The Missing Years": "\n",
+   "The Ties That Bind Us": "\n",
+   "Rogue Time Lords": "\n",
+   "Project WHO?": "\n",
+   "Project Who": "Project WHO?\n",
+   "Doctor Who - The Lost Episodes": "\n",
+   "Doctor Who Greatest Moments": "\n",
+   "The Doctors: 30 Years of Time Travel and Beyond": "\n",
+   "Dalekmania (documentary)": "\n",
+   "Bidding Adieu: A Video Diary": "\n",
+   "Who Peter": "\n"
+  },
+  "original to webcast": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "channel": {
+   "_not_set_in": 13,
+   "_set_in": 37,
+   "Doctor Who Confidential": " BBC Three\n",
+   "Beyond the Vortex": "BBC7\n",
+   "Daleks: The Early Years": "\n",
+   "Cybermen: The Early Years": "\n",
+   "Inside the World of Doctor Who": "\n",
+   "30 Years in the TARDIS": " BBC One\n",
+   "Whose Doctor Who": " BBC Two\n",
+   "The Missing Years": "\n",
+   "The Ties That Bind Us": "\n",
+   "Rogue Time Lords": "\n",
+   "Project WHO?": "\n",
+   "Project Who": "BBC Radio 2\n",
+   "Doctor Who - The Lost Episodes": " BBC Radio 4\n",
+   "Doctor Who Greatest Moments": "\n",
+   "The Doctors: 30 Years of Time Travel and Beyond": "\n",
+   "Dalekmania (documentary)": "\n",
+   "Bidding Adieu: A Video Diary": "\n",
+   "Who Peter": "\n",
+   "A Brush with Genius (CON episode)": "BBC Three\n",
+   "Out of Time (CON episode)": "BBC Three\n",
+   "Alien Abduction (CON episode)": "BBC Three\n",
+   "Extra Time (CON episode)": "BBC Three\n",
+   "What Goes on Tour... (CON episode)": "BBC Three\n",
+   "After Effects (CON episode)": "BBC Three\n",
+   "Arthurian Legend (CON episode)": "BBC Three\n",
+   "Death in Venice (CON episode)": "BBC Three\n",
+   "Blinded by the Light (CON episode)": "BBC Three\n",
+   "Eyes Wide Open (CON episode)": "BBC Three\n",
+   "War Games (CON episode)": "BBC Three\n",
+   "All About the Girl (CON episode)": "BBC Three\n",
+   "Call Me the Doctor (CON episode)": "BBC Three\n",
+   "Bringing Back the Doctor (CON episode)": "BBC Three\n",
+   "Aliens: the Good, the Bad and the Ugly (CON episode)": " BBC Three\n",
+   "TARDIS Tales (CON episode)": "BBC Three\n",
+   "I Get a Side-Kick Out of You (CON episode)": " BBC Three\n",
+   "Why on Earth? (CON episode)": "BBC Three\n"
+  },
+  "channel2": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "broadcast with": {
+   "_not_set_in": 13,
+   "_set_in": 37,
+   "Doctor Who Confidential": " Doctor Who\n",
+   "Beyond the Vortex": " \n",
+   "Daleks: The Early Years": "\n",
+   "Cybermen: The Early Years": "\n",
+   "Inside the World of Doctor Who": "\n",
+   "30 Years in the TARDIS": "\n",
+   "Whose Doctor Who": "\n",
+   "The Missing Years": "\n",
+   "The Ties That Bind Us": "\n",
+   "Rogue Time Lords": "\n",
+   "Project WHO?": "\n",
+   "Doctor Who - The Lost Episodes": "\n",
+   "Doctor Who Greatest Moments": "\n",
+   "The Doctors: 30 Years of Time Travel and Beyond": "\n",
+   "Dalekmania (documentary)": "\n",
+   "Bidding Adieu: A Video Diary": "\n",
+   "Who Peter": "\n",
+   "A Brush with Genius (CON episode)": " Vincent and the Doctor\n",
+   "Backstage at Christmas (CON episode)": " The Christmas Invasion (TV story)\n",
+   "Out of Time (CON episode)": "The Big Bang\n",
+   "Alien Abduction (CON episode)": " The Pandorica Opens  (TV story)\n",
+   "Extra Time (CON episode)": " The Lodger (TV story)\n",
+   "What Goes on Tour... (CON episode)": " Cold Blood\n",
+   "After Effects (CON episode)": " The Hungry Earth\n",
+   "Arthurian Legend (CON episode)": " Amy's Choice\n",
+   "Death in Venice (CON episode)": " The Vampires of Venice\n",
+   "Blinded by the Light (CON episode)": " Flesh and Stone\n",
+   "Eyes Wide Open (CON episode)": " The Time of Angels\n",
+   "War Games (CON episode)": " Victory of the Daleks\n",
+   "All About the Girl (CON episode)": " The Beast Below\n",
+   "Call Me the Doctor (CON episode)": " The Eleventh Hour\n",
+   "Bringing Back the Doctor (CON episode)": " Rose (TV story)\n",
+   "Aliens: the Good, the Bad and the Ugly (CON episode)": " The End of the World (TV story)",
+   "TARDIS Tales (CON episode)": " The Unquiet Dead (TV story)\n",
+   "I Get a Side-Kick Out of You (CON episode)": " Aliens of London (TV story)",
+   "Why on Earth? (CON episode)": " World War Three (TV story)\n"
+  },
+  "series number": {
+   "_not_set_in": 31,
+   "_set_in": 19,
+   "A Brush with Genius (CON episode)": " [[Series 5 (Doctor Who)|5]]\n",
+   "Backstage at Christmas (CON episode)": " [[Series 1 (Doctor Who)|1]]\n",
+   "Out of Time (CON episode)": " [[Series 5 (Doctor Who)|5]]\n",
+   "Alien Abduction (CON episode)": " [[Series 5 (Doctor Who)|5]]\n",
+   "Extra Time (CON episode)": " [[Series 5 (Doctor Who)|5]]\n",
+   "What Goes on Tour... (CON episode)": " [[Series 5 (Doctor Who)|5]]\n",
+   "After Effects (CON episode)": " [[Series 5 (Doctor Who)|5]]\n",
+   "Arthurian Legend (CON episode)": " [[Series 5 (Doctor Who)|5]]\n",
+   "Death in Venice (CON episode)": " [[Series 5 (Doctor Who)|5]]\n",
+   "Blinded by the Light (CON episode)": " [[Series 5 (Doctor Who)|5]]\n",
+   "Eyes Wide Open (CON episode)": " [[Series 5 (Doctor Who)|5]]\n",
+   "War Games (CON episode)": " [[Series 5 (Doctor Who)|5]]\n",
+   "All About the Girl (CON episode)": " [[Series 5 (Doctor Who)|5]]\n",
+   "Call Me the Doctor (CON episode)": " [[Series 5 (Doctor Who)|5]]\n",
+   "Bringing Back the Doctor (CON episode)": " [[Series 1 (Doctor Who)|1]]\n",
+   "Aliens: the Good, the Bad and the Ugly (CON episode)": " [[Series 1 (Doctor Who)|1]]\n",
+   "TARDIS Tales (CON episode)": " [[Series 1 (Doctor Who)|1]]\n",
+   "I Get a Side-Kick Out of You (CON episode)": " [[Series 1 (Doctor Who)|1]]\n",
+   "Why on Earth? (CON episode)": " [[Series 1 (Doctor Who)|1]]\n"
+  },
+  "format": {
+   "_not_set_in": 43,
+   "_set_in": 7,
+   "Return to Devil's End": " [[VHS]], [[DVD]]\n",
+   "Project WHO?": " 2 CDs\n",
+   "Doctor Who at the BBC: A Legend Reborn": " 2 CD, 1h 35m\n",
+   "Doctor Who at the BBC": " 2 CD, 2h5m\n",
+   "Doctor Who at the BBC Volume 2": " 2 CD, 1h 50m\n",
+   "Doctor Who at the BBC Volume 3": " 2 CD, 2h 10m\n",
+   "Doctor Who at the BBC: The Plays": " 2 CD, 2h 5m\n"
+  },
+  "podcast": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "publisher": {
+   "_not_set_in": 44,
+   "_set_in": 6,
+   "Doctor Who at the BBC: The Tenth Doctor": " BBC Audio\n",
+   "Doctor Who at the BBC: A Legend Reborn": " BBC Audio\n",
+   "Doctor Who at the BBC": " BBC Audio\n",
+   "Doctor Who at the BBC Volume 2": " BBC Audio\n",
+   "Doctor Who at the BBC Volume 3": " BBC Audio\n",
+   "Doctor Who at the BBC: The Plays": " BBC Audio\n"
+  },
+  "publisher2": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "publisher3": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "broadcast date": {
+   "_not_set_in": 13,
+   "_set_in": 37,
+   "Beyond the Vortex": "\n",
+   "Daleks: The Early Years": "\n",
+   "Cybermen: The Early Years": "\n",
+   "Inside the World of Doctor Who": " \n",
+   "30 Years in the TARDIS": " 29 November 1993\n",
+   "Whose Doctor Who": " 3 April 1977\n",
+   "The Missing Years": "\n",
+   "The Ties That Bind Us": "\n",
+   "Rogue Time Lords": "\n",
+   "Project WHO?": "\n",
+   "Project Who": " il[[22 March]] [[2005]][[29 March]] [[2005]]at 2030\n",
+   "Doctor Who - The Lost Episodes": " [[26 December (releases)|26 December]] [[2009 (releases)|2009]]\n",
+   "Doctor Who Greatest Moments": " [[20 August (releases)|20 August]] - [[3 September (releases)|3 September]] [[2009 (releases)|2009]]\n",
+   "The Doctors: 30 Years of Time Travel and Beyond": "\n",
+   "Dalekmania (documentary)": "\n",
+   "Bidding Adieu: A Video Diary": "\n",
+   "Who Peter": "\n",
+   "A Brush with Genius (CON episode)": " [[5 June (releases)|5 June]] [[2010 (releases)|2010]]\n",
+   "Backstage at Christmas (CON episode)": " \n",
+   "Out of Time (CON episode)": " [[26 June (releases)|26 June]] [[2010 (releases)|2010]]\n",
+   "Alien Abduction (CON episode)": " [[19 June (releases)|19 June]] [[2010 (releases)|2010]]\n",
+   "Extra Time (CON episode)": " [[12 June (releases)|12 June]] [[2010 (releases)|2010]]\n",
+   "What Goes on Tour... (CON episode)": " [[29 May (releases)|29 May]] [[2010 (releases)|2010]]\n",
+   "After Effects (CON episode)": " [[22 May (releases)|22 May]] [[2010 (releases)|2010]]\n",
+   "Arthurian Legend (CON episode)": " [[15 May (releases)|15 May]] [[2010 (releases)|2010]]\n",
+   "Death in Venice (CON episode)": " [[8 May (releases)|8 May]] [[2010 (releases)|2010]]\n",
+   "Blinded by the Light (CON episode)": " [[1 May (releases)|1 May]] [[2010 (releases)|2010]]\n",
+   "Eyes Wide Open (CON episode)": " [[24 April (releases)|24 April]] [[2010 (releases)|2010]]\n",
+   "War Games (CON episode)": " [[17 April (releases)|17 April]] [[2010 (releases)|2010]]\n",
+   "All About the Girl (CON episode)": " [[10 April (releases)|10 April]] [[2010 (releases)|2010]]\n",
+   "Call Me the Doctor (CON episode)": " [[3 April (releases)|3 April]] [[2010 (releases)|2010]]\n",
+   "Bringing Back the Doctor (CON episode)": " [[26 March (releases)|26 March]] [[2005 (releases)|2005]]\n",
+   "Aliens: the Good, the Bad and the Ugly (CON episode)": " [[2 April (releases)|2 April]] [[2005 (releases)|2005]]\n",
+   "TARDIS Tales (CON episode)": " [[9 April (releases)|9 April]] [[2005 (releases)|2005]]\n",
+   "I Get a Side-Kick Out of You (CON episode)": " [[16 April (releases)|16 April]] [[2005 (releases)|2005]]\n",
+   "Why on Earth? (CON episode)": " [[23 April (releases)|23 April]] [[2005 (releases)|2005]]\n"
+  },
+  "release date": {
+   "_not_set_in": 21,
+   "_set_in": 29,
+   "Beyond the Vortex": " [[2007 (releases)|2007]]\n",
+   "The Hartnell Years": "[[3 June (releases)|3 June]] [[1991 (releases)|1991]]\n",
+   "The Troughton Years": "[[3 June (releases)|3 June]] [[1991 (releases)|1991]]\n",
+   "The Pertwee Years": "[[2 March (releases)|2 March]] [[1992 (releases)|1992]]\n",
+   "The Tom Baker Years": "[[7 September (releases)|7 September]] [[1992 (releases)|1992]]\n",
+   "The Colin Baker Years": "[[7 March (releases)|7 March]] [[1994 (releases)|1994]]\n",
+   "Daleks: The Early Years": "[[6 July (releases)|6 July]] [[1992 (releases)|1992]]\n",
+   "Cybermen: The Early Years": "[[6 July (releases)|6 July]] [[1992 (releases)|1992]]\n",
+   "Inside the World of Doctor Who": " [[29 November (releases)|29 November]] [[2008 (releases)|2008]] (live event)<br />[[15 December (releases)|15 December]] 2008 (video)\n",
+   "Return to Devil's End": " [[1 January (releases)|1 January]] [[1993 (releases)|1993]]\n",
+   "30 Years in the TARDIS": " \n",
+   "Whose Doctor Who": "\n",
+   "The Missing Years": " [[1998 (releases)|1998]]\n",
+   "The Ties That Bind Us": "\n",
+   "Rogue Time Lords": "\n",
+   "Project WHO?": " [[May (releases)|May]] [[2005 (releases)|2005]]\n",
+   "Doctor Who at the BBC: The Tenth Doctor": " [[3 September (releases)|3 September]] [[2007 (releases)|2007]]\n",
+   "Doctor Who at the BBC: A Legend Reborn": " [[21 January (releases)|21 January]] [[2010 (releases)|2010]]\n",
+   "Doctor Who - The Lost Episodes": "\n",
+   "Doctor Who at the BBC": " [[1 September (releases)|1 September]] [[2003 (releases)|2003]]\n",
+   "Doctor Who at the BBC Volume 2": " [[6 September (releases)|6 September]] [[2004 (releases)|2004]]\n",
+   "Doctor Who at the BBC Volume 3": " [[5 September (releases)|5 September]] [[2005 (releases)|2005]]\n",
+   "Doctor Who Greatest Moments": "\n",
+   "The Doctors: 30 Years of Time Travel and Beyond": " [[2002 (releases)|2002]]\n",
+   "Doctor Who at the BBC: The Plays": " [[4 September (releases)|4 September]] [[2006 (releases)|2006]]\n",
+   "Dalekmania (documentary)": "\n",
+   "Bidding Adieu: A Video Diary": "[[1996 (releases)|1996]]\n",
+   "Who Peter": "\n"
+  },
+  "episode runtime": {
+   "_not_set_in": 49,
+   "_set_in": 1,
+   "Doctor Who Confidential": " 30 minutes\n"
+  },
+  "runtime": {
+   "_not_set_in": 13,
+   "_set_in": 37,
+   "Beyond the Vortex": " between 5-9' each\n",
+   "Daleks: The Early Years": "105 minutes\n",
+   "Cybermen: The Early Years": "\n",
+   "Inside the World of Doctor Who": " 90\" (including interval) live; about 42\" in its video form, broken into two rough halves\n",
+   "30 Years in the TARDIS": " \n",
+   "Whose Doctor Who": " 58'45\"\n",
+   "The Missing Years": " 56\"\n",
+   "The Ties That Bind Us": "\n",
+   "Rogue Time Lords": "13'\n",
+   "Project WHO?": " 2 hours, 30 minutes\n",
+   "Project Who": "1 hour, each part\n",
+   "Doctor Who - The Lost Episodes": " 60\"\n",
+   "Doctor Who Greatest Moments": "3 x 60 minutes\n",
+   "The Doctors: 30 Years of Time Travel and Beyond": " 65 minutes\n",
+   "Dalekmania (documentary)": " 60 minutes\n",
+   "Bidding Adieu: A Video Diary": "52 minutes\n",
+   "Who Peter": "\n",
+   "A Brush with Genius (CON episode)": " 45 minutes\n",
+   "Backstage at Christmas (CON episode)": " 9 minutes\n",
+   "Out of Time (CON episode)": " 45 minutes\n",
+   "Alien Abduction (CON episode)": " 45 minutes\n",
+   "Extra Time (CON episode)": " 45 minutes\n",
+   "What Goes on Tour... (CON episode)": " 45 minutes\n",
+   "After Effects (CON episode)": " 45 minutes\n",
+   "Arthurian Legend (CON episode)": " 45 minutes\n",
+   "Death in Venice (CON episode)": " 45 minutes\n",
+   "Blinded by the Light (CON episode)": " 45 minutes\n",
+   "Eyes Wide Open (CON episode)": " 45 minutes\n",
+   "War Games (CON episode)": " 45 minutes\n",
+   "All About the Girl (CON episode)": " 45 minutes\n",
+   "Call Me the Doctor (CON episode)": " 45 minutes\n",
+   "Bringing Back the Doctor (CON episode)": " 30 minutes\n",
+   "Aliens: the Good, the Bad and the Ugly (CON episode)": " 30 minutes\n",
+   "TARDIS Tales (CON episode)": " 30 minutes\n",
+   "I Get a Side-Kick Out of You (CON episode)": " 30 minutes\n",
+   "Why on Earth? (CON episode)": " 30 minutes\n"
+  },
+  "catno": {
+   "_not_set_in": 31,
+   "_set_in": 19,
+   "Doctor Who Confidential": "\n",
+   "The Hartnell Years": "BBCV4608\n",
+   "The Troughton Years": "BBCV4609\n",
+   "The Pertwee Years": "BBCV4756\n",
+   "The Tom Baker Years": "BBCV4756\n",
+   "The Colin Baker Years": "BBCV4756\n",
+   "Daleks: The Early Years": "BBCV4756\n",
+   "Cybermen: The Early Years": "BBCV4756\n",
+   "30 Years in the TARDIS": "\n",
+   "Whose Doctor Who": "\n",
+   "The Ties That Bind Us": "\n",
+   "Project WHO?": "\n",
+   "Doctor Who - The Lost Episodes": "\n",
+   "Doctor Who Greatest Moments": "\n",
+   "The Doctors: 30 Years of Time Travel and Beyond": "\n",
+   "Dalekmania (documentary)": "\n",
+   "Bidding Adieu: A Video Diary": "\n",
+   "Who Peter": "\n"
+  },
+  "isbn": {
+   "_not_set_in": 31,
+   "_set_in": 19,
+   "Daleks: The Early Years": "\n",
+   "Cybermen: The Early Years": "\n",
+   "30 Years in the TARDIS": "\n",
+   "Whose Doctor Who": "\n",
+   "The Ties That Bind Us": "\n",
+   "Project WHO?": " ISBN 978-0-563-51094-9\n",
+   "Doctor Who at the BBC: The Tenth Doctor": " \n",
+   "Doctor Who at the BBC: A Legend Reborn": " \n",
+   "Doctor Who - The Lost Episodes": "\n",
+   "Doctor Who at the BBC": " ISBN 0563 530871\n",
+   "Doctor Who at the BBC Volume 2": " ISBN 0563 524855\n",
+   "Doctor Who at the BBC Volume 3": " ISBN 0-563-52621-1\n",
+   "Doctor Who Greatest Moments": "\n",
+   "The Doctors: 30 Years of Time Travel and Beyond": "\n",
+   "Doctor Who at the BBC: The Plays": " ISBN 1-84607-044-9\n",
+   "Dalekmania (documentary)": "\n",
+   "Bidding Adieu: A Video Diary": "\n",
+   "Who Peter": "\n"
+  },
+  "presenter": {
+   "_not_set_in": 45,
+   "_set_in": 5,
+   "Doctor Who at the BBC: The Tenth Doctor": " Elisabeth Sladen\n",
+   "Doctor Who at the BBC: A Legend Reborn": " Elisabeth Sladen\n",
+   "Doctor Who at the BBC": " Elisabeth Sladen\n",
+   "Doctor Who at the BBC Volume 2": " Elisabeth Sladen\n",
+   "Doctor Who at the BBC Volume 3": " Elisabeth Sladen\n"
+  },
+  "presenter2": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "presenter3": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "presenter4": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "presenter5": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "presenter6": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "presenter7": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "presenter8": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "presenter9": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "presenter10": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "interviewer": {
+   "_not_set_in": 31,
+   "_set_in": 19,
+   "Doctor Who Confidential": " \n",
+   "Beyond the Vortex": "\n",
+   "Daleks: The Early Years": "\n",
+   "Cybermen: The Early Years": "\n",
+   "Inside the World of Doctor Who": "Kirsten O'Brien\n",
+   "Return to Devil's End": " Nicholas Briggs\n",
+   "30 Years in the TARDIS": "\n",
+   "Whose Doctor Who": "\n",
+   "The Missing Years": "\n",
+   "The Ties That Bind Us": "\n",
+   "Rogue Time Lords": "\n",
+   "Project WHO?": "\n",
+   "Doctor Who - The Lost Episodes": " Shaun Ley\n",
+   "Doctor Who Greatest Moments": "\n",
+   "The Doctors: 30 Years of Time Travel and Beyond": "\n",
+   "Dalekmania (documentary)": "\n",
+   "Bidding Adieu: A Video Diary": "\n",
+   "Who Peter": " Gethin Jones\n"
+  },
+  "interviewer2": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "interviewer3": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "interviewer4": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "interviewer5": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "interviewer6": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "interviewer7": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "interviewer8": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "interviewer9": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "interviewer10": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "interviewee": {
+   "_not_set_in": 32,
+   "_set_in": 18,
+   "Beyond the Vortex": " Nick Briggs\n",
+   "Daleks: The Early Years": "\n",
+   "Cybermen: The Early Years": "\n",
+   "Inside the World of Doctor Who": " Russell T Davies\n",
+   "Return to Devil's End": " Jon Pertwee\n",
+   "30 Years in the TARDIS": " \n",
+   "Whose Doctor Who": " Caron Scott\n",
+   "The Missing Years": " Ian Levine\n",
+   "The Ties That Bind Us": "\n",
+   "Rogue Time Lords": " Terrance Dicks\n",
+   "Project WHO?": " Christopher Eccleston\n",
+   "Doctor Who - The Lost Episodes": "\n",
+   "Doctor Who Greatest Moments": "\n",
+   "The Doctors: 30 Years of Time Travel and Beyond": "\n",
+   "Dalekmania (documentary)": "\n",
+   "Bidding Adieu: A Video Diary": "\n",
+   "Who Peter": " \n"
+  },
+  "interviewee note": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "interviewee2": {
+   "_not_set_in": 44,
+   "_set_in": 6,
+   "Beyond the Vortex": " Jason Haigh-Ellery\n",
+   "Inside the World of Doctor Who": " Danny Hargreaves\n",
+   "Return to Devil's End": " Nicholas Courtney\n",
+   "Whose Doctor Who": " Rosemary Matthews\n",
+   "Rogue Time Lords": " Moray Laing\n",
+   "Project WHO?": " Billie Piper\n"
+  },
+  "interviewee2 note": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "interviewee3": {
+   "_not_set_in": 44,
+   "_set_in": 6,
+   "Beyond the Vortex": " Barnaby Edwards (actor)\n",
+   "Inside the World of Doctor Who": " Neill Gorton\n",
+   "Return to Devil's End": " John Levene\n",
+   "Whose Doctor Who": " Keith Hewett\n",
+   "Rogue Time Lords": " Paul Lang\n",
+   "Project WHO?": " Joe Ahearne\n"
+  },
+  "interviewee3 note": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "interviewee4": {
+   "_not_set_in": 45,
+   "_set_in": 5,
+   "Inside the World of Doctor Who": " Ben Foster\n",
+   "Return to Devil's End": " Richard Franklin\n",
+   "Whose Doctor Who": " Caspar Hewett\n",
+   "Rogue Time Lords": " Nicholas Courtney\n",
+   "Project WHO?": " John Barrowman\n"
+  },
+  "interviewee4 note": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "interviewee5": {
+   "_not_set_in": 45,
+   "_set_in": 5,
+   "Inside the World of Doctor Who": " Will Cohen\n",
+   "Return to Devil's End": " Christopher Barry\n",
+   "Whose Doctor Who": " Dr Eric Sherwood Jones<!--REDIRECT needed-->\n",
+   "Rogue Time Lords": " Tom Spilsbury\n",
+   "Project WHO?": " Nicholas Briggs\n"
+  },
+  "interviewee5 note": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "interviewee6": {
+   "_not_set_in": 47,
+   "_set_in": 3,
+   "Whose Doctor Who": " Tom Baker\n",
+   "Rogue Time Lords": " Pip and Jane Baker\n",
+   "Project WHO?": " Will Cohen\n"
+  },
+  "interviewee6 note": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "interviewee7": {
+   "_not_set_in": 48,
+   "_set_in": 2,
+   "Whose Doctor Who": " Kenneth Bailey\n",
+   "Project WHO?": " Phil Collinson\n"
+  },
+  "interviewee7 note": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "interviewee8": {
+   "_not_set_in": 48,
+   "_set_in": 2,
+   "Whose Doctor Who": " Elizabeth Fibbery\n",
+   "Project WHO?": " Paul Cornell\n"
+  },
+  "interviewee8 note": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "interviewee9": {
+   "_not_set_in": 48,
+   "_set_in": 2,
+   "Whose Doctor Who": " Elizabeth Matthews\n",
+   "Project WHO?": " Russell T Davies\n"
+  },
+  "interviewee9 note": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "interviewee10": {
+   "_not_set_in": 48,
+   "_set_in": 2,
+   "Whose Doctor Who": " Philip Hinchcliffe\n",
+   "Project WHO?": " Terrance Dicks\n"
+  },
+  "interviewee10 note": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "interviewee11": {
+   "_not_set_in": 48,
+   "_set_in": 2,
+   "Whose Doctor Who": " Donna Savage\n",
+   "Project WHO?": " Julie Gardner\n"
+  },
+  "interviewee11 note": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "interviewee12": {
+   "_not_set_in": 49,
+   "_set_in": 1,
+   "Whose Doctor Who": " Dean Boreham\n"
+  },
+  "interviewee12 note": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "interviewee13": {
+   "_not_set_in": 48,
+   "_set_in": 2,
+   "Whose Doctor Who": " Tina Sullivan\n",
+   "Project WHO?": " Mark Gatiss\n"
+  },
+  "interviewee13 note": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "interviewee14": {
+   "_not_set_in": 48,
+   "_set_in": 2,
+   "Whose Doctor Who": " Nicholas Bishop\n",
+   "Project WHO?": " Dave Golder\n"
+  },
+  "interviewee14 note": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "interviewee15": {
+   "_not_set_in": 48,
+   "_set_in": 2,
+   "Whose Doctor Who": " Ronald Matthews\n",
+   "Project WHO?": " Lorraine Heggessey\n"
+  },
+  "interviewee15 note": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "interviewee16": {
+   "_not_set_in": 48,
+   "_set_in": 2,
+   "Whose Doctor Who": " John Miller\n",
+   "Project WHO?": " Clayton Hickman\n"
+  },
+  "interviewee16 note": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "interviewee17": {
+   "_not_set_in": 48,
+   "_set_in": 2,
+   "Whose Doctor Who": " Ann Miller\n",
+   "Project WHO?": " Boyd Hilton\n"
+  },
+  "interviewee17 note": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "interviewee18": {
+   "_not_set_in": 48,
+   "_set_in": 2,
+   "Whose Doctor Who": " David Scott\n",
+   "Project WHO?": " Bryan Hitch\n"
+  },
+  "interviewee18 note": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "interviewee19": {
+   "_not_set_in": 48,
+   "_set_in": 2,
+   "Whose Doctor Who": " Sister Margaret Rogerson<!--REDIRECT needed-->\n",
+   "Project WHO?": " Dave Houghton\n"
+  },
+  "interviewee19 note": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "interviewee20": {
+   "_not_set_in": 48,
+   "_set_in": 2,
+   "Whose Doctor Who": " Terrance Dicks\n",
+   "Project WHO?": " Barry Letts\n"
+  },
+  "interviewee20 note": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "interviewee21": {
+   "_not_set_in": 48,
+   "_set_in": 2,
+   "Whose Doctor Who": " Robert Holmes\n",
+   "Project WHO?": " Shaun Lyon\n"
+  },
+  "interviewee21 note": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "interviewee22": {
+   "_not_set_in": 48,
+   "_set_in": 2,
+   "Whose Doctor Who": " Helen Dickinson\n",
+   "Project WHO?": " Stuart Maconie\n"
+  },
+  "interviewee22 note": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "interviewee23": {
+   "_not_set_in": 49,
+   "_set_in": 1,
+   "Project WHO?": " Andy Pryor\n"
+  },
+  "interviewee24": {
+   "_not_set_in": 49,
+   "_set_in": 1,
+   "Project WHO?": " Rob Shearman\n"
+  },
+  "interviewee25": {
+   "_not_set_in": 49,
+   "_set_in": 1,
+   "Project WHO?": " Robin Shenfield\n"
+  },
+  "interviewee26": {
+   "_not_set_in": 49,
+   "_set_in": 1,
+   "Project WHO?": " Elisabeth Sladen\n"
+  },
+  "interviewee27": {
+   "_not_set_in": 49,
+   "_set_in": 1,
+   "Project WHO?": " Edward Thomas\n"
+  },
+  "interviewee28": {
+   "_not_set_in": 49,
+   "_set_in": 1,
+   "Project WHO?": " Jane Tranter\n"
+  },
+  "interviewee29": {
+   "_not_set_in": 49,
+   "_set_in": 1,
+   "Project WHO?": " Mal Young\n"
+  },
+  "interviewee30": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "interviewee31": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "interviewee32": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "interviewee33": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "interviewee34": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "interviewee35": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "interviewee36": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "interviewee37": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "interviewee38": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "interviewee39": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "interviewee40": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "narrator": {
+   "_not_set_in": 11,
+   "_set_in": 39,
+   "Doctor Who Confidential": " Simon Pegg\n",
+   "Beyond the Vortex": "\n",
+   "Daleks: The Early Years": "Peter Davison\n",
+   "Cybermen: The Early Years": "Colin Baker\n",
+   "Inside the World of Doctor Who": "\n",
+   "30 Years in the TARDIS": " \n",
+   "Whose Doctor Who": " Melvyn Bragg\n",
+   "The Missing Years": " Deborah Watling\n",
+   "The Ties That Bind Us": "Paul McGann\n",
+   "Rogue Time Lords": " \n",
+   "Project WHO?": " Anthony Head\n",
+   "Project Who": "Anthony Head\n",
+   "Doctor Who at the BBC: A Legend Reborn": " Kate Thomas\n",
+   "Doctor Who - The Lost Episodes": "\n",
+   "Doctor Who Greatest Moments": " Jo Whiley\n",
+   "The Doctors: 30 Years of Time Travel and Beyond": "\n",
+   "Dalekmania (documentary)": "\n",
+   "Bidding Adieu: A Video Diary": "\n",
+   "Who Peter": " \n",
+   "A Brush with Genius (CON episode)": " Alex Price\n",
+   "Backstage at Christmas (CON episode)": " Simon Pegg\n",
+   "Out of Time (CON episode)": " Alex Price\n",
+   "Alien Abduction (CON episode)": " Alex Price\n",
+   "Extra Time (CON episode)": " Alex Price\n",
+   "What Goes on Tour... (CON episode)": " Alex Price\n",
+   "After Effects (CON episode)": " Alex Price\n",
+   "Arthurian Legend (CON episode)": " Alex Price\n",
+   "Death in Venice (CON episode)": " Alex Price\n",
+   "Blinded by the Light (CON episode)": " Alex Price\n",
+   "Eyes Wide Open (CON episode)": " Alex Price\n",
+   "War Games (CON episode)": " Alex Price\n",
+   "All About the Girl (CON episode)": " Alex Price\n",
+   "Call Me the Doctor (CON episode)": " Alex Price\n",
+   "Bringing Back the Doctor (CON episode)": " Simon Pegg\n",
+   "Aliens: the Good, the Bad and the Ugly (CON episode)": " Simon Pegg\n",
+   "TARDIS Tales (CON episode)": " Simon Pegg\n",
+   "I Get a Side-Kick Out of You (CON episode)": " Simon Pegg\n",
+   "Why on Earth? (CON episode)": " Simon Pegg\n"
+  },
+  "narrator2": {
+   "_not_set_in": 46,
+   "_set_in": 4,
+   "Doctor Who Confidential": " Anthony Stewart Head\n",
+   "Daleks: The Early Years": "\n",
+   "Cybermen: The Early Years": "\n",
+   "The Missing Years": " Frazer Hines\n"
+  },
+  "narrator3": {
+   "_not_set_in": 47,
+   "_set_in": 3,
+   "Doctor Who Confidential": " Mark Gatiss\n",
+   "Daleks: The Early Years": "\n",
+   "Cybermen: The Early Years": "\n"
+  },
+  "narrator4": {
+   "_not_set_in": 49,
+   "_set_in": 1,
+   "Doctor Who Confidential": " Noel Clarke\n"
+  },
+  "narrator5": {
+   "_not_set_in": 49,
+   "_set_in": 1,
+   "Doctor Who Confidential": " Alex Price\n"
+  },
+  "narrator6": {
+   "_not_set_in": 49,
+   "_set_in": 1,
+   "Doctor Who Confidential": " Russell Tovey\n"
+  },
+  "narrator7": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "narrator8": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "narrator9": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "narrator10": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "uncredited narrator": {
+   "_not_set_in": 15,
+   "_set_in": 35,
+   "Beyond the Vortex": "\n",
+   "Daleks: The Early Years": "\n",
+   "Cybermen: The Early Years": "\n",
+   "Inside the World of Doctor Who": "\n",
+   "30 Years in the TARDIS": "\n",
+   "Whose Doctor Who": "\n",
+   "The Missing Years": "\n",
+   "The Ties That Bind Us": "\n",
+   "Rogue Time Lords": "\n",
+   "Doctor Who - The Lost Episodes": "\n",
+   "Doctor Who Greatest Moments": "\n",
+   "The Doctors: 30 Years of Time Travel and Beyond": "\n",
+   "Dalekmania (documentary)": "\n",
+   "Bidding Adieu: A Video Diary": "\n",
+   "Who Peter": "\n",
+   "A Brush with Genius (CON episode)": " \n",
+   "Backstage at Christmas (CON episode)": " \n",
+   "Out of Time (CON episode)": " \n",
+   "Alien Abduction (CON episode)": " \n",
+   "Extra Time (CON episode)": " \n",
+   "What Goes on Tour... (CON episode)": " \n",
+   "After Effects (CON episode)": " \n",
+   "Arthurian Legend (CON episode)": " \n",
+   "Death in Venice (CON episode)": " \n",
+   "Blinded by the Light (CON episode)": " \n",
+   "Eyes Wide Open (CON episode)": " \n",
+   "War Games (CON episode)": " \n",
+   "All About the Girl (CON episode)": " \n",
+   "Call Me the Doctor (CON episode)": " \n",
+   "Bringing Back the Doctor (CON episode)": " \n",
+   "Aliens: the Good, the Bad and the Ugly (CON episode)": " \n",
+   "TARDIS Tales (CON episode)": " \n",
+   "I Get a Side-Kick Out of You (CON episode)": " \n",
+   "Why on Earth? (CON episode)": " \n"
+  },
+  "writer": {
+   "_not_set_in": 15,
+   "_set_in": 35,
+   "The Tom Baker Years": "\n",
+   "Daleks: The Early Years": "John Nathan-Turner\n",
+   "Cybermen: The Early Years": "John Nathan-Turner\n",
+   "The Ties That Bind Us": "\n",
+   "Project WHO?": " Malcolm Prince\n",
+   "Doctor Who at the BBC: The Tenth Doctor": " Andrew Pixley\n",
+   "Doctor Who at the BBC: A Legend Reborn": " Andrew Pixley\n",
+   "Doctor Who - The Lost Episodes": "\n",
+   "Doctor Who at the BBC": " Michael Stevens\n",
+   "Doctor Who at the BBC Volume 2": " Michael Stevens\n",
+   "Doctor Who at the BBC Volume 3": " Michael Stevens\n",
+   "Doctor Who Greatest Moments": "\n",
+   "The Doctors: 30 Years of Time Travel and Beyond": " Adrian Rigelsford\n",
+   "Doctor Who at the BBC: The Plays": " \n",
+   "Dalekmania (documentary)": "\n",
+   "Bidding Adieu: A Video Diary": "\n",
+   "A Brush with Genius (CON episode)": "\n",
+   "Backstage at Christmas (CON episode)": "\n",
+   "Out of Time (CON episode)": "\n",
+   "Alien Abduction (CON episode)": "\n",
+   "Extra Time (CON episode)": "\n",
+   "What Goes on Tour... (CON episode)": "\n",
+   "After Effects (CON episode)": "\n",
+   "Arthurian Legend (CON episode)": "\n",
+   "Death in Venice (CON episode)": "\n",
+   "Blinded by the Light (CON episode)": "\n",
+   "Eyes Wide Open (CON episode)": "\n",
+   "War Games (CON episode)": "\n",
+   "All About the Girl (CON episode)": "\n",
+   "Call Me the Doctor (CON episode)": "\n",
+   "Bringing Back the Doctor (CON episode)": "\n",
+   "Aliens: the Good, the Bad and the Ugly (CON episode)": "\n",
+   "TARDIS Tales (CON episode)": "\n",
+   "I Get a Side-Kick Out of You (CON episode)": "\n",
+   "Why on Earth? (CON episode)": "\n"
+  },
+  "writer2": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "writer3": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "writer4": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "writer5": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "writer6": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "writer7": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "writer8": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "writer9": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "writer10": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "director": {
+   "_not_set_in": 3,
+   "_set_in": 47,
+   "Doctor Who Confidential": "\n",
+   "Beyond the Vortex": "\n",
+   "The Hartnell Years": "\n",
+   "The Troughton Years": "\n",
+   "The Pertwee Years": "\n",
+   "The Tom Baker Years": "\n",
+   "The Colin Baker Years": "\n",
+   "Daleks: The Early Years": "\n",
+   "Cybermen: The Early Years": "\n",
+   "Inside the World of Doctor Who": "\n",
+   "30 Years in the TARDIS": "\n",
+   "Whose Doctor Who": "\n",
+   "The Missing Years": " Paul Vanezis\n",
+   "The Ties That Bind Us": "\n",
+   "Rogue Time Lords": "\n",
+   "Project WHO?": "\n",
+   "Doctor Who at the BBC: The Tenth Doctor": " \n",
+   "Doctor Who - The Lost Episodes": "\n",
+   "Doctor Who at the BBC": " \n",
+   "Doctor Who at the BBC Volume 2": " \n",
+   "Doctor Who at the BBC Volume 3": " \n",
+   "Doctor Who Greatest Moments": "\n",
+   "The Doctors: 30 Years of Time Travel and Beyond": " Bill Baggs\n",
+   "Doctor Who at the BBC: The Plays": " \n",
+   "Dalekmania (documentary)": "\n",
+   "Bidding Adieu: A Video Diary": "\n",
+   "Who Peter": " Chris Chapman\n",
+   "A Brush with Genius (CON episode)": "\n",
+   "Backstage at Christmas (CON episode)": " \n",
+   "Out of Time (CON episode)": "\n",
+   "Alien Abduction (CON episode)": "\n",
+   "Extra Time (CON episode)": "\n",
+   "What Goes on Tour... (CON episode)": "\n",
+   "After Effects (CON episode)": "\n",
+   "Arthurian Legend (CON episode)": "\n",
+   "Death in Venice (CON episode)": "\n",
+   "Blinded by the Light (CON episode)": "\n",
+   "Eyes Wide Open (CON episode)": "\n",
+   "War Games (CON episode)": "\n",
+   "All About the Girl (CON episode)": "\n",
+   "Call Me the Doctor (CON episode)": "\n",
+   "Bringing Back the Doctor (CON episode)": " \n",
+   "Aliens: the Good, the Bad and the Ugly (CON episode)": " \n",
+   "TARDIS Tales (CON episode)": " \n",
+   "I Get a Side-Kick Out of You (CON episode)": " \n",
+   "Why on Earth? (CON episode)": " \n"
+  },
+  "director2": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "director3": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "director4": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "director5": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "director6": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "director7": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "director8": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "director9": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "director10": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "editor": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "editor2": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "editor3": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "editor4": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "editor5": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "editor6": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "editor7": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "editor8": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "editor9": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "editor10": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "illustrator": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "series producer": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "series producer2": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "series producer3": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "producer": {
+   "_not_set_in": 6,
+   "_set_in": 44,
+   "Doctor Who Confidential": "\n",
+   "Beyond the Vortex": " Martin Montague\n",
+   "The Tom Baker Years": "\n",
+   "Daleks: The Early Years": "John Nathan-Turner\n",
+   "Cybermen: The Early Years": "John Nathan-Turner\n",
+   "Inside the World of Doctor Who": "\n",
+   "30 Years in the TARDIS": " \n",
+   "Whose Doctor Who": " Tony Cash\n",
+   "The Missing Years": " Steve Roberts\n",
+   "The Ties That Bind Us": "\n",
+   "Rogue Time Lords": " Anthony Caulfield\n",
+   "Project WHO?": " Malcolm Prince\n",
+   "Project Who": "Malcolm Prince\n",
+   "Doctor Who at the BBC: The Tenth Doctor": " Michael Stevens\n",
+   "Doctor Who at the BBC: A Legend Reborn": " Michael Stevens\n",
+   "Doctor Who - The Lost Episodes": "\n",
+   "Doctor Who at the BBC": " Michael Stevens\n",
+   "Doctor Who at the BBC Volume 2": " Michael Stevens\n",
+   "Doctor Who at the BBC Volume 3": " Michael Stevens\n",
+   "Doctor Who Greatest Moments": "\n",
+   "The Doctors: 30 Years of Time Travel and Beyond": " Bill Baggs\n",
+   "Dalekmania (documentary)": "\n",
+   "Bidding Adieu: A Video Diary": "Bill Baggs\n",
+   "Who Peter": " Chris Chapman\n",
+   "A Brush with Genius (CON episode)": "\n",
+   "Backstage at Christmas (CON episode)": " \n",
+   "Out of Time (CON episode)": "\n",
+   "Alien Abduction (CON episode)": "\n",
+   "Extra Time (CON episode)": "\n",
+   "What Goes on Tour... (CON episode)": "\n",
+   "After Effects (CON episode)": "\n",
+   "Arthurian Legend (CON episode)": "\n",
+   "Death in Venice (CON episode)": "\n",
+   "Blinded by the Light (CON episode)": "\n",
+   "Eyes Wide Open (CON episode)": "\n",
+   "War Games (CON episode)": "\n",
+   "All About the Girl (CON episode)": "\n",
+   "Call Me the Doctor (CON episode)": "\n",
+   "Bringing Back the Doctor (CON episode)": " \n",
+   "Aliens: the Good, the Bad and the Ugly (CON episode)": " \n",
+   "TARDIS Tales (CON episode)": " \n",
+   "I Get a Side-Kick Out of You (CON episode)": " \n",
+   "Why on Earth? (CON episode)": " \n"
+  },
+  "producer2": {
+   "_not_set_in": 49,
+   "_set_in": 1,
+   "Rogue Time Lords": " Richard Adamson\n"
+  },
+  "producer3": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "producer4": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "producer5": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "producer6": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "producer7": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "producer8": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "producer9": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "producer10": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "associate producer": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "associate producer2": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "associate producer3": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "executive producer": {
+   "_not_set_in": 15,
+   "_set_in": 35,
+   "Doctor Who Confidential": "\n",
+   "The Tom Baker Years": "\n",
+   "Daleks: The Early Years": "\n",
+   "Cybermen: The Early Years": "\n",
+   "30 Years in the TARDIS": " \n",
+   "Whose Doctor Who": " Bill Morton\n",
+   "The Ties That Bind Us": "\n",
+   "Rogue Time Lords": " Dan Hall\n",
+   "Project WHO?": "\n",
+   "Doctor Who - The Lost Episodes": "\n",
+   "Doctor Who Greatest Moments": "\n",
+   "The Doctors: 30 Years of Time Travel and Beyond": "\n",
+   "Dalekmania (documentary)": "\n",
+   "Bidding Adieu: A Video Diary": "\n",
+   "Who Peter": " Dan Hall\n",
+   "A Brush with Genius (CON episode)": "\n",
+   "Backstage at Christmas (CON episode)": "\n",
+   "Out of Time (CON episode)": "\n",
+   "Alien Abduction (CON episode)": "\n",
+   "Extra Time (CON episode)": "\n",
+   "What Goes on Tour... (CON episode)": "\n",
+   "After Effects (CON episode)": "\n",
+   "Arthurian Legend (CON episode)": "\n",
+   "Death in Venice (CON episode)": "\n",
+   "Blinded by the Light (CON episode)": "\n",
+   "Eyes Wide Open (CON episode)": "\n",
+   "War Games (CON episode)": "\n",
+   "All About the Girl (CON episode)": "\n",
+   "Call Me the Doctor (CON episode)": "\n",
+   "Bringing Back the Doctor (CON episode)": "\n",
+   "Aliens: the Good, the Bad and the Ugly (CON episode)": "\n",
+   "TARDIS Tales (CON episode)": "\n",
+   "I Get a Side-Kick Out of You (CON episode)": "\n",
+   "Why on Earth? (CON episode)": "\n"
+  },
+  "executive producer2": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "executive producer3": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "executive producer4": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "executive producer5": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "executive producer6": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "executive producer7": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "executive producer8": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "executive producer9": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "executive producer10": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "trailer": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "trailer2": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "clip": {
+   "_not_set_in": 46,
+   "_set_in": 4,
+   "Doctor Who at the BBC: The Tenth Doctor": " Doctor Who At The BBC The Tenth Doctor\n",
+   "Bringing Back the Doctor (CON episode)": " Chris and Billie's First Big Scene Together (HQ) - Doctor Who Confidential - BBC\n",
+   "Aliens: the Good, the Bad and the Ugly (CON episode)": " Creating Cassandra - Dr Who Confidential - BBC sci-fi\n",
+   "TARDIS Tales (CON episode)": "Recreating 19th century Wales - Dr Who Confidential - BBC sci-fi\n"
+  },
+  "clip2": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "clip3": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "fullvid": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "bts": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "bts2": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "bts3": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "scene analysis": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "soundcloudtrailer": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "soundcloudtrailer2": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "musicsuite": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "sample": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "soundcloudbts": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "audio commentary": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "fullaud": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "prev": {
+   "_not_set_in": 7,
+   "_set_in": 43,
+   "Beyond the Vortex": "\n",
+   "The Hartnell Years": "\n",
+   "The Troughton Years": "The Hartnell Years\n",
+   "The Pertwee Years": "The Troughton Years\n",
+   "The Tom Baker Years": "Cybermen: The Early Years\n",
+   "The Colin Baker Years": "The Tom Baker Years\n",
+   "Daleks: The Early Years": "The Pertwee Years\n",
+   "Cybermen: The Early Years": "Daleks: The Early Years\n",
+   "Inside the World of Doctor Who": "\n",
+   "30 Years in the TARDIS": "\n",
+   "Whose Doctor Who": "\n",
+   "The Missing Years": "\n",
+   "The Ties That Bind Us": "\n",
+   "Rogue Time Lords": "\n",
+   "Project WHO?": "\n",
+   "Doctor Who at the BBC: The Tenth Doctor": " Doctor Who at the BBC: The Plays\n",
+   "Doctor Who at the BBC: A Legend Reborn": " Doctor Who at the BBC: The Tenth Doctor \n",
+   "Doctor Who - The Lost Episodes": "\n",
+   "Doctor Who at the BBC Volume 2": " Doctor Who at the BBC\n",
+   "Doctor Who at the BBC Volume 3": " Doctor Who at the BBC Volume 2\n",
+   "The Doctors: 30 Years of Time Travel and Beyond": " The Doctors - 30 Years of Time Travel\n",
+   "Doctor Who at the BBC: The Plays": " Doctor Who at the BBC Volume 3\n",
+   "Who Peter": "\n",
+   "A Brush with Genius (CON episode)": " What Goes on Tour...\n",
+   "Backstage at Christmas (CON episode)": " The Last Battle (CON episode)\n",
+   "Out of Time (CON episode)": " Alien Abduction\n",
+   "Alien Abduction (CON episode)": " Extra Time (CON episode)\n",
+   "Extra Time (CON episode)": " A Brush with Genius\n",
+   "What Goes on Tour... (CON episode)": " After Effects\n",
+   "After Effects (CON episode)": " Arthurian Legend\n",
+   "Arthurian Legend (CON episode)": " Death in Venice\n",
+   "Death in Venice (CON episode)": " Blinded by the Light\n",
+   "Blinded by the Light (CON episode)": " Eyes Wide Open\n",
+   "Eyes Wide Open (CON episode)": " War Games\n",
+   "War Games (CON episode)": " All About the Girl\n",
+   "All About the Girl (CON episode)": " Call Me the Doctor\n",
+   "Call Me the Doctor (CON episode)": " Allons-y!\n",
+   "Bringing Back the Doctor (CON episode)": " Doctor Who: A New Dimension (CON episode)\n",
+   "Aliens: the Good, the Bad and the Ugly (CON episode)": " Bringing Back the Doctor\n",
+   "TARDIS Tales (CON episode)": " Aliens: the Good, the Bad and the Ugly (CON episode)\n",
+   "I Get a Side-Kick Out of You (CON episode)": " TARDIS Tales (CON episode)\n",
+   "Why on Earth? (CON episode)": " I Get a Side-Kick Out of You (CON episode)\n"
+  },
+  "next": {
+   "_not_set_in": 7,
+   "_set_in": 43,
+   "Beyond the Vortex": "\n",
+   "The Hartnell Years": "The Troughton Years\n",
+   "The Troughton Years": "The Pertwee Years\n",
+   "The Pertwee Years": "Daleks: The Early Years\n",
+   "The Tom Baker Years": "The Colin Baker Years\n",
+   "The Colin Baker Years": "\n",
+   "Daleks: The Early Years": "Cybermen: The Early Years\n",
+   "Cybermen: The Early Years": "The Tom Baker Years\n",
+   "Inside the World of Doctor Who": "\n",
+   "30 Years in the TARDIS": "\n",
+   "Whose Doctor Who": "\n",
+   "The Missing Years": "\n",
+   "The Ties That Bind Us": "\n",
+   "Rogue Time Lords": "\n",
+   "Project WHO?": "\n",
+   "Doctor Who at the BBC: The Tenth Doctor": " Doctor Who at the BBC: A Legend Reborn\n",
+   "Doctor Who at the BBC: A Legend Reborn": " Doctor Who at the BBC: Lost Treasures\n",
+   "Doctor Who - The Lost Episodes": "\n",
+   "Doctor Who at the BBC": " Doctor Who at the BBC Volume 2\n",
+   "Doctor Who at the BBC Volume 2": " Doctor Who at the BBC Volume 3\n",
+   "Doctor Who at the BBC Volume 3": " Doctor Who at the BBC: The Plays\n",
+   "Doctor Who at the BBC: The Plays": " Doctor Who at the BBC: The Tenth Doctor\n",
+   "Who Peter": "\n",
+   "A Brush with Genius (CON episode)": " Extra Time (CON episode)\n",
+   "Backstage at Christmas (CON episode)": " One Year On (CON episode)\n",
+   "Out of Time (CON episode)": " Charlie McDonnell - Runner\n",
+   "Alien Abduction (CON episode)": " Out of Time (CON episode)\n",
+   "Extra Time (CON episode)": " Alien Abduction\n",
+   "What Goes on Tour... (CON episode)": " A Brush with Genius\n",
+   "After Effects (CON episode)": " What Goes on Tour...\n",
+   "Arthurian Legend (CON episode)": " After Effects\n",
+   "Death in Venice (CON episode)": " Arthurian Legend\n",
+   "Blinded by the Light (CON episode)": " Death in Venice\n",
+   "Eyes Wide Open (CON episode)": " Blinded by the Light\n",
+   "War Games (CON episode)": " Eyes Wide Open\n",
+   "All About the Girl (CON episode)": " War Games\n",
+   "Call Me the Doctor (CON episode)": " All About the Girl\n",
+   "Bringing Back the Doctor (CON episode)": " Aliens: the Good, the Bad and the Ugly (CON episode)\n",
+   "Aliens: the Good, the Bad and the Ugly (CON episode)": " TARDIS Tales\n",
+   "TARDIS Tales (CON episode)": " I Get a Side-Kick Out of You (CON episode)\n",
+   "I Get a Side-Kick Out of You (CON episode)": " Why on Earth? (CON episode)\n",
+   "Why on Earth? (CON episode)": " The Daleks (CON episode)\n"
+  },
+  "prev2": {
+   "_not_set_in": 42,
+   "_set_in": 8,
+   "Daleks: The Early Years": "\n",
+   "Cybermen: The Early Years": "\n",
+   "30 Years in the TARDIS": "\n",
+   "Whose Doctor Who": "\n",
+   "The Ties That Bind Us": "\n",
+   "Doctor Who - The Lost Episodes": "\n",
+   "Who Peter": "\n"
+  },
+  "next2": {
+   "_not_set_in": 42,
+   "_set_in": 8,
+   "Daleks: The Early Years": "\n",
+   "Cybermen: The Early Years": "\n",
+   "30 Years in the TARDIS": "\n",
+   "Whose Doctor Who": "\n",
+   "The Ties That Bind Us": "\n",
+   "Doctor Who - The Lost Episodes": "\n",
+   "Who Peter": "\n"
+  },
+  "prev3": {
+   "_not_set_in": 42,
+   "_set_in": 8,
+   "Daleks: The Early Years": "\n",
+   "Cybermen: The Early Years": "\n",
+   "30 Years in the TARDIS": "\n",
+   "Whose Doctor Who": "\n",
+   "The Ties That Bind Us": "\n",
+   "Doctor Who - The Lost Episodes": "\n",
+   "Who Peter": "\n"
+  },
+  "next3": {
+   "_not_set_in": 42,
+   "_set_in": 8,
+   "Daleks: The Early Years": "\n",
+   "Cybermen: The Early Years": "\n",
+   "30 Years in the TARDIS": "\n",
+   "Whose Doctor Who": "\n",
+   "The Ties That Bind Us": "\n",
+   "Doctor Who - The Lost Episodes": "\n",
+   "Who Peter": "\n"
+  }
+ }
+}

@@ -1,0 +1,60 @@
+{
+ "wiki": "hero.fandom.com",
+ "infobox": "Template:Friendly Species",
+ "parameters": {
+  "Box title": {
+   "_not_set_in": 1,
+   "_set_in": 0
+  },
+  "image": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Mr. Pod": " Mr._Pod.jpeg"
+  },
+  "fullname": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Mr. Pod": " Mr. Pod"
+  },
+  "alias": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Mr. Pod": " Pod"
+  },
+  "origin": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Mr. Pod": " ''Mr. Bean the animated series''"
+  },
+  "homeworld": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Mr. Pod": " Unknown"
+  },
+  "abilities": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Mr. Pod": " Enhanced intelligence<br>\nMemory wiping"
+  },
+  "members": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Mr. Pod": " Mr. Pods\nMr. Bean"
+  },
+  "hobby": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Mr. Pod": " Being with their stuffed animal."
+  },
+  "goals": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Mr. Pod": " To reunite with Mr. Bean."
+  },
+  "type of friendly species": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Mr. Pod": " Humanoid Aliens"
+  }
+ }
+}

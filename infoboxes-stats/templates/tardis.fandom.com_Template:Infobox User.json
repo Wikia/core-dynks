@@ -1,0 +1,142 @@
+{
+ "wiki": "tardis.fandom.com",
+ "infobox": "Template:Infobox User",
+ "parameters": {
+  "name": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "image": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "caption": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "image2": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "caption2": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "aka": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "age": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "species": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "job": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "affiliation": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "origin": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "fav doctor": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "fav companion": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "fav enemy": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "fav episode": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "fav season": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "languages": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "trailer": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "trailer2": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "clip": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "clip2": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "clip3": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "fullvid": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "bts": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "bts2": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "bts3": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "scene analysis": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "soundcloudtrailer": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "soundcloudtrailer2": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "musicsuite": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "sample": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "soundcloudbts": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "audio commentary": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "fullaud": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  }
+ }
+}

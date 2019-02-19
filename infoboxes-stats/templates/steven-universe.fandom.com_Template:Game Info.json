@@ -1,0 +1,150 @@
+{
+ "wiki": "steven-universe.fandom.com",
+ "infobox": "Template:Game Info",
+ "parameters": {
+  "Title": {
+   "_not_set_in": 18,
+   "_set_in": 1,
+   "Let's Bubble It, Steven!": " Let's Bubble It, Steven!\n"
+  },
+  "Image": {
+   "_not_set_in": 0,
+   "_set_in": 19,
+   "Gem Bound": " Gem Bounce title.png\n",
+   "Goat Guardian": " GoatGuardian.PNG\n",
+   "Heap of Trouble": " HoT1.jpg\n",
+   "Attack the Light": " AttackTheLightTitleScreen.png\n",
+   "Crystal Gem Smash": " Crystal Gem Smash.png\n",
+   "Watch Your Step, Steven!": " Watch your step steven game.png\n",
+   "Sword Dancers": " Sword Dancers.jpg\n",
+   "Let's Bubble It, Steven!": " Letsbubblesteven-266x266-en.jpg\n",
+   "Soundtrack Attack": " Soundtrack Attack Logo.png\n",
+   "Cartoon Network: Battle Crashers": " CN Battle Crashers.jpg\n",
+   "CN Superstar Soccer: Goal!!!": " CN Superstar Soccer Goal Start Menu.png\n",
+   "Shifting Temple": " Shifting Temple Start Menu.png\n",
+   "Spike Squad": " Spike Squad.png\n",
+   "Ruckus Room": " Ruckus Room.png\n",
+   "Save the Light": " Save the Light.png\n",
+   "Dreamland Arcade": " Dreamland Arcade 1.jpg\n",
+   "Steven Universe: Tap Together": " TapTogether.png\n",
+   "Cartoon Network: Match Land": " Cartoon Network Match Land home screen.png\n",
+   "Beach City Drifters": " Beach city drifters Game Main.png"
+  },
+  "Developer": {
+   "_not_set_in": 9,
+   "_set_in": 10,
+   "Goat Guardian": " HEADFIZZ",
+   "Attack the Light": " [[Grumpyface Studios]]\n",
+   "Crystal Gem Smash": " Dan Balgley\n",
+   "Watch Your Step, Steven!": " [[Cartoon Network]]\n",
+   "Soundtrack Attack": " Purple Tree Games\n",
+   "Cartoon Network: Battle Crashers": " GameMill Entertaiment\n",
+   "Save the Light": " [[Grumpyface Studios]]<br>Finite Reflection Studios (PC)\n",
+   "Dreamland Arcade": " StellarJay Studios\n",
+   "Steven Universe: Tap Together": " SPYR Apps, LLC\n",
+   "Cartoon Network: Match Land": " Race Cat\n"
+  },
+  "Publisher": {
+   "_not_set_in": 4,
+   "_set_in": 15,
+   "Gem Bound": " [[Cartoon Network]]\n",
+   "Goat Guardian": " [[Cartoon Network]]\n",
+   "Heap of Trouble": " [[Cartoon Network]]\n",
+   "Crystal Gem Smash": " [[Cartoon Network]]\n",
+   "Sword Dancers": " [[Cartoon Network]]\n",
+   "Let's Bubble It, Steven!": " [[Cartoon Network]]\n",
+   "Soundtrack Attack": " Turner Broadcasting System, Inc.\n",
+   "Cartoon Network: Battle Crashers": " GameMill\n",
+   "Shifting Temple": " [[Cartoon Network]]\n",
+   "Spike Squad": " [[Cartoon Network]]<br>Purple Tree\n",
+   "Ruckus Room": " [[Cartoon Network]]\n",
+   "Save the Light": " [[Cartoon Network]] (digital)<br>Outright Games (physical)\n",
+   "Dreamland Arcade": " Turner Broadcasting Systems, Inc.\n",
+   "Steven Universe: Tap Together": " SPYR Games<br />Reset Studios\n",
+   "Beach City Drifters": " Cartoon Network\nAvix"
+  },
+  "Platforms": {
+   "_not_set_in": 3,
+   "_set_in": 16,
+   "Attack the Light": " Android, iOS, Kindle\n",
+   "Crystal Gem Smash": " iOS\n",
+   "Watch Your Step, Steven!": " PC\n",
+   "Sword Dancers": " PC\n",
+   "Let's Bubble It, Steven!": " PC\n",
+   "Soundtrack Attack": " Mobile\n",
+   "Cartoon Network: Battle Crashers": " PS4, Xbox One, Nintendo 3DS, Nintendo Switch\n",
+   "CN Superstar Soccer: Goal!!!": " Android, iOS, Amazon\n",
+   "Shifting Temple": " PC\n",
+   "Spike Squad": " PC\n",
+   "Ruckus Room": " PC\n",
+   "Save the Light": " PlayStation 4, Xbox One, PC, Mac, Nintendo Switchref name = \"GRUMP\"[https://grumpyfaceblog.tumblr.com/post/166292257463/alonetogether-save-the-light-releases-on-1031#notes Save the Light Release Announcement] \u2013 Grumpyface! on Tumblr</ref>\n",
+   "Dreamland Arcade": " Mobile\n",
+   "Steven Universe: Tap Together": " Android & iOS\n",
+   "Cartoon Network: Match Land": " IOS and Android\n",
+   "Beach City Drifters": " PC"
+  },
+  "Released": {
+   "_not_set_in": 5,
+   "_set_in": 14,
+   "Heap of Trouble": " January 2015\n",
+   "Attack the Light": " April 2, 2015 refChris (March 30, 2015). [http://grumpyfacestudios.blogspot.com/2015/03/attack-light-steven-universe-rpg.html \"\"Attack the Light: Steven Universe RPG\" releasing on 4/2/15!\"] \u2013 Grumpyface Studios.</ref>\n",
+   "Watch Your Step, Steven!": " \n",
+   "Sword Dancers": " November 2015\n",
+   "Soundtrack Attack": " 21 July 2016\n",
+   "Cartoon Network: Battle Crashers": " November 8, 2016\n",
+   "CN Superstar Soccer: Goal!!!": " August 24th, 2016\n",
+   "Spike Squad": " January 2017\n",
+   "Ruckus Room": " \n",
+   "Save the Light": " \n* October 31, 2017 (PS4)\n* November 3, 2017 (Xbox One)\n* August 13, 2018 (PC & Mac)\n* October 30, 2018 (Nintendo Switch)\n",
+   "Dreamland Arcade": " November 9, 2017\n",
+   "Steven Universe: Tap Together": " Beta\n",
+   "Cartoon Network: Match Land": " March 21, 2018\n",
+   "Beach City Drifters": " 2018"
+  },
+  "Genre": {
+   "_not_set_in": 1,
+   "_set_in": 18,
+   "Gem Bound": " Platformer\n",
+   "Goat Guardian": " Platformer\n",
+   "Heap of Trouble": " Casual\n",
+   "Attack the Light": " RPG\n",
+   "Watch Your Step, Steven!": " Browser game\n",
+   "Sword Dancers": " Browser game\n",
+   "Let's Bubble It, Steven!": " Browser game\n",
+   "Soundtrack Attack": " Rhythm Action\n",
+   "Cartoon Network: Battle Crashers": " Action\n",
+   "CN Superstar Soccer: Goal!!!": " Sports\n",
+   "Shifting Temple": " Browser Game\n",
+   "Spike Squad": " Browser game\n",
+   "Ruckus Room": " Browser game\n",
+   "Save the Light": " Action-adventure, role-playing\n",
+   "Dreamland Arcade": " Arcade, Action\n",
+   "Steven Universe: Tap Together": " RPG\n",
+   "Cartoon Network: Match Land": " match-3\n",
+   "Beach City Drifters": " Browser Game"
+  },
+  "Ratings": {
+   "_not_set_in": 16,
+   "_set_in": 3,
+   "Soundtrack Attack": " 9+\n",
+   "Save the Light": " Everyone 10+ (ESRB)<br>(Fantasy Violence)\n",
+   "Dreamland Arcade": " 9+ (Infrequent/Mild Cartoon or Fantasy Violence)\n"
+  },
+  "Audio": {
+   "_not_set_in": 19,
+   "_set_in": 0
+  },
+  "Audio2": {
+   "_not_set_in": 19,
+   "_set_in": 0
+  },
+  "AudioLabel": {
+   "_not_set_in": 19,
+   "_set_in": 0
+  },
+  "Audio2Label": {
+   "_not_set_in": 19,
+   "_set_in": 0
+  }
+ }
+}

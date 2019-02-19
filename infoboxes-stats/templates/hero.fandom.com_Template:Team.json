@@ -1,0 +1,99 @@
+{
+ "wiki": "hero.fandom.com",
+ "infobox": "Template:Team",
+ "parameters": {
+  "title1": {
+   "_not_set_in": 3,
+   "_set_in": 1,
+   "Elder Gods (Greek mythology)": " Heroic Family"
+  },
+  "image1": {
+   "_not_set_in": 0,
+   "_set_in": 4,
+   "Elder Gods (Greek mythology)": " Children_of_Cronus.png",
+   "Black Eagles": " Black Eagles.png",
+   "Blue Lions": " Blue Lions.png",
+   "Golden Deer": " Golden Deer.png"
+  },
+  "caption1": {
+   "_not_set_in": 4,
+   "_set_in": 0
+  },
+  "full_name": {
+   "_not_set_in": 0,
+   "_set_in": 4,
+   "Elder Gods (Greek mythology)": " The Elder Gods",
+   "Black Eagles": " Black Eagles",
+   "Blue Lions": " Blue Lions",
+   "Golden Deer": " Golden Deer"
+  },
+  "alias": {
+   "_not_set_in": 3,
+   "_set_in": 1,
+   "Elder Gods (Greek mythology)": " The Children of Cronus/Kronos\nThe Olympians<br>\nZeus's Siblings"
+  },
+  "origin": {
+   "_not_set_in": 0,
+   "_set_in": 4,
+   "Elder Gods (Greek mythology)": " Hellas (Greece)",
+   "Black Eagles": " ''Fire Emblem: Three Houses''",
+   "Blue Lions": " ''Fire Emblem: Three Houses''",
+   "Golden Deer": " ''Fire Emblem: Three Houses''"
+  },
+  "foundation": {
+   "_not_set_in": 3,
+   "_set_in": 1,
+   "Elder Gods (Greek mythology)": " Prehistory"
+  },
+  "headquarters": {
+   "_not_set_in": 0,
+   "_set_in": 4,
+   "Elder Gods (Greek mythology)": " Mt. Olympus (all but Hades)\nThe Underworld (Hades)<br>\nThe Ocean (Poseidon)<br>Garden of the Hesperides (Hera's private garden)",
+   "Black Eagles": " Garreg Mach Monastery",
+   "Blue Lions": " Garreg Mach Monastery",
+   "Golden Deer": " Garreg Mach Monastery"
+  },
+  "leader": {
+   "_not_set_in": 0,
+   "_set_in": 4,
+   "Elder Gods (Greek mythology)": " Zeus (Though no authority over Hades)",
+   "Black Eagles": " [[Edelgard]] (House leader)",
+   "Blue Lions": " [[Dimitri (Fire Emblem)|Dimitri]] (House leader)",
+   "Golden Deer": " [[Claude (Fire Emblem)|Claude]] (House Leader)"
+  },
+  "members": {
+   "_not_set_in": 0,
+   "_set_in": 4,
+   "Elder Gods (Greek mythology)": " Zeus\nHera<br>Poseidon<br>Demeter<br>Hades<br>Hestia",
+   "Black Eagles": " [[Edelgard von Hr\u00e6svelgr|Edelgard]]<br>\n[[Bernadetta]]<br>[[Caspar]]<br>[[Dorothea]]<br>[[Ferdinand (Fire Emblem)|Ferdinand]]<br>[[Linhardt]]<br>[[Petra]]",
+   "Blue Lions": " [[Dimitri (Fire Emblem)|Dimitri]]<br>[[Annette]]<br>[[Ashe]]<br>\n[[Mercedes (Fire Emblem)|Mercedes]]<br>[[Sylvain]]",
+   "Golden Deer": " [[Claude (Fire Emblem)|Claude]]<br>[[Hilda (Fire Emblem)|Hilda]]<br>[[Leonie]]<br>[[Raphael (Fire Emblem)|Raphael]]\n"
+  },
+  "affiliation": {
+   "_not_set_in": 0,
+   "_set_in": 4,
+   "Elder Gods (Greek mythology)": " Zeus - Chaotic Good\nHera - True Neutral<br>\nPoseidon - Chaotic Evil<br>\nDemeter - Chaotic Neutral<br>\nHades - Lawful Neutral<br>\nHestia - Lawful Good",
+   "Black Eagles": " Officer's Academy",
+   "Blue Lions": " Officer's Academy",
+   "Golden Deer": " Officer's Academy"
+  },
+  "powers/skills": {
+   "_not_set_in": 0,
+   "_set_in": 4,
+   "Elder Gods (Greek mythology)": " '''Collectively'''\nOmnipotent (On a cosmic level)<br>Immortal<br>Voyeurism<br>Extreme Endurance<br>True forms melt mortals<br>Shape-Shifting<br>\n'''Zeus'''<br>Weather Manipulation<br>Lighting bolts<br>Tremendous strength<br>Divine Authority<br>Massive Charisma<br>'''Hera'''<br>Blood Control<br>Mesmerism<br>Revitalized youth<br>Army of Monsters<br>'''Poseidon'''<br>Aquakinesis<br>Geokinesis(from his Trident)<br>Massive Strength (greater than Zeus)<br>Conjuring Storms<br>'''Demeter'''<br>Global Flora control<br>Regional Weather Control<br>Cryokinesis<br>Animal Empathy<br>Geokinesis<br>Farming Skills<br>'''Hades'''<br>Invisibility<br>Thanokinesis<br>Shadow Control<br>Omniscience<br>Independent authority from Zeus<br>Master stealth skills<br>High Intellect & Wisdom (even for a god)<br>'''Hestia'''<br>Pyrokinesis<br>Healing abilities<br>Superb cooking skills<br>Unmatched Charisma<br>Strong will-power<br>Plasmakinesis (Star control)",
+   "Black Eagles": " Leadership<br>\nSwordsmanship<br>\nArchery<br>\nMagic",
+   "Blue Lions": " Leadership<br>\nSwordsmanship<br>\nArchery<br>\nMagic",
+   "Golden Deer": " Leadership<br>\nSwordsmanship<br>\nArchery<br>\nMagic"
+  },
+  "goals": {
+   "_not_set_in": 3,
+   "_set_in": 1,
+   "Elder Gods (Greek mythology)": " To Free his siblings from Cronus's stomach(Zeus)To escape Cronus's stomach(all but Zeus)<br>Defeat the Titans<br>Maintain order for the cosomos<br>Indulge their vices (All but Hades and Hestia)"
+  },
+  "type_of_heroes": {
+   "_not_set_in": 3,
+   "_set_in": 1,
+   "Elder Gods (Greek mythology)": " Deities"
+  }
+ }
+}

@@ -1,0 +1,105 @@
+{
+ "wiki": "steven-universe.fandom.com",
+ "infobox": "Template:TeamBox",
+ "parameters": {
+  "Title": {
+   "_not_set_in": 10,
+   "_set_in": 1,
+   "Off Colors (group)": "Off Colors\n"
+  },
+  "Image": {
+   "_not_set_in": 0,
+   "_set_in": 11,
+   "Crystal Gems": " ChangeYourGems.png\n",
+   "The Cool Kids": " The Cool Kids Infobox Image.png\n",
+   "Secret Team (group)": " Secret Team 092.png\n",
+   "Water Clones": " Waterclonesbetterpng.png\n",
+   "Light Army": " LightBosses.png\n",
+   "Homeworld Gems": "gallery\nDiamond Authority symbol previous.png|Current \nDiamond Authority symbol current.png|Past\n</gallery>\n",
+   "The Great Diamond Authority": "The Diamond Authority flashback mural.png\n",
+   "Crystal Temps": " Crystal Temps by Pearl.png\n",
+   "The Famethyst": " That Will Be All 264.png\n",
+   "Off Colors (group)": "Off Colors.png\n",
+   "Sadie Killer and the Suspects": " SU Sadie Killer and the Suspects.png\n"
+  },
+  "Nickname": {
+   "_not_set_in": 6,
+   "_set_in": 5,
+   "Crystal Gems": " \n* Magical Ladies ([[Bill Dewey|Mayor Dewey]])\n* Rose Quartz's Old Lackeys ([[Aquamarine]])\n* Rebels (Multiple [[Homeworld Gems]])\n",
+   "Secret Team (group)": " The Secret Club (Pearl)\n",
+   "The Great Diamond Authority": "Order of the Diamonds ([[Jasper]])\n",
+   "Crystal Temps": " New Crystal Gems\n",
+   "Sadie Killer and the Suspects": " \n"
+  },
+  "Status": {
+   "_not_set_in": 0,
+   "_set_in": 11,
+   "Crystal Gems": " Active\n",
+   "The Cool Kids": " Active\n",
+   "Secret Team (group)": " Inactive\n",
+   "Water Clones": " Inactive",
+   "Light Army": " Inactive\n",
+   "Homeworld Gems": "Active\n",
+   "The Great Diamond Authority": "Active\n",
+   "Crystal Temps": "Inactive \n",
+   "The Famethyst": " Active\n",
+   "Off Colors (group)": "Active\n",
+   "Sadie Killer and the Suspects": " Active\n"
+  },
+  "FirstAppearance": {
+   "_not_set_in": 10,
+   "_set_in": 1,
+   "The Famethyst": " \"[[That Will Be All]]\" <small>(debut)</small><br />\"[[Beta]]\" <small>(Carnelian and Skinny mentioned)</small>\n"
+  },
+  "Leader": {
+   "_not_set_in": 3,
+   "_set_in": 8,
+   "Crystal Gems": " [[Garnet]] (current/de facto)<br />[[Rose Quartz]] (former)\n",
+   "Secret Team (group)": " Steven\n",
+   "Water Clones": " [[Lapis Lazuli]]\n",
+   "Light Army": " Whoever has the power of the Prism\n",
+   "Homeworld Gems": "[[The Great Diamond Authority]]\n*[[White Diamond]] (leader)\n*[[Yellow Diamond]]\n*[[Blue Diamond]]\n\n",
+   "Crystal Temps": "[[Peridot]] as the [[Garnet]] \n",
+   "Off Colors (group)": "[[Lars Barriga]] (captain; current)<br>[[Fluorite]] (former; presumed)\n",
+   "Sadie Killer and the Suspects": " [[Sadie Miller]] (lead singer)\n"
+  },
+  "Founder": {
+   "_not_set_in": 8,
+   "_set_in": 3,
+   "Crystal Gems": " Rose Quartz (secretly [[Pink Diamond]])\n",
+   "Crystal Temps": " [[Peridot]]\n",
+   "The Famethyst": " [[Amethyst]]\n"
+  },
+  "Members": {
+   "_not_set_in": 1,
+   "_set_in": 10,
+   "Crystal Gems": " \n* [[Amethyst]]\n* [[Bismuth (character)|Bismuth]]\n* [[Connie Maheswaran]] (confirmed in \"[[Rocknaldo]]\") (as of \"[[Sworn to the Sword]]\")\n* Garnet\n** [[Ruby]]\n** [[Sapphire]]\n* [[Lapis Lazuli]] (as of \"[[Reunited]]\")\n* [[Lion]]\n* [[Pearl]]\n* [[Peridot]] (as of \"[[Message Received]]\")\n* [[Biggs Jasper]]\n* [[Corrupted Gems|Uncorrupted Crystal Gems]]\n* [[Steven Universe (character)|Steven Universe]]\n",
+   "The Cool Kids": " \n* [[Buck Dewey]]\n* [[Jenny Pizza]]\n* [[Sour Cream]]\n",
+   "Secret Team (group)": " \n* [[Steven Universe (character)|Steven]]\n* [[Pearl]]\n* [[Amethyst]]\n",
+   "Water Clones": "\n* Water Garnet\n* Water Pearl\n* Water Amethyst\n* Water Steven\n",
+   "Light Army": " \n*[[Red Light]]\n*[[Orange Light]]\n*[[Yellow Light]]\n*[[Green Light]]\n*[[Blue Light]]\n*[[Indigo Light]]\n*[[Violet Light]]\n*[[White Light]]\n",
+   "The Great Diamond Authority": "[[White Diamond]] (leader)<br>[[Yellow Diamond]]<br>[[Blue Diamond]]<br>[[Steven Universe (character)|Steven Universe]]\n",
+   "Crystal Temps": " \n* [[Connie Maheswaran|Connie]]\n* [[Peridot]]\n* [[Lapis Lazuli]]\n* [[Pumpkin]]\n",
+   "The Famethyst": " \n* [[#Amethysts|Amethysts]]\n** [[#8XG|8XG]], [[#8XJ|8XJ]], and [[#8XL|8XL]]\n** [[#8XK|8XK]] (unknown)\n** [[#8XH|8XH]] (unknown)\n* [[#Jaspers|Jaspers]]\n** [[Jasper (Skinny)|\"Skinny\"]]\n* [[Carnelian]]\n",
+   "Off Colors (group)": "\n*[[Fluorite]]\n*[[Rhodonite]]\n*[[Rutile Twins]]\n*[[Padparadscha]]\n*[[Lars Barriga]]\n",
+   "Sadie Killer and the Suspects": " \n* Sadie Miller\n* [[The Cool Kids]]\n** [[Sour Cream]]\n** [[Jenny Pizza]]\n** [[Buck Dewey]]\n* [[Steven Universe (character)|Steven Universe]]\n* [[Greg Universe]] <small>(Manager)</small>\n"
+  },
+  "Aff": {
+   "_not_set_in": 8,
+   "_set_in": 3,
+   "Crystal Gems": " Self-proclaimed guardians of [[Earth]]\n",
+   "The Cool Kids": " \n* [[Steven Universe (character)|Steven]]\n* [[Lars Barriga]]\n* [[Crystal Gems]]\n* [[Sadie Miller]]\n",
+   "Sadie Killer and the Suspects": " \n"
+  },
+  "PreAff": {
+   "_not_set_in": 11,
+   "_set_in": 0
+  },
+  "PreMem": {
+   "_not_set_in": 9,
+   "_set_in": 2,
+   "Crystal Gems": " \n* Rose Quartz\n* [[Cluster Gems|Crystal Gem mutants]]\n* [[Ronaldo]]\n",
+   "The Great Diamond Authority": "[[Pink Diamond]]\n"
+  }
+ }
+}

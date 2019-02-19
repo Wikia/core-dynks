@@ -1,0 +1,51 @@
+{
+ "wiki": "hero.fandom.com",
+ "infobox": "Template:Infobox quest",
+ "parameters": {
+  "name": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Larry Stickman": " Larry Stickman"
+  },
+  "image": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Larry Stickman": " Larry Stickman.png"
+  },
+  "start": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Larry Stickman": " 1950's"
+  },
+  "end": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Larry Stickman": " 1990's"
+  },
+  "prereqs": {
+   "_not_set_in": 1,
+   "_set_in": 0
+  },
+  "level": {
+   "_not_set_in": 1,
+   "_set_in": 0
+  },
+  "location": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Larry Stickman": " New York, United States"
+  },
+  "rewards": {
+   "_not_set_in": 1,
+   "_set_in": 0
+  },
+  "previous": {
+   "_not_set_in": 1,
+   "_set_in": 0
+  },
+  "next": {
+   "_not_set_in": 1,
+   "_set_in": 0
+  }
+ }
+}

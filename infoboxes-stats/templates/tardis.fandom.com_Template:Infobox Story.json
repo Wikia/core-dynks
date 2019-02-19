@@ -1,0 +1,1572 @@
+{
+ "wiki": "tardis.fandom.com",
+ "infobox": "Template:Infobox Story",
+ "parameters": {
+  "name": {
+   "_not_set_in": 49,
+   "_set_in": 1,
+   "The Pilot Episode": " \"The Pilot Episode\"\n"
+  },
+  "name override": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "image": {
+   "_not_set_in": 0,
+   "_set_in": 50,
+   "Castrovalva (TV story)": " Welcome to Castrovalva.jpg\n",
+   "Doctor Who (TV story)": " EightGettingLifeSuckedOutOfHim.jpg\n",
+   "Rose (TV story)": " RoseAtHenriks.jpg\n",
+   "The End of the World (TV story)": " The-end-of-the-world.jpg\n",
+   "The Pilot Episode": " Pilot Episode2.jpg \n",
+   "An Unearthly Child (TV story)": " OneIanBarbaraAUC.jpg\n",
+   "The Daleks (TV story)": " Barbara and the Dalek gunstick.jpg\n",
+   "The Edge of Destruction (TV story)": " The Edge of Destruction.jpg\n",
+   "Marco Polo (TV story)": " MarcoPolo.jpg\n",
+   "The Keys of Marinus (TV story)": " keys title.jpg\n",
+   "The Aztecs (TV story)": " BarbaraOneOutOfFocusTA.jpg\n",
+   "The Sensorites (TV story)": " The sensorites.jpg \n",
+   "The Reign of Terror (TV story)": " RobespierreSeized.jpg\n",
+   "Planet of Giants (TV story)": " Planet of the Giants.JPG\n",
+   "The Dalek Invasion of Earth (TV story)": " dalekinvasion title.jpg\n",
+   "The Rescue (TV story)": " Pst....it's Bennett.jpg \n",
+   "The Romans (TV story)": " The Doc and Nero.jpg\n",
+   "The Web Planet (TV story)": " The Web Planet.jpg\n",
+   "The Crusade (TV story)": " The Crusade.jpg\n",
+   "The Space Museum (TV story)": " The Space Museum.jpg\n",
+   "The Chase (TV story)": " Dalek fighting Mechanoids.jpg\n",
+   "The Time Meddler (TV story)": " The Doctor is not happy to see me.jpg\n",
+   "Galaxy 4 (TV story)": "OneAndTheDrahvins.jpg\n",
+   "Mission to the Unknown (TV story)": " <!-- This story can't have an image in its infobox, per [[T:IPER]]\n                        and [[T:MISS EP PIC]] -->\n",
+   "The Myth Makers (TV story)": " mythmakers title.jpg\n",
+   "The Daleks' Master Plan (TV story)": " The Daleks' Master Plan.jpg\n",
+   "The Massacre (TV story)": " <!--\n\nThis serial can have no image because not one frame of the actual transmission survives. Anything you see purporting to be from this serial is actually from rehearsals or publicity shots, which aren't allowed at Tardis.\n\n                        -->\n",
+   "The Ark (TV story)": " ark title.jpg\n",
+   "The Celestial Toymaker (TV story)": " ToymakerHaltsProgress.jpg \n",
+   "The Gunfighters (TV story)": " Gunfighters title.jpg\n",
+   "The Savages (TV story)": " Savages title.jpg\n",
+   "The War Machines (TV story)": "Warmachines title.jpg \n",
+   "The Smugglers (TV story)": " Smugglers title.jpg\n",
+   "The Tenth Planet (TV story)": " Tenth planet.jpg\n",
+   "The Power of the Daleks (TV story)": " The Power of the Daleks-title.jpg\n",
+   "The Highlanders (TV story)": " SecondScottishLook.jpg\n",
+   "The Underwater Menace (TV story)": " FishPeopleDouble.jpg\n",
+   "The Moonbase (TV story)": " The Moonbase.jpg\n",
+   "The Macra Terror (TV story)": " Cower.jpg\n",
+   "The Faceless Ones (TV story)": " The Faceless Ones.jpg\n",
+   "The Evil of the Daleks (TV story)": " Evilofthedaleks title.jpg\n",
+   "The Tomb of the Cybermen (TV story)": " Cyberman (pre-excellent).jpg\n",
+   "The Abominable Snowmen (TV story)": " abominable title.jpg\n",
+   "The Ice Warriors (TV story)": " TwoAndVargaTIW.jpg\n",
+   "The Enemy of the World (TV story)": " Enemy title.jpg\n",
+   "The Web of Fear (TV story)": "Robotic Yeti.jpg\n",
+   "Fury from the Deep (TV story)": " Fury title.jpg\n",
+   "The Wheel in Space (TV story)": " W3.jpg\n",
+   "The Dominators (TV story)": " Quark and master.jpg\n",
+   "The Mind Robber (TV story)": " Mindrobber title.jpg\n"
+  },
+  "caption": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "image2": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "caption2": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "novelisation of": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "novelisation": {
+   "_not_set_in": 2,
+   "_set_in": 48,
+   "Castrovalva (TV story)": " Castrovalva (novelisation)\n",
+   "Doctor Who (TV story)": " The Novel of the Film\n",
+   "Rose (TV story)": " Rose (novelisation)\n",
+   "An Unearthly Child (TV story)": " Doctor Who and an Unearthly Child\n",
+   "The Daleks (TV story)": " Doctor Who in an Exciting Adventure with the Daleks\n",
+   "The Edge of Destruction (TV story)": " The Edge of Destruction (novelisation)\n",
+   "Marco Polo (TV story)": " Marco Polo (novelisation)\n",
+   "The Keys of Marinus (TV story)": " Doctor Who and the Keys of Marinus\n",
+   "The Aztecs (TV story)": " The Aztecs (novelisation)\n",
+   "The Sensorites (TV story)": " The Sensorites (novelisation)\n",
+   "The Reign of Terror (TV story)": " The Reign of Terror (novelisation)\n",
+   "Planet of Giants (TV story)": " Planet of Giants (novelisation)\n",
+   "The Dalek Invasion of Earth (TV story)": " Doctor Who and the Dalek Invasion of Earth\n",
+   "The Rescue (TV story)": " The Rescue (novelisation)\n",
+   "The Romans (TV story)": " The Romans (novelisation)\n",
+   "The Web Planet (TV story)": " Doctor Who and the Zarbi\n",
+   "The Crusade (TV story)": " Doctor Who and the Crusaders\n",
+   "The Space Museum (TV story)": " The Space Museum (novelisation)\n",
+   "The Chase (TV story)": " The Chase (novelisation)\n",
+   "The Time Meddler (TV story)": " The Time Meddler (novelisation)\n",
+   "Galaxy 4 (TV story)": " Galaxy Four (novelisation)\n",
+   "Mission to the Unknown (TV story)": " Mission to the Unknown (novelisation)\n",
+   "The Myth Makers (TV story)": " The Myth Makers (novelisation)",
+   "The Daleks' Master Plan (TV story)": " Mission to the Unknown (novelisation)\n",
+   "The Massacre (TV story)": " The Massacre (novelisation)\n",
+   "The Ark (TV story)": " The Ark (novelisation)\n",
+   "The Celestial Toymaker (TV story)": " The Celestial Toymaker (novelisation)\n",
+   "The Gunfighters (TV story)": " The Gunfighters (novelisation)\n",
+   "The Savages (TV story)": " The Savages (novelisation)\n",
+   "The War Machines (TV story)": " The War Machines (novelisation)\n",
+   "The Smugglers (TV story)": " The Smugglers (novelisation)\n",
+   "The Tenth Planet (TV story)": " Doctor Who and the Tenth Planet\n",
+   "The Power of the Daleks (TV story)": " The Power of the Daleks (novelisation)\n",
+   "The Highlanders (TV story)": " The Highlanders (novelisation)\n",
+   "The Underwater Menace (TV story)": " The Underwater Menace (novelisation)\n",
+   "The Moonbase (TV story)": " Doctor Who and the Cybermen\n",
+   "The Macra Terror (TV story)": " The Macra Terror (novelisation)\n",
+   "The Faceless Ones (TV story)": " The Faceless Ones (novelisation)\n",
+   "The Evil of the Daleks (TV story)": " The Evil of the Daleks (novelisation)\n",
+   "The Tomb of the Cybermen (TV story)": " Doctor Who and the Tomb of the Cybermen\n",
+   "The Abominable Snowmen (TV story)": " Doctor Who and the Abominable Snowmen (novelisation)\n",
+   "The Ice Warriors (TV story)": " Doctor Who and the Ice Warriors\n",
+   "The Enemy of the World (TV story)": " Doctor Who and the Enemy of the World\n",
+   "The Web of Fear (TV story)": " Doctor Who and the Web of Fear (novelisation)\n",
+   "Fury from the Deep (TV story)": " Fury from the Deep (novelisation)\n",
+   "The Wheel in Space (TV story)": " The Wheel in Space (novelisation)\n",
+   "The Dominators (TV story)": " The Dominators (novelisation)\n",
+   "The Mind Robber (TV story)": " The Mind Robber (novelisation)\n"
+  },
+  "adapted from": {
+   "_not_set_in": 49,
+   "_set_in": 1,
+   "An Unearthly Child (TV story)": " The Pilot Episode\n"
+  },
+  "adapted into": {
+   "_not_set_in": 45,
+   "_set_in": 5,
+   "The Pilot Episode": " An Unearthly Child (TV story)\n",
+   "The Daleks (TV story)": " Dr. Who and the Daleks\n",
+   "The Dalek Invasion of Earth (TV story)": " Daleks' Invasion Earth 2150 A.D.\n",
+   "The Web Planet (TV story)": " On the Planet Vortis (comic story)\n",
+   "The Daleks' Master Plan (TV story)": " The Mutation of Time (novelisation)\n"
+  },
+  "script": {
+   "_not_set_in": 41,
+   "_set_in": 9,
+   "Doctor Who (TV story)": " The Script of the Film\n",
+   "Rose (TV story)": " The Shooting Scripts\n",
+   "The End of the World (TV story)": " The Shooting Scripts\n",
+   "An Unearthly Child (TV story)": " The Tribe of Gum (script)\n",
+   "The Daleks (TV story)": " The Daleks (script)\n",
+   "The Crusade (TV story)": " The Crusade (script)\n",
+   "Galaxy 4 (TV story)": "Galaxy 4 (script)\n",
+   "The Power of the Daleks (TV story)": " The Power of the Daleks (script)\n",
+   "The Tomb of the Cybermen (TV story)": "The Tomb of the Cybermen (script)\n"
+  },
+  "scripturl": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "scripturl2": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "doctor": {
+   "_not_set_in": 1,
+   "_set_in": 49,
+   "Castrovalva (TV story)": " Fifth Doctor\n",
+   "Doctor Who (TV story)": " Eighth Doctor\n",
+   "Rose (TV story)": " Ninth Doctor \n",
+   "The End of the World (TV story)": " Ninth Doctor \n",
+   "The Pilot Episode": " First Doctor\n",
+   "An Unearthly Child (TV story)": " First Doctor\n",
+   "The Daleks (TV story)": " First Doctor\n",
+   "The Edge of Destruction (TV story)": " First Doctor\n",
+   "Marco Polo (TV story)": " First Doctor\n",
+   "The Keys of Marinus (TV story)": " First Doctor\n",
+   "The Aztecs (TV story)": " First Doctor\n",
+   "The Sensorites (TV story)": " First Doctor\n",
+   "The Reign of Terror (TV story)": " First Doctor\n",
+   "Planet of Giants (TV story)": " First Doctor\n",
+   "The Dalek Invasion of Earth (TV story)": " First Doctor\n",
+   "The Rescue (TV story)": " First Doctor\n",
+   "The Romans (TV story)": " First Doctor\n",
+   "The Web Planet (TV story)": " First Doctor\n",
+   "The Crusade (TV story)": " First Doctor\n",
+   "The Space Museum (TV story)": " First Doctor\n",
+   "The Chase (TV story)": " First Doctor \n",
+   "The Time Meddler (TV story)": " First Doctor\n",
+   "Galaxy 4 (TV story)": "First Doctor\n",
+   "The Myth Makers (TV story)": " First Doctor\n",
+   "The Daleks' Master Plan (TV story)": " First Doctor\n",
+   "The Massacre (TV story)": " First Doctor \n",
+   "The Ark (TV story)": " First Doctor\n",
+   "The Celestial Toymaker (TV story)": " First Doctor\n",
+   "The Gunfighters (TV story)": " First Doctor\n",
+   "The Savages (TV story)": " First Doctor\n",
+   "The War Machines (TV story)": "First Doctor\n",
+   "The Smugglers (TV story)": " First Doctor\n",
+   "The Tenth Planet (TV story)": " First Doctor\n",
+   "The Power of the Daleks (TV story)": " Second Doctor\n",
+   "The Highlanders (TV story)": " Second Doctor\n",
+   "The Underwater Menace (TV story)": " Second Doctor\n",
+   "The Moonbase (TV story)": " Second Doctor\n",
+   "The Macra Terror (TV story)": " Second Doctor\n",
+   "The Faceless Ones (TV story)": " Second Doctor\n",
+   "The Evil of the Daleks (TV story)": "Second Doctor\n",
+   "The Tomb of the Cybermen (TV story)": "Second Doctor\n",
+   "The Abominable Snowmen (TV story)": " Second Doctor\n",
+   "The Ice Warriors (TV story)": "Second Doctor \n",
+   "The Enemy of the World (TV story)": "Second Doctor \n",
+   "The Web of Fear (TV story)": "Second Doctor \n",
+   "Fury from the Deep (TV story)": "Second Doctor \n",
+   "The Wheel in Space (TV story)": "Second Doctor\n",
+   "The Dominators (TV story)": "Second Doctor \n",
+   "The Mind Robber (TV story)": "Second Doctor \n"
+  },
+  "companions": {
+   "_not_set_in": 1,
+   "_set_in": 49,
+   "Castrovalva (TV story)": " [[Adric]], [[Nyssa]], [[Tegan Jovanka|Tegan]]\n",
+   "Doctor Who (TV story)": " [[Grace Holloway|Grace]]\n",
+   "Rose (TV story)": " [[Rose Tyler|Rose]] \n",
+   "The End of the World (TV story)": " [[Rose Tyler|Rose]] \n",
+   "The Pilot Episode": " [[Susan Foreman|Susan]], [[Ian Chesterton|Ian]], [[Barbara Wright|Barbara]]\n",
+   "An Unearthly Child (TV story)": " [[Susan Foreman|Susan]], [[Ian Chesterton|Ian]], [[Barbara Wright|Barbara]]\n",
+   "The Daleks (TV story)": " [[Susan Foreman|Susan]], [[Ian Chesterton|Ian]], [[Barbara Wright|Barbara]]\n",
+   "The Edge of Destruction (TV story)": " [[Susan Foreman|Susan]], [[Ian Chesterton|Ian]], [[Barbara Wright|Barbara]]\n",
+   "Marco Polo (TV story)": " [[Susan Foreman|Susan]], [[Ian Chesterton|Ian]], [[Barbara Wright|Barbara]]\n",
+   "The Keys of Marinus (TV story)": " [[Susan Foreman|Susan]], [[Ian Chesterton|Ian]], [[Barbara Wright|Barbara]]\n",
+   "The Aztecs (TV story)": " [[Susan Foreman|Susan]], [[Ian Chesterton|Ian]], [[Barbara Wright|Barbara]]\n",
+   "The Sensorites (TV story)": " [[Susan Foreman|Susan]], [[Ian Chesterton|Ian]], [[Barbara Wright|Barbara]]\n",
+   "The Reign of Terror (TV story)": " [[Susan Foreman|Susan]], [[Ian Chesterton|Ian]], [[Barbara Wright|Barbara]]\n",
+   "Planet of Giants (TV story)": " [[Susan Foreman|Susan]], [[Ian Chesterton|Ian]], [[Barbara Wright|Barbara]]\n",
+   "The Dalek Invasion of Earth (TV story)": " [[Susan Foreman|Susan]], [[Ian Chesterton|Ian]], [[Barbara Wright|Barbara]]\n",
+   "The Rescue (TV story)": " [[Barbara Wright|Barbara]], [[Ian Chesterton|Ian]], [[Vicki Pallister|Vicki]]\n",
+   "The Romans (TV story)": " [[Barbara Wright|Barbara]], [[Ian Chesterton|Ian]], [[Vicki Pallister|Vicki]]\n",
+   "The Web Planet (TV story)": " [[Barbara Wright|Barbara]], [[Ian Chesterton|Ian]], [[Vicki Pallister|Vicki]]\n",
+   "The Crusade (TV story)": " [[Barbara Wright|Barbara]], [[Ian Chesterton|Ian]], [[Vicki Pallister|Vicki]]\n",
+   "The Space Museum (TV story)": " [[Barbara Wright|Barbara]], [[Ian Chesterton|Ian]], [[Vicki Pallister|Vicki]]\n",
+   "The Chase (TV story)": " [[Barbara Wright|Barbara]], [[Ian Chesterton|Ian]], [[Vicki Pallister|Vicki]]\n",
+   "The Time Meddler (TV story)": " [[Vicki Pallister|Vicki]], [[Steven Taylor|Steven]]\n",
+   "Galaxy 4 (TV story)": " [[Vicki Pallister|Vicki]], [[Steven Taylor|Steven]]\n",
+   "The Myth Makers (TV story)": " [[Vicki Pallister|Vicki]], [[Steven Taylor|Steven]]\n",
+   "The Daleks' Master Plan (TV story)": " [[Steven Taylor|Steven]], [[Sara Kingdom|Sara]], [[Katarina]]\n",
+   "The Massacre (TV story)": " [[Steven Taylor|Steven]]\n",
+   "The Ark (TV story)": " [[Steven Taylor|Steven]], [[Dodo Chaplet|Dodo]]\n",
+   "The Celestial Toymaker (TV story)": " [[Steven Taylor|Steven]], [[Dodo Chaplet|Dodo]]\n",
+   "The Gunfighters (TV story)": " [[Steven Taylor|Steven]], [[Dodo Chaplet|Dodo]]\n",
+   "The Savages (TV story)": " [[Steven Taylor|Steven]], [[Dodo Chaplet|Dodo]]\n",
+   "The War Machines (TV story)": " [[Dodo Chaplet|Dodo]]\n",
+   "The Smugglers (TV story)": " [[Ben Jackson|Ben]], [[Polly Wright|Polly]]\n",
+   "The Tenth Planet (TV story)": " [[Ben Jackson|Ben]], [[Polly Wright|Polly]]\n",
+   "The Power of the Daleks (TV story)": " [[Ben Jackson|Ben]], [[Polly Wright|Polly]]\n",
+   "The Highlanders (TV story)": " [[Ben Jackson|Ben]], [[Polly Wright|Polly]], [[Jamie McCrimmon|Jamie]]\n",
+   "The Underwater Menace (TV story)": " [[Ben Jackson|Ben]], [[Polly Wright|Polly]], [[Jamie McCrimmon|Jamie]]\n",
+   "The Moonbase (TV story)": " [[Ben Jackson|Ben]], [[Polly Wright|Polly]], [[Jamie McCrimmon|Jamie]]\n",
+   "The Macra Terror (TV story)": " [[Ben Jackson|Ben]], [[Polly Wright|Polly]], [[Jamie McCrimmon|Jamie]]\n",
+   "The Faceless Ones (TV story)": " [[Ben Jackson|Ben]], [[Polly Wright|Polly]], [[Jamie McCrimmon|Jamie]]\n",
+   "The Evil of the Daleks (TV story)": " [[Jamie McCrimmon|Jamie]], [[Victoria Waterfield|Victoria]]\n",
+   "The Tomb of the Cybermen (TV story)": " [[Jamie McCrimmon|Jamie]], [[Victoria Waterfield|Victoria]]\n",
+   "The Abominable Snowmen (TV story)": " [[Jamie McCrimmon|Jamie]], [[Victoria Waterfield|Victoria]]\n",
+   "The Ice Warriors (TV story)": " [[Jamie McCrimmon|Jamie]], [[Victoria Waterfield|Victoria]]\n",
+   "The Enemy of the World (TV story)": " [[Jamie McCrimmon|Jamie]], [[Victoria Waterfield|Victoria]]\n",
+   "The Web of Fear (TV story)": " [[Jamie McCrimmon|Jamie]], [[Victoria Waterfield|Victoria]]\n",
+   "Fury from the Deep (TV story)": " [[Jamie McCrimmon|Jamie]], [[Victoria Waterfield|Victoria]]\n",
+   "The Wheel in Space (TV story)": " [[Jamie McCrimmon|Jamie]]\n",
+   "The Dominators (TV story)": " [[Jamie McCrimmon|Jamie]], [[Zoe Heriot|Zoe]]\n",
+   "The Mind Robber (TV story)": " [[Jamie McCrimmon|Jamie]], [[Zoe Heriot|Zoe]]\n"
+  },
+  "team": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "main character": {
+   "_not_set_in": 49,
+   "_set_in": 1,
+   "Mission to the Unknown (TV story)": " [[Marc Cory]], [[Gordon Lowery]]\n"
+  },
+  "featuring": {
+   "_not_set_in": 27,
+   "_set_in": 23,
+   "Doctor Who (TV story)": " [[Seventh Doctor]], [[Chang Lee]]\n",
+   "Rose (TV story)": " Mickey Smith\n",
+   "The End of the World (TV story)": " [[Jackie Tyler|Jackie]], [[Face of Boe]]\n",
+   "An Unearthly Child (TV story)": " [[Za]], [[Hur]], [[Horg]]\n",
+   "Marco Polo (TV story)": " [[Marco Polo]], [[Kublai Khan]]\n",
+   "The Aztecs (TV story)": " [[Tonila]]\n",
+   "The Reign of Terror (TV story)": " [[Napol\u00e9on Bonaparte]], [[Paul Barras]]\n",
+   "The Dalek Invasion of Earth (TV story)": " [[David Campbell|David]]\n",
+   "The Crusade (TV story)": " [[Richard I of England|Richard I]]\n",
+   "The Chase (TV story)": " [[Steven Taylor|Steven]]\n",
+   "Galaxy 4 (TV story)": " [[Jeff Garvey|Garvey]]\n",
+   "Mission to the Unknown (TV story)": " [[Malpha]], [[Jeff Garvey|Garvey]]\n",
+   "The Myth Makers (TV story)": " [[Katarina]], [[Troilus]]\n",
+   "The Daleks' Master Plan (TV story)": " [[Bret Vyon]], [[the Monk]]\n",
+   "The Massacre (TV story)": " [[Dodo Chaplet|Dodo]]\n",
+   "The War Machines (TV story)": " Ben Jackson\n",
+   "The Tenth Planet (TV story)": " [[Second Doctor]]\n",
+   "The Moonbase (TV story)": " [[Jack Hobson|Hobson]]\n",
+   "The Tomb of the Cybermen (TV story)": " [[Peter Haydon|Haydon]]\n",
+   "The Abominable Snowmen (TV story)": " [[Padmasambhava]], [[Edward Travers|Travers]], [[Thonmi]]\n",
+   "The Web of Fear (TV story)": " Lethbridge-Stewart\n",
+   "The Wheel in Space (TV story)": " [[Zoe Heriot|Zoe]], [[Tanya Lernov|Tanya]], [[Leo Ryan|Leo]]\n",
+   "The Mind Robber (TV story)": " [[Goth]], [[Rapunzel]], [[Karkus]]\n"
+  },
+  "featuring2": {
+   "_not_set_in": 47,
+   "_set_in": 3,
+   "Rose (TV story)": " Jackie Tyler\n",
+   "The War Machines (TV story)": " Polly Wright\n",
+   "The Web of Fear (TV story)": " Edward Travers\n"
+  },
+  "featuring3": {
+   "_not_set_in": 48,
+   "_set_in": 2,
+   "The War Machines (TV story)": " Krimpton\n",
+   "The Web of Fear (TV story)": "Anne Travers\n"
+  },
+  "featuring4": {
+   "_not_set_in": 49,
+   "_set_in": 1,
+   "The Web of Fear (TV story)": "Harold Chorley!Chorley\n"
+  },
+  "featuring5": {
+   "_not_set_in": 49,
+   "_set_in": 1,
+   "The Web of Fear (TV story)": "Lane (The Web of Fear)\n"
+  },
+  "featuring6": {
+   "_not_set_in": 49,
+   "_set_in": 1,
+   "The Web of Fear (TV story)": "Ben Knight!Knight\n"
+  },
+  "featuring7": {
+   "_not_set_in": 49,
+   "_set_in": 1,
+   "The Web of Fear (TV story)": "Albert Arnold!Arnold\n"
+  },
+  "featuring8": {
+   "_not_set_in": 49,
+   "_set_in": 1,
+   "The Web of Fear (TV story)": "Stephen Weams!Weams\n"
+  },
+  "featuring9": {
+   "_not_set_in": 49,
+   "_set_in": 1,
+   "The Web of Fear (TV story)": "Gwynfor Evans!Evans\n"
+  },
+  "featuring10": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "featuring11": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "featuring12": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "featuring13": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "featuring14": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "featuring15": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "featuring16": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "featuring17": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "featuring18": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "featuring19": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "featuring20": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "featuring21": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "featuring22": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "featuring23": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "featuring24": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "featuring25": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "enemy": {
+   "_not_set_in": 1,
+   "_set_in": 49,
+   "Castrovalva (TV story)": " Ainleyc\n",
+   "Doctor Who (TV story)": " Robertsc\n",
+   "Rose (TV story)": " [[Nestene Consciousness]], [[Auton]]s\n",
+   "The End of the World (TV story)": " [[Cassandra O'Brien.\u039417|Cassandra]]\n",
+   "The Pilot Episode": " [[The Doctor]]\n",
+   "An Unearthly Child (TV story)": " [[Kal]]\n",
+   "The Daleks (TV story)": " [[Dalek]]s\n",
+   "Marco Polo (TV story)": " [[Tegana]]\n",
+   "The Keys of Marinus (TV story)": " [[Voord]], [[Yartek]]\n",
+   "The Aztecs (TV story)": " [[Tlotoxl]]\n",
+   "The Sensorites (TV story)": " [[City Administrator (The Sensorites)|City Administrator]], [[Fourth Sensorite]], [[Commander (The Sensorites)|Commander]]\n",
+   "The Reign of Terror (TV story)": " [[Maximilien Robespierre]]\n",
+   "Planet of Giants (TV story)": " [[Forester (Planet of Giants)|Forester]]\n",
+   "The Dalek Invasion of Earth (TV story)": " [[Dalek]]s\n",
+   "The Rescue (TV story)": " [[Bennett (The Rescue)|Bennett]]\n",
+   "The Romans (TV story)": " [[Sevcheria]], [[Nero]], [[Poppaea]]\n",
+   "The Web Planet (TV story)": " [[Animus]]\n",
+   "The Crusade (TV story)": " [[El Akir]]\n",
+   "The Space Museum (TV story)": " [[Morok]]s\n",
+   "The Chase (TV story)": " [[Dalek]]s, [[Robot Doctor]]\n",
+   "The Time Meddler (TV story)": " [[The Monk]]\n",
+   "Galaxy 4 (TV story)": " [[Maaga]]\n",
+   "Mission to the Unknown (TV story)": " [[Dalek]]s\n",
+   "The Myth Makers (TV story)": " [[Cassandra (The Myth Makers)|Cassandra]]\n",
+   "The Daleks' Master Plan (TV story)": " [[Mavic Chen]], [[Dalek]]s\n",
+   "The Massacre (TV story)": " [[Catherine de Medici]], [[Gaspard de Saux-Tavannes|Tavannes]]\n",
+   "The Ark (TV story)": " [[Monoid]]s\n",
+   "The Celestial Toymaker (TV story)": " The [[Celestial Toymaker]]\n",
+   "The Gunfighters (TV story)": " [[Johnny Ringo]], [[Seth Harper]], [[Ike Clanton]], [[Phineas Clanton]], [[Billy Clanton]], [[Pa Clanton]]\n",
+   "The Savages (TV story)": " [[Edal]]\n",
+   "The War Machines (TV story)": " [[WOTAN]], [[War Machine]]s\n",
+   "The Smugglers (TV story)": " [[Samuel Pike]]\n",
+   "The Tenth Planet (TV story)": " [[Cyberman (Mondas)|Cybermen]]\n",
+   "The Power of the Daleks (TV story)": " [[Dalek]]s, [[Bragen]]\n",
+   "The Highlanders (TV story)": " [[Grey (The Highlanders)|Grey]], [[Trask]]\n",
+   "The Underwater Menace (TV story)": " [[Zaroff]]\n",
+   "The Moonbase (TV story)": " [[Cyberman (Mondas)|Cybermen]]\n",
+   "The Macra Terror (TV story)": " [[Macra]]\n",
+   "The Faceless Ones (TV story)": " [[Chameleon (humanoid)|Chameleons]]\n",
+   "The Evil of the Daleks (TV story)": " [[Dalek]]s, [[Theodore Maxtible]]\n",
+   "The Tomb of the Cybermen (TV story)": " [[Cyberman (Mondas)|Cybermen]], [[Eric Klieg|Klieg]], [[Kaftan]]\n",
+   "The Abominable Snowmen (TV story)": " [[Great Intelligence]], [[Robot Yeti]]\n",
+   "The Ice Warriors (TV story)": " [[Ice Warrior]]s\n",
+   "The Enemy of the World (TV story)": " [[Ram\u00f3n Salamander]], [[Theodore Benik|Benik]]\n",
+   "The Web of Fear (TV story)": " The [[Great Intelligence]]. [[Robot Yeti|Yeti]]\n",
+   "Fury from the Deep (TV story)": " [[Weed creature]]\n",
+   "The Wheel in Space (TV story)": " [[Cyberman (Mondas)|Cybermen]], [[Cybermat]]s\n",
+   "The Dominators (TV story)": " [[Rago]], [[Toba]], [[Quark]]s\n",
+   "The Mind Robber (TV story)": " [[Master of the Land]], [[Master Brain]]\n"
+  },
+  "year": {
+   "_not_set_in": 49,
+   "_set_in": 1,
+   "The Pilot Episode": " [[London]], [[1963]]\n"
+  },
+  "setting": {
+   "_not_set_in": 1,
+   "_set_in": 49,
+   "Castrovalva (TV story)": " [[The Doctor's TARDIS]], [[Castrovalva]] and [[Event One]]\n",
+   "Doctor Who (TV story)": " [[San Francisco]], [[December]] [[1999]]\n[[1 January]] [[2000]]\n",
+   "Rose (TV story)": " [[London]], [[4 March|4]] - [[5 March]] [[2005]] \n",
+   "The End of the World (TV story)": " [[Platform One]], [[5000000000|5,000,000,000]]<!--New Earth makes it clear this is the exact year the sun destroys Earth. 5.5/Apple/26 is just another way of saying it.-->\n",
+   "An Unearthly Child (TV story)": " il[[London]], [[1963]];[[Earth]], [[BC#Prehistory|100,000 BC]]\n",
+   "The Daleks (TV story)": " [[Skaro]]\n",
+   "The Edge of Destruction (TV story)": " [[The Doctor's TARDIS|The TARDIS]]\n",
+   "Marco Polo (TV story)": " [[China]], [[1289]]\n",
+   "The Keys of Marinus (TV story)": " [[Marinus]]\n",
+   "The Aztecs (TV story)": " [[Mexico]], [[15th century]]\n",
+   "The Sensorites (TV story)": " [[Maitland's ship]], [[Sense Sphere]], [[28th century]]\n",
+   "The Reign of Terror (TV story)": " [[Paris]], [[July]] [[1794]]\n",
+   "Planet of Giants (TV story)": " [[England]], [[June]] [[1969]]\n",
+   "The Dalek Invasion of Earth (TV story)": " [[London]] & [[Bedfordshire]], circa [[2164]]\n",
+   "The Rescue (TV story)": " [[Dido]], circa [[2493]]\n",
+   "The Romans (TV story)": " [[Assisium]] and [[Rome]], [[64]]\n",
+   "The Web Planet (TV story)": " [[Vortis]]\n",
+   "The Crusade (TV story)": " [[Palestine]], [[1190]]\n",
+   "The Space Museum (TV story)": " [[Xeros]]\n",
+   "The Chase (TV story)": " il[[Aridius]][[New York City]], [[1966]]''[[Mary Celeste]]'', [[1872]][[Festival of Ghana]] [[1996]][[Mechanus]]\n",
+   "The Time Meddler (TV story)": " [[Northumbria]], [[1066]]\n",
+   "Galaxy 4 (TV story)": " [[planet (Galaxy 4)|Unnamed planet]]\n",
+   "Mission to the Unknown (TV story)": " [[Kembel]]\n",
+   "The Myth Makers (TV story)": " [[Troy]], circa [[BC#2nd Millennium B.C.|1200 BC]]\n",
+   "The Daleks' Master Plan (TV story)": " csl[[Kembel]], [[4000]][[Desperus]], [[4000]][[Central City]], [[4000]][[Mira (planet)|Mira]], [[4000]][[Liverpool]], [[25 December]] [[1965]][[Hollywood]], [[1921]] [[London]], the [[21st century]]  [[Tigus]][[Egypt]] c. [[BC#3rd Millennium B.C.|2500 BC]][[Planet (The Daleks' Master Plan)|Unnamed ice planet]]\n",
+   "The Massacre (TV story)": " [[Paris]], [[23 August]] [[1572]]\n",
+   "The Ark (TV story)": " The [[Ark]], the [[Segment of Time|57th Segment of Time]]\n",
+   "The Celestial Toymaker (TV story)": " [[Celestial Toyroom]]\n",
+   "The Gunfighters (TV story)": " [[Tombstone, Arizona|Tombstone]], [[October]] [[1881]]\n",
+   "The Savages (TV story)": " [[Planet (The Savages)|Unnamed planet]]\n",
+   "The War Machines (TV story)": " [[London]], [[12 July|12]]-[[20 July]] [[1966]]\n",
+   "The Smugglers (TV story)": " [[Cornwall]], [[17th century]]\n",
+   "The Tenth Planet (TV story)": " [[Snowcap]], [[December]] [[1986]]\n",
+   "The Power of the Daleks (TV story)": " [[Vulcan (The Power of the Daleks)|Vulcan]]\n",
+   "The Highlanders (TV story)": " [[Scotland]], [[1746]]\n",
+   "The Underwater Menace (TV story)": " [[Atlantis]]\n",
+   "The Moonbase (TV story)": " [[The Moon]], [[2070]]\n",
+   "The Macra Terror (TV story)": " [[Planet (The Macra Terror)|Earth colony]]\n",
+   "The Faceless Ones (TV story)": " [[Gatwick Airport]], [[Earth]] orbit; [[20 July]] [[1966]]\n",
+   "The Evil of the Daleks (TV story)": " il[[Gatwick Airport]], [[20 July]] [[1966]][[England]], [[2 June]] [[1866]][[Skaro]]\n",
+   "The Tomb of the Cybermen (TV story)": " [[Cyber-tomb]], [[Telos]], the [[25th century]]\n",
+   "The Abominable Snowmen (TV story)": " [[Tibet]], [[1935]]\n",
+   "The Ice Warriors (TV story)": " [[Brittanicus Base]]\n",
+   "The Enemy of the World (TV story)": " [[Australia]] and [[Europe]], [[2018]]\n",
+   "The Web of Fear (TV story)": " [[London Underground]], [[20th century]]\n",
+   "Fury from the Deep (TV story)": " [[England]], [[1968]]\n",
+   "The Wheel in Space (TV story)": " ''[[Silver Carrier]]'', [[Space Station W3]], [[2079]]\n",
+   "The Dominators (TV story)": " [[Dulkis]]\n",
+   "The Mind Robber (TV story)": "  [[Land of Fiction]]\n"
+  },
+  "publisher": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "publisher2": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "publisher3": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "developer": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "editor": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "writer": {
+   "_not_set_in": 0,
+   "_set_in": 50,
+   "Castrovalva (TV story)": " [[Christopher H. Bidmead]]\n",
+   "Doctor Who (TV story)": " [[Matthew Jacobs]]\n",
+   "Rose (TV story)": " [[Russell T Davies]] \n",
+   "The End of the World (TV story)": " [[Russell T Davies]] \n",
+   "The Pilot Episode": " [[Anthony Coburn]]\n",
+   "An Unearthly Child (TV story)": " [[Anthony Coburn]]\n",
+   "The Daleks (TV story)": " [[Terry Nation]]\n",
+   "The Edge of Destruction (TV story)": " [[David Whitaker]]\n",
+   "Marco Polo (TV story)": " [[John Lucarotti (writer)|John Lucarotti]]\n",
+   "The Keys of Marinus (TV story)": " [[Terry Nation]]\n",
+   "The Aztecs (TV story)": " [[John Lucarotti (writer)|John Lucarotti]]\n",
+   "The Sensorites (TV story)": " [[Peter R. Newman]]\n",
+   "The Reign of Terror (TV story)": " [[Dennis Spooner]]\n",
+   "Planet of Giants (TV story)": " [[Louis Marks]]\n",
+   "The Dalek Invasion of Earth (TV story)": " [[Terry Nation]]\n",
+   "The Rescue (TV story)": " [[David Whitaker]]\n",
+   "The Romans (TV story)": " [[Dennis Spooner]]\n",
+   "The Web Planet (TV story)": " [[Bill Strutton]]\n",
+   "The Crusade (TV story)": " [[David Whitaker]]\n",
+   "The Space Museum (TV story)": " [[Glyn Jones]]\n",
+   "The Chase (TV story)": " [[Terry Nation]]\n",
+   "The Time Meddler (TV story)": " [[Dennis Spooner]]\n",
+   "Galaxy 4 (TV story)": " [[William Emms]]\n",
+   "Mission to the Unknown (TV story)": " [[Terry Nation]]\n",
+   "The Myth Makers (TV story)": " [[Donald Cotton]]\n",
+   "The Daleks' Master Plan (TV story)": " [[Terry Nation]], [[Dennis Spooner]]\n",
+   "The Massacre (TV story)": " [[John Lucarotti (writer)|John Lucarotti]], [[Donald Tosh]]\n",
+   "The Ark (TV story)": " [[Paul Erickson]], [[Lesley Scott]]\n",
+   "The Celestial Toymaker (TV story)": " [[Brian Hayles]]\n",
+   "The Gunfighters (TV story)": " [[Donald Cotton]]\n",
+   "The Savages (TV story)": " [[Ian Stuart Black]]\n",
+   "The War Machines (TV story)": " [[Ian Stuart Black]]\n",
+   "The Smugglers (TV story)": " [[Brian Hayles]]\n",
+   "The Tenth Planet (TV story)": " [[Kit Pedler]], [[Gerry Davis]]\n",
+   "The Power of the Daleks (TV story)": " [[David Whitaker]]\n",
+   "The Highlanders (TV story)": " [[Elwyn Jones]] and [[Gerry Davis]]\n",
+   "The Underwater Menace (TV story)": " [[Geoffrey Orme]]\n",
+   "The Moonbase (TV story)": " [[Kit Pedler]]\n",
+   "The Macra Terror (TV story)": " [[Ian Stuart Black]]\n",
+   "The Faceless Ones (TV story)": " [[David Ellis]] & [[Malcolm Hulke]]\n",
+   "The Evil of the Daleks (TV story)": " [[David Whitaker]]\n",
+   "The Tomb of the Cybermen (TV story)": " [[Kit Pedler]] & [[Gerry Davis]]\n",
+   "The Abominable Snowmen (TV story)": " [[Mervyn Haisman]] & [[Henry Lincoln]]\n",
+   "The Ice Warriors (TV story)": " [[Brian Hayles]] \n",
+   "The Enemy of the World (TV story)": " [[David Whitaker]] \n",
+   "The Web of Fear (TV story)": " [[Mervyn Haisman]] and [[Henry Lincoln]] \n",
+   "Fury from the Deep (TV story)": " [[Victor Pemberton]] \n",
+   "The Wheel in Space (TV story)": " [[David Whitaker]]\n",
+   "The Dominators (TV story)": " \"[[Norman Ashby]]\" \n",
+   "The Mind Robber (TV story)": " [[Peter Ling]] \n"
+  },
+  "lead writer": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "other writers": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "director": {
+   "_not_set_in": 0,
+   "_set_in": 50,
+   "Castrovalva (TV story)": " [[Fiona Cumming]]\n",
+   "Doctor Who (TV story)": " [[Geoffrey Sax]]\n",
+   "Rose (TV story)": " [[Keith Boak]] \n",
+   "The End of the World (TV story)": " [[Euros Lyn]] \n",
+   "The Pilot Episode": " [[Waris Hussein]]\n",
+   "An Unearthly Child (TV story)": " [[Waris Hussein]]\n",
+   "The Daleks (TV story)": " [[Christopher Barry]], [[Richard Martin (director)|Richard Martin]]\n",
+   "The Edge of Destruction (TV story)": " [[Richard Martin (director)|Richard Martin]], [[Frank Cox]]\n",
+   "Marco Polo (TV story)": " [[Waris Hussein]], [[John Crockett]]\n",
+   "The Keys of Marinus (TV story)": " [[John Gorrie]]\n",
+   "The Aztecs (TV story)": " [[John Crockett]]\n",
+   "The Sensorites (TV story)": " [[Mervyn Pinfield]], [[Frank Cox]]\n",
+   "The Reign of Terror (TV story)": " [[Henric Hirsch]]\n",
+   "Planet of Giants (TV story)": " [[Mervyn Pinfield]], [[Douglas Camfield]]\n",
+   "The Dalek Invasion of Earth (TV story)": " [[Richard Martin (director)|Richard Martin]]\n",
+   "The Rescue (TV story)": " [[Christopher Barry]]\n",
+   "The Romans (TV story)": " [[Christopher Barry]]\n",
+   "The Web Planet (TV story)": " [[Richard Martin (director)|Richard Martin]]\n",
+   "The Crusade (TV story)": " [[Douglas Camfield]]\n",
+   "The Space Museum (TV story)": " [[Mervyn Pinfield]]\n",
+   "The Chase (TV story)": " [[Richard Martin (director)|Richard Martin]]\n",
+   "The Time Meddler (TV story)": " [[Douglas Camfield]]\n",
+   "Galaxy 4 (TV story)": " [[Derek Martinus]]\n",
+   "Mission to the Unknown (TV story)": " [[Derek Martinus]]\n",
+   "The Myth Makers (TV story)": " [[Michael Leeston-Smith]]\n",
+   "The Daleks' Master Plan (TV story)": " [[Douglas Camfield]]\n",
+   "The Massacre (TV story)": " [[Paddy Russell]]\n",
+   "The Ark (TV story)": " [[Michael Imison]]\n",
+   "The Celestial Toymaker (TV story)": " [[Bill Sellars]]\n",
+   "The Gunfighters (TV story)": " [[Rex Tucker]]\n",
+   "The Savages (TV story)": " [[Christopher Barry]]\n",
+   "The War Machines (TV story)": " [[Michael Ferguson]]\n",
+   "The Smugglers (TV story)": " [[Julia Smith]]\n",
+   "The Tenth Planet (TV story)": " [[Derek Martinus]]\n",
+   "The Power of the Daleks (TV story)": " [[Christopher Barry]]\n",
+   "The Highlanders (TV story)": " [[Hugh David]]\n",
+   "The Underwater Menace (TV story)": " [[Julia Smith]]\n",
+   "The Moonbase (TV story)": " [[Morris Barry]]\n",
+   "The Macra Terror (TV story)": " [[John Davies (director)|John Davies]]\n",
+   "The Faceless Ones (TV story)": " [[Gerry Mill]]\n",
+   "The Evil of the Daleks (TV story)": " [[Derek Martinus]]\n",
+   "The Tomb of the Cybermen (TV story)": " [[Morris Barry]]\n",
+   "The Abominable Snowmen (TV story)": " [[Gerald Blake]]\n",
+   "The Ice Warriors (TV story)": " [[Derek Martinus]] \n",
+   "The Enemy of the World (TV story)": " [[Barry Letts]] \n",
+   "The Web of Fear (TV story)": " [[Douglas Camfield]] \n",
+   "Fury from the Deep (TV story)": " [[Hugh David]] \n",
+   "The Wheel in Space (TV story)": " [[Tristan de Vere Cole]]\n",
+   "The Dominators (TV story)": " [[Morris Barry]] \n",
+   "The Mind Robber (TV story)": " [[David Maloney]] \n"
+  },
+  "producer": {
+   "_not_set_in": 0,
+   "_set_in": 50,
+   "Castrovalva (TV story)": " [[John Nathan-Turner]]\n",
+   "Doctor Who (TV story)": " [[Peter V. Ware]]\n",
+   "Rose (TV story)": " [[Phil Collinson]] \n",
+   "The End of the World (TV story)": " [[Phil Collinson]] \n",
+   "The Pilot Episode": " [[Verity Lambert]]\n",
+   "An Unearthly Child (TV story)": " [[Verity Lambert]]\n",
+   "The Daleks (TV story)": " [[Verity Lambert]]\n",
+   "The Edge of Destruction (TV story)": " [[Verity Lambert]]\n",
+   "Marco Polo (TV story)": " [[Verity Lambert]]\n",
+   "The Keys of Marinus (TV story)": " [[Verity Lambert]]\n",
+   "The Aztecs (TV story)": " [[Verity Lambert]]\n",
+   "The Sensorites (TV story)": " [[Verity Lambert]]\n",
+   "The Reign of Terror (TV story)": " [[Verity Lambert]]\n",
+   "Planet of Giants (TV story)": " [[Verity Lambert]]\n",
+   "The Dalek Invasion of Earth (TV story)": " [[Verity Lambert]]\n",
+   "The Rescue (TV story)": " [[Verity Lambert]]\n",
+   "The Romans (TV story)": " [[Verity Lambert]]\n",
+   "The Web Planet (TV story)": " [[Verity Lambert]]\n",
+   "The Crusade (TV story)": " [[Verity Lambert]]\n",
+   "The Space Museum (TV story)": " [[Verity Lambert]]\n",
+   "The Chase (TV story)": " [[Verity Lambert]]\n",
+   "The Time Meddler (TV story)": " [[Verity Lambert]]\n",
+   "Galaxy 4 (TV story)": " [[Verity Lambert]]\n",
+   "Mission to the Unknown (TV story)": " [[Verity Lambert]]\n",
+   "The Myth Makers (TV story)": " [[John Wiles]]\n",
+   "The Daleks' Master Plan (TV story)": " [[John Wiles]]\n",
+   "The Massacre (TV story)": " [[John Wiles]]\n",
+   "The Ark (TV story)": " [[John Wiles]]\n",
+   "The Celestial Toymaker (TV story)": " [[Innes Lloyd]]\n",
+   "The Gunfighters (TV story)": " [[Innes Lloyd]]\n",
+   "The Savages (TV story)": " [[Innes Lloyd]]\n",
+   "The War Machines (TV story)": " [[Innes Lloyd]]\n",
+   "The Smugglers (TV story)": " [[Innes Lloyd]]\n",
+   "The Tenth Planet (TV story)": " [[Innes Lloyd]]\n",
+   "The Power of the Daleks (TV story)": " [[Innes Lloyd]]\n",
+   "The Highlanders (TV story)": " [[Innes Lloyd]]\n",
+   "The Underwater Menace (TV story)": " [[Innes Lloyd]]\n",
+   "The Moonbase (TV story)": " [[Innes Lloyd]]\n",
+   "The Macra Terror (TV story)": " [[Innes Lloyd]]\n",
+   "The Faceless Ones (TV story)": " [[Innes Lloyd]], [[Peter Bryant]]\n",
+   "The Evil of the Daleks (TV story)": " [[Innes Lloyd]]\n",
+   "The Tomb of the Cybermen (TV story)": " [[Peter Bryant]]\n",
+   "The Abominable Snowmen (TV story)": " [[Innes Lloyd]]\n",
+   "The Ice Warriors (TV story)": " [[Innes Lloyd]]\n",
+   "The Enemy of the World (TV story)": " [[Innes Lloyd]]\n",
+   "The Web of Fear (TV story)": " [[Peter Bryant]]\n",
+   "Fury from the Deep (TV story)": " [[Peter Bryant]]\n",
+   "The Wheel in Space (TV story)": " [[Peter Bryant]]\n",
+   "The Dominators (TV story)": " [[Peter Bryant]]\n",
+   "The Mind Robber (TV story)": " [[Peter Bryant]]\n"
+  },
+  "music": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "sound": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "post production": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "read by": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "illustrator": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "cover": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "cover penciller": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "cover inker": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "cover colourist": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "designer": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "artist": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "penciller": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "inker": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "colourist": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "reprint colourist": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "letterer": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "animator": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "type": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "platform": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "genre": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "story number": {
+   "_not_set_in": 1,
+   "_set_in": 49,
+   "Castrovalva (TV story)": " 116\n",
+   "Doctor Who (TV story)": " 156\n",
+   "Rose (TV story)": " 157\n",
+   "The End of the World (TV story)": " 158\n",
+   "An Unearthly Child (TV story)": " 1\n",
+   "The Daleks (TV story)": " 2\n",
+   "The Edge of Destruction (TV story)": " 3\n",
+   "Marco Polo (TV story)": " 4\n",
+   "The Keys of Marinus (TV story)": " 5\n",
+   "The Aztecs (TV story)": " 6\n",
+   "The Sensorites (TV story)": " 7\n",
+   "The Reign of Terror (TV story)": " 8\n",
+   "Planet of Giants (TV story)": " 9\n",
+   "The Dalek Invasion of Earth (TV story)": " 10\n",
+   "The Rescue (TV story)": " 11\n",
+   "The Romans (TV story)": " 12\n",
+   "The Web Planet (TV story)": " 13\n",
+   "The Crusade (TV story)": " 14\n",
+   "The Space Museum (TV story)": " 15\n",
+   "The Chase (TV story)": " 16\n",
+   "The Time Meddler (TV story)": " 17\n",
+   "Galaxy 4 (TV story)": " 18\n",
+   "Mission to the Unknown (TV story)": " 19\n",
+   "The Myth Makers (TV story)": " 20\n",
+   "The Daleks' Master Plan (TV story)": " 21\n",
+   "The Massacre (TV story)": " 22\n",
+   "The Ark (TV story)": " 23\n",
+   "The Celestial Toymaker (TV story)": " 24\n",
+   "The Gunfighters (TV story)": " 25\n",
+   "The Savages (TV story)": " 26\n",
+   "The War Machines (TV story)": " 27\n",
+   "The Smugglers (TV story)": " 28\n",
+   "The Tenth Planet (TV story)": " 29\n",
+   "The Power of the Daleks (TV story)": " 30\n",
+   "The Highlanders (TV story)": " 31\n",
+   "The Underwater Menace (TV story)": " 32\n",
+   "The Moonbase (TV story)": " 33\n",
+   "The Macra Terror (TV story)": " 34\n",
+   "The Faceless Ones (TV story)": " 35\n",
+   "The Evil of the Daleks (TV story)": " 36\n",
+   "The Tomb of the Cybermen (TV story)": " 37\n",
+   "The Abominable Snowmen (TV story)": " 38\n",
+   "The Ice Warriors (TV story)": " 39\n",
+   "The Enemy of the World (TV story)": " 40\n",
+   "The Web of Fear (TV story)": " 41\n",
+   "Fury from the Deep (TV story)": " 42\n",
+   "The Wheel in Space (TV story)": " 43\n",
+   "The Dominators (TV story)": " 44\n",
+   "The Mind Robber (TV story)": " 45\n"
+  },
+  "epcount": {
+   "_not_set_in": 5,
+   "_set_in": 45,
+   "Castrovalva (TV story)": " 4\n",
+   "An Unearthly Child (TV story)": " 4\n",
+   "The Daleks (TV story)": " 7\n",
+   "The Edge of Destruction (TV story)": " 2\n",
+   "Marco Polo (TV story)": " 7\n",
+   "The Keys of Marinus (TV story)": " 6\n",
+   "The Aztecs (TV story)": " 4\n",
+   "The Sensorites (TV story)": " 6\n",
+   "The Reign of Terror (TV story)": " 6\n",
+   "Planet of Giants (TV story)": " 3\n",
+   "The Dalek Invasion of Earth (TV story)": " 6\n",
+   "The Rescue (TV story)": " 2\n",
+   "The Romans (TV story)": " 4\n",
+   "The Web Planet (TV story)": " 6\n",
+   "The Crusade (TV story)": " 4\n",
+   "The Space Museum (TV story)": " 4\n",
+   "The Chase (TV story)": " 6\n",
+   "The Time Meddler (TV story)": " 4\n",
+   "Galaxy 4 (TV story)": "4\n",
+   "Mission to the Unknown (TV story)": " 1\n",
+   "The Myth Makers (TV story)": " 4\n",
+   "The Daleks' Master Plan (TV story)": " 12\n",
+   "The Massacre (TV story)": " 4\n",
+   "The Ark (TV story)": " 4\n",
+   "The Celestial Toymaker (TV story)": " 4\n",
+   "The Gunfighters (TV story)": " 4\n",
+   "The Savages (TV story)": " 4\n",
+   "The War Machines (TV story)": "4\n",
+   "The Smugglers (TV story)": " 4\n",
+   "The Tenth Planet (TV story)": " 4\n",
+   "The Power of the Daleks (TV story)": " 6\n",
+   "The Highlanders (TV story)": " 4\n",
+   "The Underwater Menace (TV story)": " 4\n",
+   "The Moonbase (TV story)": " 4\n",
+   "The Macra Terror (TV story)": " 4\n",
+   "The Faceless Ones (TV story)": " 6\n",
+   "The Tomb of the Cybermen (TV story)": "4\n",
+   "The Abominable Snowmen (TV story)": " 6\n",
+   "The Ice Warriors (TV story)": "6\n",
+   "The Enemy of the World (TV story)": "6\n",
+   "The Web of Fear (TV story)": "6\n",
+   "Fury from the Deep (TV story)": "6\n",
+   "The Wheel in Space (TV story)": " 6\n",
+   "The Dominators (TV story)": "5\n",
+   "The Mind Robber (TV story)": " 5"
+  },
+  "number": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "broadcast date": {
+   "_not_set_in": 0,
+   "_set_in": 50,
+   "Castrovalva (TV story)": " [[4 January (releases)|4]] - [[12 January (releases)|12 January]] [[1982 (releases)|1982]]\n",
+   "Doctor Who (TV story)": " [[14 May (releases)|14 May]] [[1996 (releases)|1996]]refTechnically, the very first broadcast anywhere in the world was on [[12 May (releases)|12 May]]. But this was not a network broadcast. It was instead a transmission on [[CityTV]], an individual [[Canada|Canadian]] ''station'' in Edmonton.</ref> \n",
+   "Rose (TV story)": " [[26 March (releases)|26 March]] [[2005 (releases)|2005]] \n",
+   "The End of the World (TV story)": " [[2 April (releases)|2 April]] [[2005 (releases)|2005]] \n",
+   "The Pilot Episode": " [[26 August (releases)|26 August]] [[1991 (releases)|1991]]\n",
+   "An Unearthly Child (TV story)": " [[23 November (releases)|23 November]] - [[14 December (releases)|14 December]] [[1963 (releases)|1963]]\n",
+   "The Daleks (TV story)": " [[21 December (releases)|21 December]] [[1963 (releases)|1963]] - [[1 February (releases)|1 February]] [[1964 (releases)|1964]]\n",
+   "The Edge of Destruction (TV story)": " [[8 February (releases)|8]] - [[15 February (releases)|15 February]] [[1964 (releases)|1964]]\n",
+   "Marco Polo (TV story)": " [[22 February (releases)|22 February]] - [[4 April (releases)|4 April]] [[1964 (releases)|1964]]\n",
+   "The Keys of Marinus (TV story)": " [[11 April (releases)|11 April]] - [[16 May (releases)|16 May]] [[1964 (releases)|1964]]\n",
+   "The Aztecs (TV story)": " [[23 May (releases)|23 May]] - [[13 June (releases)|13 June]] [[1964 (releases)|1964]]\n",
+   "The Sensorites (TV story)": " [[20 June (releases)|20 June]] - [[1 August (releases)|1 August]] [[1964 (releases)|1964]]\n",
+   "The Reign of Terror (TV story)": " [[8 August (releases)|8 August]] - [[12 September (releases)|12 September]] [[1964 (releases)|1964]]\n",
+   "Planet of Giants (TV story)": " [[31 October (releases)|31 October]] - [[14 November (releases)|14 November]] [[1964 (releases)|1964]]\n",
+   "The Dalek Invasion of Earth (TV story)": " [[21 November (releases)|21 November]] - [[26 December (releases)|26 December]] [[1964 (releases)|1964]]\n",
+   "The Rescue (TV story)": " [[2 January (releases)|2]] - [[9 January (releases)|9 January]] [[1965 (releases)|1965]]\n",
+   "The Romans (TV story)": " [[16 January (releases)|16 January]] - [[6 February (releases)|6 February]] [[1965 (releases)|1965]]\n",
+   "The Web Planet (TV story)": " [[13 February (releases)|13 February]] - [[20 March (releases)|20 March]] [[1965 (releases)|1965]]\n",
+   "The Crusade (TV story)": " [[27 March (releases)|27 March]] - [[17 April (releases)|17 April]] [[1965 (releases)|1965]]\n",
+   "The Space Museum (TV story)": " [[24 April (releases)|24 April]] - [[15 May (releases)|15 May]] [[1965 (releases)|1965]]\n",
+   "The Chase (TV story)": " [[22 May (releases)|22 May]] - [[26 June (releases)|26 June]] [[1965 (releases)|1965]]\n",
+   "The Time Meddler (TV story)": " [[3 July (releases)|3]] - [[24 July (releases)|24 July]] [[1965 (releases)|1965]]\n",
+   "Galaxy 4 (TV story)": " [[11 September (releases)|11 September]] - [[2 October (releases)|2 October]] [[1965 (releases)|1965]]\n",
+   "Mission to the Unknown (TV story)": " [[9 October (releases)|9 October]] [[1965 (releases)|1965]]\n",
+   "The Myth Makers (TV story)": " [[16 October (releases)|16 October]] - [[6 November (releases)|6 November]] [[1965 (releases)|1965]] \n",
+   "The Daleks' Master Plan (TV story)": " [[13 November (releases)|13 November]] [[1965 (releases)|1965]] - [[29 January (releases)|29 January]] [[1966 (releases)|1966]]\n",
+   "The Massacre (TV story)": " [[5 February (releases)|5]] - [[26 February (releases)|26 February]] [[1966 (releases)|1966]]\n",
+   "The Ark (TV story)": " [[5 March (releases)|5]] - [[26 March (releases)|26 March]] [[1966 (releases)|1966]]\n",
+   "The Celestial Toymaker (TV story)": " [[2 April (releases)|2]] - [[23 April (releases)|23 April]] [[1966 (releases)|1966]]\n",
+   "The Gunfighters (TV story)": " [[30 April (releases)|30 April]] - [[21 May (releases)|21 May]] [[1966 (releases)|1966]] \n",
+   "The Savages (TV story)": " [[28 May (releases)|28 May]] - [[18 June (releases)|18 June]] [[1966 (releases)|1966]]\n",
+   "The War Machines (TV story)": " [[25 June (releases)|25 June]] - [[16 July (releases)|16 July]] [[1966 (releases)|1966]]\n",
+   "The Smugglers (TV story)": " [[10 September (releases)|10 September]] - [[1 October (releases)|1 October]] [[1966 (releases)|1966]]\n",
+   "The Tenth Planet (TV story)": " [[8 October (releases)|8]] - [[29 October (releases)|29 October]] [[1966 (releases)|1966]]\n",
+   "The Power of the Daleks (TV story)": " [[5 November (releases)|5 November]] - [[10 December (releases)|10 December]] [[1966 (releases)|1966]]\n",
+   "The Highlanders (TV story)": " [[17 December (releases)|17 December]] [[1966 (releases)|1966]] - [[7 January (releases)|7 January]] [[1967 (releases)|1967]]\n",
+   "The Underwater Menace (TV story)": " [[14 January (releases)|14 January]] - [[4 February (releases)|4 February]] [[1967 (releases)|1967]]\n",
+   "The Moonbase (TV story)": " [[11 February (releases)|11 February]] - [[4 March (releases)|4 March]] [[1967 (releases)|1967]]\n",
+   "The Macra Terror (TV story)": " [[11 March (releases)|11 March]] - [[1 April (releases)|1 April]] [[1967 (releases)|1967]]\n",
+   "The Faceless Ones (TV story)": " [[8 April (releases)|8 April]] - [[13 May (releases)|13 May]] [[1967 (releases)|1967]]\n",
+   "The Evil of the Daleks (TV story)": " [[20 May (releases)|20 May]] - [[1 July (releases)|1 July]] [[1967 (releases)|1967]]\n",
+   "The Tomb of the Cybermen (TV story)": " [[2 September (releases)|2]] - [[23 September (releases)|23 September]] [[1967 (releases)|1967]]\n",
+   "The Abominable Snowmen (TV story)": " [[30 September (releases)|30 September]] - [[4 November (releases)|4 November]] [[1967 (releases)|1967]]\n",
+   "The Ice Warriors (TV story)": " [[11 November (releases)|11 November]] - [[16 December (releases)|16 December]] [[1967 (releases)|1967]]\n",
+   "The Enemy of the World (TV story)": " [[23 December (releases)|23 December]] [[1967 (releases)|1967]] - [[27 January (releases)|27 January]] [[1968 (releases)|1968]]\n",
+   "The Web of Fear (TV story)": " [[3 February (releases)|3 February]] - [[9 March (releases)|9 March]] [[1968 (releases)|1968]]\n",
+   "Fury from the Deep (TV story)": " [[16 March (releases)|16 March]] - [[20 April (releases)|20 April]] [[1968 (releases)|1968]]\n",
+   "The Wheel in Space (TV story)": " [[27 April (releases)|27 April]] - [[1 June (releases)|1 June]] [[1968 (releases)|1968]]\n",
+   "The Dominators (TV story)": " [[10 August (releases)|10 August]] - [[7 September (releases)|7 September]] [[1968 (releases)|1968]]\n",
+   "The Mind Robber (TV story)": " [[14 September (releases)|14 September]] - [[12 October (releases)|12 October]] [[1968 (releases)|1968]]\n"
+  },
+  "price": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "beta release date": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "premiere": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "premiere venue": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "other venues": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "opening date": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "closing date": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "network": {
+   "_not_set_in": 1,
+   "_set_in": 49,
+   "Castrovalva (TV story)": " [[BBC1]]\n",
+   "Doctor Who (TV story)": " [[Fox Broadcasting Company|Fox]]\n",
+   "Rose (TV story)": " [[BBC One]]\n",
+   "The End of the World (TV story)": " [[BBC One]]\n",
+   "An Unearthly Child (TV story)": " [[BBC tv]]\n",
+   "The Daleks (TV story)": " [[BBC tv]]\n",
+   "The Edge of Destruction (TV story)": " [[BBC tv]]\n",
+   "Marco Polo (TV story)": " [[BBC tv]]\n",
+   "The Keys of Marinus (TV story)": " il[[BBC tv]] (1, 2)[[BBC1]] (3-6)\n",
+   "The Aztecs (TV story)": " [[BBC1]]\n",
+   "The Sensorites (TV story)": " [[BBC1]]\n",
+   "The Reign of Terror (TV story)": " [[BBC1]]\n",
+   "Planet of Giants (TV story)": " [[BBC1]]\n",
+   "The Dalek Invasion of Earth (TV story)": " [[BBC1]]\n",
+   "The Rescue (TV story)": " [[BBC1]]\n",
+   "The Romans (TV story)": " [[BBC1]]\n",
+   "The Web Planet (TV story)": " [[BBC1]]\n",
+   "The Crusade (TV story)": " [[BBC1]]\n",
+   "The Space Museum (TV story)": " [[BBC1]]\n",
+   "The Chase (TV story)": " [[BBC1]]\n",
+   "The Time Meddler (TV story)": " [[BBC1]]\n",
+   "Galaxy 4 (TV story)": " [[BBC1]]\n",
+   "Mission to the Unknown (TV story)": " [[BBC1]]\n",
+   "The Myth Makers (TV story)": " [[BBC1]]\n",
+   "The Daleks' Master Plan (TV story)": " [[BBC1]]\n",
+   "The Massacre (TV story)": " [[BBC1]]\n",
+   "The Ark (TV story)": " [[BBC1]]\n",
+   "The Celestial Toymaker (TV story)": " [[BBC1]]\n",
+   "The Gunfighters (TV story)": " [[BBC1]]\n",
+   "The Savages (TV story)": " [[BBC1]]\n",
+   "The War Machines (TV story)": "[[BBC1]]\n",
+   "The Smugglers (TV story)": " [[BBC1]]\n",
+   "The Tenth Planet (TV story)": " [[BBC1]]\n",
+   "The Power of the Daleks (TV story)": " [[BBC1]]\n",
+   "The Highlanders (TV story)": " [[BBC1]]\n",
+   "The Underwater Menace (TV story)": " [[BBC1]]\n",
+   "The Moonbase (TV story)": " [[BBC1]]\n",
+   "The Macra Terror (TV story)": " [[BBC1]]\n",
+   "The Faceless Ones (TV story)": " [[BBC1]]\n",
+   "The Evil of the Daleks (TV story)": "[[BBC1]]\n",
+   "The Tomb of the Cybermen (TV story)": "[[BBC1]]\n",
+   "The Abominable Snowmen (TV story)": " [[BBC1]]\n",
+   "The Ice Warriors (TV story)": "[[BBC1]]\n",
+   "The Enemy of the World (TV story)": "[[BBC1]]\n",
+   "The Web of Fear (TV story)": "[[BBC1]]\n",
+   "Fury from the Deep (TV story)": "[[BBC1]]\n",
+   "The Wheel in Space (TV story)": " [[BBC1]]\n",
+   "The Dominators (TV story)": "[[BBC1]]\n",
+   "The Mind Robber (TV story)": "[[BBC1]]\n"
+  },
+  "anthology": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "publication": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "release date": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "cover date": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "reprint": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "reprint2": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "reprint3": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "reprint4": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "reprint5": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "reprint6": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "reprint7": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "reprint8": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "reprint9": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "reprint10": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "traded": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "website": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "format": {
+   "_not_set_in": 0,
+   "_set_in": 50,
+   "Castrovalva (TV story)": " 4x25-minute episodes\n",
+   "Doctor Who (TV story)": " 1x85 minute telefilm \n",
+   "Rose (TV story)": " 1x45 minute episode \n",
+   "The End of the World (TV story)": " 1x45 minute episode \n",
+   "The Pilot Episode": " 1 episode, 25 minutes \n",
+   "An Unearthly Child (TV story)": " 4x25-minute episodes\n",
+   "The Daleks (TV story)": " 7x25-minute episodes\n",
+   "The Edge of Destruction (TV story)": " 2x25-minute episodes\n",
+   "Marco Polo (TV story)": " 7x25-minute episodes\n",
+   "The Keys of Marinus (TV story)": " 6x25-minute episodes \n",
+   "The Aztecs (TV story)": " 4x25-minute episodes\n",
+   "The Sensorites (TV story)": " 6x25-minute episodes \n",
+   "The Reign of Terror (TV story)": " 6x25-minute episodes\n",
+   "Planet of Giants (TV story)": " 3x25-minute episodes\n",
+   "The Dalek Invasion of Earth (TV story)": " 6x25-minute episodes\n",
+   "The Rescue (TV story)": " 2x25-minute episodes\n",
+   "The Romans (TV story)": " 4x25-minute episodes\n",
+   "The Web Planet (TV story)": " 6x25-minute episodes \n",
+   "The Crusade (TV story)": " 4x25-minute episodes\n",
+   "The Space Museum (TV story)": " 4x25-minute episodes\n",
+   "The Chase (TV story)": " 6x25-minute episodes\n",
+   "The Time Meddler (TV story)": " 4x25-minute episodes\n",
+   "Galaxy 4 (TV story)": " 4x25-minute episodes\n",
+   "Mission to the Unknown (TV story)": " 1x25-minute episode\n",
+   "The Myth Makers (TV story)": " 4x25-minute episodes \n",
+   "The Daleks' Master Plan (TV story)": " 12x25 minute episodes\n",
+   "The Massacre (TV story)": " 4x25-minute episodes\n",
+   "The Ark (TV story)": " 4x25-minute episodes\n",
+   "The Celestial Toymaker (TV story)": " 4x25-minute episodes\n",
+   "The Gunfighters (TV story)": " 4x25-minute episodes\n",
+   "The Savages (TV story)": " 4x25-minute episodes\n",
+   "The War Machines (TV story)": " 4x25-minute episodes\n",
+   "The Smugglers (TV story)": " 4x25-minute episodes\n",
+   "The Tenth Planet (TV story)": " 4x25-minute episodes\n",
+   "The Power of the Daleks (TV story)": " 6x25-minute episodes\n",
+   "The Highlanders (TV story)": " 4x25-minute episodes\n",
+   "The Underwater Menace (TV story)": " 4x25-minute episodes\n",
+   "The Moonbase (TV story)": " 4x25-minute episodes\n",
+   "The Macra Terror (TV story)": " 4x25-minute episodes\n",
+   "The Faceless Ones (TV story)": " 6x25-minute episodes\n",
+   "The Evil of the Daleks (TV story)": " 7x25-minute episodes\n",
+   "The Tomb of the Cybermen (TV story)": " 4x25-minute episodes\n",
+   "The Abominable Snowmen (TV story)": " 6x25-minute episodes\n",
+   "The Ice Warriors (TV story)": " 6x25-minute episodes \n",
+   "The Enemy of the World (TV story)": " 6x25-minute episodes \n",
+   "The Web of Fear (TV story)": " 6x25-minute episodes \n",
+   "Fury from the Deep (TV story)": " 6x25-minute episodes \n",
+   "The Wheel in Space (TV story)": " 6x25-minute episodes\n",
+   "The Dominators (TV story)": " 5x25-minute episodes \n",
+   "The Mind Robber (TV story)": " 5x20-minute episodes \n"
+  },
+  "production code": {
+   "_not_set_in": 47,
+   "_set_in": 3,
+   "Rose (TV story)": " 1.1 \n",
+   "The End of the World (TV story)": " 1.2 \n",
+   "The Pilot Episode": " \n"
+  },
+  "confidential": {
+   "_not_set_in": 48,
+   "_set_in": 2,
+   "Rose (TV story)": " Doctor Who: A New Dimension (CON episode)\n",
+   "The End of the World (TV story)": " Aliens: the Good, the Bad and the Ugly  (CON episode)\n"
+  },
+  "confidential2": {
+   "_not_set_in": 49,
+   "_set_in": 1,
+   "Rose (TV story)": " Bringing Back the Doctor (CON episode)\n"
+  },
+  "dwi": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "dwi2": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "thwr": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "thwr2": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "thwr3": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "thwr4": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "thwr5": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "thwr6": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "thwr7": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "thwr8": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "thwr9": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "thwr10": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "isbn": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "ibook": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "4print": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "4title": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "4date": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "4art": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "4 art": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "trailer": {
+   "_not_set_in": 43,
+   "_set_in": 7,
+   "Doctor Who (TV story)": " Doctor Who The Movie Blu-Ray Trailer - Doctor Who\n",
+   "The Dalek Invasion of Earth (TV story)": " Exclusive First Look Dalek Invasion Test Promo - Doctor Who - BBC\n",
+   "The Power of the Daleks (TV story)": " The Power of the Daleks Trailer 2 - Doctor Who\n",
+   "The Moonbase (TV story)": " Moonbase DVD Trailer - Doctor Who DVD\n",
+   "The Ice Warriors (TV story)": "Ice Warriors - The classic Second Doctor adventure - Doctor Who\n",
+   "The Enemy of the World (TV story)": "The Enemy of the World Trailer - Doctor Who - BBC\n",
+   "The Web of Fear (TV story)": "The Web of Fear Trailer - Doctor Who - BBC\n"
+  },
+  "trailer2": {
+   "_not_set_in": 49,
+   "_set_in": 1,
+   "The Power of the Daleks (TV story)": " The Power of the Daleks Trailer 3 - Doctor Who\n"
+  },
+  "clip": {
+   "_not_set_in": 21,
+   "_set_in": 29,
+   "Castrovalva (TV story)": " Recursion ploy - Doctor Who Castrovalva - BBC\n",
+   "Doctor Who (TV story)": " Seventh Doctor Regenerates - Sylvester McCoy to Paul McGann - Doctor Who The Movie - BBC\n",
+   "Rose (TV story)": " Christopher Eccleston's first Doctor Who scene - I'm The Doctor by the way uc:extended - BBC\n",
+   "The End of the World (TV story)": " The end of Earth - Doctor Who - Series 1 The End of the World - BBC\n",
+   "An Unearthly Child (TV story)": " First Time Entering the TARDIS - An Unearthly Child - Doctor Who - BBC\n",
+   "The Edge of Destruction (TV story)": " Possessed Susan attacks Barbara - The Edge of Destruction - Doctor Who - BBC\n",
+   "The Keys of Marinus (TV story)": " Why can't you see it? - The Keys Of Marinus - Doctor Who - BBC\n",
+   "The Aztecs (TV story)": " The reincarnation of Yetaxa - Doctor Who - The Aztecs - BBC\n",
+   "The Sensorites (TV story)": " Just the unknown - The Sensorites - Doctor Who - BBC\n",
+   "The Reign of Terror (TV story)": " Undercover in a Paris prison - The Reign of Terror - Doctor Who - BBC\n",
+   "Planet of Giants (TV story)": " Face to Face With a Giant Cat - Doctor Who - Planet of Giants - BBC\n",
+   "The Dalek Invasion of Earth (TV story)": " Goodbye Susan - The Dalek Invasion of Earth - Doctor Who - BBC\n",
+   "The Romans (TV story)": " Caesar's plans go up in flames - Doctor Who - The Romans - BBC\n",
+   "The Chase (TV story)": " Ian and Barbara leave the Doctor - Doctor Who - The Chase - BBC\n",
+   "The Time Meddler (TV story)": " The Monk's Tardis is Discovered - Doctor Who - The Time Meddler - BBC\n",
+   "The Ark (TV story)": " Doctor meets Refusian - Doctor Who - The Ark - BBC\n",
+   "The Celestial Toymaker (TV story)": " The Last Move - Doctor Who - The Celestial Toymaker - BBC\n",
+   "The Gunfighters (TV story)": " The Clanton Brothers - Doctor Who Gunfighters - BBC\n",
+   "The War Machines (TV story)": " The Post Office Tower - Doctor Who The War Machines - BBC\n",
+   "The Tenth Planet (TV story)": " Battle in the Snow Vs Cybermen - Doctor Who - The Tenth Planet - BBC\n",
+   "The Underwater Menace (TV story)": " Doctor Who The Underwater Menace (TV Soundtrack)\n",
+   "The Moonbase (TV story)": " Don't Drink That - Doctor Who - The Moonbase - BBC\n",
+   "The Faceless Ones (TV story)": " Doctor Who The Faceless Ones (TV Soundtrack)\n",
+   "The Tomb of the Cybermen (TV story)": "Opening The Tomb Doors - The Tomb of the Cybermen - Doctor Who - BBC\n",
+   "The Ice Warriors (TV story)": "Victim of the Ice Warriors - The Ice Warriors - Doctor Who - BBC\n",
+   "The Enemy of the World (TV story)": "The Doctor goes for a swim - Doctor Who - BBC\n",
+   "The Web of Fear (TV story)": "Yeti attack! - The Web of Fear - Doctor Who - BBC\n",
+   "The Wheel in Space (TV story)": " You will be destroyed! - The Wheel In Space - Doctor Who - BBC\n",
+   "The Mind Robber (TV story)": " The TARDIS explodes - The Mind Robber - Doctor Who - BBC\n"
+  },
+  "clip2": {
+   "_not_set_in": 31,
+   "_set_in": 19,
+   "Castrovalva (TV story)": " Post-regeneration trauma - Doctor Who Castrovalva - BBC\n",
+   "Doctor Who (TV story)": " Motorcycle chase -The Doctor Vs The Master - Doctor Who the Movie - BBC\n",
+   "Rose (TV story)": " Is it always this dangerous? - Doctor Who - Series 1 Rose - BBC\n",
+   "The End of the World (TV story)": " \n",
+   "An Unearthly Child (TV story)": " You must not make fire! - An Unearthly Child - BBC\n",
+   "The Aztecs (TV story)": " The Doctor quizzes Cameca - Doctor Who - The Aztecs - BBC\n",
+   "The Sensorites (TV story)": " I don't make threats but I do keep promises - Doctor Who - The Sensorites - BBC \n",
+   "The Reign of Terror (TV story)": " Spying on Napoleon Bonaparte - The Reign of Terror - Doctor Who - BBC\n",
+   "The Time Meddler (TV story)": " A Surprise for the Monk - Doctor Who - The Time Meddler - BBC\n",
+   "The Ark (TV story)": " Monoids civil war - Doctor Who The Ark - BBC\n",
+   "The Gunfighters (TV story)": " Lynch Mob - Doctor Who Gunfighters - BBC\n",
+   "The War Machines (TV story)": " The Doctor calls WOTAN - Doctor Who The War Machines - BBC\n",
+   "The Tenth Planet (TV story)": " Get me Geneva - Quick! - Doctor Who - The Tenth Planet - BBC\n",
+   "The Moonbase (TV story)": " uc:Exclusive The March of the Cybermen - The Moonbase - Doctor Who DVD\n",
+   "The Tomb of the Cybermen (TV story)": "Get some sleep - Doctor Who - The Tomb of the Cybermen - BBC\n",
+   "The Ice Warriors (TV story)": "The deadly stink bomb - The Ice Warriors - Doctor Who - BBC\n",
+   "The Enemy of the World (TV story)": " Will the Doctor become Salamander? - Doctor Who - BBC\n",
+   "The Web of Fear (TV story)": "The Doctor defeats the Great Intelligence *SPOILERS* - Doctor Who - BBC\n",
+   "The Mind Robber (TV story)": " Why did the Chicken Cross the Road? - The Mind Robber - Doctor Who - BBC\n"
+  },
+  "clip3": {
+   "_not_set_in": 39,
+   "_set_in": 11,
+   "Castrovalva (TV story)": " False History - Doctor Who Castrovalva - BBC\n",
+   "Doctor Who (TV story)": " The Master steals the Doctor's regenerations - Doctor Who the Movie - BBC\n",
+   "An Unearthly Child (TV story)": " Tardis Getaway - Doctor Who An Unearthly Child - BBC\n",
+   "The Aztecs (TV story)": " Ian vs Ixta - Doctor Who - The Aztecs - BBC\n",
+   "The Ark (TV story)": " Monoids foil Doctor's escape - Doctor Who The Ark - BBC\n",
+   "The Gunfighters (TV story)": " Big Gunfight! - Doctor Who The Gunfighters - BBC\n",
+   "The War Machines (TV story)": " New War Machine - Doctor Who The War Machines - BBC\n",
+   "The Tenth Planet (TV story)": " First Doctor regenerates - William Hartnell to Patrick Troughton\n",
+   "The Tomb of the Cybermen (TV story)": "The Cyber Controller - Doctor Who - The Tomb Of The Cybermen - BBC\n",
+   "The Enemy of the World (TV story)": " Salamander's secret bunker *SPOILERS* - Doctor Who - BBC\n",
+   "The Web of Fear (TV story)": "The Doctor reactivates a Yeti Sphere - Doctor Who - BBC\n"
+  },
+  "fullvid": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "bts": {
+   "_not_set_in": 36,
+   "_set_in": 14,
+   "Doctor Who (TV story)": " Doctor Who The Movie Q&A\n",
+   "Rose (TV story)": " Chris and Billie's First Big Scene Together (HQ) - Doctor Who Confidential - BBC\n",
+   "The End of the World (TV story)": " Creating Cassandra - Dr Who Confidential - BBC sci-fi\n",
+   "An Unearthly Child (TV story)": " Doctor Who An Unearthly Child Event Part 1 2\n",
+   "The Reign of Terror (TV story)": " Animating the Doctor - Reign Of Terror - Doctor Who - BBC\n",
+   "Planet of Giants (TV story)": " Exclusive First Look - Making Planet of Giants - Doctor Who - BBC\n",
+   "The Web Planet (TV story)": " Peter Capaldi's favourite classic episodes - Doctor Who Series 9 (2015) - BBC\n",
+   "Galaxy 4 (TV story)": "BFI screen long missing Doctor Who episodes\n",
+   "The Ark (TV story)": " Special Feature - All's Well's That Ends Wells - The Ark - Doctor Who - BBC\n",
+   "The Tenth Planet (TV story)": " Peter Capaldi's favourite classic episodes - Doctor Who Series 9 (2015) - BBC\n",
+   "The Power of the Daleks (TV story)": " The Power of the Daleks - Doctor Who The Fan Show\n",
+   "The Underwater Menace (TV story)": " BFI screen long missing Doctor Who episodes\n",
+   "The Tomb of the Cybermen (TV story)": "Special Feature - The Cybermen - Doctor Who - The Tomb of the Cybermen - BBC\n",
+   "The Enemy of the World (TV story)": "Special DVD Bonus The Enemy of the World Doctor Who - BBC\n"
+  },
+  "bts2": {
+   "_not_set_in": 47,
+   "_set_in": 3,
+   "An Unearthly Child (TV story)": " Doctor Who An Unearthly Child Event Part 2 2\n",
+   "Planet of Giants (TV story)": " Special Feature - The Budget - Doctor Who - Planet of Giants - BBC\n",
+   "The Tomb of the Cybermen (TV story)": "Special feature - Tutankhamun and the Cybermen - Doctor Who - Tomb of the Cybermen- BBC\n"
+  },
+  "bts3": {
+   "_not_set_in": 49,
+   "_set_in": 1,
+   "The Tomb of the Cybermen (TV story)": "Doctor Who Tomb of the Cybermen Event\n"
+  },
+  "scene analysis": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "ex interview": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "soundcloudtrailer": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "soundcloudtrailer2": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "soundcloudclip": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "soundcloudclip2": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "musicsuite": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "sample": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "soundcloudbts": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "podcast": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "audio commentary": {
+   "_not_set_in": 45,
+   "_set_in": 5,
+   "An Unearthly Child (TV story)": " https://soundcloud.com/fantompublishing/an-unearthly-child\n",
+   "The Daleks' Master Plan (TV story)": " https://soundcloud.com/fantompublishing/who-talk-day-of-armageddon-extract-daleks-master-plan\n",
+   "The Enemy of the World (TV story)": " https://soundcloud.com/fantompublishing/who-talk-the-enemy-of-the-world-extract-episode-one\n",
+   "The Web of Fear (TV story)": "https://soundcloud.com/fantompublishing/who-talk-the-web-of-fear-episode-one-sample\n",
+   "The Wheel in Space (TV story)": " https://soundcloud.com/fantompublishing/trailer-cyber60s\n"
+  },
+  "fullaud": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "prev": {
+   "_not_set_in": 1,
+   "_set_in": 49,
+   "Castrovalva (TV story)": " Logopolis (TV story)\n",
+   "Doctor Who (TV story)": " Survival (TV story)\n",
+   "Rose (TV story)": " Doctor Who (TV story)\n",
+   "The End of the World (TV story)": " Rose (TV story) \n",
+   "The Pilot Episode": " \n",
+   "The Daleks (TV story)": " An Unearthly Child (TV story)\n",
+   "The Edge of Destruction (TV story)": " The Daleks (TV story)\n",
+   "Marco Polo (TV story)": " The Edge of Destruction (TV story)\n",
+   "The Keys of Marinus (TV story)": " Marco Polo (TV story)\n",
+   "The Aztecs (TV story)": " The Keys of Marinus (TV story)\n",
+   "The Sensorites (TV story)": " The Aztecs (TV story) \n",
+   "The Reign of Terror (TV story)": " The Sensorites (TV story)\n",
+   "Planet of Giants (TV story)": " The Reign of Terror (TV story)\n",
+   "The Dalek Invasion of Earth (TV story)": " Planet of Giants (TV story)\n",
+   "The Rescue (TV story)": " The Dalek Invasion of Earth (TV story)\n",
+   "The Romans (TV story)": " The Rescue (TV story)\n",
+   "The Web Planet (TV story)": " The Romans (TV story)\n",
+   "The Crusade (TV story)": " The Web Planet (TV story)\n",
+   "The Space Museum (TV story)": " The Crusade (TV story)\n",
+   "The Chase (TV story)": " The Space Museum (TV story)\n",
+   "The Time Meddler (TV story)": " The Chase (TV story)\n",
+   "Galaxy 4 (TV story)": " The Time Meddler (TV story)\n",
+   "Mission to the Unknown (TV story)": " Galaxy 4 (TV story)\n",
+   "The Myth Makers (TV story)": " Mission to the Unknown (TV story) \n",
+   "The Daleks' Master Plan (TV story)": " The Myth Makers (TV story)\n",
+   "The Massacre (TV story)": " The Daleks' Master Plan (TV story) \n",
+   "The Ark (TV story)": " The Massacre (TV story)\n",
+   "The Celestial Toymaker (TV story)": " The Ark (TV story)\n",
+   "The Gunfighters (TV story)": " The Celestial Toymaker (TV story)\n",
+   "The Savages (TV story)": " The Gunfighters (TV story) \n",
+   "The War Machines (TV story)": " The Savages (TV story) \n",
+   "The Smugglers (TV story)": " The War Machines (TV story) \n",
+   "The Tenth Planet (TV story)": " The Smugglers (TV story)\n",
+   "The Power of the Daleks (TV story)": " The Tenth Planet (TV story)\n",
+   "The Highlanders (TV story)": " The Power of the Daleks (TV story)\n",
+   "The Underwater Menace (TV story)": " The Highlanders (TV story)\n",
+   "The Moonbase (TV story)": " The Underwater Menace (TV story)\n",
+   "The Macra Terror (TV story)": " The Moonbase (TV story)\n",
+   "The Faceless Ones (TV story)": " The Macra Terror (TV story)\n",
+   "The Evil of the Daleks (TV story)": "The Faceless Ones (TV story)\n",
+   "The Tomb of the Cybermen (TV story)": " The Evil of the Daleks (TV story)\n",
+   "The Abominable Snowmen (TV story)": " The Tomb of the Cybermen (TV story)\n",
+   "The Ice Warriors (TV story)": "The Abominable Snowmen (TV story)\n",
+   "The Enemy of the World (TV story)": "The Ice Warriors (TV story)\n",
+   "The Web of Fear (TV story)": "The Enemy of the World (TV story)\n",
+   "Fury from the Deep (TV story)": "The Web of Fear (TV story)\n",
+   "The Wheel in Space (TV story)": " Fury from the Deep (TV story)\n",
+   "The Dominators (TV story)": "The Wheel in Space (TV story)\n",
+   "The Mind Robber (TV story)": "The Dominators (TV story)\n"
+  },
+  "next": {
+   "_not_set_in": 0,
+   "_set_in": 50,
+   "Castrovalva (TV story)": " Four to Doomsday (TV story)\n",
+   "Doctor Who (TV story)": " Rose (TV story)\n",
+   "Rose (TV story)": " The End of the World (TV story)\n",
+   "The End of the World (TV story)": " The Unquiet Dead (TV story) \n",
+   "The Pilot Episode": " \n",
+   "An Unearthly Child (TV story)": " The Daleks (TV story)\n",
+   "The Daleks (TV story)": " The Edge of Destruction (TV story)\n",
+   "The Edge of Destruction (TV story)": " Marco Polo (TV story)\n",
+   "Marco Polo (TV story)": " The Keys of Marinus (TV story)\n",
+   "The Keys of Marinus (TV story)": " The Aztecs (TV story)\n",
+   "The Aztecs (TV story)": " The Sensorites (TV story)\n",
+   "The Sensorites (TV story)": " The Reign of Terror (TV story)\n",
+   "The Reign of Terror (TV story)": " Planet of Giants (TV story)\n",
+   "Planet of Giants (TV story)": " The Dalek Invasion of Earth (TV story)\n",
+   "The Dalek Invasion of Earth (TV story)": " The Rescue (TV story)\n",
+   "The Rescue (TV story)": " The Romans (TV story)\n",
+   "The Romans (TV story)": " The Web Planet (TV story)\n",
+   "The Web Planet (TV story)": " The Crusade (TV story)\n",
+   "The Crusade (TV story)": " The Space Museum (TV story)\n",
+   "The Space Museum (TV story)": " The Chase (TV story)\n",
+   "The Chase (TV story)": " The Time Meddler (TV story)\n",
+   "The Time Meddler (TV story)": " Galaxy 4 (TV story)\n",
+   "Galaxy 4 (TV story)": " Mission to the Unknown (TV story)\n",
+   "Mission to the Unknown (TV story)": " The Myth Makers (TV story)\n",
+   "The Myth Makers (TV story)": " The Daleks' Master Plan (TV story)\n",
+   "The Daleks' Master Plan (TV story)": " The Massacre (TV story)\n",
+   "The Massacre (TV story)": " The Ark (TV story)\n",
+   "The Ark (TV story)": " The Celestial Toymaker (TV story)\n",
+   "The Celestial Toymaker (TV story)": " The Gunfighters (TV story)\n",
+   "The Gunfighters (TV story)": " The Savages (TV story)\n",
+   "The Savages (TV story)": " The War Machines (TV story)\n",
+   "The War Machines (TV story)": " The Smugglers (TV story)\n",
+   "The Smugglers (TV story)": " The Tenth Planet (TV story)\n",
+   "The Tenth Planet (TV story)": " The Power of the Daleks (TV story)\n",
+   "The Power of the Daleks (TV story)": " The Highlanders (TV story)\n",
+   "The Highlanders (TV story)": " The Underwater Menace (TV story)\n",
+   "The Underwater Menace (TV story)": " The Moonbase (TV story)\n",
+   "The Moonbase (TV story)": " The Macra Terror (TV story) \n",
+   "The Macra Terror (TV story)": " The Faceless Ones (TV story)\n",
+   "The Faceless Ones (TV story)": " The Evil of the Daleks (TV story)\n",
+   "The Evil of the Daleks (TV story)": "The Tomb of the Cybermen (TV story)\n",
+   "The Tomb of the Cybermen (TV story)": " The Abominable Snowmen (TV story)\n",
+   "The Abominable Snowmen (TV story)": " The Ice Warriors (TV story)\n",
+   "The Ice Warriors (TV story)": " The Enemy of the World (TV story)\n",
+   "The Enemy of the World (TV story)": " The Web of Fear (TV story)\n",
+   "The Web of Fear (TV story)": " Fury from the Deep (TV story)\n",
+   "Fury from the Deep (TV story)": " The Wheel in Space (TV story)\n",
+   "The Wheel in Space (TV story)": " The Dominators (TV story)\n",
+   "The Dominators (TV story)": " The Mind Robber (TV story)\n",
+   "The Mind Robber (TV story)": " The Invasion (TV story)\n"
+  },
+  "prev2": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "next2": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "made prev": {
+   "_not_set_in": 44,
+   "_set_in": 6,
+   "Castrovalva (TV story)": " Kinda (TV story)\n",
+   "Doctor Who (TV story)": " Dimensions in Time\n",
+   "Rose (TV story)": " Doctor Who (TV story)\n",
+   "The End of the World (TV story)": " World War Three (TV story)\n",
+   "The Pilot Episode": " \n",
+   "An Unearthly Child (TV story)": " The Pilot Episode\n"
+  },
+  "made next": {
+   "_not_set_in": 44,
+   "_set_in": 6,
+   "Castrovalva (TV story)": " Black Orchid (TV story)\n",
+   "Doctor Who (TV story)": " Rose (TV story)\n",
+   "Rose (TV story)": " Aliens of London (TV story)\n",
+   "The End of the World (TV story)": " The Unquiet Dead (TV story)\n",
+   "The Pilot Episode": " \n",
+   "An Unearthly Child (TV story)": " The Daleks (TV story)\n"
+  },
+  "prev3": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  },
+  "next3": {
+   "_not_set_in": 50,
+   "_set_in": 0
+  }
+ }
+}

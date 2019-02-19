@@ -1,0 +1,482 @@
+{
+ "wiki": "tardis.fandom.com",
+ "infobox": "Template:Infobox Event or Exhibition",
+ "parameters": {
+  "name": {
+   "_not_set_in": 11,
+   "_set_in": 5,
+   "Doctor Who at the Proms (2008)": " ''Doctor Who at the Proms'' (2008)\n",
+   "Doctor Who at the Proms (2010)": " ''Doctor Who at the Proms'' (2010)\n",
+   "The Art of Doctor Who (exhibition)": " The Art of Doctor Who\n",
+   "Doctor Who at the Proms (2013)": " ''Doctor Who at the Proms'' (2013)\n",
+   "Doctor Who World Tour": " ''Doctor Who World Tour''\n"
+  },
+  "image": {
+   "_not_set_in": 1,
+   "_set_in": 15,
+   "Doctor Who at the Proms (2008)": " Doctor-who-at-the-proms-2008-title-card.jpg\n",
+   "Doctor Who at the Proms (2010)": " Doctor_Who_at_the_Proms_2010_title_card.jpg\n",
+   "Doctor Who Experience (London/Cardiff)": "\n",
+   "Doctor Who Exhibition Blackpool": " Blackpool October 1975.jpg\n",
+   "BBC tv Special Effects Exhibition": " Science Museum Dec 1972 1.jpg\n",
+   "Doctor Who Exhibition (Longleat)": " Longleatexhibition8b.jpg\n",
+   "Doctor Who USA Tour": " Trailer1.jpg\n",
+   "3001 Space Adventure": " \n",
+   "Doctor Who Experience (Llangollen)": " llangollen Exhibition opening.jpg\n",
+   "Behind the Sofa": "MOMI DW promo billboard.jpg\n",
+   "Doctor Who Up Close (Land's End)": "\n",
+   "The Art of Doctor Who (exhibition)": " The Art of Doctor Who.jpg\n",
+   "Doctor Who at the Proms (2013)": " \n",
+   "Class World Premiere": " Class World Premiere.jpg\n",
+   "Doctor Who: A Celebration": " \n"
+  },
+  "caption": {
+   "_not_set_in": 16,
+   "_set_in": 0
+  },
+  "image2": {
+   "_not_set_in": 15,
+   "_set_in": 1,
+   "Doctor Who at the Proms (2008)": " Doctor_Who_at_the_Proms_2008_title_card_2.jpg\n"
+  },
+  "caption2": {
+   "_not_set_in": 16,
+   "_set_in": 0
+  },
+  "aka": {
+   "_not_set_in": 15,
+   "_set_in": 1,
+   "3001 Space Adventure": " World of Doctor Who Exhibition\n"
+  },
+  "subject": {
+   "_not_set_in": 14,
+   "_set_in": 2,
+   "Class World Premiere": " ''[[Class (TV series)|Class]]''\n",
+   "Doctor Who World Tour": " Celebratory tour\n"
+  },
+  "story": {
+   "_not_set_in": 15,
+   "_set_in": 1,
+   "Class World Premiere": " For Tonight We Might Die (TV story)\n"
+  },
+  "venue": {
+   "_not_set_in": 10,
+   "_set_in": 6,
+   "Doctor Who at the Proms (2008)": " [[Royal Albert Hall]]\n",
+   "Doctor Who at the Proms (2010)": " [[Royal Albert Hall]]\n",
+   "Doctor Who at the Proms (2013)": " [[Royal Albert Hall]]\n",
+   "Class World Premiere": " [[Rich Mix Cinema]], [[Shoreditch]]\n",
+   "Doctor Who World Tour": " [[Cardiff]], [[London]], [[Seoul]], [[Sydney]], [[New York City|New York]], [[Mexico City]] and [[Rio de Janeiro|Rio]]\n",
+   "Doctor Who: A Celebration": " [[Wales Millennium Centre]]\n"
+  },
+  "date": {
+   "_not_set_in": 13,
+   "_set_in": 3,
+   "Doctor Who at the Proms (2013)": " 13 July 2013\n",
+   "Class World Premiere": " 20 October 2016\n",
+   "Doctor Who: A Celebration": " 19 November 2006\n"
+  },
+  "tour date": {
+   "_not_set_in": 15,
+   "_set_in": 1,
+   "Doctor Who World Tour": " [[7 August (production)|7]] - [[20 August (production)|20 August]] [[2014 (production)|2014]]\n"
+  },
+  "broadcast with": {
+   "_not_set_in": 16,
+   "_set_in": 0
+  },
+  "broadcast date": {
+   "_not_set_in": 12,
+   "_set_in": 4,
+   "Doctor Who at the Proms (2008)": " 27 July 2008\n",
+   "Doctor Who at the Proms (2010)": " September 2010\n",
+   "Doctor Who at the Proms (2013)": " 13 July 2013\n",
+   "Doctor Who: A Celebration": " 19 November 2006 (radio)\n"
+  },
+  "broadcast date2": {
+   "_not_set_in": 15,
+   "_set_in": 1,
+   "Doctor Who: A Celebration": " 25 December 2006 (BBCi)\n"
+  },
+  "broadcast date4": {
+   "_not_set_in": 16,
+   "_set_in": 0
+  },
+  "broadcast date5": {
+   "_not_set_in": 16,
+   "_set_in": 0
+  },
+  "broadcast date6": {
+   "_not_set_in": 16,
+   "_set_in": 0
+  },
+  "channel": {
+   "_not_set_in": 15,
+   "_set_in": 1,
+   "Doctor Who: A Celebration": " BBC Radio Wales\n"
+  },
+  "network": {
+   "_not_set_in": 15,
+   "_set_in": 1,
+   "Doctor Who at the Proms (2013)": " BBC Radio 3\n"
+  },
+  "exhibition features": {
+   "_not_set_in": 6,
+   "_set_in": 10,
+   "Doctor Who Experience (London/Cardiff)": " ilInteractive storyClassic and new props and costumes\n",
+   "Doctor Who Exhibition Blackpool": " Regularly changing props\n",
+   "BBC tv Special Effects Exhibition": " Full-sized [[TARDIS console]]\n",
+   "Doctor Who Exhibition (Longleat)": " Police Box-like entrance, Changing array of props\n",
+   "Doctor Who USA Tour": " Based within a [[truck]]-trailer, [[Andrew Skilleter]]-designed art on outside\n",
+   "3001 Space Adventure": " \n",
+   "Doctor Who Experience (Llangollen)": " Located with [[Dapol]], Largest ''Doctor Who'' exhibition\n",
+   "Behind the Sofa": "\n",
+   "Doctor Who Up Close (Land's End)": "Huge police box entrance, [[BBC Wales]] props and costumes\n",
+   "The Art of Doctor Who (exhibition)": " [[Concept art]]<br />[[Prop]]s<br />Behind the scenes information\n"
+  },
+  "exhibition location": {
+   "_not_set_in": 6,
+   "_set_in": 10,
+   "Doctor Who Experience (London/Cardiff)": " Olympia Two, [[London]]<br />[[Cardiff Bay]], [[Cardiff]]\n",
+   "Doctor Who Exhibition Blackpool": " 111 Central Promenade, [[Blackpool]]\n",
+   "BBC tv Special Effects Exhibition": " [[Science Museum]], [[Kensington]], [[London]]\n",
+   "Doctor Who Exhibition (Longleat)": " [[Longleat House]]\n",
+   "Doctor Who USA Tour": "\n",
+   "3001 Space Adventure": " Tooley Street, [[London]]\n",
+   "Doctor Who Experience (Llangollen)": " Lower Dee Mill, Llangollen, [[North Wales]]\n",
+   "Behind the Sofa": " ilMuseum of the Moving Image, [[London]]Museum of the Moving Image, [[Sheffield]]\n",
+   "Doctor Who Up Close (Land's End)": " Land's End Landmark, [[Land's End]], Sennen, Penzance, [[Cornwall]]\n",
+   "The Art of Doctor Who (exhibition)": " Spaceport, Seacombe, Wallasey, Wirral, Merseyside\n"
+  },
+  "opening date": {
+   "_not_set_in": 6,
+   "_set_in": 10,
+   "Doctor Who Experience (London/Cardiff)": " 20 February 2011 (London)\n",
+   "Doctor Who Exhibition Blackpool": " 14 April 1974\n",
+   "BBC tv Special Effects Exhibition": " 1 December 1972\n",
+   "Doctor Who Exhibition (Longleat)": " 12 April 1974\n",
+   "Doctor Who USA Tour": " 9 May 1986 (UK press launch)\n",
+   "3001 Space Adventure": " 15 November 1988\n",
+   "Doctor Who Experience (Llangollen)": " 1995\n",
+   "Behind the Sofa": " 5 July 1991\n",
+   "Doctor Who Up Close (Land's End)": " 7 April 2007\n",
+   "The Art of Doctor Who (exhibition)": " 23 May 2007\n"
+  },
+  "opening date2": {
+   "_not_set_in": 14,
+   "_set_in": 2,
+   "Doctor Who Experience (London/Cardiff)": " 20 July 2012 (Cardiff)\n",
+   "Doctor Who USA Tour": " May 1986 (US launch)\n"
+  },
+  "closing date": {
+   "_not_set_in": 6,
+   "_set_in": 10,
+   "Doctor Who Experience (London/Cardiff)": " 20 February 2012 (London)\n",
+   "Doctor Who Exhibition Blackpool": " 30 October 1985\n",
+   "BBC tv Special Effects Exhibition": " May 1973\n",
+   "Doctor Who Exhibition (Longleat)": " 2003\n",
+   "Doctor Who USA Tour": " 1987\n",
+   "3001 Space Adventure": " December 1989\n",
+   "Doctor Who Experience (Llangollen)": " 2003\n",
+   "Behind the Sofa": " 1992\n",
+   "Doctor Who Up Close (Land's End)": " 3 January 2011\n",
+   "The Art of Doctor Who (exhibition)": " 1 March 2009\n"
+  },
+  "closing date2": {
+   "_not_set_in": 15,
+   "_set_in": 1,
+   "Doctor Who Experience (London/Cardiff)": " 9 September 2017 (Cardiff)\n"
+  },
+  "host": {
+   "_not_set_in": 13,
+   "_set_in": 3,
+   "Class World Premiere": " A.Dot\n",
+   "Doctor Who World Tour": " Peter Capaldi\n",
+   "Doctor Who: A Celebration": " David Tennant\n"
+  },
+  "host2": {
+   "_not_set_in": 15,
+   "_set_in": 1,
+   "Doctor Who World Tour": " Jenna Coleman\n"
+  },
+  "host3": {
+   "_not_set_in": 15,
+   "_set_in": 1,
+   "Doctor Who World Tour": " Steven Moffat\n"
+  },
+  "featuring": {
+   "_not_set_in": 12,
+   "_set_in": 4,
+   "Doctor Who at the Proms (2008)": " Freema Agyeman\n",
+   "Doctor Who at the Proms (2010)": " Matt Smith\n",
+   "Doctor Who at the Proms (2013)": " Matt Smith\n",
+   "Doctor Who: A Celebration": " Murray Gold\n"
+  },
+  "featuring2": {
+   "_not_set_in": 12,
+   "_set_in": 4,
+   "Doctor Who at the Proms (2008)": " Noel Clarke\n",
+   "Doctor Who at the Proms (2010)": " Karen Gillan\n",
+   "Doctor Who at the Proms (2013)": " Jenna Coleman\n",
+   "Doctor Who: A Celebration": " Russell T Davies\n"
+  },
+  "featuring3": {
+   "_not_set_in": 12,
+   "_set_in": 4,
+   "Doctor Who at the Proms (2008)": " Camille Coduri\n",
+   "Doctor Who at the Proms (2010)": " Arthur Darvill\n",
+   "Doctor Who at the Proms (2013)": " Neve McIntosh\n",
+   "Doctor Who: A Celebration": " Dalek!Daleks\n"
+  },
+  "featuring4": {
+   "_not_set_in": 14,
+   "_set_in": 2,
+   "Doctor Who at the Proms (2008)": " Catherine Tate\n",
+   "Doctor Who at the Proms (2013)": " Dan Starkey\n"
+  },
+  "featuring5": {
+   "_not_set_in": 15,
+   "_set_in": 1,
+   "Doctor Who at the Proms (2013)": " Peter Davison\n"
+  },
+  "featuring6": {
+   "_not_set_in": 15,
+   "_set_in": 1,
+   "Doctor Who at the Proms (2013)": " Dalek!Daleks\n"
+  },
+  "featuring7": {
+   "_not_set_in": 15,
+   "_set_in": 1,
+   "Doctor Who at the Proms (2013)": " Carole Ann Ford\n"
+  },
+  "featuring8": {
+   "_not_set_in": 16,
+   "_set_in": 0
+  },
+  "featuring9": {
+   "_not_set_in": 16,
+   "_set_in": 0
+  },
+  "featuring10": {
+   "_not_set_in": 16,
+   "_set_in": 0
+  },
+  "interviewee": {
+   "_not_set_in": 14,
+   "_set_in": 2,
+   "Class World Premiere": " Sophie Hopkins\n",
+   "Doctor Who World Tour": " \n"
+  },
+  "interviewee2": {
+   "_not_set_in": 15,
+   "_set_in": 1,
+   "Class World Premiere": " Fady Elsayed\n"
+  },
+  "interviewee3": {
+   "_not_set_in": 15,
+   "_set_in": 1,
+   "Class World Premiere": " Vivian Oparah\n"
+  },
+  "interviewee4": {
+   "_not_set_in": 15,
+   "_set_in": 1,
+   "Class World Premiere": " Patrick Ness\n"
+  },
+  "interviewee5": {
+   "_not_set_in": 16,
+   "_set_in": 0
+  },
+  "interviewee6": {
+   "_not_set_in": 16,
+   "_set_in": 0
+  },
+  "interviewee7": {
+   "_not_set_in": 16,
+   "_set_in": 0
+  },
+  "interviewee8": {
+   "_not_set_in": 16,
+   "_set_in": 0
+  },
+  "interviewee9": {
+   "_not_set_in": 16,
+   "_set_in": 0
+  },
+  "interviewee10": {
+   "_not_set_in": 16,
+   "_set_in": 0
+  },
+  "music": {
+   "_not_set_in": 15,
+   "_set_in": 1,
+   "Doctor Who: A Celebration": " Murray Gold\n"
+  },
+  "music2": {
+   "_not_set_in": 16,
+   "_set_in": 0
+  },
+  "music3": {
+   "_not_set_in": 16,
+   "_set_in": 0
+  },
+  "conductor": {
+   "_not_set_in": 15,
+   "_set_in": 1,
+   "Doctor Who: A Celebration": " Ben Foster\n"
+  },
+  "conductor2": {
+   "_not_set_in": 16,
+   "_set_in": 0
+  },
+  "vocalist": {
+   "_not_set_in": 15,
+   "_set_in": 1,
+   "Doctor Who: A Celebration": " Gary Williams (singer)\n"
+  },
+  "vocalist2": {
+   "_not_set_in": 15,
+   "_set_in": 1,
+   "Doctor Who: A Celebration": " Melanie Pappenheim\n"
+  },
+  "vocalist3": {
+   "_not_set_in": 16,
+   "_set_in": 0
+  },
+  "runtime": {
+   "_not_set_in": 15,
+   "_set_in": 1,
+   "Doctor Who: A Celebration": " 92 minutes\n"
+  },
+  "confidential": {
+   "_not_set_in": 15,
+   "_set_in": 1,
+   "Doctor Who: A Celebration": " Music and Monsters (CON episode)\n"
+  },
+  "confidential2": {
+   "_not_set_in": 16,
+   "_set_in": 0
+  },
+  "trailer": {
+   "_not_set_in": 15,
+   "_set_in": 1,
+   "Doctor Who Experience (London/Cardiff)": " The Best Of The Doctor Who Experience\n"
+  },
+  "trailer2": {
+   "_not_set_in": 16,
+   "_set_in": 0
+  },
+  "clip": {
+   "_not_set_in": 11,
+   "_set_in": 5,
+   "Doctor Who at the Proms (2010)": " Doctor Who at the Proms BBC Proms 2010 - BBC Three\n",
+   "Doctor Who Experience (London/Cardiff)": " The Doctor Who Experience Regenerates - Doctor Who\n",
+   "Doctor Who Experience (Llangollen)": " Monster escape at the Doctor Who Experience\n",
+   "Doctor Who at the Proms (2013)": " Doctor Who Theme - Doctor Who Prom - BBC Proms 2013 - Radio 3\n",
+   "Doctor Who World Tour": " World tour launch event in Cardiff - Doctor Who Series 8 2014 - BBC One\n"
+  },
+  "clip2": {
+   "_not_set_in": 13,
+   "_set_in": 3,
+   "Doctor Who at the Proms (2010)": " Doctor Who at the Proms - David Tennant regenerates into Matt Smith - BBC Proms 2010 - BBC Three\n",
+   "Doctor Who Experience (London/Cardiff)": " Welcome to the Gallifrey Museum - Doctor Who\n",
+   "Doctor Who at the Proms (2013)": " 'Classic' Doctor Who Medley - Doctor Who Prom - BBC Proms 2013 - Radio 3\n"
+  },
+  "clip3": {
+   "_not_set_in": 15,
+   "_set_in": 1,
+   "Doctor Who Experience (London/Cardiff)": " Matt Smith visits the Doctor Who Experience in Cardiff - BBC\n"
+  },
+  "fullvid": {
+   "_not_set_in": 16,
+   "_set_in": 0
+  },
+  "bts": {
+   "_not_set_in": 14,
+   "_set_in": 2,
+   "Doctor Who Experience (London/Cardiff)": " The Making of The Doctor Who Experience - Doctor Who\n",
+   "Doctor Who at the Proms (2013)": " The Magic of Doctor Who at the Proms - BBC One\n"
+  },
+  "bts2": {
+   "_not_set_in": 16,
+   "_set_in": 0
+  },
+  "bts3": {
+   "_not_set_in": 16,
+   "_set_in": 0
+  },
+  "scene analysis": {
+   "_not_set_in": 16,
+   "_set_in": 0
+  },
+  "soundcloudtrailer": {
+   "_not_set_in": 16,
+   "_set_in": 0
+  },
+  "soundcloudtrailer2": {
+   "_not_set_in": 16,
+   "_set_in": 0
+  },
+  "musicsuite": {
+   "_not_set_in": 16,
+   "_set_in": 0
+  },
+  "sample": {
+   "_not_set_in": 16,
+   "_set_in": 0
+  },
+  "soundcloudbts": {
+   "_not_set_in": 16,
+   "_set_in": 0
+  },
+  "audio commentary": {
+   "_not_set_in": 16,
+   "_set_in": 0
+  },
+  "fullaud": {
+   "_not_set_in": 16,
+   "_set_in": 0
+  },
+  "prev": {
+   "_not_set_in": 12,
+   "_set_in": 4,
+   "Doctor Who at the Proms (2008)": " Doctor Who: A Celebration\n",
+   "Doctor Who at the Proms (2010)": " Doctor Who at the Proms (2008)\n",
+   "Doctor Who at the Proms (2013)": " Doctor Who at the Proms (2010)\n",
+   "Doctor Who: A Celebration": " \n"
+  },
+  "next": {
+   "_not_set_in": 13,
+   "_set_in": 3,
+   "Doctor Who at the Proms (2008)": " Doctor Who at the Proms (2010)\n",
+   "Doctor Who at the Proms (2010)": " Doctor Who at the Proms (2013)\n",
+   "Doctor Who: A Celebration": " Doctor Who at the Proms (2008)\n"
+  },
+  "prev2": {
+   "_not_set_in": 15,
+   "_set_in": 1,
+   "Doctor Who: A Celebration": " Children in Need Special (TV story)\n"
+  },
+  "next2": {
+   "_not_set_in": 14,
+   "_set_in": 2,
+   "Doctor Who at the Proms (2008)": " Doctor Who at the Proms (2010)\n",
+   "Doctor Who: A Celebration": " Time Crash (TV story)\n"
+  },
+  "made prev": {
+   "_not_set_in": 16,
+   "_set_in": 0
+  },
+  "made next": {
+   "_not_set_in": 16,
+   "_set_in": 0
+  },
+  "prev3": {
+   "_not_set_in": 16,
+   "_set_in": 0
+  },
+  "next3": {
+   "_not_set_in": 16,
+   "_set_in": 0
+  }
+ }
+}

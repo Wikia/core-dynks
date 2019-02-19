@@ -1,0 +1,85 @@
+{
+ "wiki": "steven-universe.fandom.com",
+ "infobox": "Template:Event",
+ "parameters": {
+  "Title": {
+   "_not_set_in": 6,
+   "_set_in": 1,
+   "Corrupting Light": " Corrupting Light\n"
+  },
+  "image": {
+   "_not_set_in": 0,
+   "_set_in": 7,
+   "Boardwalk Parade": " File:Parade Float.png\n",
+   "Beach City Underground Wrestling": " Beach City Wrestling.png\n",
+   "Beach-a-Palooza": " File:Beach-A-Palooza Background.png\n",
+   "DelmarvaCon": " No Photo Available.jpg\n",
+   "The Rebellion": " Mural.png\n",
+   "Beach City or Bust": " File:Historical Friction 208.png\n",
+   "Corrupting Light": " Same Old World 166.png\n"
+  },
+  "name": {
+   "_not_set_in": 2,
+   "_set_in": 5,
+   "Boardwalk Parade": " Beach City Annual Parade\n",
+   "Beach City Underground Wrestling": " Beach City Underground Wrestling\n",
+   "Beach-a-Palooza": " Beach-a-Palooza\n",
+   "DelmarvaCon": " DelmarvaCon\n",
+   "Beach City or Bust": " Beach City Or Bust: The Tale of William Dewey\n"
+  },
+  "type": {
+   "_not_set_in": 1,
+   "_set_in": 6,
+   "Boardwalk Parade": " Parade\n",
+   "Beach City Underground Wrestling": " Wrestling Competitions\n",
+   "Beach-a-Palooza": " Music Festival\n",
+   "DelmarvaCon": " Convention\n",
+   "The Rebellion": " War\n",
+   "Corrupting Light": " Attack\n"
+  },
+  "participants": {
+   "_not_set_in": 1,
+   "_set_in": 6,
+   "Boardwalk Parade": "\n[[Steven Universe (character)|Steven Universe]]<br>\n[[Greg Universe]]\n",
+   "Beach City Underground Wrestling": " \nScroll\n[[Harold Smiley]] (referee, announcer)<br>\nWrestlers, including:\n* [[Loch Ness Bloggster]]\n* [[Minor Characters/Humans#Dashing Danny Doober|Dashing Danny Doober]]\n* [[Garnet]]\n* [[Minor Characters/Humans#Handsome Hank Hackleschmidt|Handsome Hank Hackleschmidt]]\n* [[Minor Characters/Humans#Concrete Heat|Concrete Heat]]\n* [[Tiger Millionaire (alter ego)|Tiger Millionaire / Tiger Philanthropist]]\n* [[Pearl]]\n* [[Purple Puma]]\n* [[Minor Characters/Humans#Chunk Truck|Chunk Truck]]\n* [[Minor Characters/Humans#Shark-O-Mania|Shark-O-Mania]]\n* [[Minor Characters/Humans#Billy Bank Assets|Billy Bank Assets]]\n* [[Minor Characters/Humans#Howl Jones|Howl Jones]]\n* [[Minor Characters/Humans#Sea Wasp|Sea Wasp]]\n\n",
+   "Beach-a-Palooza": " \n[[Steven Universe (character)|Steven Universe]]<br>\n[[Garnet]]<br>\n[[Amethyst]]<br>\n[[Pearl]]<br>\n[[Ronaldo Fryman]]<br>\n[[Kiki Pizza]]<br>\n[[Nanefua Pizza]]<br>\n[[Jamie]]\n",
+   "The Rebellion": " [[Crystal Gems]]<br/>[[Homeworld Gems]]<br/>Humans\n",
+   "Beach City or Bust": " [[Steven Universe (character)|Steven Universe]]<br />[[Jamie]]\n",
+   "Corrupting Light": " [[The Great Diamond Authority]]\n* [[White Diamond]]\n* [[Yellow Diamond]]\n* [[Blue Diamond]]\n"
+  },
+  "location": {
+   "_not_set_in": 0,
+   "_set_in": 7,
+   "Boardwalk Parade": " [[Beach City]]\n",
+   "Beach City Underground Wrestling": " [[Abandoned Warehouse]]\n",
+   "Beach-a-Palooza": " [[Beach City]]\n",
+   "DelmarvaCon": " Charm City, [[Delmarva]]\n",
+   "The Rebellion": " [[Earth]]\n*[[Gem Battlefield]]\n*[[Ancient Sky Arena]]\n",
+   "Beach City or Bust": " [[Beach City Stage]]\n",
+   "Corrupting Light": " [[Earth]]\n"
+  },
+  "attendees": {
+   "_not_set_in": 2,
+   "_set_in": 5,
+   "Boardwalk Parade": " \n[[Connie Maheswaran]]<br>\n15+ Unidentifiable people\n",
+   "Beach City Underground Wrestling": " [[Lars Barriga]]<br>[[Sadie Miller]]<br>[[Ronaldo Fryman]]<br>Many other unnamed characters\n",
+   "Beach-a-Palooza": " \n[[Bill Dewey]]<br>\n[[Ronaldo Fryman]]<br>\n[[Lars]]<br>\n[[Jenny Pizza]]<br>\n[[Sadie]]<br>\n8 other unidentifiable people\n",
+   "DelmarvaCon": " [[Ronaldo Fryman]]\n",
+   "Beach City or Bust": " \n[[Barbara Miller]]<br>\n[[Sour Cream]]<br>\n[[Bill Dewey]]<br>\n[[Buck Dewey]]<br>\n[[Peedee Fryman]]<br>\n[[Ronaldo Fryman]]<br>\n[[Lars]]<br>\n[[Jenny Pizza]]<br>\n[[Kiki Pizza]]<br>\n[[Nanefua Pizza]]<br>\n[[Pearl]]<br>\n[[Sadie Miller]]<br>\n[[Harold Smiley]]<br>\n[[Minor Characters/Humans#Suitcase Sam|Suitcase Sam]]\n"
+  },
+  "introducedin": {
+   "_not_set_in": 3,
+   "_set_in": 4,
+   "Boardwalk Parade": " \"[[Bubble Buddies]]\"\n",
+   "Beach City Underground Wrestling": " \"[[Tiger Millionaire (episode)|Tiger Millionaire]]\"\n",
+   "Beach-a-Palooza": " \"[[Steven and the Stevens (episode)|Steven and the Stevens]]\"\n",
+   "DelmarvaCon": " Blog post on [[Keep Beach City Weird (blog)|Keep Beach City Weird]]\n"
+  },
+  "OtherAppearances": {
+   "_not_set_in": 5,
+   "_set_in": 2,
+   "Beach City Underground Wrestling": " \"[[Tiger Philanthropist]]\"\n",
+   "Beach-a-Palooza": " \"[[Sadie's Song]]\"\n"
+  }
+ }
+}

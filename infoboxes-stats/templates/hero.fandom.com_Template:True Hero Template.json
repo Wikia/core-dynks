@@ -1,0 +1,85 @@
+{
+ "wiki": "hero.fandom.com",
+ "infobox": "Template:True Hero Template",
+ "parameters": {
+  "title1": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Gracie Thompson": " Gracie Thompson"
+  },
+  "image1": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Gracie Thompson": " Gracie at Court.png"
+  },
+  "caption1": {
+   "_not_set_in": 1,
+   "_set_in": 0
+  },
+  "name": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Gracie Thompson": " Gracie Thompson (birth name)\n\n\nGracie Weatherly (current name)"
+  },
+  "origin": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Gracie Thompson": " Gracie's Choice (2004)"
+  },
+  "occupation": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Gracie Thompson": " Waitress (formerly)\n\nLawyer (currently)"
+  },
+  "heroic_traits": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Gracie Thompson": " Selfless, Hopeful, Kind-Hearted"
+  },
+  "heroic_acts": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Gracie Thompson": " Adopting her younger siblings and raising them as her own, freeing them from the dysfunctional life that was all that they had ever known."
+  },
+  "type_of_hero": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Gracie Thompson": " Dedicated Parent"
+  },
+  "family": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Gracie Thompson": " '''\u2020''' Louella Larson '''('''''maternal grandmother''''')'''\n\n\nRowena Larson '''('''''biological mother''''')'''\n\n\nMr. Thompson '''('''''biological father''''')'''\n\n\nBeth Ann Larson '''('''''maternal aunt''''')'''\n\n\nMichael Larson '''('''''maternal uncle''''')'''\n\n\nRose Carlton '''('''''half-sister''''')'''\n\n\nRyan Weatherly '''('''''half-brother''''')'''\n\n\nJonathan Weatherly '''('''''half-brother''''')'''\n\n\nRobert Weatherly '''('''''half-brother''''')'''\n\n\nUnnamed Niece \n\n\nKent Monroe '''('''''son''''')'''\n\n\nObadiah Monroe '''('''''son''''')'''"
+  },
+  "relationships": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Gracie Thompson": " Tommy '''('''''ex-boyfriend''''')'''\n\nHarrison Monroe '''('''''husband''''')'''"
+  },
+  "status": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Gracie Thompson": " Alive"
+  },
+  "gender": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Gracie Thompson": " Female"
+  },
+  "age": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Gracie Thompson": " 17 (Gracie's Choice)\n\n38 (Future)"
+  },
+  "portrayed_by": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Gracie Thompson": " Kristen Bell"
+  },
+  "created_by": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Gracie Thompson": " Joyce Eliason"
+  }
+ }
+}

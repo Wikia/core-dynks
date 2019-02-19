@@ -1,0 +1,74 @@
+{
+ "wiki": "ttte.fandom.com",
+ "infobox": "Template:Infobox Song",
+ "parameters": {
+  "title1": {
+   "_not_set_in": 0,
+   "_set_in": 3,
+   "Free and Easy": "Free and Easy\n",
+   "Wake Up": "Wake Up\n",
+   "We're Friends": "We're Friends\n"
+  },
+  "image1": {
+   "_not_set_in": 0,
+   "_set_in": 3,
+   "Free and Easy": "File:BigWorld!BigAdventures!822.png\n",
+   "Wake Up": "gallery\nFile:BigWorld!BigAdventures!388.png\n</gallery>\n",
+   "We're Friends": "[[File:BigWorld!BigAdventures!1297.png|thumb]]\n"
+  },
+  "caption1": {
+   "_not_set_in": 3,
+   "_set_in": 0
+  },
+  "composer": {
+   "_not_set_in": 0,
+   "_set_in": 3,
+   "Free and Easy": "[[Kevin Roberge]]<br/>\n[[Carl Taylor]]<br/>\n[[Noah Berg]]\n",
+   "Wake Up": "[[Kevin Roberge]]<br/>\n[[Carl Taylor]]<br/>\n[[Noah Berg]]\n",
+   "We're Friends": "[[Carl Taylor]]<br/>[[Kevin Roberge]]<br/>[[Noah Berg]]\n"
+  },
+  "lyrics": {
+   "_not_set_in": 0,
+   "_set_in": 3,
+   "Free and Easy": "\n",
+   "Wake Up": "[[Andrew Brenner]]\n",
+   "We're Friends": "[[Andrew Brenner]]<br/>[[Carl Taylor]]<br/>[[Kevin Roberge]]\n"
+  },
+  "performers": {
+   "_not_set_in": 0,
+   "_set_in": 3,
+   "Free and Easy": "[[Peter Andre]]<br/>Carl Taylor Notebacking vocals\n",
+   "Wake Up": "[[Elvis Who]]<br/>\n[[Patricia Kihoro]]<br/>\n[[John Hasler]] NoteUK<br/>\n[[Joseph May]] NoteUS\n",
+   "We're Friends": "[[Patricia Kihoro]]<br/>[[Kevin Roberge]]<br/>[[John Hasler]] NoteUK<br/>[[Joseph May]] NoteUS\n"
+  },
+  "season": {
+   "_not_set_in": 3,
+   "_set_in": 0
+  },
+  "film": {
+   "_not_set_in": 0,
+   "_set_in": 3,
+   "Free and Easy": "''[[Big World! Big Adventures!]]''\n",
+   "Wake Up": "''[[Big World! Big Adventures!]]''\n",
+   "We're Friends": "''[[Big World! Big Adventures!]]''\n"
+  },
+  "albums": {
+   "_not_set_in": 3,
+   "_set_in": 0
+  },
+  "previous": {
+   "_not_set_in": 0,
+   "_set_in": 3,
+   "Free and Easy": "[[We're Friends]]\n",
+   "Wake Up": "[[Where in the World is Thomas?]]\n",
+   "We're Friends": "[[Enda Ulale]]\n"
+  },
+  "next": {
+   "_not_set_in": 0,
+   "_set_in": 3,
+   "Free and Easy": "[[Sometimes You Make a Friend]]\n",
+   "Wake Up": "[[Enda Ulale]]\n",
+   "We're Friends": "[[Free and Easy]]\n"
+  }
+ }
+}

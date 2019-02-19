@@ -1,0 +1,69 @@
+{
+ "wiki": "hero.fandom.com",
+ "infobox": "Template:Amy Alden",
+ "parameters": {
+  "title1": {
+   "_not_set_in": 1,
+   "_set_in": 0
+  },
+  "image1": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Amy Alden": " 20229412 933873403419604 6999635588685573286 n.jpg"
+  },
+  "caption1": {
+   "_not_set_in": 1,
+   "_set_in": 0
+  },
+  "feature_film": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Amy Alden": " Fly Away Home"
+  },
+  "portrayed_by": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Amy Alden": " Anna Paquin"
+  },
+  "full_name": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Amy Alden": " Amy Alden"
+  },
+  "personality": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Amy Alden": " Caring, friendly, kind"
+  },
+  "alignment": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Amy Alden": " Good"
+  },
+  "family": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Amy Alden": " Thomas Alden (father)\nAliane Alden (mother; deceased)\n\nDavid Alden (uncle)"
+  },
+  "friends": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Amy Alden": " Susan Barnes\n\nBarry Strickland"
+  },
+  "enemies": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Amy Alden": " Glen Seifert"
+  },
+  "goals": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Amy Alden": " To teach the geese to fly (succeeded)"
+  },
+  "type_of_hero": {
+   "_not_set_in": 0,
+   "_set_in": 1,
+   "Amy Alden": " Animal Rescuer"
+  }
+ }
+}
