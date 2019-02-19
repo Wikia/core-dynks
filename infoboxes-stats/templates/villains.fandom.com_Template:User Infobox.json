@@ -1,0 +1,50 @@
+{
+ "wiki": "villains.fandom.com",
+ "infobox": "Template:User Infobox",
+ "parameters": {
+  "name": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "image": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "alias": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "homeworld": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "race": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "skills": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "occupation": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "hobby": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "goals": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "special": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  },
+  "nemesis": {
+   "_not_set_in": 0,
+   "_set_in": 0
+  }
+ }
+}
